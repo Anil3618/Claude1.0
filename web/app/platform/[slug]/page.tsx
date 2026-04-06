@@ -34,9 +34,10 @@ async function getSchedule(): Promise<ScheduleData | null> {
 export default async function PlatformPage({
   params,
 }: {
-  params: { slug: string };
+  params: Promise<{ slug: string }>;
 }) {
-  const label = SLUG_TO_LABEL[params.slug];
+  const { slug } = await params;
+  const label = SLUG_TO_LABEL[slug];
   if (!label) notFound();
 
   const schedule = await getSchedule();

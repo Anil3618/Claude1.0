@@ -20,8 +20,9 @@ function teamSlug(name: string): string {
 export default async function TeamPage({
   params,
 }: {
-  params: { slug: string };
+  params: Promise<{ slug: string }>;
 }) {
+  const { slug: teamSlugParam } = await params;
   const schedule = await getSchedule();
   if (!schedule) return <p className="text-gray-500">Schedule unavailable.</p>;
 
@@ -33,9 +34,9 @@ export default async function TeamPage({
     for (const g of games) {
       const homeSlug = teamSlug(g.home_team.name);
       const awaySlug = teamSlug(g.away_team.name);
-      if (homeSlug === params.slug || awaySlug === params.slug) {
+      if (homeSlug === teamSlugParam || awaySlug === teamSlugParam) {
         teamGames.push({ date, game: g });
-        teamName = homeSlug === params.slug ? g.home_team.name : g.away_team.name;
+        teamName = homeSlug === teamSlugParam ? g.home_team.name : g.away_team.name;
       }
     }
   }

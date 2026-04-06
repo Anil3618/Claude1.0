@@ -9,9 +9,10 @@ function teamSlug(name: string): string {
 
 export async function GET(
   _request: Request,
-  { params }: { params: { team: string } }
+  { params }: { params: Promise<{ team: string }> }
 ) {
-  const slug = params.team.toLowerCase();
+  const { team } = await params;
+  const slug = team.toLowerCase();
 
   try {
     const filePath = path.join(process.cwd(), "public", "data", "schedule.json");
@@ -47,7 +48,7 @@ export async function GET(
 
     if (!resolvedTeamName) {
       return NextResponse.json(
-        { error: `Team not found: ${params.team}` },
+        { error: `Team not found: ${team}` },
         { status: 404 }
       );
     }

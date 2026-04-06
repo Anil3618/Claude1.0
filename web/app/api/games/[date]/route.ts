@@ -5,11 +5,12 @@ import type { ScheduleData } from "@/lib/types";
 
 export async function GET(
   _request: Request,
-  { params }: { params: { date: string } }
+  { params }: { params: Promise<{ date: string }> }
 ) {
+  const { date } = await params;
   // Validate date format: YYYY-MM-DD
   const dateRegex = /^\d{4}-\d{2}-\d{2}$/;
-  if (!dateRegex.test(params.date)) {
+  if (!dateRegex.test(date)) {
     return NextResponse.json(
       { error: "Invalid date format. Use YYYY-MM-DD." },
       { status: 400 }
@@ -21,11 +22,11 @@ export async function GET(
     const raw = await fs.readFile(filePath, "utf8");
     const schedule: ScheduleData = JSON.parse(raw);
 
-    const games = schedule.dates[params.date] ?? [];
+    const games = schedule.dates[date] ?? [];
 
     return NextResponse.json(
       {
-        date: params.date,
+        date: date,
         game_count: games.length,
         games,
       },
