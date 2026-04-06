@@ -1,0 +1,105 @@
+{
+  "_comment": "Static overrides for platform-exclusive MLB broadcasts (2026 season). Update at start of each season when schedules are announced. MLB Stats API broadcasts field covers most national games; add overrides here for exclusives not yet in the API feed.",
+
+  "by_weekday_rules": [
+    {
+      "_comment": "Apple TV+ Friday Night Baseball — 2 games every Friday, exclusive, through 2028",
+      "weekday": "FRIDAY",
+      "platforms": ["APPLE TV+"]
+    }
+  ],
+
+  "by_date_rules": [
+    {
+      "_comment": "MLB Opening Night on Netflix — March 25, 2026 (Yankees vs Giants)",
+      "date": "2026-03-25",
+      "platforms": ["NETFLIX"]
+    },
+    {
+      "_comment": "Peacock Sunday Leadoff — exclusive dates to be populated from NBC/Peacock press release",
+      "date": "2026-04-05",
+      "platforms": ["PEACOCK"]
+    },
+    {
+      "_comment": "Peacock Sunday Leadoff",
+      "date": "2026-04-12",
+      "platforms": ["PEACOCK"]
+    },
+    {
+      "_comment": "Peacock Sunday Leadoff",
+      "date": "2026-04-19",
+      "platforms": ["PEACOCK"]
+    },
+    {
+      "_comment": "Peacock Sunday Leadoff",
+      "date": "2026-04-26",
+      "platforms": ["PEACOCK"]
+    },
+    {
+      "_comment": "Peacock Sunday Leadoff",
+      "date": "2026-05-03",
+      "platforms": ["PEACOCK"]
+    },
+    {
+      "_comment": "Peacock Sunday Leadoff",
+      "date": "2026-05-10",
+      "platforms": ["PEACOCK"]
+    },
+    {
+      "_comment": "Peacock Sunday Leadoff",
+      "date": "2026-05-17",
+      "platforms": ["PEACOCK"]
+    },
+    {
+      "_comment": "Peacock Sunday Leadoff",
+      "date": "2026-05-24",
+      "platforms": ["PEACOCK"]
+    },
+    {
+      "_comment": "Peacock Sunday Leadoff",
+      "date": "2026-05-31",
+      "platforms": ["PEACOCK"]
+    },
+    {
+      "_comment": "Peacock July 4th roadblock — all 15 MLB games exclusive to Peacock/NBC",
+      "date": "2026-07-04",
+      "platforms": ["PEACOCK", "NBC"]
+    },
+    {
+      "_comment": "MLB Home Run Derby on Netflix — July 13, 2026",
+      "date": "2026-07-13",
+      "platforms": ["NETFLIX"]
+    },
+    {
+      "_comment": "MLB Field of Dreams Game on Netflix — August 13, 2026",
+      "date": "2026-08-13",
+      "platforms": ["NETFLIX"]
+    }
+  ],
+
+  "by_game_pk": {
+    "_comment": "Add specific gamePk overrides here when a single game has non-standard platform assignment. Format: gamePk (string) → [platform list]"
+  },
+
+  "rsn_by_team": {
+    "_comment": "Regional Sports Networks by MLB team ID. Used to add RSN info when available.",
+    "147": {"team": "New York Yankees",      "rsn": "YES Network"},
+    "111": {"team": "Boston Red Sox",        "rsn": "NESN"},
+    "120": {"team": "Washington Nationals",  "rsn": "MASN"},
+    "110": {"team": "Baltimore Orioles",     "rsn": "MASN"},
+    "119": {"team": "Los Angeles Dodgers",   "rsn": "Spectrum SportsNet LA", "rsn_note": "Spectrum cable exclusive; SNLA+ available via MLB app ($29.99/mo)"},
+    "117": {"team": "Houston Astros",        "rsn": "Space City Home Network"},
+    "116": {"team": "Detroit Tigers",        "rsn": "Bally Sports Detroit"},
+    "114": {"team": "Cleveland Guardians",   "rsn": "Bally Sports Great Lakes"},
+    "158": {"team": "Milwaukee Brewers",     "rsn": "Bally Sports Wisconsin"},
+    "136": {"team": "Seattle Mariners",      "rsn": "ROOT Sports Northwest"},
+    "109": {"team": "Arizona Diamondbacks",  "rsn": "Arizona Sports"},
+    "115": {"team": "Colorado Rockies",      "rsn": "AT&T SportsNet Rocky Mountain"},
+    "137": {"team": "San Francisco Giants",  "rsn": "NBC Sports Bay Area"},
+    "135": {"team": "San Diego Padres",      "rsn": "MLB Local Media"},
+    "133": {"team": "Oakland Athletics",     "rsn": "MLB Local Media"},
+    "108": {"team": "Los Angeles Angels",    "rsn": "FanDuel Sports Network West", "rsn_note": "FanDuel Sports Network winding down; status uncertain"},
+    "139": {"team": "Tampa Bay Rays",        "rsn": "FanDuel Sports Network Sun", "rsn_note": "FanDuel Sports Network winding down; status uncertain"},
+    "144": {"team": "Atlanta Braves",        "rsn": "FanDuel Sports Network South", "rsn_note": "FanDuel Sports Network winding down; status uncertain"}
+  }
+}
