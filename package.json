@@ -1,0 +1,7 @@
+{
+  "name": "baseball-on-tv",
+  "private": true,
+  "dependencies": {
+    "next": "^15.2.4"
+  }
+}
