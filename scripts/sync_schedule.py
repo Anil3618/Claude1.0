@@ -22,7 +22,7 @@ import requests
 # ---------------------------------------------------------------------------
 ROOT = Path(__file__).resolve().parent.parent
 EXCLUSIVES_FILE = ROOT / "data" / "platform_exclusives.json"
-OUTPUT_FILE = ROOT / "web" / "public" / "data" / "schedule.json"
+OUTPUT_FILE = ROOT / "public" / "data" / "schedule.json"
 
 # ---------------------------------------------------------------------------
 # MLB Stats API — free, public, no auth required

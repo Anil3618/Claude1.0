@@ -6,9 +6,9 @@ venv/
 *.egg-info/
 
 # Node / Next.js
-web/node_modules/
-web/.next/
-web/.vercel/
+node_modules/
+.next/
+.vercel/
 
 # Env
 .env
