@@ -30,60 +30,73 @@ OUTPUT_FILE = ROOT / "public" / "data" / "schedule.json"
 MLB_API = "https://statsapi.mlb.com/api/v1/schedule"
 
 # Keys are the UPPERCASE broadcast names as returned by the MLB Stats API.
-# "NBC/PEACOCK" is the combined entry the API uses for NBC+Peacock simulcasts.
-# "APPLE TV" is how the API spells Apple TV+ (no plus sign).
+# NOTE: The API renames entries periodically. All known variants are mapped.
+# Last verified against live API: April 14, 2026.
 PLATFORM_DISPLAY = {
     # National streaming exclusives
-    "APPLE TV":          {"label": "Apple TV+",   "color": "#555555", "url": "https://tv.apple.com/"},
-    "APPLE TV+":         {"label": "Apple TV+",   "color": "#555555", "url": "https://tv.apple.com/"},
-    "NETFLIX":           {"label": "Netflix",     "color": "#E50914", "url": "https://www.netflix.com/"},
-    "PEACOCK":           {"label": "Peacock",     "color": "#000000", "url": "https://www.peacocktv.com/"},
-    "AMAZON PRIME VIDEO":{"label": "Prime Video", "color": "#00A8E0", "url": "https://www.amazon.com/primevideo"},
+    "APPLE TV":               {"label": "Apple TV+",     "color": "#555555", "url": "https://tv.apple.com/"},
+    "APPLE TV+":              {"label": "Apple TV+",     "color": "#555555", "url": "https://tv.apple.com/"},
+    "NETFLIX":                {"label": "Netflix",       "color": "#E50914", "url": "https://www.netflix.com/"},
+    "PEACOCK":                {"label": "Peacock",       "color": "#000000", "url": "https://www.peacocktv.com/"},
+    "AMAZON PRIME VIDEO":     {"label": "Prime Video",   "color": "#00A8E0", "url": "https://www.amazon.com/primevideo"},
 
-    # Broadcast / cable
-    "FOX":               {"label": "Fox",         "color": "#003087", "url": "https://www.fox.com/live/"},
-    "FS1":               {"label": "FS1",         "color": "#003087", "url": "https://www.foxsports.com/live"},
-    "TBS":               {"label": "TBS",         "color": "#0099CC", "url": "https://www.tbs.com/watchtbs"},
-    "MAX":               {"label": "Max",         "color": "#002BE7", "url": "https://www.max.com/"},
-    "NBC":               {"label": "NBC",         "color": "#0B2265", "url": "https://www.nbc.com/"},
-    "NBC/PEACOCK":       {"label": "NBC / Peacock","color": "#000000", "url": "https://www.peacocktv.com/"},
-    "ESPN":              {"label": "ESPN",        "color": "#CC0000", "url": "https://www.espn.com/watch/"},
-    "ESPN+":             {"label": "ESPN+",       "color": "#CC0000", "url": "https://plus.espn.com/"},
-    "ESPN2":             {"label": "ESPN2",       "color": "#CC0000", "url": "https://www.espn.com/watch/"},
-    "MLB NETWORK":       {"label": "MLB Network", "color": "#002D72", "url": "https://www.mlb.com/network"},
-    "MLB.TV":            {"label": "MLB.TV",      "color": "#002D72", "url": "https://www.mlb.com/tv"},
+    # Broadcast / cable — both old and new API name variants kept for resilience
+    "FOX":                    {"label": "Fox",           "color": "#003087", "url": "https://www.fox.com/live/"},
+    "FS1":                    {"label": "FS1",           "color": "#003087", "url": "https://www.foxsports.com/live"},
+    "TBS":                    {"label": "TBS",           "color": "#0099CC", "url": "https://www.tbs.com/watchtbs"},
+    "MAX":                    {"label": "Max",           "color": "#002BE7", "url": "https://www.max.com/"},
+    "NBC":                    {"label": "NBC",           "color": "#0B2265", "url": "https://www.nbc.com/"},
+    "NBC/PEACOCK":            {"label": "NBC / Peacock", "color": "#000000", "url": "https://www.peacocktv.com/"},
+    "NBCSN / PEACOCK":        {"label": "NBC / Peacock", "color": "#000000", "url": "https://www.peacocktv.com/"},
+    # ESPN renamed to "ESPN/ESPN App" in mid-April 2026
+    "ESPN":                   {"label": "ESPN",          "color": "#CC0000", "url": "https://www.espn.com/watch/"},
+    "ESPN/ESPN APP":          {"label": "ESPN",          "color": "#CC0000", "url": "https://www.espn.com/watch/"},
+    "ESPN+":                  {"label": "ESPN+",         "color": "#CC0000", "url": "https://plus.espn.com/"},
+    "ESPN2":                  {"label": "ESPN2",         "color": "#CC0000", "url": "https://www.espn.com/watch/"},
+    "MLB NETWORK":            {"label": "MLB Network",   "color": "#002D72", "url": "https://www.mlb.com/network"},
+    "MLB.TV":                 {"label": "MLB.TV",        "color": "#002D72", "url": "https://www.mlb.com/tv"},
 
-    # Regional Sports Networks (RSNs) — verified from MLB API broadcast data
-    "SPORTSNET LA":      {"label": "Spectrum SportsNet LA", "color": "#005BA1", "url": "https://www.spectrumnews1.com/ca/la-sports"},
-    "YES":               {"label": "YES Network", "color": "#003087", "url": "https://www.yesnetwork.com/"},
-    "NESN":              {"label": "NESN",        "color": "#003087", "url": "https://www.nesn.com/"},
-    "MASN":              {"label": "MASN",        "color": "#E03A3E", "url": "https://www.masnsports.com/"},
-    "SNY":               {"label": "SNY",         "color": "#002D72", "url": "https://sny.tv/"},
-    "SPACE CITY HOME NETWORK": {"label": "Space City Home Network", "color": "#002D62", "url": "https://www.spacecityhomenetwork.com/"},
-    "MARQUEE SPORTS NETWORK":  {"label": "Marquee Sports",  "color": "#CC3433", "url": "https://www.marqueesportsnetwork.com/"},
-    "CHICAGO SPORTS NETWORK":  {"label": "Chicago Sports Network", "color": "#27251F", "url": "https://www.chicagosportsnetwork.com/"},
-    "FANDUEL SPORTS NETWORK WEST": {"label": "FanDuel Sports Network", "color": "#1493FF", "url": "https://www.nbc.com/fanduel-sports-network"},
-    "NBCSP":             {"label": "NBC Sports Philadelphia", "color": "#0B2265", "url": "https://www.nbcsports.com/philadelphia"},
-    "NBCS BA":           {"label": "NBC Sports Bay Area",     "color": "#0B2265", "url": "https://www.nbcsports.com/bayarea"},
-    "NBCSCA":            {"label": "NBC Sports California",   "color": "#0B2265", "url": "https://www.nbcsports.com/california"},
+    # Regional Sports Networks (RSNs)
+    "SPORTSNET LA":                {"label": "Spectrum SportsNet LA",    "color": "#005BA1", "url": "https://www.spectrumnews1.com/ca/la-sports"},
+    "YES":                         {"label": "YES Network",              "color": "#003087", "url": "https://www.yesnetwork.com/"},
+    "NESN":                        {"label": "NESN",                     "color": "#003087", "url": "https://www.nesn.com/"},
+    "NESN+":                       {"label": "NESN+",                    "color": "#003087", "url": "https://www.nesn.com/nesn-360/"},
+    "MASN":                        {"label": "MASN",                     "color": "#E03A3E", "url": "https://www.masnsports.com/"},
+    "SNY":                         {"label": "SNY",                      "color": "#002D72", "url": "https://sny.tv/"},
+    "WPIX":                        {"label": "PIX11",                    "color": "#002D72", "url": "https://pix11.com/"},
+    "SPACE CITY HOME NETWORK":     {"label": "Space City Home Network",  "color": "#002D62", "url": "https://www.spacecityhomenetwork.com/"},
+    "MARQUEE SPORTS NETWORK":      {"label": "Marquee Sports",           "color": "#CC3433", "url": "https://www.marqueesportsnetwork.com/"},
+    "CHICAGO SPORTS NETWORK":      {"label": "Chicago Sports Network",   "color": "#27251F", "url": "https://www.chicagosportsnetwork.com/"},
+    "CHICAGO SPORTS NETWORK PLUS": {"label": "Chicago Sports Network+",  "color": "#27251F", "url": "https://www.chicagosportsnetwork.com/"},
+    "FANDUEL SPORTS NETWORK WEST": {"label": "FanDuel Sports Network",   "color": "#1493FF", "url": "https://www.nbc.com/fanduel-sports-network"},
+    "NBCSP":                       {"label": "NBC Sports Philadelphia",  "color": "#0B2265", "url": "https://www.nbcsports.com/philadelphia"},
+    "NBCSP+":                      {"label": "NBC Sports Philadelphia+", "color": "#0B2265", "url": "https://www.nbcsports.com/philadelphia"},
+    "NBCS BA":                     {"label": "NBC Sports Bay Area",      "color": "#0B2265", "url": "https://www.nbcsports.com/bayarea"},
+    "NBCSCA":                      {"label": "NBC Sports California",    "color": "#0B2265", "url": "https://www.nbcsports.com/california"},
+    "NBCSCA+":                     {"label": "NBC Sports California+",   "color": "#0B2265", "url": "https://www.nbcsports.com/california"},
+    "SPORTSNET PITTSBURGH":        {"label": "SportsNet Pittsburgh",     "color": "#FDB827", "url": "https://www.sportsnetpittsburgh.com/"},
+    "RANGERS SPORTS NETWORK":      {"label": "Rangers Sports Network",   "color": "#003278", "url": "https://www.mlb.com/rangers"},
+    # Canadian RSNs (Blue Jays)
+    "SPORTSNET":                   {"label": "Sportsnet",                "color": "#E31937", "url": "https://www.sportsnet.ca/"},
+    "SN1":                         {"label": "Sportsnet 1",              "color": "#E31937", "url": "https://www.sportsnet.ca/"},
+    "TVA SPORTS":                  {"label": "TVA Sports",               "color": "#E31937", "url": "https://www.tvasports.ca/"},
+    "DETROIT SPORTSNET":           {"label": "Detroit SportsNet",        "color": "#0C2340", "url": "https://www.mlb.com/tigers"},
 
-    # Team-owned streaming services (direct subscription, no RSN deal required)
-    "BRAVESVISION":      {"label": "BravesVision",  "color": "#CE1141", "url": "https://www.mlb.com/braves/ballpark/bravesvision"},
-    "BREWERS.TV":        {"label": "Brewers.TV",    "color": "#12284B", "url": "https://www.mlb.com/brewers/fans/brewers-tv"},
-    "CARDINALS.TV":      {"label": "Cardinals.TV",  "color": "#C41E3A", "url": "https://www.mlb.com/cardinals/fans/cardinals-tv"},
-    "DBACKS.TV":         {"label": "Dbacks.TV",     "color": "#A71930", "url": "https://www.mlb.com/dbacks/fans/dbacks-tv"},
+    # Team-owned streaming services
+    "BRAVESVISION":          {"label": "BravesVision",  "color": "#CE1141", "url": "https://www.mlb.com/braves/ballpark/bravesvision"},
+    "BREWERS.TV":            {"label": "Brewers.TV",    "color": "#12284B", "url": "https://www.mlb.com/brewers/fans/brewers-tv"},
+    "CARDINALS.TV":          {"label": "Cardinals.TV",  "color": "#C41E3A", "url": "https://www.mlb.com/cardinals/fans/cardinals-tv"},
+    "DBACKS.TV":             {"label": "Dbacks.TV",     "color": "#A71930", "url": "https://www.mlb.com/dbacks/fans/dbacks-tv"},
     "GUARDIANS.TV PRESENTED BY PROGRESSIVE": {"label": "Guardians.TV", "color": "#00385D", "url": "https://www.mlb.com/guardians/fans/guardians-tv"},
-    "MARINERS.TV":       {"label": "Mariners.TV",   "color": "#0C2C56", "url": "https://www.mlb.com/mariners/fans/mariners-tv"},
-    "MARLINS.TV":        {"label": "Marlins.TV",    "color": "#00A3E0", "url": "https://www.mlb.com/marlins/fans/marlins-tv"},
-    "NATIONALS.TV":      {"label": "Nationals.TV",  "color": "#AB0003", "url": "https://www.mlb.com/nationals/fans/nationals-tv"},
+    "MARINERS.TV":           {"label": "Mariners.TV",   "color": "#0C2C56", "url": "https://www.mlb.com/mariners/fans/mariners-tv"},
+    "MARLINS.TV":            {"label": "Marlins.TV",    "color": "#00A3E0", "url": "https://www.mlb.com/marlins/fans/marlins-tv"},
+    "NATIONALS.TV":          {"label": "Nationals.TV",  "color": "#AB0003", "url": "https://www.mlb.com/nationals/fans/nationals-tv"},
     "PADRES.TV PRESENTED BY UC SAN DIEGO HEALTH": {"label": "Padres.TV", "color": "#2F241D", "url": "https://www.mlb.com/padres/fans/padres-tv"},
-    "RANGERS SPORTS NETWORK": {"label": "Rangers Sports Network", "color": "#003278", "url": "https://www.mlb.com/rangers"},
-    "RAYS.TV":           {"label": "Rays.TV",       "color": "#092C5C", "url": "https://www.mlb.com/rays/fans/rays-tv"},
-    "REDS.TV":           {"label": "Reds.TV",       "color": "#C6011F", "url": "https://www.mlb.com/reds/fans/reds-tv"},
-    "ROCKIES.TV":        {"label": "Rockies.TV",    "color": "#333366", "url": "https://www.mlb.com/rockies/fans/rockies-tv"},
-    "ROYALS.TV":         {"label": "Royals.TV",     "color": "#174885", "url": "https://www.mlb.com/royals/fans/royals-tv"},
+    "RAYS.TV":               {"label": "Rays.TV",       "color": "#092C5C", "url": "https://www.mlb.com/rays/fans/rays-tv"},
+    "REDS.TV":               {"label": "Reds.TV",       "color": "#C6011F", "url": "https://www.mlb.com/reds/fans/reds-tv"},
+    "ROCKIES.TV":            {"label": "Rockies.TV",    "color": "#333366", "url": "https://www.mlb.com/rockies/fans/rockies-tv"},
+    "ROYALS.TV":             {"label": "Royals.TV",     "color": "#174885", "url": "https://www.mlb.com/royals/fans/royals-tv"},
     "TWINS.TV PRESENTED BY PROGRESSIVE": {"label": "Twins.TV", "color": "#002B5C", "url": "https://www.mlb.com/twins/fans/twins-tv"},
-    "DETROIT SPORTSNET": {"label": "Detroit SportsNet", "color": "#0C2340", "url": "https://www.mlb.com/tigers"},
 }
 
 
