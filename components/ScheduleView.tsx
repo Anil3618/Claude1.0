@@ -2,6 +2,7 @@
 
 import { useState, useMemo } from "react";
 import { GameCard } from "./GameCard";
+import { GameTimeline } from "./GameTimeline";
 import type { Game, ScheduleData } from "@/lib/types";
 import { MLB_LEAGUES } from "@/lib/mlb-teams";
 
@@ -148,6 +149,33 @@ export function ScheduleView({ schedule, today }: Props) {
           Showing games for the {selectedTeam.name}
         </p>
       )}
+
+      {/* Stats strip */}
+      {!selectedTeamId && (() => {
+        const todayCount = (schedule.dates[today] ?? []).length;
+        const allPlatforms = new Set(
+          Object.values(schedule.dates).flat().flatMap(g => g.platforms.map(p => p.label))
+        );
+        return (
+          <div className="flex flex-wrap gap-4 mb-8">
+            <div className="bg-gray-900 border border-gray-800 rounded-xl px-4 py-3 flex flex-col">
+              <span className="text-2xl font-bold text-white">{todayCount}</span>
+              <span className="text-xs text-gray-500 mt-0.5">Games today</span>
+            </div>
+            <div className="bg-gray-900 border border-gray-800 rounded-xl px-4 py-3 flex flex-col">
+              <span className="text-2xl font-bold text-white">{schedule.game_count}</span>
+              <span className="text-xs text-gray-500 mt-0.5">Games this week</span>
+            </div>
+            <div className="bg-gray-900 border border-gray-800 rounded-xl px-4 py-3 flex flex-col">
+              <span className="text-2xl font-bold text-white">{allPlatforms.size}</span>
+              <span className="text-xs text-gray-500 mt-0.5">Platforms</span>
+            </div>
+          </div>
+        );
+      })()}
+
+      {/* Canvas timeline — today only */}
+      {todayGames.length > 0 && <GameTimeline games={todayGames} />}
 
       {/* Today */}
       <section className="mb-12">
