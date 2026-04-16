@@ -18,9 +18,10 @@ interface Props {
 interface LiveData {
   awayRuns: number;
   homeRuns: number;
-  inningOrdinal: string;
-  isTop: boolean;
-  outs: number;
+  // Live-only fields (undefined when final)
+  inningOrdinal?: string;
+  isTop?: boolean;
+  outs?: number;
 }
 
 function formatGameTime(utcString: string): string {
@@ -50,10 +51,14 @@ export function GameCard({ game }: Props) {
   );
   const [live, setLive] = useState<LiveData | null>(null);
 
-  // Only poll for today's games once their start time has passed
   const isToday = game.game_date === TODAY;
   const startTime = game.game_time_utc ? new Date(game.game_time_utc) : null;
-  const shouldPoll = isToday && !!startTime && new Date() >= startTime && phase !== "final";
+  const startedOrFinal = isToday && !!startTime && new Date() >= startTime;
+
+  // Poll only while the game hasn't finished
+  const shouldPoll = startedOrFinal && phase !== "final";
+  // One-time fetch for games already marked final in the static JSON (to get the score)
+  const shouldFetchFinalScore = isToday && seedFinal && live === null;
 
   const poll = useCallback(async () => {
     try {
@@ -65,35 +70,44 @@ export function GameCard({ game }: Props) {
       if (!res.ok) return;
       const json = await res.json();
       const state: string = json?.gameData?.status?.abstractGameState ?? "";
+      const ls = json?.liveData?.linescore;
 
-      if (state === "Live") {
-        const ls = json?.liveData?.linescore;
+      if (state === "Live" && ls) {
         setPhase("live");
-        if (ls) {
-          setLive({
-            awayRuns:      ls.teams?.away?.runs    ?? 0,
-            homeRuns:      ls.teams?.home?.runs    ?? 0,
-            inningOrdinal: ls.currentInningOrdinal ?? "",
-            isTop:         ls.isTopInning          ?? true,
-            outs:          ls.outs                 ?? 0,
-          });
-        }
+        setLive({
+          awayRuns:      ls.teams?.away?.runs    ?? 0,
+          homeRuns:      ls.teams?.home?.runs    ?? 0,
+          inningOrdinal: ls.currentInningOrdinal ?? "",
+          isTop:         ls.isTopInning          ?? true,
+          outs:          ls.outs                 ?? 0,
+        });
       } else if (state === "Final") {
         setPhase("final");
-        setLive(null);
+        // Capture final score (inning/outs not needed)
+        if (ls) {
+          setLive({
+            awayRuns: ls.teams?.away?.runs ?? 0,
+            homeRuns: ls.teams?.home?.runs ?? 0,
+          });
+        }
       }
-      // "Preview" / no change → leave as scheduled
     } catch {
       // network error — leave current state unchanged
     }
   }, [game.game_pk]);
 
+  // Interval poll for live games
   useEffect(() => {
     if (!shouldPoll) return;
     poll();
     const id = setInterval(poll, 30_000);
     return () => clearInterval(id);
   }, [shouldPoll, poll]);
+
+  // One-time fetch for games already final in static JSON
+  useEffect(() => {
+    if (shouldFetchFinalScore) poll();
+  }, [shouldFetchFinalScore, poll]);
 
   // ── Status column ─────────────────────────────────────────────────
   function StatusColumn() {
@@ -123,7 +137,19 @@ export function GameCard({ game }: Props) {
       );
     }
     if (phase === "final") {
-      return <span className="text-xs text-gray-500 font-medium">Final</span>;
+      return (
+        <div className="flex flex-col items-end gap-0.5 min-w-[52px]">
+          <span className="text-[10px] font-semibold text-gray-500 uppercase tracking-widest mb-0.5">
+            Final
+          </span>
+          {live ? (
+            <>
+              <span className="text-lg font-bold tabular-nums text-gray-300 leading-none">{live.awayRuns}</span>
+              <span className="text-lg font-bold tabular-nums text-gray-300 leading-none">{live.homeRuns}</span>
+            </>
+          ) : null}
+        </div>
+      );
     }
     return (
       <span className="text-sm text-gray-300 font-medium whitespace-nowrap">
