@@ -11,10 +11,10 @@ interface Props {
 
 function formatDate(dateStr: string): string {
   const d = new Date(dateStr + "T12:00:00");
-  const today = new Date().toISOString().slice(0, 10);
-  const tomorrow = new Date();
+  const today = new Date().toLocaleDateString("en-CA", { timeZone: "America/Chicago" });
+  const tomorrow = new Date(today + "T12:00:00");
   tomorrow.setDate(tomorrow.getDate() + 1);
-  const tomorrowStr = tomorrow.toISOString().slice(0, 10);
+  const tomorrowStr = tomorrow.toLocaleDateString("en-CA");
   if (dateStr === today) return "Today";
   if (dateStr === tomorrowStr) return "Tomorrow";
   return d.toLocaleDateString("en-US", { weekday: "long", month: "long", day: "numeric" });

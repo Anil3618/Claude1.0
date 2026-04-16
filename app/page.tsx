@@ -15,7 +15,8 @@ async function getSchedule(): Promise<ScheduleData | null> {
 
 export default async function HomePage() {
   const schedule = await getSchedule();
-  const today = new Date().toISOString().slice(0, 10);
+  // Use CT so late-night UTC doesn't roll to the next calendar date
+  const today = new Date().toLocaleDateString("en-CA", { timeZone: "America/Chicago" });
 
   if (!schedule) {
     return (

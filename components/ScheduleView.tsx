@@ -14,7 +14,7 @@ interface Props {
 function formatDateHeading(dateStr: string, today: string): string {
   const tomorrow = new Date(today + "T12:00:00");
   tomorrow.setDate(tomorrow.getDate() + 1);
-  const tomorrowStr = tomorrow.toISOString().slice(0, 10);
+  const tomorrowStr = tomorrow.toLocaleDateString("en-CA");
 
   if (dateStr === today) return "Today";
   if (dateStr === tomorrowStr) return "Tomorrow";

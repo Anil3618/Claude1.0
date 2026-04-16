@@ -9,7 +9,7 @@ const TEAM_LOGO: Record<number, string> = Object.fromEntries(
   MLB_LEAGUES.flatMap(l => l.divisions.flatMap(d => d.teams)).map(t => [t.id, t.espnSlug])
 );
 
-const TODAY = new Date().toISOString().slice(0, 10);
+const TODAY = new Date().toLocaleDateString("en-CA", { timeZone: "America/Chicago" });
 
 interface Props {
   game: Game;
