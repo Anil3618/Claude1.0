@@ -32,13 +32,16 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
               <a href="/" className="hover:text-white transition-colors">
                 Tonight
               </a>
-              <a href="/platform/apple-tv-plus" className="hover:text-white transition-colors">
+              <a href="/teams" className="hover:text-white transition-colors font-medium">
+                Teams
+              </a>
+              <a href="/platform/apple-tv-plus" className="hover:text-white transition-colors hidden sm:inline">
                 Apple TV+
               </a>
-              <a href="/platform/peacock" className="hover:text-white transition-colors">
+              <a href="/platform/peacock" className="hover:text-white transition-colors hidden sm:inline">
                 Peacock
               </a>
-              <a href="/platform/espn-plus" className="hover:text-white transition-colors hidden sm:inline">
+              <a href="/platform/espn-plus" className="hover:text-white transition-colors hidden md:inline">
                 ESPN+
               </a>
             </nav>
