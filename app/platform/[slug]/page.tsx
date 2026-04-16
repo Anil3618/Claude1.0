@@ -5,21 +5,23 @@ import type { Game, ScheduleData } from "@/lib/types";
 import { notFound } from "next/navigation";
 
 const SLUG_TO_LABEL: Record<string, string> = {
-  "apple-tv-plus": "Apple TV+",
-  "peacock":       "Peacock",
-  "espn-plus":     "ESPN+",
-  "espn":          "ESPN",
-  "netflix":       "Netflix",
-  "max":           "Max",
-  "fox":           "Fox",
-  "fs1":           "FS1",
-  "tbs":           "TBS",
-  "nbc":           "NBC",
-  "mlb-network":   "MLB Network",
-  "mlb-tv":        "MLB.TV",
-  "youtube-tv":    "YouTube TV",
-  "sling-tv":      "Sling TV",
-  "directv-stream":"DirecTV Stream",
+  "apple-tv-plus":  "Apple TV+",
+  "netflix":        "Netflix",
+  "peacock":        "Peacock",
+  "max":            "Max",
+  "prime-video":    "Prime Video",
+  "espn":           "ESPN",
+  "espn-plus":      "ESPN+",
+  "espn2":          "ESPN2",
+  "fox":            "Fox",
+  "fs1":            "FS1",
+  "tbs":            "TBS",
+  "nbc":            "NBC",
+  "mlb-network":    "MLB Network",
+  "mlb-tv":         "MLB.TV",
+  "youtube-tv":     "YouTube TV",
+  "sling-tv":       "Sling TV",
+  "directv-stream": "DirecTV Stream",
 };
 
 async function getSchedule(): Promise<ScheduleData | null> {
