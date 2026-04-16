@@ -4,7 +4,7 @@ import { useState, useMemo } from "react";
 import { GameCard } from "./GameCard";
 import { GameTimeline } from "./GameTimeline";
 import type { Game, ScheduleData } from "@/lib/types";
-import { MLB_LEAGUES } from "@/lib/mlb-teams";
+import { MLB_LEAGUES, teamLogoUrl } from "@/lib/mlb-teams";
 
 interface Props {
   schedule: ScheduleData;
@@ -125,13 +125,25 @@ export function ScheduleView({ schedule, today }: Props) {
                           key={team.id}
                           onClick={() => handleTeamClick(team.id)}
                           title={team.name}
-                          className={`px-3 py-1.5 rounded-lg text-sm font-semibold transition-colors border ${
+                          className={`flex flex-col items-center gap-1 w-16 py-2 rounded-xl transition-all border ${
                             selectedTeamId === team.id
-                              ? "bg-blue-600 border-blue-500 text-white"
-                              : "bg-gray-800 border-gray-700 text-gray-300 hover:border-gray-500 hover:text-white"
+                              ? "bg-blue-600/20 border-blue-500 ring-1 ring-blue-500"
+                              : "bg-gray-800 border-gray-700 hover:border-gray-500 hover:bg-gray-750"
                           }`}
                         >
-                          {team.abbreviation}
+                          {/* eslint-disable-next-line @next/next/no-img-element */}
+                          <img
+                            src={teamLogoUrl(team.espnSlug)}
+                            alt={team.abbreviation}
+                            width={32}
+                            height={32}
+                            className="w-8 h-8 object-contain"
+                          />
+                          <span className={`text-xs font-bold leading-none ${
+                            selectedTeamId === team.id ? "text-blue-300" : "text-gray-400"
+                          }`}>
+                            {team.abbreviation}
+                          </span>
                         </button>
                       ))}
                     </div>

@@ -1,5 +1,11 @@
 import { PlatformBadge } from "./PlatformBadge";
 import type { Game } from "@/lib/types";
+import { MLB_LEAGUES, teamLogoUrl } from "@/lib/mlb-teams";
+
+// Build a flat id→espnSlug lookup once at module level
+const TEAM_LOGO: Record<number, string> = Object.fromEntries(
+  MLB_LEAGUES.flatMap(l => l.divisions.flatMap(d => d.teams)).map(t => [t.id, t.espnSlug])
+);
 
 interface Props {
   game: Game;
@@ -38,23 +44,37 @@ export function GameCard({ game }: Props) {
       <div className="pl-2">
         {/* Teams */}
         <div className="flex items-center justify-between mb-3">
-          <div className="flex flex-col gap-1.5">
+          <div className="flex flex-col gap-2">
             {/* Away */}
             <div className="flex items-center gap-2">
-              <span className="text-xs font-bold text-gray-500 w-8 shrink-0 tabular-nums">
-                {game.away_team.abbreviation}
-              </span>
-              <span className="font-semibold text-sm text-gray-200">
+              {TEAM_LOGO[game.away_team.id] && (
+                // eslint-disable-next-line @next/next/no-img-element
+                <img
+                  src={teamLogoUrl(TEAM_LOGO[game.away_team.id])}
+                  alt={game.away_team.abbreviation}
+                  width={24}
+                  height={24}
+                  className="w-6 h-6 object-contain shrink-0"
+                />
+              )}
+              <span className="font-semibold text-sm text-gray-200 leading-tight">
                 {game.away_team.name}
               </span>
             </div>
-            <span className="text-gray-700 text-xs pl-0.5">vs</span>
+            <span className="text-gray-700 text-[10px] pl-8">vs</span>
             {/* Home */}
             <div className="flex items-center gap-2">
-              <span className="text-xs font-bold text-gray-500 w-8 shrink-0 tabular-nums">
-                {game.home_team.abbreviation}
-              </span>
-              <span className="font-semibold text-sm text-gray-200">
+              {TEAM_LOGO[game.home_team.id] && (
+                // eslint-disable-next-line @next/next/no-img-element
+                <img
+                  src={teamLogoUrl(TEAM_LOGO[game.home_team.id])}
+                  alt={game.home_team.abbreviation}
+                  width={24}
+                  height={24}
+                  className="w-6 h-6 object-contain shrink-0"
+                />
+              )}
+              <span className="font-semibold text-sm text-gray-200 leading-tight">
                 {game.home_team.name}
               </span>
             </div>
@@ -77,7 +97,7 @@ export function GameCard({ game }: Props) {
 
         {/* Venue */}
         {game.venue && (
-          <p className="text-xs text-gray-600 mb-3 pl-10">{game.venue}</p>
+          <p className="text-xs text-gray-600 mb-3">{game.venue}</p>
         )}
 
         {/* Platforms */}
