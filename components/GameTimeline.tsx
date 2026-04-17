@@ -3,8 +3,8 @@
 import { useEffect, useRef, useState, useCallback } from "react";
 import type { Game } from "@/lib/types";
 
-const START_HOUR = 11; // 11 AM CT
-const END_HOUR = 24;   // midnight CT
+const START_HOUR = 9;  // 9 AM PT
+const END_HOUR = 24;   // midnight PT
 const CANVAS_H = 88;
 const PAD_X = 20;
 const PAD_TOP = 10;
@@ -16,7 +16,7 @@ function toCtHour(utcString: string): number | null {
   try {
     const d = new Date(utcString);
     const parts = new Intl.DateTimeFormat("en-US", {
-      timeZone: "America/Chicago",
+      timeZone: "America/Los_Angeles",
       hour: "numeric",
       minute: "numeric",
       hour12: false,
@@ -159,7 +159,7 @@ export function GameTimeline({ games }: { games: Game[] }) {
   return (
     <div className="mb-8">
       <p className="text-xs font-semibold text-gray-500 uppercase tracking-widest mb-2">
-        Today&rsquo;s Game Timeline · Central Time
+        Today&rsquo;s Game Timeline · Pacific Time
       </p>
       <div
         ref={containerRef}
@@ -188,7 +188,7 @@ export function GameTimeline({ games }: { games: Game[] }) {
               {new Date(tooltip.game.game_time_utc).toLocaleTimeString("en-US", {
                 hour: "numeric",
                 minute: "2-digit",
-                timeZone: "America/Chicago",
+                timeZone: "America/Los_Angeles",
                 timeZoneName: "short",
               })}
             </p>

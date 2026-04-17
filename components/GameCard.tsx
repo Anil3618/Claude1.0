@@ -9,7 +9,7 @@ const TEAM_LOGO: Record<number, string> = Object.fromEntries(
   MLB_LEAGUES.flatMap(l => l.divisions.flatMap(d => d.teams)).map(t => [t.id, t.espnSlug])
 );
 
-const TODAY = new Date().toLocaleDateString("en-CA", { timeZone: "America/Chicago" });
+const TODAY = new Date().toLocaleDateString("en-CA", { timeZone: "America/Los_Angeles" });
 
 interface Props {
   game: Game;
@@ -30,7 +30,7 @@ function formatGameTime(utcString: string): string {
     return new Date(utcString).toLocaleTimeString("en-US", {
       hour: "numeric",
       minute: "2-digit",
-      timeZone: "America/Chicago",
+      timeZone: "America/Los_Angeles",
       timeZoneName: "short",
     });
   } catch {

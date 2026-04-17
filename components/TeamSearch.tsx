@@ -11,7 +11,7 @@ interface Props {
 
 function formatDate(dateStr: string): string {
   const d = new Date(dateStr + "T12:00:00");
-  const today = new Date().toLocaleDateString("en-CA", { timeZone: "America/Chicago" });
+  const today = new Date().toLocaleDateString("en-CA", { timeZone: "America/Los_Angeles" });
   const tomorrow = new Date(today + "T12:00:00");
   tomorrow.setDate(tomorrow.getDate() + 1);
   const tomorrowStr = tomorrow.toLocaleDateString("en-CA");
