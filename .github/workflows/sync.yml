@@ -6,6 +6,9 @@ on:
     - cron: "0 0,6,12,18 * * *"
   workflow_dispatch:  # Allow manual trigger from GitHub Actions UI
 
+permissions:
+  contents: write   # Required to commit and push schedule.json
+
 jobs:
   sync:
     runs-on: ubuntu-latest
@@ -37,4 +40,4 @@ jobs:
           git diff --cached --quiet || git commit -m "chore: sync MLB schedule $(date -u '+%Y-%m-%d %H:%M UTC')"
 
       - name: Push changes
-        run: git push
+        run: git push origin HEAD
