@@ -7,7 +7,7 @@
         "game_pk": 824529,
         "game_date": "2026-04-24",
         "game_time_utc": "2026-04-24T22:40:00Z",
-        "status": "Scheduled",
+        "status": "Pre-Game",
         "home_team": {
           "id": 113,
           "name": "Cincinnati Reds",
@@ -55,14 +55,14 @@
         "venue": "Oriole Park at Camden Yards",
         "platforms": [
           {
-            "label": "NESN",
-            "color": "#003087",
-            "url": "https://www.nesn.com/"
-          },
-          {
             "label": "MASN",
             "color": "#E03A3E",
             "url": "https://www.masnsports.com/"
+          },
+          {
+            "label": "NESN",
+            "color": "#003087",
+            "url": "https://www.nesn.com/"
           },
           {
             "label": "Apple TV+",
@@ -89,14 +89,14 @@
         "venue": "Rogers Centre",
         "platforms": [
           {
-            "label": "Sportsnet 1",
-            "color": "#E31937",
-            "url": "https://www.sportsnet.ca/"
-          },
-          {
             "label": "Guardians.TV",
             "color": "#00385D",
             "url": "https://www.mlb.com/guardians/fans/guardians-tv"
+          },
+          {
+            "label": "Sportsnet 1",
+            "color": "#E31937",
+            "url": "https://www.sportsnet.ca/"
           },
           {
             "label": "Apple TV+",
@@ -109,7 +109,7 @@
         "game_pk": 823638,
         "game_date": "2026-04-24",
         "game_time_utc": "2026-04-24T23:10:00Z",
-        "status": "Scheduled",
+        "status": "Pre-Game",
         "home_team": {
           "id": 121,
           "name": "New York Mets",
@@ -454,14 +454,14 @@
         "venue": "Busch Stadium",
         "platforms": [
           {
-            "label": "Cardinals.TV",
-            "color": "#C41E3A",
-            "url": "https://www.mlb.com/cardinals/fans/cardinals-tv"
-          },
-          {
             "label": "Mariners.TV",
             "color": "#0C2C56",
             "url": "https://www.mlb.com/mariners/fans/mariners-tv"
+          },
+          {
+            "label": "Cardinals.TV",
+            "color": "#C41E3A",
+            "url": "https://www.mlb.com/cardinals/fans/cardinals-tv"
           }
         ]
       },
@@ -483,14 +483,14 @@
         "venue": "Rogers Centre",
         "platforms": [
           {
-            "label": "FS1",
-            "color": "#003087",
-            "url": "https://www.foxsports.com/live"
-          },
-          {
             "label": "Guardians.TV",
             "color": "#00385D",
             "url": "https://www.mlb.com/guardians/fans/guardians-tv"
+          },
+          {
+            "label": "FS1",
+            "color": "#003087",
+            "url": "https://www.foxsports.com/live"
           },
           {
             "label": "Sportsnet 1",
@@ -517,14 +517,14 @@
         "venue": "Oriole Park at Camden Yards",
         "platforms": [
           {
-            "label": "NESN",
-            "color": "#003087",
-            "url": "https://www.nesn.com/"
-          },
-          {
             "label": "MASN",
             "color": "#E03A3E",
             "url": "https://www.masnsports.com/"
+          },
+          {
+            "label": "NESN",
+            "color": "#003087",
+            "url": "https://www.nesn.com/"
           }
         ]
       },
@@ -570,14 +570,14 @@
         "venue": "Citi Field",
         "platforms": [
           {
-            "label": "SNY",
-            "color": "#002D72",
-            "url": "https://sny.tv/"
-          },
-          {
             "label": "Rockies.TV",
             "color": "#333366",
             "url": "https://www.mlb.com/rockies/fans/rockies-tv"
+          },
+          {
+            "label": "SNY",
+            "color": "#002D72",
+            "url": "https://sny.tv/"
           }
         ]
       },
@@ -744,14 +744,14 @@
         "venue": "Daikin Park",
         "platforms": [
           {
-            "label": "YES Network",
-            "color": "#003087",
-            "url": "https://www.yesnetwork.com/"
-          },
-          {
             "label": "Space City Home Network",
             "color": "#002D62",
             "url": "https://www.spacecityhomenetwork.com/"
+          },
+          {
+            "label": "YES Network",
+            "color": "#003087",
+            "url": "https://www.yesnetwork.com/"
           }
         ]
       },
@@ -944,14 +944,14 @@
         "venue": "Rogers Centre",
         "platforms": [
           {
-            "label": "Guardians.TV",
-            "color": "#00385D",
-            "url": "https://www.mlb.com/guardians/fans/guardians-tv"
-          },
-          {
             "label": "Sportsnet 1",
             "color": "#E31937",
             "url": "https://www.sportsnet.ca/"
+          },
+          {
+            "label": "Guardians.TV",
+            "color": "#00385D",
+            "url": "https://www.mlb.com/guardians/fans/guardians-tv"
           },
           {
             "label": "Peacock",
@@ -1313,14 +1313,14 @@
         "venue": "UNIQLO Field at Dodger Stadium",
         "platforms": [
           {
-            "label": "Spectrum SportsNet LA",
-            "color": "#005BA1",
-            "url": "https://www.spectrumnews1.com/ca/la-sports"
-          },
-          {
             "label": "Marquee Sports",
             "color": "#CC3433",
             "url": "https://www.marqueesportsnetwork.com/"
+          },
+          {
+            "label": "Spectrum SportsNet LA",
+            "color": "#005BA1",
+            "url": "https://www.spectrumnews1.com/ca/la-sports"
           },
           {
             "label": "Peacock",
@@ -1612,14 +1612,14 @@
         "venue": "Progressive Field",
         "platforms": [
           {
-            "label": "Guardians.TV",
-            "color": "#00385D",
-            "url": "https://www.mlb.com/guardians/fans/guardians-tv"
-          },
-          {
             "label": "Rays.TV",
             "color": "#092C5C",
             "url": "https://www.mlb.com/rays/fans/rays-tv"
+          },
+          {
+            "label": "Guardians.TV",
+            "color": "#00385D",
+            "url": "https://www.mlb.com/guardians/fans/guardians-tv"
           }
         ]
       },
@@ -1786,14 +1786,14 @@
         "venue": "Citi Field",
         "platforms": [
           {
-            "label": "SNY",
-            "color": "#002D72",
-            "url": "https://sny.tv/"
-          },
-          {
             "label": "Nationals.TV",
             "color": "#AB0003",
             "url": "https://www.mlb.com/nationals/fans/nationals-tv"
+          },
+          {
+            "label": "SNY",
+            "color": "#002D72",
+            "url": "https://sny.tv/"
           }
         ]
       },
@@ -1938,14 +1938,14 @@
         "venue": "Globe Life Field",
         "platforms": [
           {
-            "label": "Prime Video",
-            "color": "#00A8E0",
-            "url": "https://www.amazon.com/primevideo"
-          },
-          {
             "label": "Rangers Sports Network",
             "color": "#003278",
             "url": "https://www.mlb.com/rangers"
+          },
+          {
+            "label": "Prime Video",
+            "color": "#00A8E0",
+            "url": "https://www.amazon.com/primevideo"
           }
         ]
       },
@@ -2049,14 +2049,14 @@
         "venue": "Progressive Field",
         "platforms": [
           {
-            "label": "Guardians.TV",
-            "color": "#00385D",
-            "url": "https://www.mlb.com/guardians/fans/guardians-tv"
-          },
-          {
             "label": "Rays.TV",
             "color": "#092C5C",
             "url": "https://www.mlb.com/rays/fans/rays-tv"
+          },
+          {
+            "label": "Guardians.TV",
+            "color": "#00385D",
+            "url": "https://www.mlb.com/guardians/fans/guardians-tv"
           }
         ]
       },
@@ -2397,14 +2397,14 @@
         "venue": "Truist Park",
         "platforms": [
           {
-            "label": "Detroit SportsNet",
-            "color": "#0C2340",
-            "url": "https://www.mlb.com/tigers"
-          },
-          {
             "label": "BravesVision",
             "color": "#CE1141",
             "url": "https://www.mlb.com/braves/ballpark/bravesvision"
+          },
+          {
+            "label": "Detroit SportsNet",
+            "color": "#0C2340",
+            "url": "https://www.mlb.com/tigers"
           }
         ]
       },
