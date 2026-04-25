@@ -7,7 +7,7 @@
         "game_pk": 824851,
         "game_date": "2026-04-25",
         "game_time_utc": "2026-04-25T16:05:00Z",
-        "status": "Scheduled",
+        "status": "In Progress",
         "home_team": {
           "id": 110,
           "name": "Baltimore Orioles",
@@ -36,7 +36,7 @@
         "game_pk": 823070,
         "game_date": "2026-04-25",
         "game_time_utc": "2026-04-25T18:15:00Z",
-        "status": "Scheduled",
+        "status": "In Progress",
         "home_team": {
           "id": 138,
           "name": "St. Louis Cardinals",
@@ -65,7 +65,7 @@
         "game_pk": 822826,
         "game_date": "2026-04-25",
         "game_time_utc": "2026-04-25T19:07:00Z",
-        "status": "Scheduled",
+        "status": "Warmup",
         "home_team": {
           "id": 141,
           "name": "Toronto Blue Jays",
@@ -99,7 +99,7 @@
         "game_pk": 823229,
         "game_date": "2026-04-25",
         "game_time_utc": "2026-04-25T20:05:00Z",
-        "status": "Scheduled",
+        "status": "Pre-Game",
         "home_team": {
           "id": 137,
           "name": "San Francisco Giants",
@@ -123,7 +123,7 @@
         "game_pk": 822989,
         "game_date": "2026-04-25",
         "game_time_utc": "2026-04-25T20:10:00Z",
-        "status": "Scheduled",
+        "status": "Pre-Game",
         "home_team": {
           "id": 139,
           "name": "Tampa Bay Rays",
@@ -152,7 +152,7 @@
         "game_pk": 824613,
         "game_date": "2026-04-25",
         "game_time_utc": "2026-04-25T20:10:00Z",
-        "status": "Scheduled",
+        "status": "Pre-Game",
         "home_team": {
           "id": 145,
           "name": "Chicago White Sox",
@@ -181,7 +181,7 @@
         "game_pk": 825093,
         "game_date": "2026-04-25",
         "game_time_utc": "2026-04-25T22:05:00Z",
-        "status": "Scheduled",
+        "status": "Pre-Game",
         "home_team": {
           "id": 109,
           "name": "Arizona Diamondbacks",
@@ -321,7 +321,7 @@
         "game_pk": 824527,
         "game_date": "2026-04-25",
         "game_time_utc": "2026-04-25T23:15:00Z",
-        "status": "Scheduled",
+        "status": "Pre-Game",
         "home_team": {
           "id": 113,
           "name": "Cincinnati Reds",
