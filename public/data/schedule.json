@@ -191,14 +191,14 @@
         "venue": "Citi Field",
         "platforms": [
           {
-            "label": "SNY",
-            "color": "#002D72",
-            "url": "https://sny.tv/"
-          },
-          {
             "label": "Rockies.TV",
             "color": "#333366",
             "url": "https://www.mlb.com/rockies/fans/rockies-tv"
+          },
+          {
+            "label": "SNY",
+            "color": "#002D72",
+            "url": "https://sny.tv/"
           },
           {
             "label": "Peacock",
@@ -327,14 +327,14 @@
         "venue": "American Family Field",
         "platforms": [
           {
-            "label": "Brewers.TV",
-            "color": "#12284B",
-            "url": "https://www.mlb.com/brewers/fans/brewers-tv"
-          },
-          {
             "label": "SportsNet Pittsburgh",
             "color": "#FDB827",
             "url": "https://www.sportsnetpittsburgh.com/"
+          },
+          {
+            "label": "Brewers.TV",
+            "color": "#12284B",
+            "url": "https://www.mlb.com/brewers/fans/brewers-tv"
           },
           {
             "label": "Peacock",
@@ -395,14 +395,14 @@
         "venue": "Globe Life Field",
         "platforms": [
           {
-            "label": "Rangers Sports Network",
-            "color": "#003278",
-            "url": "https://www.mlb.com/rangers"
-          },
-          {
             "label": "NBC Sports California",
             "color": "#0B2265",
             "url": "https://www.nbcsports.com/california"
+          },
+          {
+            "label": "Rangers Sports Network",
+            "color": "#003278",
+            "url": "https://www.mlb.com/rangers"
           },
           {
             "label": "Peacock",
@@ -791,14 +791,14 @@
         "venue": "Progressive Field",
         "platforms": [
           {
-            "label": "Rays.TV",
-            "color": "#092C5C",
-            "url": "https://www.mlb.com/rays/fans/rays-tv"
-          },
-          {
             "label": "Guardians.TV",
             "color": "#00385D",
             "url": "https://www.mlb.com/guardians/fans/guardians-tv"
+          },
+          {
+            "label": "Rays.TV",
+            "color": "#092C5C",
+            "url": "https://www.mlb.com/rays/fans/rays-tv"
           }
         ]
       },
@@ -965,14 +965,14 @@
         "venue": "Citi Field",
         "platforms": [
           {
-            "label": "Nationals.TV",
-            "color": "#AB0003",
-            "url": "https://www.mlb.com/nationals/fans/nationals-tv"
-          },
-          {
             "label": "SNY",
             "color": "#002D72",
             "url": "https://sny.tv/"
+          },
+          {
+            "label": "Nationals.TV",
+            "color": "#AB0003",
+            "url": "https://www.mlb.com/nationals/fans/nationals-tv"
           }
         ]
       },
@@ -1117,14 +1117,14 @@
         "venue": "Globe Life Field",
         "platforms": [
           {
-            "label": "Rangers Sports Network",
-            "color": "#003278",
-            "url": "https://www.mlb.com/rangers"
-          },
-          {
             "label": "Prime Video",
             "color": "#00A8E0",
             "url": "https://www.amazon.com/primevideo"
+          },
+          {
+            "label": "Rangers Sports Network",
+            "color": "#003278",
+            "url": "https://www.mlb.com/rangers"
           }
         ]
       },
@@ -1228,14 +1228,14 @@
         "venue": "Progressive Field",
         "platforms": [
           {
-            "label": "Rays.TV",
-            "color": "#092C5C",
-            "url": "https://www.mlb.com/rays/fans/rays-tv"
-          },
-          {
             "label": "Guardians.TV",
             "color": "#00385D",
             "url": "https://www.mlb.com/guardians/fans/guardians-tv"
+          },
+          {
+            "label": "Rays.TV",
+            "color": "#092C5C",
+            "url": "https://www.mlb.com/rays/fans/rays-tv"
           }
         ]
       },
@@ -1576,14 +1576,14 @@
         "venue": "Truist Park",
         "platforms": [
           {
-            "label": "BravesVision",
-            "color": "#CE1141",
-            "url": "https://www.mlb.com/braves/ballpark/bravesvision"
-          },
-          {
             "label": "Detroit SportsNet",
             "color": "#0C2340",
             "url": "https://www.mlb.com/tigers"
+          },
+          {
+            "label": "BravesVision",
+            "color": "#CE1141",
+            "url": "https://www.mlb.com/braves/ballpark/bravesvision"
           }
         ]
       },
@@ -2274,14 +2274,14 @@
         "venue": "Angel Stadium",
         "platforms": [
           {
-            "label": "FanDuel Sports Network",
-            "color": "#1493FF",
-            "url": "https://www.nbc.com/fanduel-sports-network"
-          },
-          {
             "label": "PIX11",
             "color": "#002D72",
             "url": "https://pix11.com/"
+          },
+          {
+            "label": "FanDuel Sports Network",
+            "color": "#1493FF",
+            "url": "https://www.nbc.com/fanduel-sports-network"
           }
         ]
       },
@@ -2506,6 +2506,11 @@
         "venue": "PNC Park",
         "platforms": [
           {
+            "label": "FS1",
+            "color": "#003087",
+            "url": "https://www.foxsports.com/live"
+          },
+          {
             "label": "SportsNet Pittsburgh",
             "color": "#FDB827",
             "url": "https://www.sportsnetpittsburgh.com/"
@@ -2514,11 +2519,6 @@
             "label": "Reds.TV",
             "color": "#C6011F",
             "url": "https://www.mlb.com/reds/fans/reds-tv"
-          },
-          {
-            "label": "FS1",
-            "color": "#003087",
-            "url": "https://www.foxsports.com/live"
           }
         ]
       },
