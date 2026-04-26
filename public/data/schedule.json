@@ -7,7 +7,7 @@
         "game_pk": 824852,
         "game_date": "2026-04-26",
         "game_time_utc": "2026-04-26T17:35:00Z",
-        "status": "Scheduled",
+        "status": "In Progress",
         "home_team": {
           "id": 110,
           "name": "Baltimore Orioles",
@@ -41,7 +41,7 @@
         "game_pk": 824934,
         "game_date": "2026-04-26",
         "game_time_utc": "2026-04-26T17:35:00Z",
-        "status": "Scheduled",
+        "status": "In Progress",
         "home_team": {
           "id": 144,
           "name": "Atlanta Braves",
@@ -75,7 +75,7 @@
         "game_pk": 822824,
         "game_date": "2026-04-26",
         "game_time_utc": "2026-04-26T17:37:00Z",
-        "status": "Scheduled",
+        "status": "In Progress",
         "home_team": {
           "id": 141,
           "name": "Toronto Blue Jays",
@@ -89,14 +89,14 @@
         "venue": "Rogers Centre",
         "platforms": [
           {
-            "label": "Guardians.TV",
-            "color": "#00385D",
-            "url": "https://www.mlb.com/guardians/fans/guardians-tv"
-          },
-          {
             "label": "Sportsnet 1",
             "color": "#E31937",
             "url": "https://www.sportsnet.ca/"
+          },
+          {
+            "label": "Guardians.TV",
+            "color": "#00385D",
+            "url": "https://www.mlb.com/guardians/fans/guardians-tv"
           },
           {
             "label": "Peacock",
@@ -109,7 +109,7 @@
         "game_pk": 824528,
         "game_date": "2026-04-26",
         "game_time_utc": "2026-04-26T17:40:00Z",
-        "status": "Scheduled",
+        "status": "In Progress",
         "home_team": {
           "id": 113,
           "name": "Cincinnati Reds",
@@ -143,7 +143,7 @@
         "game_pk": 823635,
         "game_date": "2026-04-26",
         "game_time_utc": "2026-04-26T17:40:00Z",
-        "status": "Scheduled",
+        "status": "In Progress",
         "home_team": {
           "id": 121,
           "name": "New York Mets",
@@ -191,14 +191,14 @@
         "venue": "Citi Field",
         "platforms": [
           {
-            "label": "Rockies.TV",
-            "color": "#333366",
-            "url": "https://www.mlb.com/rockies/fans/rockies-tv"
-          },
-          {
             "label": "SNY",
             "color": "#002D72",
             "url": "https://sny.tv/"
+          },
+          {
+            "label": "Rockies.TV",
+            "color": "#333366",
+            "url": "https://www.mlb.com/rockies/fans/rockies-tv"
           },
           {
             "label": "Peacock",
@@ -211,7 +211,7 @@
         "game_pk": 822991,
         "game_date": "2026-04-26",
         "game_time_utc": "2026-04-26T17:40:00Z",
-        "status": "Scheduled",
+        "status": "In Progress",
         "home_team": {
           "id": 139,
           "name": "Tampa Bay Rays",
@@ -245,7 +245,7 @@
         "game_pk": 824612,
         "game_date": "2026-04-26",
         "game_time_utc": "2026-04-26T18:10:00Z",
-        "status": "Scheduled",
+        "status": "In Progress",
         "home_team": {
           "id": 145,
           "name": "Chicago White Sox",
@@ -279,7 +279,7 @@
         "game_pk": 824202,
         "game_date": "2026-04-26",
         "game_time_utc": "2026-04-26T18:10:00Z",
-        "status": "Scheduled",
+        "status": "In Progress",
         "home_team": {
           "id": 117,
           "name": "Houston Astros",
@@ -313,7 +313,7 @@
         "game_pk": 823797,
         "game_date": "2026-04-26",
         "game_time_utc": "2026-04-26T18:10:00Z",
-        "status": "Scheduled",
+        "status": "In Progress",
         "home_team": {
           "id": 158,
           "name": "Milwaukee Brewers",
@@ -347,7 +347,7 @@
         "game_pk": 823068,
         "game_date": "2026-04-26",
         "game_time_utc": "2026-04-26T18:15:00Z",
-        "status": "Scheduled",
+        "status": "In Progress",
         "home_team": {
           "id": 138,
           "name": "St. Louis Cardinals",
@@ -381,7 +381,7 @@
         "game_pk": 822911,
         "game_date": "2026-04-26",
         "game_time_utc": "2026-04-26T18:35:00Z",
-        "status": "Scheduled",
+        "status": "In Progress",
         "home_team": {
           "id": 140,
           "name": "Texas Rangers",
@@ -415,7 +415,7 @@
         "game_pk": 825094,
         "game_date": "2026-04-26",
         "game_time_utc": "2026-04-26T20:05:00Z",
-        "status": "Scheduled",
+        "status": "Pre-Game",
         "home_team": {
           "id": 109,
           "name": "Arizona Diamondbacks",
@@ -449,7 +449,7 @@
         "game_pk": 823230,
         "game_date": "2026-04-26",
         "game_time_utc": "2026-04-26T20:05:00Z",
-        "status": "Scheduled",
+        "status": "Pre-Game",
         "home_team": {
           "id": 137,
           "name": "San Francisco Giants",
@@ -475,10 +475,39 @@
         ]
       },
       {
+        "game_pk": 824122,
+        "game_date": "2026-04-26",
+        "game_time_utc": "2026-04-26T20:10:00Z",
+        "status": "Pre-Game",
+        "home_team": {
+          "id": 118,
+          "name": "Kansas City Royals",
+          "abbreviation": "KC"
+        },
+        "away_team": {
+          "id": 108,
+          "name": "Los Angeles Angels",
+          "abbreviation": "LAA"
+        },
+        "venue": "Kauffman Stadium",
+        "platforms": [
+          {
+            "label": "NBC / Peacock",
+            "color": "#000000",
+            "url": "https://www.peacocktv.com/"
+          },
+          {
+            "label": "Peacock",
+            "color": "#000000",
+            "url": "https://www.peacocktv.com/"
+          }
+        ]
+      },
+      {
         "game_pk": 823959,
         "game_date": "2026-04-26",
         "game_time_utc": "2026-04-26T20:10:00Z",
-        "status": "Scheduled",
+        "status": "Pre-Game",
         "home_team": {
           "id": 119,
           "name": "Los Angeles Dodgers",
@@ -500,35 +529,6 @@
             "label": "Marquee Sports",
             "color": "#CC3433",
             "url": "https://www.marqueesportsnetwork.com/"
-          },
-          {
-            "label": "Peacock",
-            "color": "#000000",
-            "url": "https://www.peacocktv.com/"
-          }
-        ]
-      },
-      {
-        "game_pk": 824122,
-        "game_date": "2026-04-26",
-        "game_time_utc": "2026-04-26T23:20:00Z",
-        "status": "Scheduled",
-        "home_team": {
-          "id": 118,
-          "name": "Kansas City Royals",
-          "abbreviation": "KC"
-        },
-        "away_team": {
-          "id": 108,
-          "name": "Los Angeles Angels",
-          "abbreviation": "LAA"
-        },
-        "venue": "Kauffman Stadium",
-        "platforms": [
-          {
-            "label": "NBC / Peacock",
-            "color": "#000000",
-            "url": "https://www.peacocktv.com/"
           },
           {
             "label": "Peacock",
@@ -590,11 +590,6 @@
         },
         "venue": "PNC Park",
         "platforms": [
-          {
-            "label": "SportsNet Pittsburgh",
-            "color": "#FDB827",
-            "url": "https://www.sportsnetpittsburgh.com/"
-          },
           {
             "label": "Cardinals.TV",
             "color": "#C41E3A",
@@ -791,14 +786,14 @@
         "venue": "Progressive Field",
         "platforms": [
           {
-            "label": "Guardians.TV",
-            "color": "#00385D",
-            "url": "https://www.mlb.com/guardians/fans/guardians-tv"
-          },
-          {
             "label": "Rays.TV",
             "color": "#092C5C",
             "url": "https://www.mlb.com/rays/fans/rays-tv"
+          },
+          {
+            "label": "Guardians.TV",
+            "color": "#00385D",
+            "url": "https://www.mlb.com/guardians/fans/guardians-tv"
           }
         ]
       },
@@ -965,14 +960,14 @@
         "venue": "Citi Field",
         "platforms": [
           {
-            "label": "SNY",
-            "color": "#002D72",
-            "url": "https://sny.tv/"
-          },
-          {
             "label": "Nationals.TV",
             "color": "#AB0003",
             "url": "https://www.mlb.com/nationals/fans/nationals-tv"
+          },
+          {
+            "label": "SNY",
+            "color": "#002D72",
+            "url": "https://sny.tv/"
           }
         ]
       },
@@ -1117,14 +1112,14 @@
         "venue": "Globe Life Field",
         "platforms": [
           {
-            "label": "Prime Video",
-            "color": "#00A8E0",
-            "url": "https://www.amazon.com/primevideo"
-          },
-          {
             "label": "Rangers Sports Network",
             "color": "#003278",
             "url": "https://www.mlb.com/rangers"
+          },
+          {
+            "label": "Prime Video",
+            "color": "#00A8E0",
+            "url": "https://www.amazon.com/primevideo"
           }
         ]
       },
@@ -1228,14 +1223,14 @@
         "venue": "Progressive Field",
         "platforms": [
           {
-            "label": "Guardians.TV",
-            "color": "#00385D",
-            "url": "https://www.mlb.com/guardians/fans/guardians-tv"
-          },
-          {
             "label": "Rays.TV",
             "color": "#092C5C",
             "url": "https://www.mlb.com/rays/fans/rays-tv"
+          },
+          {
+            "label": "Guardians.TV",
+            "color": "#00385D",
+            "url": "https://www.mlb.com/guardians/fans/guardians-tv"
           }
         ]
       },
@@ -1576,14 +1571,14 @@
         "venue": "Truist Park",
         "platforms": [
           {
-            "label": "Detroit SportsNet",
-            "color": "#0C2340",
-            "url": "https://www.mlb.com/tigers"
-          },
-          {
             "label": "BravesVision",
             "color": "#CE1141",
             "url": "https://www.mlb.com/braves/ballpark/bravesvision"
+          },
+          {
+            "label": "Detroit SportsNet",
+            "color": "#0C2340",
+            "url": "https://www.mlb.com/tigers"
           }
         ]
       },
@@ -2274,14 +2269,14 @@
         "venue": "Angel Stadium",
         "platforms": [
           {
-            "label": "PIX11",
-            "color": "#002D72",
-            "url": "https://pix11.com/"
-          },
-          {
             "label": "FanDuel Sports Network",
             "color": "#1493FF",
             "url": "https://www.nbc.com/fanduel-sports-network"
+          },
+          {
+            "label": "PIX11",
+            "color": "#002D72",
+            "url": "https://pix11.com/"
           }
         ]
       },
@@ -2506,11 +2501,6 @@
         "venue": "PNC Park",
         "platforms": [
           {
-            "label": "FS1",
-            "color": "#003087",
-            "url": "https://www.foxsports.com/live"
-          },
-          {
             "label": "SportsNet Pittsburgh",
             "color": "#FDB827",
             "url": "https://www.sportsnetpittsburgh.com/"
@@ -2519,6 +2509,11 @@
             "label": "Reds.TV",
             "color": "#C6011F",
             "url": "https://www.mlb.com/reds/fans/reds-tv"
+          },
+          {
+            "label": "FS1",
+            "color": "#003087",
+            "url": "https://www.foxsports.com/live"
           }
         ]
       },
