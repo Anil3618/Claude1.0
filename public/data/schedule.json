@@ -7,7 +7,7 @@
         "game_pk": 824445,
         "game_date": "2026-04-29",
         "game_time_utc": "2026-04-29T17:10:00Z",
-        "status": "Scheduled",
+        "status": "Pre-Game",
         "home_team": {
           "id": 114,
           "name": "Cleveland Guardians",
@@ -50,14 +50,14 @@
         "venue": "Rate Field",
         "platforms": [
           {
-            "label": "FanDuel Sports Network",
-            "color": "#1493FF",
-            "url": "https://www.nbc.com/fanduel-sports-network"
-          },
-          {
             "label": "Chicago Sports Network",
             "color": "#27251F",
             "url": "https://www.chicagosportsnetwork.com/"
+          },
+          {
+            "label": "FanDuel Sports Network",
+            "color": "#1493FF",
+            "url": "https://www.nbc.com/fanduel-sports-network"
           }
         ]
       },
@@ -108,14 +108,14 @@
         "venue": "Globe Life Field",
         "platforms": [
           {
-            "label": "YES Network",
-            "color": "#003087",
-            "url": "https://www.yesnetwork.com/"
-          },
-          {
             "label": "Rangers Sports Network",
             "color": "#003278",
             "url": "https://www.mlb.com/rangers"
+          },
+          {
+            "label": "YES Network",
+            "color": "#003087",
+            "url": "https://www.yesnetwork.com/"
           }
         ]
       },
