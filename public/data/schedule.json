@@ -1,13 +1,13 @@
 {
   "generated_at": "2026-04-29",
-  "game_count": 96,
+  "game_count": 97,
   "dates": {
     "2026-04-29": [
       {
         "game_pk": 824445,
         "game_date": "2026-04-29",
         "game_time_utc": "2026-04-29T17:10:00Z",
-        "status": "Pre-Game",
+        "status": "In Progress",
         "home_team": {
           "id": 114,
           "name": "Cleveland Guardians",
@@ -36,7 +36,7 @@
         "game_pk": 824608,
         "game_date": "2026-04-29",
         "game_time_utc": "2026-04-29T17:10:00Z",
-        "status": "Scheduled",
+        "status": "In Progress",
         "home_team": {
           "id": 145,
           "name": "Chicago White Sox",
@@ -50,14 +50,14 @@
         "venue": "Rate Field",
         "platforms": [
           {
-            "label": "Chicago Sports Network",
-            "color": "#27251F",
-            "url": "https://www.chicagosportsnetwork.com/"
-          },
-          {
             "label": "FanDuel Sports Network",
             "color": "#1493FF",
             "url": "https://www.nbc.com/fanduel-sports-network"
+          },
+          {
+            "label": "Chicago Sports Network",
+            "color": "#27251F",
+            "url": "https://www.chicagosportsnetwork.com/"
           }
         ]
       },
@@ -65,7 +65,7 @@
         "game_pk": 823717,
         "game_date": "2026-04-29",
         "game_time_utc": "2026-04-29T17:40:00Z",
-        "status": "Scheduled",
+        "status": "In Progress",
         "home_team": {
           "id": 142,
           "name": "Minnesota Twins",
@@ -79,14 +79,14 @@
         "venue": "Target Field",
         "platforms": [
           {
-            "label": "Mariners.TV",
-            "color": "#0C2C56",
-            "url": "https://www.mlb.com/mariners/fans/mariners-tv"
-          },
-          {
             "label": "Twins.TV",
             "color": "#002B5C",
             "url": "https://www.mlb.com/twins/fans/twins-tv"
+          },
+          {
+            "label": "Mariners.TV",
+            "color": "#0C2C56",
+            "url": "https://www.mlb.com/mariners/fans/mariners-tv"
           }
         ]
       },
@@ -94,7 +94,7 @@
         "game_pk": 822907,
         "game_date": "2026-04-29",
         "game_time_utc": "2026-04-29T18:35:00Z",
-        "status": "Scheduled",
+        "status": "In Progress",
         "home_team": {
           "id": 140,
           "name": "Texas Rangers",
@@ -108,14 +108,14 @@
         "venue": "Globe Life Field",
         "platforms": [
           {
-            "label": "Rangers Sports Network",
-            "color": "#003278",
-            "url": "https://www.mlb.com/rangers"
-          },
-          {
             "label": "YES Network",
             "color": "#003087",
             "url": "https://www.yesnetwork.com/"
+          },
+          {
+            "label": "Rangers Sports Network",
+            "color": "#003278",
+            "url": "https://www.mlb.com/rangers"
           }
         ]
       },
@@ -123,7 +123,7 @@
         "game_pk": 822821,
         "game_date": "2026-04-29",
         "game_time_utc": "2026-04-29T19:07:00Z",
-        "status": "Scheduled",
+        "status": "In Progress",
         "home_team": {
           "id": 141,
           "name": "Toronto Blue Jays",
@@ -152,7 +152,7 @@
         "game_pk": 823958,
         "game_date": "2026-04-29",
         "game_time_utc": "2026-04-29T19:10:00Z",
-        "status": "Scheduled",
+        "status": "In Progress",
         "home_team": {
           "id": 119,
           "name": "Los Angeles Dodgers",
@@ -176,7 +176,7 @@
         "game_pk": 823312,
         "game_date": "2026-04-29",
         "game_time_utc": "2026-04-29T20:10:00Z",
-        "status": "Scheduled",
+        "status": "Pre-Game",
         "home_team": {
           "id": 135,
           "name": "San Diego Padres",
@@ -202,92 +202,10 @@
         ]
       },
       {
-        "game_pk": 824850,
-        "game_date": "2026-04-29",
-        "game_time_utc": "2026-04-29T22:35:00Z",
-        "status": "Scheduled",
-        "home_team": {
-          "id": 110,
-          "name": "Baltimore Orioles",
-          "abbreviation": "BAL"
-        },
-        "away_team": {
-          "id": 117,
-          "name": "Houston Astros",
-          "abbreviation": "HOU"
-        },
-        "venue": "Oriole Park at Camden Yards",
-        "platforms": [
-          {
-            "label": "MASN",
-            "color": "#E03A3E",
-            "url": "https://www.masnsports.com/"
-          },
-          {
-            "label": "Space City Home Network",
-            "color": "#002D62",
-            "url": "https://www.spacecityhomenetwork.com/"
-          }
-        ]
-      },
-      {
-        "game_pk": 824525,
-        "game_date": "2026-04-29",
-        "game_time_utc": "2026-04-29T22:40:00Z",
-        "status": "Scheduled",
-        "home_team": {
-          "id": 113,
-          "name": "Cincinnati Reds",
-          "abbreviation": "CIN"
-        },
-        "away_team": {
-          "id": 115,
-          "name": "Colorado Rockies",
-          "abbreviation": "COL"
-        },
-        "venue": "Great American Ball Park",
-        "platforms": [
-          {
-            "label": "Rockies.TV",
-            "color": "#333366",
-            "url": "https://www.mlb.com/rockies/fans/rockies-tv"
-          },
-          {
-            "label": "Reds.TV",
-            "color": "#C6011F",
-            "url": "https://www.mlb.com/reds/fans/reds-tv"
-          }
-        ]
-      },
-      {
-        "game_pk": 823392,
-        "game_date": "2026-04-29",
-        "game_time_utc": "2026-04-29T22:40:00Z",
-        "status": "Scheduled",
-        "home_team": {
-          "id": 134,
-          "name": "Pittsburgh Pirates",
-          "abbreviation": "PIT"
-        },
-        "away_team": {
-          "id": 138,
-          "name": "St. Louis Cardinals",
-          "abbreviation": "STL"
-        },
-        "venue": "PNC Park",
-        "platforms": [
-          {
-            "label": "Cardinals.TV",
-            "color": "#C41E3A",
-            "url": "https://www.mlb.com/cardinals/fans/cardinals-tv"
-          }
-        ]
-      },
-      {
         "game_pk": 823471,
         "game_date": "2026-04-29",
-        "game_time_utc": "2026-04-29T22:40:00Z",
-        "status": "Scheduled",
+        "game_time_utc": "2026-04-29T22:10:00Z",
+        "status": "Pre-Game",
         "home_team": {
           "id": 143,
           "name": "Philadelphia Phillies",
@@ -318,10 +236,63 @@
         ]
       },
       {
+        "game_pk": 824525,
+        "game_date": "2026-04-29",
+        "game_time_utc": "2026-04-29T22:40:00Z",
+        "status": "Pre-Game",
+        "home_team": {
+          "id": 113,
+          "name": "Cincinnati Reds",
+          "abbreviation": "CIN"
+        },
+        "away_team": {
+          "id": 115,
+          "name": "Colorado Rockies",
+          "abbreviation": "COL"
+        },
+        "venue": "Great American Ball Park",
+        "platforms": [
+          {
+            "label": "Rockies.TV",
+            "color": "#333366",
+            "url": "https://www.mlb.com/rockies/fans/rockies-tv"
+          },
+          {
+            "label": "Reds.TV",
+            "color": "#C6011F",
+            "url": "https://www.mlb.com/reds/fans/reds-tv"
+          }
+        ]
+      },
+      {
+        "game_pk": 823392,
+        "game_date": "2026-04-29",
+        "game_time_utc": "2026-04-29T22:40:00Z",
+        "status": "Pre-Game",
+        "home_team": {
+          "id": 134,
+          "name": "Pittsburgh Pirates",
+          "abbreviation": "PIT"
+        },
+        "away_team": {
+          "id": 138,
+          "name": "St. Louis Cardinals",
+          "abbreviation": "STL"
+        },
+        "venue": "PNC Park",
+        "platforms": [
+          {
+            "label": "Cardinals.TV",
+            "color": "#C41E3A",
+            "url": "https://www.mlb.com/cardinals/fans/cardinals-tv"
+          }
+        ]
+      },
+      {
         "game_pk": 823633,
         "game_date": "2026-04-29",
         "game_time_utc": "2026-04-29T23:10:00Z",
-        "status": "Scheduled",
+        "status": "Pre-Game",
         "home_team": {
           "id": 121,
           "name": "New York Mets",
@@ -350,7 +321,7 @@
         "game_pk": 824930,
         "game_date": "2026-04-29",
         "game_time_utc": "2026-04-29T23:15:00Z",
-        "status": "Scheduled",
+        "status": "Pre-Game",
         "home_team": {
           "id": 144,
           "name": "Atlanta Braves",
@@ -379,7 +350,7 @@
         "game_pk": 823796,
         "game_date": "2026-04-29",
         "game_time_utc": "2026-04-29T23:40:00Z",
-        "status": "Scheduled",
+        "status": "Pre-Game",
         "home_team": {
           "id": 158,
           "name": "Milwaukee Brewers",
@@ -401,6 +372,35 @@
             "label": "Brewers.TV",
             "color": "#12284B",
             "url": "https://www.mlb.com/brewers/fans/brewers-tv"
+          }
+        ]
+      },
+      {
+        "game_pk": 824850,
+        "game_date": "2026-04-29",
+        "game_time_utc": "2026-04-29T22:35:00Z",
+        "status": "Postponed",
+        "home_team": {
+          "id": 110,
+          "name": "Baltimore Orioles",
+          "abbreviation": "BAL"
+        },
+        "away_team": {
+          "id": 117,
+          "name": "Houston Astros",
+          "abbreviation": "HOU"
+        },
+        "venue": "Oriole Park at Camden Yards",
+        "platforms": [
+          {
+            "label": "MASN",
+            "color": "#E03A3E",
+            "url": "https://www.masnsports.com/"
+          },
+          {
+            "label": "Space City Home Network",
+            "color": "#002D62",
+            "url": "https://www.spacecityhomenetwork.com/"
           }
         ]
       }
@@ -468,6 +468,35 @@
         "game_pk": 824848,
         "game_date": "2026-04-30",
         "game_time_utc": "2026-04-30T16:35:00Z",
+        "status": "Scheduled",
+        "home_team": {
+          "id": 110,
+          "name": "Baltimore Orioles",
+          "abbreviation": "BAL"
+        },
+        "away_team": {
+          "id": 117,
+          "name": "Houston Astros",
+          "abbreviation": "HOU"
+        },
+        "venue": "Oriole Park at Camden Yards",
+        "platforms": [
+          {
+            "label": "MASN",
+            "color": "#E03A3E",
+            "url": "https://www.masnsports.com/"
+          },
+          {
+            "label": "Space City Home Network",
+            "color": "#002D62",
+            "url": "https://www.spacecityhomenetwork.com/"
+          }
+        ]
+      },
+      {
+        "game_pk": 824850,
+        "game_date": "2026-04-30",
+        "game_time_utc": "2026-04-30T16:40:00Z",
         "status": "Scheduled",
         "home_team": {
           "id": 110,
@@ -881,9 +910,9 @@
             "url": "https://www.spacecityhomenetwork.com/"
           },
           {
-            "label": "NESN",
+            "label": "NESN+",
             "color": "#003087",
-            "url": "https://www.nesn.com/"
+            "url": "https://www.nesn.com/nesn-360/"
           },
           {
             "label": "Apple TV+",
