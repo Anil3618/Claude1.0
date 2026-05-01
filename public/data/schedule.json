@@ -375,11 +375,6 @@
             "label": "PIX11",
             "color": "#002D72",
             "url": "https://pix11.com/"
-          },
-          {
-            "label": "FanDuel Sports Network",
-            "color": "#1493FF",
-            "url": "https://www.nbc.com/fanduel-sports-network"
           }
         ]
       },
@@ -872,11 +867,6 @@
             "url": "https://sny.tv/"
           },
           {
-            "label": "FanDuel Sports Network",
-            "color": "#1493FF",
-            "url": "https://www.nbc.com/fanduel-sports-network"
-          },
-          {
             "label": "Peacock",
             "color": "#000000",
             "url": "https://www.peacocktv.com/"
@@ -1309,11 +1299,6 @@
             "url": "https://sny.tv/"
           },
           {
-            "label": "FanDuel Sports Network",
-            "color": "#1493FF",
-            "url": "https://www.nbc.com/fanduel-sports-network"
-          },
-          {
             "label": "Peacock",
             "color": "#000000",
             "url": "https://www.peacocktv.com/"
@@ -1699,11 +1684,6 @@
         },
         "venue": "Angel Stadium",
         "platforms": [
-          {
-            "label": "FanDuel Sports Network",
-            "color": "#1493FF",
-            "url": "https://www.nbc.com/fanduel-sports-network"
-          },
           {
             "label": "Chicago Sports Network",
             "color": "#27251F",
@@ -2108,11 +2088,6 @@
         "venue": "Angel Stadium",
         "platforms": [
           {
-            "label": "FanDuel Sports Network",
-            "color": "#1493FF",
-            "url": "https://www.nbc.com/fanduel-sports-network"
-          },
-          {
             "label": "Chicago Sports Network",
             "color": "#27251F",
             "url": "https://www.chicagosportsnetwork.com/"
@@ -2368,11 +2343,6 @@
         },
         "venue": "Angel Stadium",
         "platforms": [
-          {
-            "label": "FanDuel Sports Network",
-            "color": "#1493FF",
-            "url": "https://www.nbc.com/fanduel-sports-network"
-          },
           {
             "label": "Chicago Sports Network",
             "color": "#27251F",
