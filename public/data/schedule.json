@@ -604,6 +604,11 @@
         "venue": "PNC Park",
         "platforms": [
           {
+            "label": "FS1",
+            "color": "#003087",
+            "url": "https://www.foxsports.com/live"
+          },
+          {
             "label": "SportsNet Pittsburgh",
             "color": "#FDB827",
             "url": "https://www.sportsnetpittsburgh.com/"
@@ -612,11 +617,6 @@
             "label": "Reds.TV",
             "color": "#C6011F",
             "url": "https://www.mlb.com/reds/fans/reds-tv"
-          },
-          {
-            "label": "FS1",
-            "color": "#003087",
-            "url": "https://www.foxsports.com/live"
           }
         ]
       },
