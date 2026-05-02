@@ -7,7 +7,7 @@
         "game_pk": 823554,
         "game_date": "2026-05-02",
         "game_time_utc": "2026-05-02T17:35:00Z",
-        "status": "Scheduled",
+        "status": "In Progress",
         "home_team": {
           "id": 147,
           "name": "New York Yankees",
@@ -36,7 +36,7 @@
         "game_pk": 823715,
         "game_date": "2026-05-02",
         "game_time_utc": "2026-05-02T18:10:00Z",
-        "status": "Scheduled",
+        "status": "In Progress",
         "home_team": {
           "id": 142,
           "name": "Minnesota Twins",
@@ -49,6 +49,11 @@
         },
         "venue": "Target Field",
         "platforms": [
+          {
+            "label": "Sportsnet",
+            "color": "#E31937",
+            "url": "https://www.sportsnet.ca/"
+          },
           {
             "label": "Twins.TV",
             "color": "#002B5C",
@@ -70,7 +75,7 @@
         "game_pk": 824685,
         "game_date": "2026-05-02",
         "game_time_utc": "2026-05-02T18:20:00Z",
-        "status": "Scheduled",
+        "status": "In Progress",
         "home_team": {
           "id": 112,
           "name": "Chicago Cubs",
@@ -99,7 +104,7 @@
         "game_pk": 825014,
         "game_date": "2026-05-02",
         "game_time_utc": "2026-05-02T20:05:00Z",
-        "status": "Scheduled",
+        "status": "Pre-Game",
         "home_team": {
           "id": 133,
           "name": "Athletics",
@@ -128,7 +133,7 @@
         "game_pk": 823388,
         "game_date": "2026-05-02",
         "game_time_utc": "2026-05-02T20:05:00Z",
-        "status": "Scheduled",
+        "status": "Pre-Game",
         "home_team": {
           "id": 134,
           "name": "Pittsburgh Pirates",
@@ -162,7 +167,7 @@
         "game_pk": 822746,
         "game_date": "2026-05-02",
         "game_time_utc": "2026-05-02T20:05:00Z",
-        "status": "Scheduled",
+        "status": "Pre-Game",
         "home_team": {
           "id": 120,
           "name": "Washington Nationals",
@@ -191,7 +196,7 @@
         "game_pk": 824771,
         "game_date": "2026-05-02",
         "game_time_utc": "2026-05-02T20:10:00Z",
-        "status": "Scheduled",
+        "status": "Pre-Game",
         "home_team": {
           "id": 111,
           "name": "Boston Red Sox",
@@ -220,7 +225,7 @@
         "game_pk": 823876,
         "game_date": "2026-05-02",
         "game_time_utc": "2026-05-02T20:10:00Z",
-        "status": "Scheduled",
+        "status": "Pre-Game",
         "home_team": {
           "id": 146,
           "name": "Miami Marlins",
@@ -244,7 +249,7 @@
         "game_pk": 822988,
         "game_date": "2026-05-02",
         "game_time_utc": "2026-05-02T22:10:00Z",
-        "status": "Scheduled",
+        "status": "Pre-Game",
         "home_team": {
           "id": 139,
           "name": "Tampa Bay Rays",
@@ -297,7 +302,7 @@
         "game_pk": 824284,
         "game_date": "2026-05-02",
         "game_time_utc": "2026-05-02T23:15:00Z",
-        "status": "Scheduled",
+        "status": "Pre-Game",
         "home_team": {
           "id": 116,
           "name": "Detroit Tigers",
@@ -371,14 +376,14 @@
         "venue": "Petco Park",
         "platforms": [
           {
-            "label": "Chicago Sports Network",
-            "color": "#27251F",
-            "url": "https://www.chicagosportsnetwork.com/"
-          },
-          {
             "label": "Padres.TV",
             "color": "#2F241D",
             "url": "https://www.mlb.com/padres/fans/padres-tv"
+          },
+          {
+            "label": "Chicago Sports Network",
+            "color": "#27251F",
+            "url": "https://www.chicagosportsnetwork.com/"
           },
           {
             "label": "Peacock",
@@ -467,6 +472,11 @@
         },
         "venue": "Target Field",
         "platforms": [
+          {
+            "label": "Sportsnet",
+            "color": "#E31937",
+            "url": "https://www.sportsnet.ca/"
+          },
           {
             "label": "Sportsnet 1",
             "color": "#E31937",
