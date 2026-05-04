@@ -190,14 +190,14 @@
         "venue": "Kauffman Stadium",
         "platforms": [
           {
-            "label": "Guardians.TV",
-            "color": "#00385D",
-            "url": "https://www.mlb.com/guardians/fans/guardians-tv"
-          },
-          {
             "label": "Royals.TV",
             "color": "#174885",
             "url": "https://www.mlb.com/royals/fans/royals-tv"
+          },
+          {
+            "label": "Guardians.TV",
+            "color": "#00385D",
+            "url": "https://www.mlb.com/guardians/fans/guardians-tv"
           }
         ]
       },
@@ -219,6 +219,11 @@
         "venue": "Busch Stadium",
         "platforms": [
           {
+            "label": "Cardinals.TV",
+            "color": "#C41E3A",
+            "url": "https://www.mlb.com/cardinals/fans/cardinals-tv"
+          },
+          {
             "label": "FS1",
             "color": "#003087",
             "url": "https://www.foxsports.com/live"
@@ -227,11 +232,6 @@
             "label": "Brewers.TV",
             "color": "#12284B",
             "url": "https://www.mlb.com/brewers/fans/brewers-tv"
-          },
-          {
-            "label": "Cardinals.TV",
-            "color": "#C41E3A",
-            "url": "https://www.mlb.com/cardinals/fans/cardinals-tv"
           }
         ]
       }
@@ -593,14 +593,14 @@
         "venue": "Busch Stadium",
         "platforms": [
           {
-            "label": "Brewers.TV",
-            "color": "#12284B",
-            "url": "https://www.mlb.com/brewers/fans/brewers-tv"
-          },
-          {
             "label": "Cardinals.TV",
             "color": "#C41E3A",
             "url": "https://www.mlb.com/cardinals/fans/cardinals-tv"
+          },
+          {
+            "label": "Brewers.TV",
+            "color": "#12284B",
+            "url": "https://www.mlb.com/brewers/fans/brewers-tv"
           }
         ]
       }
@@ -827,14 +827,14 @@
         "venue": "Busch Stadium",
         "platforms": [
           {
-            "label": "Brewers.TV",
-            "color": "#12284B",
-            "url": "https://www.mlb.com/brewers/fans/brewers-tv"
-          },
-          {
             "label": "Cardinals.TV",
             "color": "#C41E3A",
             "url": "https://www.mlb.com/cardinals/fans/cardinals-tv"
+          },
+          {
+            "label": "Brewers.TV",
+            "color": "#12284B",
+            "url": "https://www.mlb.com/brewers/fans/brewers-tv"
           }
         ]
       },
@@ -1259,14 +1259,14 @@
         "venue": "Nationals Park",
         "platforms": [
           {
-            "label": "Nationals.TV",
-            "color": "#AB0003",
-            "url": "https://www.mlb.com/nationals/fans/nationals-tv"
-          },
-          {
             "label": "Twins.TV",
             "color": "#002B5C",
             "url": "https://www.mlb.com/twins/fans/twins-tv"
+          },
+          {
+            "label": "Nationals.TV",
+            "color": "#AB0003",
+            "url": "https://www.mlb.com/nationals/fans/nationals-tv"
           }
         ]
       },
@@ -2615,14 +2615,14 @@
         "venue": "Rate Field",
         "platforms": [
           {
-            "label": "Chicago Sports Network",
-            "color": "#27251F",
-            "url": "https://www.chicagosportsnetwork.com/"
-          },
-          {
             "label": "Mariners.TV",
             "color": "#0C2C56",
             "url": "https://www.mlb.com/mariners/fans/mariners-tv"
+          },
+          {
+            "label": "Chicago Sports Network",
+            "color": "#27251F",
+            "url": "https://www.chicagosportsnetwork.com/"
           },
           {
             "label": "Peacock",
