@@ -1706,14 +1706,14 @@
         "venue": "Kauffman Stadium",
         "platforms": [
           {
-            "label": "Detroit SportsNet",
-            "color": "#0C2340",
-            "url": "https://www.mlb.com/tigers"
-          },
-          {
             "label": "Royals.TV",
             "color": "#174885",
             "url": "https://www.mlb.com/royals/fans/royals-tv"
+          },
+          {
+            "label": "Detroit SportsNet",
+            "color": "#0C2340",
+            "url": "https://www.mlb.com/tigers"
           },
           {
             "label": "Apple TV+",
