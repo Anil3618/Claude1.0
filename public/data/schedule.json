@@ -21,14 +21,14 @@
         "venue": "Comerica Park",
         "platforms": [
           {
-            "label": "Detroit SportsNet",
-            "color": "#0C2340",
-            "url": "https://www.mlb.com/tigers"
-          },
-          {
             "label": "NESN",
             "color": "#003087",
             "url": "https://www.nesn.com/"
+          },
+          {
+            "label": "Detroit SportsNet",
+            "color": "#0C2340",
+            "url": "https://www.mlb.com/tigers"
           }
         ]
       },
@@ -50,14 +50,14 @@
         "venue": "Tropicana Field",
         "platforms": [
           {
-            "label": "Sportsnet 1",
-            "color": "#E31937",
-            "url": "https://www.sportsnet.ca/"
-          },
-          {
             "label": "Rays.TV",
             "color": "#092C5C",
             "url": "https://www.mlb.com/rays/fans/rays-tv"
+          },
+          {
+            "label": "Sportsnet 1",
+            "color": "#E31937",
+            "url": "https://www.sportsnet.ca/"
           }
         ]
       },
@@ -248,14 +248,14 @@
         "venue": "Busch Stadium",
         "platforms": [
           {
-            "label": "Brewers.TV",
-            "color": "#12284B",
-            "url": "https://www.mlb.com/brewers/fans/brewers-tv"
-          },
-          {
             "label": "Cardinals.TV",
             "color": "#C41E3A",
             "url": "https://www.mlb.com/cardinals/fans/cardinals-tv"
+          },
+          {
+            "label": "Brewers.TV",
+            "color": "#12284B",
+            "url": "https://www.mlb.com/brewers/fans/brewers-tv"
           }
         ]
       }
@@ -284,14 +284,14 @@
             "url": "https://www.spacecityhomenetwork.com/"
           },
           {
-            "label": "TBS",
-            "color": "#0099CC",
-            "url": "https://www.tbs.com/watchtbs"
-          },
-          {
             "label": "Spectrum SportsNet LA",
             "color": "#005BA1",
             "url": "https://www.spectrumnews1.com/ca/la-sports"
+          },
+          {
+            "label": "TBS",
+            "color": "#0099CC",
+            "url": "https://www.tbs.com/watchtbs"
           }
         ]
       },
@@ -424,14 +424,14 @@
         "venue": "Oracle Park",
         "platforms": [
           {
-            "label": "NBC Sports Bay Area",
-            "color": "#0B2265",
-            "url": "https://www.nbcsports.com/bayarea"
-          },
-          {
             "label": "Padres.TV",
             "color": "#2F241D",
             "url": "https://www.mlb.com/padres/fans/padres-tv"
+          },
+          {
+            "label": "NBC Sports Bay Area",
+            "color": "#0B2265",
+            "url": "https://www.nbcsports.com/bayarea"
           }
         ]
       },
@@ -482,14 +482,14 @@
         "venue": "Busch Stadium",
         "platforms": [
           {
-            "label": "Brewers.TV",
-            "color": "#12284B",
-            "url": "https://www.mlb.com/brewers/fans/brewers-tv"
-          },
-          {
             "label": "Cardinals.TV",
             "color": "#C41E3A",
             "url": "https://www.mlb.com/cardinals/fans/cardinals-tv"
+          },
+          {
+            "label": "Brewers.TV",
+            "color": "#12284B",
+            "url": "https://www.mlb.com/brewers/fans/brewers-tv"
           }
         ]
       },
@@ -885,14 +885,14 @@
         "venue": "Yankee Stadium",
         "platforms": [
           {
-            "label": "YES Network",
-            "color": "#003087",
-            "url": "https://www.yesnetwork.com/"
-          },
-          {
             "label": "Rangers Sports Network",
             "color": "#003278",
             "url": "https://www.mlb.com/rangers"
+          },
+          {
+            "label": "YES Network",
+            "color": "#003087",
+            "url": "https://www.yesnetwork.com/"
           }
         ]
       },
@@ -1030,14 +1030,14 @@
         "venue": "Citizens Bank Park",
         "platforms": [
           {
-            "label": "NBC Sports Philadelphia",
-            "color": "#0B2265",
-            "url": "https://www.nbcsports.com/philadelphia"
-          },
-          {
             "label": "NBC Sports California",
             "color": "#0B2265",
             "url": "https://www.nbcsports.com/california"
+          },
+          {
+            "label": "NBC Sports Philadelphia",
+            "color": "#0B2265",
+            "url": "https://www.nbcsports.com/philadelphia"
           }
         ]
       },
@@ -2270,14 +2270,14 @@
         "venue": "Rate Field",
         "platforms": [
           {
-            "label": "Chicago Sports Network",
-            "color": "#27251F",
-            "url": "https://www.chicagosportsnetwork.com/"
-          },
-          {
             "label": "Mariners.TV",
             "color": "#0C2C56",
             "url": "https://www.mlb.com/mariners/fans/mariners-tv"
+          },
+          {
+            "label": "Chicago Sports Network",
+            "color": "#27251F",
+            "url": "https://www.chicagosportsnetwork.com/"
           },
           {
             "label": "Peacock",
@@ -2623,14 +2623,14 @@
         "venue": "Globe Life Field",
         "platforms": [
           {
-            "label": "Rangers Sports Network",
-            "color": "#003278",
-            "url": "https://www.mlb.com/rangers"
-          },
-          {
             "label": "Dbacks.TV",
             "color": "#A71930",
             "url": "https://www.mlb.com/dbacks/fans/dbacks-tv"
+          },
+          {
+            "label": "Rangers Sports Network",
+            "color": "#003278",
+            "url": "https://www.mlb.com/rangers"
           }
         ]
       },
@@ -2686,14 +2686,14 @@
         "venue": "UNIQLO Field at Dodger Stadium",
         "platforms": [
           {
-            "label": "Spectrum SportsNet LA",
-            "color": "#005BA1",
-            "url": "https://www.spectrumnews1.com/ca/la-sports"
-          },
-          {
             "label": "NBC Sports Bay Area",
             "color": "#0B2265",
             "url": "https://www.nbcsports.com/bayarea"
+          },
+          {
+            "label": "Spectrum SportsNet LA",
+            "color": "#005BA1",
+            "url": "https://www.spectrumnews1.com/ca/la-sports"
           }
         ]
       }
