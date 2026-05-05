@@ -1,353 +1,8 @@
 {
-  "generated_at": "2026-05-04",
-  "game_count": 96,
+  "generated_at": "2026-05-05",
+  "game_count": 90,
   "dates": {
-    "2026-05-04": [
-      {
-        "game_pk": 824363,
-        "game_date": "2026-05-04",
-        "game_time_utc": "2026-05-04T21:40:00Z",
-        "status": "Pre-Game",
-        "home_team": {
-          "id": 115,
-          "name": "Colorado Rockies",
-          "abbreviation": "COL"
-        },
-        "away_team": {
-          "id": 121,
-          "name": "New York Mets",
-          "abbreviation": "NYM"
-        },
-        "venue": "Coors Field",
-        "platforms": [
-          {
-            "label": "SNY",
-            "color": "#002D72",
-            "url": "https://sny.tv/"
-          },
-          {
-            "label": "Rockies.TV",
-            "color": "#333366",
-            "url": "https://www.mlb.com/rockies/fans/rockies-tv"
-          }
-        ]
-      },
-      {
-        "game_pk": 824283,
-        "game_date": "2026-05-04",
-        "game_time_utc": "2026-05-04T22:10:00Z",
-        "status": "Pre-Game",
-        "home_team": {
-          "id": 116,
-          "name": "Detroit Tigers",
-          "abbreviation": "DET"
-        },
-        "away_team": {
-          "id": 111,
-          "name": "Boston Red Sox",
-          "abbreviation": "BOS"
-        },
-        "venue": "Comerica Park",
-        "platforms": [
-          {
-            "label": "Detroit SportsNet",
-            "color": "#0C2340",
-            "url": "https://www.mlb.com/tigers"
-          },
-          {
-            "label": "NESN",
-            "color": "#003087",
-            "url": "https://www.nesn.com/"
-          }
-        ]
-      },
-      {
-        "game_pk": 822984,
-        "game_date": "2026-05-04",
-        "game_time_utc": "2026-05-04T22:40:00Z",
-        "status": "Pre-Game",
-        "home_team": {
-          "id": 139,
-          "name": "Tampa Bay Rays",
-          "abbreviation": "TB"
-        },
-        "away_team": {
-          "id": 141,
-          "name": "Toronto Blue Jays",
-          "abbreviation": "TOR"
-        },
-        "venue": "Tropicana Field",
-        "platforms": [
-          {
-            "label": "Sportsnet 1",
-            "color": "#E31937",
-            "url": "https://www.sportsnet.ca/"
-          },
-          {
-            "label": "Rays.TV",
-            "color": "#092C5C",
-            "url": "https://www.mlb.com/rays/fans/rays-tv"
-          }
-        ]
-      },
-      {
-        "game_pk": 823874,
-        "game_date": "2026-05-04",
-        "game_time_utc": "2026-05-04T22:40:00Z",
-        "status": "Pre-Game",
-        "home_team": {
-          "id": 146,
-          "name": "Miami Marlins",
-          "abbreviation": "MIA"
-        },
-        "away_team": {
-          "id": 143,
-          "name": "Philadelphia Phillies",
-          "abbreviation": "PHI"
-        },
-        "venue": "loanDepot park",
-        "platforms": [
-          {
-            "label": "NBC Sports Philadelphia",
-            "color": "#0B2265",
-            "url": "https://www.nbcsports.com/philadelphia"
-          }
-        ]
-      },
-      {
-        "game_pk": 823552,
-        "game_date": "2026-05-04",
-        "game_time_utc": "2026-05-04T23:05:00Z",
-        "status": "Pre-Game",
-        "home_team": {
-          "id": 147,
-          "name": "New York Yankees",
-          "abbreviation": "NYY"
-        },
-        "away_team": {
-          "id": 110,
-          "name": "Baltimore Orioles",
-          "abbreviation": "BAL"
-        },
-        "venue": "Yankee Stadium",
-        "platforms": [
-          {
-            "label": "YES Network",
-            "color": "#003087",
-            "url": "https://www.yesnetwork.com/"
-          },
-          {
-            "label": "MASN",
-            "color": "#E03A3E",
-            "url": "https://www.masnsports.com/"
-          }
-        ]
-      },
-      {
-        "game_pk": 824684,
-        "game_date": "2026-05-04",
-        "game_time_utc": "2026-05-04T23:10:00Z",
-        "status": "Scheduled",
-        "home_team": {
-          "id": 112,
-          "name": "Chicago Cubs",
-          "abbreviation": "CHC"
-        },
-        "away_team": {
-          "id": 113,
-          "name": "Cincinnati Reds",
-          "abbreviation": "CIN"
-        },
-        "venue": "Wrigley Field",
-        "platforms": [
-          {
-            "label": "Reds.TV",
-            "color": "#C6011F",
-            "url": "https://www.mlb.com/reds/fans/reds-tv"
-          },
-          {
-            "label": "Marquee Sports",
-            "color": "#CC3433",
-            "url": "https://www.marqueesportsnetwork.com/"
-          }
-        ]
-      },
-      {
-        "game_pk": 824120,
-        "game_date": "2026-05-04",
-        "game_time_utc": "2026-05-04T23:40:00Z",
-        "status": "Scheduled",
-        "home_team": {
-          "id": 118,
-          "name": "Kansas City Royals",
-          "abbreviation": "KC"
-        },
-        "away_team": {
-          "id": 114,
-          "name": "Cleveland Guardians",
-          "abbreviation": "CLE"
-        },
-        "venue": "Kauffman Stadium",
-        "platforms": [
-          {
-            "label": "Guardians.TV",
-            "color": "#00385D",
-            "url": "https://www.mlb.com/guardians/fans/guardians-tv"
-          },
-          {
-            "label": "Royals.TV",
-            "color": "#174885",
-            "url": "https://www.mlb.com/royals/fans/royals-tv"
-          }
-        ]
-      },
-      {
-        "game_pk": 823064,
-        "game_date": "2026-05-04",
-        "game_time_utc": "2026-05-04T23:45:00Z",
-        "status": "Pre-Game",
-        "home_team": {
-          "id": 138,
-          "name": "St. Louis Cardinals",
-          "abbreviation": "STL"
-        },
-        "away_team": {
-          "id": 158,
-          "name": "Milwaukee Brewers",
-          "abbreviation": "MIL"
-        },
-        "venue": "Busch Stadium",
-        "platforms": [
-          {
-            "label": "FS1",
-            "color": "#003087",
-            "url": "https://www.foxsports.com/live"
-          },
-          {
-            "label": "Brewers.TV",
-            "color": "#12284B",
-            "url": "https://www.mlb.com/brewers/fans/brewers-tv"
-          },
-          {
-            "label": "Cardinals.TV",
-            "color": "#C41E3A",
-            "url": "https://www.mlb.com/cardinals/fans/cardinals-tv"
-          }
-        ]
-      }
-    ],
     "2026-05-05": [
-      {
-        "game_pk": 824201,
-        "game_date": "2026-05-05",
-        "game_time_utc": "2026-05-05T00:10:00Z",
-        "status": "Scheduled",
-        "home_team": {
-          "id": 117,
-          "name": "Houston Astros",
-          "abbreviation": "HOU"
-        },
-        "away_team": {
-          "id": 119,
-          "name": "Los Angeles Dodgers",
-          "abbreviation": "LAD"
-        },
-        "venue": "Daikin Park",
-        "platforms": [
-          {
-            "label": "Spectrum SportsNet LA",
-            "color": "#005BA1",
-            "url": "https://www.spectrumnews1.com/ca/la-sports"
-          },
-          {
-            "label": "Space City Home Network",
-            "color": "#002D62",
-            "url": "https://www.spacecityhomenetwork.com/"
-          }
-        ]
-      },
-      {
-        "game_pk": 824039,
-        "game_date": "2026-05-05",
-        "game_time_utc": "2026-05-05T01:38:00Z",
-        "status": "Scheduled",
-        "home_team": {
-          "id": 108,
-          "name": "Los Angeles Angels",
-          "abbreviation": "LAA"
-        },
-        "away_team": {
-          "id": 145,
-          "name": "Chicago White Sox",
-          "abbreviation": "CWS"
-        },
-        "venue": "Angel Stadium",
-        "platforms": [
-          {
-            "label": "Chicago Sports Network",
-            "color": "#27251F",
-            "url": "https://www.chicagosportsnetwork.com/"
-          }
-        ]
-      },
-      {
-        "game_pk": 823143,
-        "game_date": "2026-05-05",
-        "game_time_utc": "2026-05-05T01:40:00Z",
-        "status": "Scheduled",
-        "home_team": {
-          "id": 136,
-          "name": "Seattle Mariners",
-          "abbreviation": "SEA"
-        },
-        "away_team": {
-          "id": 144,
-          "name": "Atlanta Braves",
-          "abbreviation": "ATL"
-        },
-        "venue": "T-Mobile Park",
-        "platforms": [
-          {
-            "label": "Mariners.TV",
-            "color": "#0C2C56",
-            "url": "https://www.mlb.com/mariners/fans/mariners-tv"
-          },
-          {
-            "label": "BravesVision",
-            "color": "#CE1141",
-            "url": "https://www.mlb.com/braves/ballpark/bravesvision"
-          }
-        ]
-      },
-      {
-        "game_pk": 823228,
-        "game_date": "2026-05-05",
-        "game_time_utc": "2026-05-05T01:45:00Z",
-        "status": "Scheduled",
-        "home_team": {
-          "id": 137,
-          "name": "San Francisco Giants",
-          "abbreviation": "SF"
-        },
-        "away_team": {
-          "id": 135,
-          "name": "San Diego Padres",
-          "abbreviation": "SD"
-        },
-        "venue": "Oracle Park",
-        "platforms": [
-          {
-            "label": "NBC Sports Bay Area",
-            "color": "#0B2265",
-            "url": "https://www.nbcsports.com/bayarea"
-          },
-          {
-            "label": "Padres.TV",
-            "color": "#2F241D",
-            "url": "https://www.mlb.com/padres/fans/padres-tv"
-          }
-        ]
-      },
       {
         "game_pk": 824281,
         "game_date": "2026-05-05",
@@ -2861,6 +2516,184 @@
             "label": "Peacock",
             "color": "#000000",
             "url": "https://www.peacocktv.com/"
+          }
+        ]
+      }
+    ],
+    "2026-05-11": [
+      {
+        "game_pk": 824441,
+        "game_date": "2026-05-11",
+        "game_time_utc": "2026-05-11T22:10:00Z",
+        "status": "Scheduled",
+        "home_team": {
+          "id": 114,
+          "name": "Cleveland Guardians",
+          "abbreviation": "CLE"
+        },
+        "away_team": {
+          "id": 108,
+          "name": "Los Angeles Angels",
+          "abbreviation": "LAA"
+        },
+        "venue": "Progressive Field",
+        "platforms": [
+          {
+            "label": "Guardians.TV",
+            "color": "#00385D",
+            "url": "https://www.mlb.com/guardians/fans/guardians-tv"
+          }
+        ]
+      },
+      {
+        "game_pk": 824844,
+        "game_date": "2026-05-11",
+        "game_time_utc": "2026-05-11T22:35:00Z",
+        "status": "Scheduled",
+        "home_team": {
+          "id": 110,
+          "name": "Baltimore Orioles",
+          "abbreviation": "BAL"
+        },
+        "away_team": {
+          "id": 147,
+          "name": "New York Yankees",
+          "abbreviation": "NYY"
+        },
+        "venue": "Oriole Park at Camden Yards",
+        "platforms": [
+          {
+            "label": "YES Network",
+            "color": "#003087",
+            "url": "https://www.yesnetwork.com/"
+          },
+          {
+            "label": "MASN",
+            "color": "#E03A3E",
+            "url": "https://www.masnsports.com/"
+          }
+        ]
+      },
+      {
+        "game_pk": 822818,
+        "game_date": "2026-05-11",
+        "game_time_utc": "2026-05-11T23:07:00Z",
+        "status": "Scheduled",
+        "home_team": {
+          "id": 141,
+          "name": "Toronto Blue Jays",
+          "abbreviation": "TOR"
+        },
+        "away_team": {
+          "id": 139,
+          "name": "Tampa Bay Rays",
+          "abbreviation": "TB"
+        },
+        "venue": "Rogers Centre",
+        "platforms": [
+          {
+            "label": "Sportsnet 1",
+            "color": "#E31937",
+            "url": "https://www.sportsnet.ca/"
+          },
+          {
+            "label": "Rays.TV",
+            "color": "#092C5C",
+            "url": "https://www.mlb.com/rays/fans/rays-tv"
+          }
+        ]
+      }
+    ],
+    "2026-05-12": [
+      {
+        "game_pk": 822901,
+        "game_date": "2026-05-12",
+        "game_time_utc": "2026-05-12T00:05:00Z",
+        "status": "Scheduled",
+        "home_team": {
+          "id": 140,
+          "name": "Texas Rangers",
+          "abbreviation": "TEX"
+        },
+        "away_team": {
+          "id": 109,
+          "name": "Arizona Diamondbacks",
+          "abbreviation": "AZ"
+        },
+        "venue": "Globe Life Field",
+        "platforms": [
+          {
+            "label": "Rangers Sports Network",
+            "color": "#003278",
+            "url": "https://www.mlb.com/rangers"
+          },
+          {
+            "label": "Dbacks.TV",
+            "color": "#A71930",
+            "url": "https://www.mlb.com/dbacks/fans/dbacks-tv"
+          }
+        ]
+      },
+      {
+        "game_pk": 824199,
+        "game_date": "2026-05-12",
+        "game_time_utc": "2026-05-12T00:10:00Z",
+        "status": "Scheduled",
+        "home_team": {
+          "id": 117,
+          "name": "Houston Astros",
+          "abbreviation": "HOU"
+        },
+        "away_team": {
+          "id": 136,
+          "name": "Seattle Mariners",
+          "abbreviation": "SEA"
+        },
+        "venue": "Daikin Park",
+        "platforms": [
+          {
+            "label": "FS1",
+            "color": "#003087",
+            "url": "https://www.foxsports.com/live"
+          },
+          {
+            "label": "Space City Home Network",
+            "color": "#002D62",
+            "url": "https://www.spacecityhomenetwork.com/"
+          },
+          {
+            "label": "Mariners.TV",
+            "color": "#0C2C56",
+            "url": "https://www.mlb.com/mariners/fans/mariners-tv"
+          }
+        ]
+      },
+      {
+        "game_pk": 823953,
+        "game_date": "2026-05-12",
+        "game_time_utc": "2026-05-12T02:10:00Z",
+        "status": "Scheduled",
+        "home_team": {
+          "id": 119,
+          "name": "Los Angeles Dodgers",
+          "abbreviation": "LAD"
+        },
+        "away_team": {
+          "id": 137,
+          "name": "San Francisco Giants",
+          "abbreviation": "SF"
+        },
+        "venue": "UNIQLO Field at Dodger Stadium",
+        "platforms": [
+          {
+            "label": "Spectrum SportsNet LA",
+            "color": "#005BA1",
+            "url": "https://www.spectrumnews1.com/ca/la-sports"
+          },
+          {
+            "label": "NBC Sports Bay Area",
+            "color": "#0B2265",
+            "url": "https://www.nbcsports.com/bayarea"
           }
         ]
       }
