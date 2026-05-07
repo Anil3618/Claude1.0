@@ -2389,14 +2389,14 @@
         "venue": "PNC Park",
         "platforms": [
           {
-            "label": "Rockies.TV",
-            "color": "#333366",
-            "url": "https://www.mlb.com/rockies/fans/rockies-tv"
-          },
-          {
             "label": "SportsNet Pittsburgh",
             "color": "#FDB827",
             "url": "https://www.sportsnetpittsburgh.com/"
+          },
+          {
+            "label": "Rockies.TV",
+            "color": "#333366",
+            "url": "https://www.mlb.com/rockies/fans/rockies-tv"
           }
         ]
       },
