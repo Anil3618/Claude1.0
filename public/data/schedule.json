@@ -7,7 +7,7 @@
         "game_pk": 823551,
         "game_date": "2026-05-07",
         "game_time_utc": "2026-05-07T16:35:00Z",
-        "status": "Pre-Game",
+        "status": "In Progress",
         "home_team": {
           "id": 147,
           "name": "New York Yankees",
@@ -21,14 +21,14 @@
         "venue": "Yankee Stadium",
         "platforms": [
           {
-            "label": "Rangers Sports Network",
-            "color": "#003278",
-            "url": "https://www.mlb.com/rangers"
-          },
-          {
             "label": "YES Network",
             "color": "#003087",
             "url": "https://www.yesnetwork.com/"
+          },
+          {
+            "label": "Rangers Sports Network",
+            "color": "#003278",
+            "url": "https://www.mlb.com/rangers"
           }
         ]
       },
@@ -36,7 +36,7 @@
         "game_pk": 822741,
         "game_date": "2026-05-07",
         "game_time_utc": "2026-05-07T17:05:00Z",
-        "status": "Scheduled",
+        "status": "In Progress",
         "home_team": {
           "id": 120,
           "name": "Washington Nationals",
@@ -65,7 +65,7 @@
         "game_pk": 824117,
         "game_date": "2026-05-07",
         "game_time_utc": "2026-05-07T18:10:00Z",
-        "status": "Scheduled",
+        "status": "In Progress",
         "home_team": {
           "id": 118,
           "name": "Kansas City Royals",
@@ -94,7 +94,7 @@
         "game_pk": 824681,
         "game_date": "2026-05-07",
         "game_time_utc": "2026-05-07T18:20:00Z",
-        "status": "Scheduled",
+        "status": "In Progress",
         "home_team": {
           "id": 112,
           "name": "Chicago Cubs",
@@ -123,7 +123,7 @@
         "game_pk": 824362,
         "game_date": "2026-05-07",
         "game_time_utc": "2026-05-07T19:10:00Z",
-        "status": "Scheduled",
+        "status": "In Progress",
         "home_team": {
           "id": 115,
           "name": "Colorado Rockies",
@@ -152,7 +152,7 @@
         "game_pk": 825090,
         "game_date": "2026-05-07",
         "game_time_utc": "2026-05-07T19:40:00Z",
-        "status": "Scheduled",
+        "status": "In Progress",
         "home_team": {
           "id": 109,
           "name": "Arizona Diamondbacks",
@@ -181,7 +181,7 @@
         "game_pk": 823467,
         "game_date": "2026-05-07",
         "game_time_utc": "2026-05-07T22:40:00Z",
-        "status": "Scheduled",
+        "status": "Pre-Game",
         "home_team": {
           "id": 143,
           "name": "Philadelphia Phillies",
@@ -195,14 +195,14 @@
         "venue": "Citizens Bank Park",
         "platforms": [
           {
-            "label": "NBC Sports California",
-            "color": "#0B2265",
-            "url": "https://www.nbcsports.com/california"
-          },
-          {
             "label": "NBC Sports Philadelphia",
             "color": "#0B2265",
             "url": "https://www.nbcsports.com/philadelphia"
+          },
+          {
+            "label": "NBC Sports California",
+            "color": "#0B2265",
+            "url": "https://www.nbcsports.com/california"
           }
         ]
       },
@@ -210,7 +210,7 @@
         "game_pk": 823870,
         "game_date": "2026-05-07",
         "game_time_utc": "2026-05-07T22:40:00Z",
-        "status": "Scheduled",
+        "status": "Pre-Game",
         "home_team": {
           "id": 146,
           "name": "Miami Marlins",
@@ -234,7 +234,7 @@
         "game_pk": 824767,
         "game_date": "2026-05-07",
         "game_time_utc": "2026-05-07T23:10:00Z",
-        "status": "Scheduled",
+        "status": "Pre-Game",
         "home_team": {
           "id": 111,
           "name": "Boston Red Sox",
@@ -1788,14 +1788,14 @@
         "venue": "Globe Life Field",
         "platforms": [
           {
-            "label": "Dbacks.TV",
-            "color": "#A71930",
-            "url": "https://www.mlb.com/dbacks/fans/dbacks-tv"
-          },
-          {
             "label": "Rangers Sports Network",
             "color": "#003278",
             "url": "https://www.mlb.com/rangers"
+          },
+          {
+            "label": "Dbacks.TV",
+            "color": "#A71930",
+            "url": "https://www.mlb.com/dbacks/fans/dbacks-tv"
           }
         ]
       },
@@ -1851,14 +1851,14 @@
         "venue": "UNIQLO Field at Dodger Stadium",
         "platforms": [
           {
-            "label": "NBC Sports Bay Area",
-            "color": "#0B2265",
-            "url": "https://www.nbcsports.com/bayarea"
-          },
-          {
             "label": "Spectrum SportsNet LA",
             "color": "#005BA1",
             "url": "https://www.spectrumnews1.com/ca/la-sports"
+          },
+          {
+            "label": "NBC Sports Bay Area",
+            "color": "#0B2265",
+            "url": "https://www.nbcsports.com/bayarea"
           }
         ]
       },
@@ -1904,14 +1904,14 @@
         "venue": "Oriole Park at Camden Yards",
         "platforms": [
           {
-            "label": "YES Network",
-            "color": "#003087",
-            "url": "https://www.yesnetwork.com/"
-          },
-          {
             "label": "MASN",
             "color": "#E03A3E",
             "url": "https://www.masnsports.com/"
+          },
+          {
+            "label": "YES Network",
+            "color": "#003087",
+            "url": "https://www.yesnetwork.com/"
           }
         ]
       },
@@ -1991,14 +1991,14 @@
         "venue": "Fenway Park",
         "platforms": [
           {
-            "label": "NESN",
-            "color": "#003087",
-            "url": "https://www.nesn.com/"
-          },
-          {
             "label": "NBC Sports Philadelphia",
             "color": "#0B2265",
             "url": "https://www.nbcsports.com/philadelphia"
+          },
+          {
+            "label": "NESN",
+            "color": "#003087",
+            "url": "https://www.nesn.com/"
           }
         ]
       },
@@ -2587,14 +2587,14 @@
         "venue": "American Family Field",
         "platforms": [
           {
-            "label": "Brewers.TV",
-            "color": "#12284B",
-            "url": "https://www.mlb.com/brewers/fans/brewers-tv"
-          },
-          {
             "label": "Padres.TV",
             "color": "#2F241D",
             "url": "https://www.mlb.com/padres/fans/padres-tv"
+          },
+          {
+            "label": "Brewers.TV",
+            "color": "#12284B",
+            "url": "https://www.mlb.com/brewers/fans/brewers-tv"
           }
         ]
       }
