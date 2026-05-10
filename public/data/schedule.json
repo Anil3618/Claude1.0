@@ -7,7 +7,7 @@
         "game_pk": 823868,
         "game_date": "2026-05-10",
         "game_time_utc": "2026-05-10T16:15:00Z",
-        "status": "Scheduled",
+        "status": "In Progress",
         "home_team": {
           "id": 146,
           "name": "Miami Marlins",
@@ -36,7 +36,7 @@
         "game_pk": 824845,
         "game_date": "2026-05-10",
         "game_time_utc": "2026-05-10T17:35:00Z",
-        "status": "Scheduled",
+        "status": "In Progress",
         "home_team": {
           "id": 110,
           "name": "Baltimore Orioles",
@@ -70,7 +70,7 @@
         "game_pk": 824765,
         "game_date": "2026-05-10",
         "game_time_utc": "2026-05-10T17:35:00Z",
-        "status": "Pre-Game",
+        "status": "In Progress",
         "home_team": {
           "id": 111,
           "name": "Boston Red Sox",
@@ -104,7 +104,7 @@
         "game_pk": 823463,
         "game_date": "2026-05-10",
         "game_time_utc": "2026-05-10T17:35:00Z",
-        "status": "Scheduled",
+        "status": "In Progress",
         "home_team": {
           "id": 143,
           "name": "Philadelphia Phillies",
@@ -138,7 +138,7 @@
         "game_pk": 822819,
         "game_date": "2026-05-10",
         "game_time_utc": "2026-05-10T17:37:00Z",
-        "status": "Scheduled",
+        "status": "In Progress",
         "home_team": {
           "id": 141,
           "name": "Toronto Blue Jays",
@@ -172,7 +172,7 @@
         "game_pk": 824520,
         "game_date": "2026-05-10",
         "game_time_utc": "2026-05-10T17:40:00Z",
-        "status": "Scheduled",
+        "status": "In Progress",
         "home_team": {
           "id": 113,
           "name": "Cincinnati Reds",
@@ -206,7 +206,7 @@
         "game_pk": 824440,
         "game_date": "2026-05-10",
         "game_time_utc": "2026-05-10T17:40:00Z",
-        "status": "Scheduled",
+        "status": "In Progress",
         "home_team": {
           "id": 114,
           "name": "Cleveland Guardians",
@@ -240,7 +240,7 @@
         "game_pk": 824605,
         "game_date": "2026-05-10",
         "game_time_utc": "2026-05-10T18:10:00Z",
-        "status": "Scheduled",
+        "status": "In Progress",
         "home_team": {
           "id": 145,
           "name": "Chicago White Sox",
@@ -274,7 +274,7 @@
         "game_pk": 823793,
         "game_date": "2026-05-10",
         "game_time_utc": "2026-05-10T18:10:00Z",
-        "status": "Scheduled",
+        "status": "In Progress",
         "home_team": {
           "id": 158,
           "name": "Milwaukee Brewers",
@@ -308,7 +308,7 @@
         "game_pk": 822902,
         "game_date": "2026-05-10",
         "game_time_utc": "2026-05-10T18:35:00Z",
-        "status": "Scheduled",
+        "status": "In Progress",
         "home_team": {
           "id": 140,
           "name": "Texas Rangers",
@@ -342,7 +342,7 @@
         "game_pk": 823221,
         "game_date": "2026-05-10",
         "game_time_utc": "2026-05-10T20:05:00Z",
-        "status": "Scheduled",
+        "status": "Pre-Game",
         "home_team": {
           "id": 137,
           "name": "San Francisco Giants",
@@ -376,7 +376,7 @@
         "game_pk": 825085,
         "game_date": "2026-05-10",
         "game_time_utc": "2026-05-10T20:10:00Z",
-        "status": "Scheduled",
+        "status": "Pre-Game",
         "home_team": {
           "id": 109,
           "name": "Arizona Diamondbacks",
@@ -410,7 +410,7 @@
         "game_pk": 823305,
         "game_date": "2026-05-10",
         "game_time_utc": "2026-05-10T20:10:00Z",
-        "status": "Scheduled",
+        "status": "Pre-Game",
         "home_team": {
           "id": 135,
           "name": "San Diego Padres",
@@ -444,7 +444,7 @@
         "game_pk": 823954,
         "game_date": "2026-05-10",
         "game_time_utc": "2026-05-10T20:10:00Z",
-        "status": "Scheduled",
+        "status": "Pre-Game",
         "home_team": {
           "id": 119,
           "name": "Los Angeles Dodgers",
@@ -478,7 +478,7 @@
         "game_pk": 824113,
         "game_date": "2026-05-10",
         "game_time_utc": "2026-05-10T23:20:00Z",
-        "status": "Scheduled",
+        "status": "Pre-Game",
         "home_team": {
           "id": 118,
           "name": "Kansas City Royals",
