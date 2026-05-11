@@ -7,7 +7,7 @@
         "game_pk": 824441,
         "game_date": "2026-05-11",
         "game_time_utc": "2026-05-11T22:10:00Z",
-        "status": "Scheduled",
+        "status": "Pre-Game",
         "home_team": {
           "id": 114,
           "name": "Cleveland Guardians",
@@ -31,7 +31,7 @@
         "game_pk": 824844,
         "game_date": "2026-05-11",
         "game_time_utc": "2026-05-11T22:35:00Z",
-        "status": "Scheduled",
+        "status": "Pre-Game",
         "home_team": {
           "id": 110,
           "name": "Baltimore Orioles",
@@ -60,7 +60,7 @@
         "game_pk": 822818,
         "game_date": "2026-05-11",
         "game_time_utc": "2026-05-11T23:07:00Z",
-        "status": "Scheduled",
+        "status": "Pre-Game",
         "home_team": {
           "id": 141,
           "name": "Toronto Blue Jays",
