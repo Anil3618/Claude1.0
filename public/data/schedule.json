@@ -7,7 +7,7 @@
         "game_pk": 824442,
         "game_date": "2026-05-12",
         "game_time_utc": "2026-05-12T22:10:00Z",
-        "status": "Scheduled",
+        "status": "Pre-Game",
         "home_team": {
           "id": 114,
           "name": "Cleveland Guardians",
@@ -31,7 +31,7 @@
         "game_pk": 824843,
         "game_date": "2026-05-12",
         "game_time_utc": "2026-05-12T22:35:00Z",
-        "status": "Scheduled",
+        "status": "Pre-Game",
         "home_team": {
           "id": 110,
           "name": "Baltimore Orioles",
@@ -60,7 +60,7 @@
         "game_pk": 824521,
         "game_date": "2026-05-12",
         "game_time_utc": "2026-05-12T22:40:00Z",
-        "status": "Scheduled",
+        "status": "Pre-Game",
         "home_team": {
           "id": 113,
           "name": "Cincinnati Reds",
@@ -89,7 +89,7 @@
         "game_pk": 823385,
         "game_date": "2026-05-12",
         "game_time_utc": "2026-05-12T22:40:00Z",
-        "status": "Scheduled",
+        "status": "Pre-Game",
         "home_team": {
           "id": 134,
           "name": "Pittsburgh Pirates",
@@ -118,7 +118,7 @@
         "game_pk": 824764,
         "game_date": "2026-05-12",
         "game_time_utc": "2026-05-12T22:45:00Z",
-        "status": "Scheduled",
+        "status": "Pre-Game",
         "home_team": {
           "id": 111,
           "name": "Boston Red Sox",
@@ -132,14 +132,14 @@
         "venue": "Fenway Park",
         "platforms": [
           {
-            "label": "NESN",
-            "color": "#003087",
-            "url": "https://www.nesn.com/"
-          },
-          {
             "label": "NBC Sports Philadelphia",
             "color": "#0B2265",
             "url": "https://www.nbcsports.com/philadelphia"
+          },
+          {
+            "label": "NESN",
+            "color": "#003087",
+            "url": "https://www.nesn.com/"
           }
         ]
       },
@@ -147,7 +147,7 @@
         "game_pk": 822817,
         "game_date": "2026-05-12",
         "game_time_utc": "2026-05-12T23:07:00Z",
-        "status": "Scheduled",
+        "status": "Pre-Game",
         "home_team": {
           "id": 141,
           "name": "Toronto Blue Jays",
@@ -176,7 +176,7 @@
         "game_pk": 823632,
         "game_date": "2026-05-12",
         "game_time_utc": "2026-05-12T23:10:00Z",
-        "status": "Scheduled",
+        "status": "Pre-Game",
         "home_team": {
           "id": 121,
           "name": "New York Mets",
@@ -205,7 +205,7 @@
         "game_pk": 824927,
         "game_date": "2026-05-12",
         "game_time_utc": "2026-05-12T23:15:00Z",
-        "status": "Scheduled",
+        "status": "Pre-Game",
         "home_team": {
           "id": 144,
           "name": "Atlanta Braves",
@@ -263,7 +263,7 @@
         "game_pk": 823712,
         "game_date": "2026-05-12",
         "game_time_utc": "2026-05-12T23:40:00Z",
-        "status": "Scheduled",
+        "status": "Pre-Game",
         "home_team": {
           "id": 142,
           "name": "Minnesota Twins",
@@ -318,7 +318,7 @@
         "game_pk": 822903,
         "game_date": "2026-05-13",
         "game_time_utc": "2026-05-13T00:05:00Z",
-        "status": "Scheduled",
+        "status": "Pre-Game",
         "home_team": {
           "id": 140,
           "name": "Texas Rangers",
@@ -728,14 +728,14 @@
         "venue": "American Family Field",
         "platforms": [
           {
-            "label": "Brewers.TV",
-            "color": "#12284B",
-            "url": "https://www.mlb.com/brewers/fans/brewers-tv"
-          },
-          {
             "label": "Padres.TV",
             "color": "#2F241D",
             "url": "https://www.mlb.com/padres/fans/padres-tv"
+          },
+          {
+            "label": "Brewers.TV",
+            "color": "#12284B",
+            "url": "https://www.mlb.com/brewers/fans/brewers-tv"
           }
         ]
       }
