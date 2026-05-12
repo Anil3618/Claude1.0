@@ -132,14 +132,14 @@
         "venue": "Fenway Park",
         "platforms": [
           {
-            "label": "NBC Sports Philadelphia",
-            "color": "#0B2265",
-            "url": "https://www.nbcsports.com/philadelphia"
-          },
-          {
             "label": "NESN",
             "color": "#003087",
             "url": "https://www.nesn.com/"
+          },
+          {
+            "label": "NBC Sports Philadelphia",
+            "color": "#0B2265",
+            "url": "https://www.nbcsports.com/philadelphia"
           }
         ]
       },
@@ -728,14 +728,14 @@
         "venue": "American Family Field",
         "platforms": [
           {
-            "label": "Padres.TV",
-            "color": "#2F241D",
-            "url": "https://www.mlb.com/padres/fans/padres-tv"
-          },
-          {
             "label": "Brewers.TV",
             "color": "#12284B",
             "url": "https://www.mlb.com/brewers/fans/brewers-tv"
+          },
+          {
+            "label": "Padres.TV",
+            "color": "#2F241D",
+            "url": "https://www.mlb.com/padres/fans/padres-tv"
           }
         ]
       }
