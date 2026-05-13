@@ -7,7 +7,7 @@
         "game_pk": 824841,
         "game_date": "2026-05-13",
         "game_time_utc": "2026-05-13T17:05:00Z",
-        "status": "Pre-Game",
+        "status": "Final",
         "home_team": {
           "id": 110,
           "name": "Baltimore Orioles",
@@ -36,7 +36,7 @@
         "game_pk": 824438,
         "game_date": "2026-05-13",
         "game_time_utc": "2026-05-13T17:10:00Z",
-        "status": "Pre-Game",
+        "status": "Final",
         "home_team": {
           "id": 114,
           "name": "Cleveland Guardians",
@@ -60,7 +60,7 @@
         "game_pk": 824519,
         "game_date": "2026-05-13",
         "game_time_utc": "2026-05-13T22:40:00Z",
-        "status": "Scheduled",
+        "status": "Pre-Game",
         "home_team": {
           "id": 113,
           "name": "Cincinnati Reds",
@@ -89,7 +89,7 @@
         "game_pk": 823386,
         "game_date": "2026-05-13",
         "game_time_utc": "2026-05-13T22:40:00Z",
-        "status": "Scheduled",
+        "status": "Pre-Game",
         "home_team": {
           "id": 134,
           "name": "Pittsburgh Pirates",
@@ -118,7 +118,7 @@
         "game_pk": 824763,
         "game_date": "2026-05-13",
         "game_time_utc": "2026-05-13T22:45:00Z",
-        "status": "Scheduled",
+        "status": "Pre-Game",
         "home_team": {
           "id": 111,
           "name": "Boston Red Sox",
@@ -147,7 +147,7 @@
         "game_pk": 822815,
         "game_date": "2026-05-13",
         "game_time_utc": "2026-05-13T23:07:00Z",
-        "status": "Scheduled",
+        "status": "Pre-Game",
         "home_team": {
           "id": 141,
           "name": "Toronto Blue Jays",
@@ -176,7 +176,7 @@
         "game_pk": 823631,
         "game_date": "2026-05-13",
         "game_time_utc": "2026-05-13T23:10:00Z",
-        "status": "Scheduled",
+        "status": "Pre-Game",
         "home_team": {
           "id": 121,
           "name": "New York Mets",
@@ -205,7 +205,7 @@
         "game_pk": 824928,
         "game_date": "2026-05-13",
         "game_time_utc": "2026-05-13T23:15:00Z",
-        "status": "Scheduled",
+        "status": "Pre-Game",
         "home_team": {
           "id": 144,
           "name": "Atlanta Braves",
@@ -234,7 +234,7 @@
         "game_pk": 824603,
         "game_date": "2026-05-13",
         "game_time_utc": "2026-05-13T23:40:00Z",
-        "status": "Scheduled",
+        "status": "Pre-Game",
         "home_team": {
           "id": 145,
           "name": "Chicago White Sox",
@@ -301,14 +301,14 @@
         "venue": "American Family Field",
         "platforms": [
           {
-            "label": "Brewers.TV",
-            "color": "#12284B",
-            "url": "https://www.mlb.com/brewers/fans/brewers-tv"
-          },
-          {
             "label": "Padres.TV",
             "color": "#2F241D",
             "url": "https://www.mlb.com/padres/fans/padres-tv"
+          },
+          {
+            "label": "Brewers.TV",
+            "color": "#12284B",
+            "url": "https://www.mlb.com/brewers/fans/brewers-tv"
           }
         ]
       }
@@ -318,7 +318,7 @@
         "game_pk": 822900,
         "game_date": "2026-05-14",
         "game_time_utc": "2026-05-14T00:05:00Z",
-        "status": "Scheduled",
+        "status": "Pre-Game",
         "home_team": {
           "id": 140,
           "name": "Texas Rangers",
@@ -2626,14 +2626,14 @@
         "venue": "Tropicana Field",
         "platforms": [
           {
-            "label": "Rays.TV",
-            "color": "#092C5C",
-            "url": "https://www.mlb.com/rays/fans/rays-tv"
-          },
-          {
             "label": "MASN",
             "color": "#E03A3E",
             "url": "https://www.masnsports.com/"
+          },
+          {
+            "label": "Rays.TV",
+            "color": "#092C5C",
+            "url": "https://www.mlb.com/rays/fans/rays-tv"
           }
         ]
       },
@@ -2913,14 +2913,14 @@
         "venue": "Petco Park",
         "platforms": [
           {
-            "label": "Spectrum SportsNet LA",
-            "color": "#005BA1",
-            "url": "https://www.spectrumnews1.com/ca/la-sports"
-          },
-          {
             "label": "Padres.TV",
             "color": "#2F241D",
             "url": "https://www.mlb.com/padres/fans/padres-tv"
+          },
+          {
+            "label": "Spectrum SportsNet LA",
+            "color": "#005BA1",
+            "url": "https://www.spectrumnews1.com/ca/la-sports"
           }
         ]
       },
