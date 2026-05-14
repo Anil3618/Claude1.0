@@ -15,6 +15,12 @@ interface Props {
   game: Game;
 }
 
+interface HighlightResult {
+  videoId: string;
+  title: string;
+  thumbnail: string;
+}
+
 interface LiveData {
   awayRuns: number;
   homeRuns: number;
@@ -50,6 +56,7 @@ export function GameCard({ game }: Props) {
     seedLive ? "live" : seedFinal ? "final" : "scheduled"
   );
   const [live, setLive] = useState<LiveData | null>(null);
+  const [highlight, setHighlight] = useState<HighlightResult | null>(null);
 
   const isToday = game.game_date === TODAY;
   const startTime = game.game_time_utc ? new Date(game.game_time_utc) : null;
@@ -108,6 +115,20 @@ export function GameCard({ game }: Props) {
   useEffect(() => {
     if (shouldFetchFinalScore) poll();
   }, [shouldFetchFinalScore, poll]);
+
+  // Fetch highlight thumbnail when game is final
+  useEffect(() => {
+    if (phase !== "final") return;
+    const params = new URLSearchParams({
+      away: game.away_team.abbreviation,
+      home: game.home_team.abbreviation,
+      date: game.game_date,
+    });
+    fetch(`/api/highlights/${game.game_pk}?${params}`)
+      .then(r => r.json())
+      .then(data => { if (data?.videoId) setHighlight(data); })
+      .catch(() => {});
+  }, [phase, game.game_pk, game.away_team.abbreviation, game.home_team.abbreviation, game.game_date]);
 
   // ── Status column ─────────────────────────────────────────────────
   function StatusColumn() {
@@ -205,6 +226,29 @@ export function GameCard({ game }: Props) {
           </div>
         ) : (
           <p className="text-xs text-gray-600 italic">Broadcast info not yet available</p>
+        )}
+
+        {phase === "final" && highlight && (
+          <a
+            href={`https://www.youtube.com/watch?v=${highlight.videoId}`}
+            target="_blank"
+            rel="noopener noreferrer"
+            className="mt-3 block rounded-lg overflow-hidden relative group"
+          >
+            {/* eslint-disable-next-line @next/next/no-img-element */}
+            <img src={highlight.thumbnail} alt={highlight.title}
+              className="w-full h-28 object-cover" />
+            <div className="absolute inset-0 bg-black/50 flex items-center justify-center group-hover:bg-black/30 transition-colors">
+              <div className="w-10 h-10 rounded-full bg-red-600 flex items-center justify-center shadow-lg">
+                <svg className="w-4 h-4 text-white ml-0.5" fill="currentColor" viewBox="0 0 24 24">
+                  <path d="M8 5v14l11-7z"/>
+                </svg>
+              </div>
+            </div>
+            <div className="absolute bottom-0 left-0 right-0 p-2 bg-gradient-to-t from-black/80 to-transparent">
+              <p className="text-[10px] text-white/80 truncate">{highlight.title}</p>
+            </div>
+          </a>
         )}
       </div>
     </div>
