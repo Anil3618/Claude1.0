@@ -7,7 +7,7 @@
         "game_pk": 823383,
         "game_date": "2026-05-14",
         "game_time_utc": "2026-05-14T16:35:00Z",
-        "status": "Pre-Game",
+        "status": "Final",
         "home_team": {
           "id": 134,
           "name": "Pittsburgh Pirates",
@@ -36,7 +36,7 @@
         "game_pk": 824517,
         "game_date": "2026-05-14",
         "game_time_utc": "2026-05-14T16:40:00Z",
-        "status": "Pre-Game",
+        "status": "Final",
         "home_team": {
           "id": 113,
           "name": "Cincinnati Reds",
@@ -65,7 +65,7 @@
         "game_pk": 823630,
         "game_date": "2026-05-14",
         "game_time_utc": "2026-05-14T17:10:00Z",
-        "status": "Pre-Game",
+        "status": "Game Over",
         "home_team": {
           "id": 121,
           "name": "New York Mets",
@@ -94,7 +94,7 @@
         "game_pk": 823709,
         "game_date": "2026-05-14",
         "game_time_utc": "2026-05-14T17:40:00Z",
-        "status": "Pre-Game",
+        "status": "In Progress",
         "home_team": {
           "id": 142,
           "name": "Minnesota Twins",
@@ -118,7 +118,7 @@
         "game_pk": 823789,
         "game_date": "2026-05-14",
         "game_time_utc": "2026-05-14T17:40:00Z",
-        "status": "Scheduled",
+        "status": "In Progress",
         "home_team": {
           "id": 158,
           "name": "Milwaukee Brewers",
@@ -147,7 +147,7 @@
         "game_pk": 824196,
         "game_date": "2026-05-14",
         "game_time_utc": "2026-05-14T18:10:00Z",
-        "status": "Scheduled",
+        "status": "In Progress",
         "home_team": {
           "id": 117,
           "name": "Houston Astros",
@@ -176,7 +176,7 @@
         "game_pk": 825008,
         "game_date": "2026-05-14",
         "game_time_utc": "2026-05-14T19:05:00Z",
-        "status": "Scheduled",
+        "status": "In Progress",
         "home_team": {
           "id": 133,
           "name": "Athletics",
@@ -205,7 +205,7 @@
         "game_pk": 824762,
         "game_date": "2026-05-14",
         "game_time_utc": "2026-05-14T22:45:00Z",
-        "status": "Scheduled",
+        "status": "Pre-Game",
         "home_team": {
           "id": 111,
           "name": "Boston Red Sox",
@@ -234,7 +234,7 @@
         "game_pk": 824926,
         "game_date": "2026-05-14",
         "game_time_utc": "2026-05-14T23:15:00Z",
-        "status": "Scheduled",
+        "status": "Pre-Game",
         "home_team": {
           "id": 144,
           "name": "Atlanta Braves",
@@ -263,7 +263,7 @@
         "game_pk": 824602,
         "game_date": "2026-05-14",
         "game_time_utc": "2026-05-14T23:40:00Z",
-        "status": "Scheduled",
+        "status": "Pre-Game",
         "home_team": {
           "id": 145,
           "name": "Chicago White Sox",
@@ -2199,14 +2199,14 @@
         "venue": "Tropicana Field",
         "platforms": [
           {
-            "label": "Rays.TV",
-            "color": "#092C5C",
-            "url": "https://www.mlb.com/rays/fans/rays-tv"
-          },
-          {
             "label": "MASN",
             "color": "#E03A3E",
             "url": "https://www.masnsports.com/"
+          },
+          {
+            "label": "Rays.TV",
+            "color": "#092C5C",
+            "url": "https://www.mlb.com/rays/fans/rays-tv"
           }
         ]
       },
@@ -2486,14 +2486,14 @@
         "venue": "Petco Park",
         "platforms": [
           {
-            "label": "Spectrum SportsNet LA",
-            "color": "#005BA1",
-            "url": "https://www.spectrumnews1.com/ca/la-sports"
-          },
-          {
             "label": "Padres.TV",
             "color": "#2F241D",
             "url": "https://www.mlb.com/padres/fans/padres-tv"
+          },
+          {
+            "label": "Spectrum SportsNet LA",
+            "color": "#005BA1",
+            "url": "https://www.spectrumnews1.com/ca/la-sports"
           }
         ]
       },
