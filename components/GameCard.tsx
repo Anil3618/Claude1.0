@@ -21,6 +21,19 @@ interface HighlightResult {
   thumbnail: string;
 }
 
+interface KalshiResult {
+  homeProb: number;
+  awayProb: number;
+  homeTicker: string;
+  awayTicker: string;
+  marketUrl: string;
+}
+
+// Placeholder affiliate URLs — replace with your tracked links from FanDuel/DraftKings affiliate portals
+const FANDUEL_MLB_URL   = "https://www.fanduel.com/sports/mlb";
+const DRAFTKINGS_MLB_URL = "https://www.draftkings.com/sports/baseball";
+const DRAFTKINGS_DFS_URL = "https://www.draftkings.com/lobby#/MLB/1";
+
 interface LiveData {
   awayRuns: number;
   homeRuns: number;
@@ -57,6 +70,7 @@ export function GameCard({ game }: Props) {
   );
   const [live, setLive] = useState<LiveData | null>(null);
   const [highlight, setHighlight] = useState<HighlightResult | null>(null);
+  const [kalshi, setKalshi] = useState<KalshiResult | null>(null);
 
   const isToday = game.game_date === TODAY;
   const startTime = game.game_time_utc ? new Date(game.game_time_utc) : null;
@@ -115,6 +129,20 @@ export function GameCard({ game }: Props) {
   useEffect(() => {
     if (shouldFetchFinalScore) poll();
   }, [shouldFetchFinalScore, poll]);
+
+  // Fetch Kalshi win probabilities for today's scheduled/live games
+  useEffect(() => {
+    if (!isToday || phase === "final") return;
+    const params = new URLSearchParams({
+      home: game.home_team.abbreviation,
+      away: game.away_team.abbreviation,
+      date: game.game_date,
+    });
+    fetch(`/api/kalshi/${game.game_pk}?${params}`)
+      .then(r => r.json())
+      .then(data => { if (data?.homeProb) setKalshi(data); })
+      .catch(() => {});
+  }, [isToday, phase, game.game_pk, game.home_team.abbreviation, game.away_team.abbreviation, game.game_date]);
 
   // Fetch highlight thumbnail when game is final
   useEffect(() => {
@@ -220,12 +248,99 @@ export function GameCard({ game }: Props) {
 
         {game.venue && <p className="text-xs text-gray-600 mb-3">{game.venue}</p>}
 
+        {/* Kalshi win-probability bar — today's scheduled/live games only */}
+        {kalshi && phase !== "final" && (
+          <a
+            href={kalshi.marketUrl}
+            target="_blank"
+            rel="noopener noreferrer sponsored"
+            className="flex items-center gap-2 mb-3 group"
+            title="Win probability via Kalshi prediction market"
+          >
+            <span className="text-[9px] font-bold text-purple-400 uppercase tracking-widest shrink-0">Kalshi</span>
+            <div className="flex-1 h-1.5 rounded-full bg-gray-800 overflow-hidden">
+              <div
+                className="h-full rounded-full bg-gradient-to-r from-purple-500 to-purple-400 transition-all"
+                style={{ width: `${kalshi.homeProb}%` }}
+              />
+            </div>
+            <span className="text-[10px] text-gray-400 tabular-nums shrink-0">
+              {game.away_team.abbreviation} <span className="text-gray-500">{kalshi.awayProb}%</span>
+              <span className="text-gray-700 mx-1">·</span>
+              {game.home_team.abbreviation} <span className="text-purple-300">{kalshi.homeProb}%</span>
+            </span>
+          </a>
+        )}
+
         {game.platforms.length > 0 ? (
           <div className="flex flex-wrap gap-2">
             {game.platforms.map(p => <PlatformBadge key={p.label} platform={p} />)}
           </div>
         ) : (
           <p className="text-xs text-gray-600 italic">Broadcast info not yet available</p>
+        )}
+
+        {/* Phase-aware betting CTAs */}
+        {phase === "scheduled" && (
+          <div className="flex gap-2 mt-3">
+            <a
+              href={FANDUEL_MLB_URL}
+              target="_blank"
+              rel="noopener noreferrer sponsored"
+              className="flex items-center gap-1.5 px-3 py-1.5 rounded-lg bg-[#1493ff]/10 border border-[#1493ff]/25 text-[#1493ff] text-[11px] font-semibold hover:bg-[#1493ff]/20 transition-colors"
+            >
+              FanDuel
+              <svg className="w-3 h-3 opacity-70" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9 5l7 7-7 7" />
+              </svg>
+            </a>
+            <a
+              href={DRAFTKINGS_MLB_URL}
+              target="_blank"
+              rel="noopener noreferrer sponsored"
+              className="flex items-center gap-1.5 px-3 py-1.5 rounded-lg bg-[#53d337]/10 border border-[#53d337]/25 text-[#53d337] text-[11px] font-semibold hover:bg-[#53d337]/20 transition-colors"
+            >
+              DraftKings
+              <svg className="w-3 h-3 opacity-70" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9 5l7 7-7 7" />
+              </svg>
+            </a>
+          </div>
+        )}
+        {phase === "live" && (
+          <div className="flex gap-2 mt-3">
+            <a
+              href={FANDUEL_MLB_URL}
+              target="_blank"
+              rel="noopener noreferrer sponsored"
+              className="flex items-center gap-1.5 px-3 py-1.5 rounded-lg bg-red-500/10 border border-red-500/30 text-red-400 text-[11px] font-semibold hover:bg-red-500/20 transition-colors"
+            >
+              <span className="w-1.5 h-1.5 rounded-full bg-red-400 animate-pulse" />
+              Bet Live · FanDuel
+            </a>
+            <a
+              href={DRAFTKINGS_MLB_URL}
+              target="_blank"
+              rel="noopener noreferrer sponsored"
+              className="flex items-center gap-1.5 px-3 py-1.5 rounded-lg bg-red-500/10 border border-red-500/30 text-red-400 text-[11px] font-semibold hover:bg-red-500/20 transition-colors"
+            >
+              <span className="w-1.5 h-1.5 rounded-full bg-red-400 animate-pulse" />
+              Bet Live · DK
+            </a>
+          </div>
+        )}
+        {phase === "final" && (
+          <a
+            href={DRAFTKINGS_DFS_URL}
+            target="_blank"
+            rel="noopener noreferrer sponsored"
+            className="mt-3 flex items-center gap-2 px-3 py-1.5 rounded-lg bg-[#53d337]/10 border border-[#53d337]/25 text-[#53d337] text-[11px] font-semibold hover:bg-[#53d337]/20 transition-colors w-fit"
+          >
+            Play DFS Tomorrow · DraftKings
+            <svg className="w-3 h-3 opacity-70" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+              <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9 5l7 7-7 7" />
+            </svg>
+          </a>
         )}
 
         {phase === "final" && highlight && (
