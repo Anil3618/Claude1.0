@@ -21,12 +21,12 @@ interface HighlightResult {
   thumbnail: string;
 }
 
-interface KalshiResult {
+interface OddsResult {
   homeProb: number;
   awayProb: number;
-  homeTicker: string;
-  awayTicker: string;
-  marketUrl: string;
+  homeOdds: number;
+  awayOdds: number;
+  bookmaker: string;
 }
 
 // Placeholder affiliate URLs — replace with your tracked links from FanDuel/DraftKings affiliate portals
@@ -70,7 +70,7 @@ export function GameCard({ game }: Props) {
   );
   const [live, setLive] = useState<LiveData | null>(null);
   const [highlight, setHighlight] = useState<HighlightResult | null>(null);
-  const [kalshi, setKalshi] = useState<KalshiResult | null>(null);
+  const [odds, setOdds] = useState<OddsResult | null>(null);
 
   const isToday = game.game_date === TODAY;
   const startTime = game.game_time_utc ? new Date(game.game_time_utc) : null;
@@ -130,19 +130,18 @@ export function GameCard({ game }: Props) {
     if (shouldFetchFinalScore) poll();
   }, [shouldFetchFinalScore, poll]);
 
-  // Fetch Kalshi win probabilities for today's scheduled/live games
+  // Fetch moneyline win probabilities for today's scheduled/live games
   useEffect(() => {
     if (!isToday || phase === "final") return;
     const params = new URLSearchParams({
       home: game.home_team.abbreviation,
       away: game.away_team.abbreviation,
-      date: game.game_date,
     });
-    fetch(`/api/kalshi/${game.game_pk}?${params}`)
+    fetch(`/api/odds/${game.game_pk}?${params}`)
       .then(r => r.json())
-      .then(data => { if (data?.homeProb) setKalshi(data); })
+      .then(data => { if (data?.homeProb) setOdds(data); })
       .catch(() => {});
-  }, [isToday, phase, game.game_pk, game.home_team.abbreviation, game.away_team.abbreviation, game.game_date]);
+  }, [isToday, phase, game.game_pk, game.home_team.abbreviation, game.away_team.abbreviation]);
 
   // Fetch highlight thumbnail when game is final
   useEffect(() => {
@@ -248,28 +247,24 @@ export function GameCard({ game }: Props) {
 
         {game.venue && <p className="text-xs text-gray-600 mb-3">{game.venue}</p>}
 
-        {/* Kalshi win-probability bar — today's scheduled/live games only */}
-        {kalshi && phase !== "final" && (
-          <a
-            href={kalshi.marketUrl}
-            target="_blank"
-            rel="noopener noreferrer sponsored"
-            className="flex items-center gap-2 mb-3 group"
-            title="Win probability via Kalshi prediction market"
-          >
-            <span className="text-[9px] font-bold text-purple-400 uppercase tracking-widest shrink-0">Kalshi</span>
+        {/* Moneyline win-probability bar — today's scheduled/live games only */}
+        {odds && phase !== "final" && (
+          <div className="flex items-center gap-2 mb-3" title={`Win probability via ${odds.bookmaker} moneyline`}>
+            <span className="text-[9px] font-bold text-gray-500 uppercase tracking-widest shrink-0">Odds</span>
             <div className="flex-1 h-1.5 rounded-full bg-gray-800 overflow-hidden">
               <div
-                className="h-full rounded-full bg-gradient-to-r from-purple-500 to-purple-400 transition-all"
-                style={{ width: `${kalshi.homeProb}%` }}
+                className="h-full rounded-full bg-gradient-to-r from-blue-600 to-blue-400 transition-all"
+                style={{ width: `${odds.homeProb}%` }}
               />
             </div>
-            <span className="text-[10px] text-gray-400 tabular-nums shrink-0">
-              {game.away_team.abbreviation} <span className="text-gray-500">{kalshi.awayProb}%</span>
-              <span className="text-gray-700 mx-1">·</span>
-              {game.home_team.abbreviation} <span className="text-purple-300">{kalshi.homeProb}%</span>
+            <span className="text-[10px] tabular-nums shrink-0 text-gray-500">
+              <span className="text-gray-400">{game.away_team.abbreviation}</span>
+              {" "}{odds.awayOdds > 0 ? `+${odds.awayOdds}` : odds.awayOdds}
+              <span className="text-gray-700 mx-1.5">·</span>
+              <span className="text-gray-300">{game.home_team.abbreviation}</span>
+              {" "}{odds.homeOdds > 0 ? `+${odds.homeOdds}` : odds.homeOdds}
             </span>
-          </a>
+          </div>
         )}
 
         {game.platforms.length > 0 ? (
