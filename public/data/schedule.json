@@ -7,7 +7,7 @@
         "game_pk": 822982,
         "game_date": "2026-05-17",
         "game_time_utc": "2026-05-17T16:15:00Z",
-        "status": "Scheduled",
+        "status": "Game Over",
         "home_team": {
           "id": 139,
           "name": "Tampa Bay Rays",
@@ -36,7 +36,7 @@
         "game_pk": 822738,
         "game_date": "2026-05-17",
         "game_time_utc": "2026-05-17T17:35:00Z",
-        "status": "Scheduled",
+        "status": "In Progress",
         "home_team": {
           "id": 120,
           "name": "Washington Nationals",
@@ -70,7 +70,7 @@
         "game_pk": 823381,
         "game_date": "2026-05-17",
         "game_time_utc": "2026-05-17T17:35:00Z",
-        "status": "Scheduled",
+        "status": "In Progress",
         "home_team": {
           "id": 134,
           "name": "Pittsburgh Pirates",
@@ -104,7 +104,7 @@
         "game_pk": 824923,
         "game_date": "2026-05-17",
         "game_time_utc": "2026-05-17T17:35:00Z",
-        "status": "Scheduled",
+        "status": "In Progress",
         "home_team": {
           "id": 144,
           "name": "Atlanta Braves",
@@ -138,7 +138,7 @@
         "game_pk": 824436,
         "game_date": "2026-05-17",
         "game_time_utc": "2026-05-17T17:40:00Z",
-        "status": "Scheduled",
+        "status": "In Progress",
         "home_team": {
           "id": 114,
           "name": "Cleveland Guardians",
@@ -172,7 +172,7 @@
         "game_pk": 824279,
         "game_date": "2026-05-17",
         "game_time_utc": "2026-05-17T17:40:00Z",
-        "status": "Scheduled",
+        "status": "In Progress",
         "home_team": {
           "id": 116,
           "name": "Detroit Tigers",
@@ -211,7 +211,7 @@
         "game_pk": 823628,
         "game_date": "2026-05-17",
         "game_time_utc": "2026-05-17T17:40:00Z",
-        "status": "Scheduled",
+        "status": "In Progress",
         "home_team": {
           "id": 121,
           "name": "New York Mets",
@@ -245,7 +245,7 @@
         "game_pk": 824192,
         "game_date": "2026-05-17",
         "game_time_utc": "2026-05-17T18:10:00Z",
-        "status": "Scheduled",
+        "status": "In Progress",
         "home_team": {
           "id": 117,
           "name": "Houston Astros",
@@ -279,7 +279,7 @@
         "game_pk": 824599,
         "game_date": "2026-05-17",
         "game_time_utc": "2026-05-17T18:10:00Z",
-        "status": "Scheduled",
+        "status": "In Progress",
         "home_team": {
           "id": 145,
           "name": "Chicago White Sox",
@@ -313,7 +313,7 @@
         "game_pk": 823708,
         "game_date": "2026-05-17",
         "game_time_utc": "2026-05-17T18:10:00Z",
-        "status": "Scheduled",
+        "status": "In Progress",
         "home_team": {
           "id": 142,
           "name": "Minnesota Twins",
@@ -347,7 +347,7 @@
         "game_pk": 823058,
         "game_date": "2026-05-17",
         "game_time_utc": "2026-05-17T18:15:00Z",
-        "status": "Scheduled",
+        "status": "In Progress",
         "home_team": {
           "id": 138,
           "name": "St. Louis Cardinals",
@@ -381,7 +381,7 @@
         "game_pk": 824358,
         "game_date": "2026-05-17",
         "game_time_utc": "2026-05-17T19:10:00Z",
-        "status": "Scheduled",
+        "status": "Delayed Start",
         "home_team": {
           "id": 115,
           "name": "Colorado Rockies",
@@ -415,7 +415,7 @@
         "game_pk": 825006,
         "game_date": "2026-05-17",
         "game_time_utc": "2026-05-17T20:05:00Z",
-        "status": "Scheduled",
+        "status": "Pre-Game",
         "home_team": {
           "id": 133,
           "name": "Athletics",
@@ -449,7 +449,7 @@
         "game_pk": 824034,
         "game_date": "2026-05-17",
         "game_time_utc": "2026-05-17T20:07:00Z",
-        "status": "Scheduled",
+        "status": "Pre-Game",
         "home_team": {
           "id": 108,
           "name": "Los Angeles Angels",
@@ -979,14 +979,14 @@
         "venue": "Tropicana Field",
         "platforms": [
           {
-            "label": "MASN",
-            "color": "#E03A3E",
-            "url": "https://www.masnsports.com/"
-          },
-          {
             "label": "Rays.TV",
             "color": "#092C5C",
             "url": "https://www.mlb.com/rays/fans/rays-tv"
+          },
+          {
+            "label": "MASN",
+            "color": "#E03A3E",
+            "url": "https://www.masnsports.com/"
           }
         ]
       },
@@ -1266,14 +1266,14 @@
         "venue": "Petco Park",
         "platforms": [
           {
-            "label": "Padres.TV",
-            "color": "#2F241D",
-            "url": "https://www.mlb.com/padres/fans/padres-tv"
-          },
-          {
             "label": "Spectrum SportsNet LA",
             "color": "#005BA1",
             "url": "https://www.spectrumnews1.com/ca/la-sports"
+          },
+          {
+            "label": "Padres.TV",
+            "color": "#2F241D",
+            "url": "https://www.mlb.com/padres/fans/padres-tv"
           }
         ]
       },
