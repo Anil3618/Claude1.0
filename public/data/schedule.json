@@ -7,7 +7,7 @@
         "game_pk": 823865,
         "game_date": "2026-05-19",
         "game_time_utc": "2026-05-19T20:10:00Z",
-        "status": "Scheduled",
+        "status": "Warmup",
         "home_team": {
           "id": 146,
           "name": "Miami Marlins",
@@ -31,7 +31,7 @@
         "game_pk": 824276,
         "game_date": "2026-05-19",
         "game_time_utc": "2026-05-19T22:40:00Z",
-        "status": "Scheduled",
+        "status": "Pre-Game",
         "home_team": {
           "id": 116,
           "name": "Detroit Tigers",
@@ -89,7 +89,7 @@
         "game_pk": 823464,
         "game_date": "2026-05-19",
         "game_time_utc": "2026-05-19T22:40:00Z",
-        "status": "Scheduled",
+        "status": "Pre-Game",
         "home_team": {
           "id": 143,
           "name": "Philadelphia Phillies",
@@ -118,7 +118,7 @@
         "game_pk": 822736,
         "game_date": "2026-05-19",
         "game_time_utc": "2026-05-19T22:45:00Z",
-        "status": "Scheduled",
+        "status": "Pre-Game",
         "home_team": {
           "id": 120,
           "name": "Washington Nationals",
@@ -147,7 +147,7 @@
         "game_pk": 823548,
         "game_date": "2026-05-19",
         "game_time_utc": "2026-05-19T23:05:00Z",
-        "status": "Scheduled",
+        "status": "Pre-Game",
         "home_team": {
           "id": 147,
           "name": "New York Yankees",
@@ -174,6 +174,11 @@
             "label": "Sportsnet",
             "color": "#E31937",
             "url": "https://www.sportsnet.ca/"
+          },
+          {
+            "label": "TVA Sports",
+            "color": "#E31937",
+            "url": "https://www.tvasports.ca/"
           }
         ]
       },
@@ -181,7 +186,7 @@
         "game_pk": 824112,
         "game_date": "2026-05-19",
         "game_time_utc": "2026-05-19T23:40:00Z",
-        "status": "Scheduled",
+        "status": "Pre-Game",
         "home_team": {
           "id": 118,
           "name": "Kansas City Royals",
@@ -299,7 +304,7 @@
         "game_pk": 824356,
         "game_date": "2026-05-20",
         "game_time_utc": "2026-05-20T00:40:00Z",
-        "status": "Scheduled",
+        "status": "Pre-Game",
         "home_team": {
           "id": 115,
           "name": "Colorado Rockies",
