@@ -169,6 +169,11 @@
             "label": "YES Network",
             "color": "#003087",
             "url": "https://www.yesnetwork.com/"
+          },
+          {
+            "label": "Sportsnet",
+            "color": "#E31937",
+            "url": "https://www.sportsnet.ca/"
           }
         ]
       },
