@@ -212,10 +212,11 @@ def build_game_entry(game: dict, exclusives: dict) -> dict:
 
 def main():
     today = date.today()
-    end = today + timedelta(days=6)  # today + 6 more days = 7-day window
+    start = today - timedelta(days=1)  # include yesterday for final results
+    end = today + timedelta(days=6)
 
-    print(f"Fetching MLB schedule {today} → {end} ...")
-    raw_games = fetch_schedule(today, end)
+    print(f"Fetching MLB schedule {start} → {end} ...")
+    raw_games = fetch_schedule(start, end)
     print(f"  {len(raw_games)} games found from MLB API")
 
     exclusives = load_exclusives()

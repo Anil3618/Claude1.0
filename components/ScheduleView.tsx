@@ -66,8 +66,17 @@ export function ScheduleView({ schedule, today }: Props) {
     return result;
   }, [schedule, selectedTeamId]);
 
+  const yesterday = (() => {
+    const d = new Date(today + "T12:00:00");
+    d.setDate(d.getDate() - 1);
+    return d.toLocaleDateString("en-CA");
+  })();
+
   const sortedDates = Object.keys(filteredDates).sort();
   const todayGames: Game[] = filteredDates[today] ?? [];
+  const yesterdayGames: Game[] = (filteredDates[yesterday] ?? []).filter(
+    g => g.status.toLowerCase().includes("final")
+  );
   const upcomingDates = sortedDates.filter(d => d > today).slice(0, 3);
 
   const selectedLeagueData = MLB_LEAGUES.find(l => l.short === activeLeague);
@@ -206,6 +215,21 @@ export function ScheduleView({ schedule, today }: Props) {
           </div>
         )}
       </section>
+
+      {/* Yesterday — final games only */}
+      {yesterdayGames.length > 0 && (
+        <section className="mb-12">
+          <h2 className="text-xs font-semibold text-gray-500 mb-4 uppercase tracking-wide flex items-center gap-2">
+            Yesterday · {yesterday}
+            <span className="text-gray-700 font-normal normal-case tracking-normal text-[10px]">Final results</span>
+          </h2>
+          <div className="grid grid-cols-1 sm:grid-cols-2 gap-4">
+            {yesterdayGames.map(game => (
+              <GameCard key={game.game_pk} game={game} />
+            ))}
+          </div>
+        </section>
+      )}
 
       {/* Upcoming */}
       {upcomingDates.map(dateStr => {

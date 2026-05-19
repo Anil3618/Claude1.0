@@ -10,6 +10,11 @@ const TEAM_LOGO: Record<number, string> = Object.fromEntries(
 );
 
 const TODAY = new Date().toLocaleDateString("en-CA", { timeZone: "America/Los_Angeles" });
+const YESTERDAY = (() => {
+  const d = new Date();
+  d.setDate(d.getDate() - 1);
+  return d.toLocaleDateString("en-CA", { timeZone: "America/Los_Angeles" });
+})();
 
 interface Props {
   game: Game;
@@ -73,13 +78,14 @@ export function GameCard({ game }: Props) {
   const [odds, setOdds] = useState<OddsResult | null>(null);
 
   const isToday = game.game_date === TODAY;
+  const isYesterday = game.game_date === YESTERDAY;
   const startTime = game.game_time_utc ? new Date(game.game_time_utc) : null;
   const startedOrFinal = isToday && !!startTime && new Date() >= startTime;
 
   // Poll only while the game hasn't finished
   const shouldPoll = startedOrFinal && phase !== "final";
-  // One-time fetch for games already marked final in the static JSON (to get the score)
-  const shouldFetchFinalScore = isToday && seedFinal && live === null;
+  // One-time fetch for final scores — today's in-progress finals + all of yesterday's
+  const shouldFetchFinalScore = (isToday || isYesterday) && seedFinal && live === null;
 
   const poll = useCallback(async () => {
     try {
