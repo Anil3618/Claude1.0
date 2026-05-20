@@ -444,7 +444,7 @@
         "game_pk": 823462,
         "game_date": "2026-05-20",
         "game_time_utc": "2026-05-20T17:05:00Z",
-        "status": "Scheduled",
+        "status": "Pre-Game",
         "home_team": {
           "id": 143,
           "name": "Philadelphia Phillies",
@@ -468,7 +468,7 @@
         "game_pk": 822977,
         "game_date": "2026-05-20",
         "game_time_utc": "2026-05-20T17:10:00Z",
-        "status": "Scheduled",
+        "status": "Pre-Game",
         "home_team": {
           "id": 139,
           "name": "Tampa Bay Rays",
@@ -497,7 +497,7 @@
         "game_pk": 823703,
         "game_date": "2026-05-20",
         "game_time_utc": "2026-05-20T17:40:00Z",
-        "status": "Scheduled",
+        "status": "Pre-Game",
         "home_team": {
           "id": 142,
           "name": "Minnesota Twins",
