@@ -333,7 +333,7 @@
         "game_pk": 824033,
         "game_date": "2026-05-20",
         "game_time_utc": "2026-05-20T01:38:00Z",
-        "status": "In Progress",
+        "status": "Final",
         "home_team": {
           "id": 108,
           "name": "Los Angeles Angels",
@@ -357,7 +357,7 @@
         "game_pk": 823302,
         "game_date": "2026-05-20",
         "game_time_utc": "2026-05-20T01:40:00Z",
-        "status": "In Progress",
+        "status": "Final",
         "home_team": {
           "id": 135,
           "name": "San Diego Padres",
@@ -386,7 +386,7 @@
         "game_pk": 825086,
         "game_date": "2026-05-20",
         "game_time_utc": "2026-05-20T01:40:00Z",
-        "status": "In Progress",
+        "status": "Final",
         "home_team": {
           "id": 109,
           "name": "Arizona Diamondbacks",
@@ -415,7 +415,7 @@
         "game_pk": 823136,
         "game_date": "2026-05-20",
         "game_time_utc": "2026-05-20T01:40:00Z",
-        "status": "In Progress",
+        "status": "Final",
         "home_team": {
           "id": 136,
           "name": "Seattle Mariners",
