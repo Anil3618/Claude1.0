@@ -429,7 +429,7 @@
         "game_pk": 824274,
         "game_date": "2026-05-21",
         "game_time_utc": "2026-05-21T17:10:00Z",
-        "status": "Pre-Game",
+        "status": "Game Over",
         "home_team": {
           "id": 116,
           "name": "Detroit Tigers",
@@ -458,7 +458,7 @@
         "game_pk": 823056,
         "game_date": "2026-05-21",
         "game_time_utc": "2026-05-21T17:15:00Z",
-        "status": "Pre-Game",
+        "status": "Game Over",
         "home_team": {
           "id": 138,
           "name": "St. Louis Cardinals",
@@ -487,7 +487,7 @@
         "game_pk": 822733,
         "game_date": "2026-05-21",
         "game_time_utc": "2026-05-21T20:05:00Z",
-        "status": "Scheduled",
+        "status": "Warmup",
         "home_team": {
           "id": 120,
           "name": "Washington Nationals",
@@ -501,14 +501,14 @@
         "venue": "Nationals Park",
         "platforms": [
           {
-            "label": "Nationals.TV",
-            "color": "#AB0003",
-            "url": "https://www.mlb.com/nationals/fans/nationals-tv"
-          },
-          {
             "label": "SNY",
             "color": "#002D72",
             "url": "https://sny.tv/"
+          },
+          {
+            "label": "Nationals.TV",
+            "color": "#AB0003",
+            "url": "https://www.mlb.com/nationals/fans/nationals-tv"
           }
         ]
       },
@@ -516,7 +516,7 @@
         "game_pk": 823864,
         "game_date": "2026-05-21",
         "game_time_utc": "2026-05-21T22:40:00Z",
-        "status": "Scheduled",
+        "status": "Pre-Game",
         "home_team": {
           "id": 146,
           "name": "Miami Marlins",
@@ -540,7 +540,7 @@
         "game_pk": 823545,
         "game_date": "2026-05-21",
         "game_time_utc": "2026-05-21T23:05:00Z",
-        "status": "Scheduled",
+        "status": "Pre-Game",
         "home_team": {
           "id": 147,
           "name": "New York Yankees",
@@ -554,11 +554,6 @@
         "venue": "Yankee Stadium",
         "platforms": [
           {
-            "label": "MLB Network",
-            "color": "#002D72",
-            "url": "https://www.mlb.com/network"
-          },
-          {
             "label": "YES Network",
             "color": "#003087",
             "url": "https://www.yesnetwork.com/"
@@ -567,6 +562,11 @@
             "label": "Sportsnet 1",
             "color": "#E31937",
             "url": "https://www.sportsnet.ca/"
+          },
+          {
+            "label": "MLB Network",
+            "color": "#002D72",
+            "url": "https://www.mlb.com/network"
           }
         ]
       }
@@ -750,14 +750,14 @@
         "venue": "Yankee Stadium",
         "platforms": [
           {
-            "label": "YES Network",
-            "color": "#003087",
-            "url": "https://www.yesnetwork.com/"
-          },
-          {
             "label": "Rays.TV",
             "color": "#092C5C",
             "url": "https://www.mlb.com/rays/fans/rays-tv"
+          },
+          {
+            "label": "YES Network",
+            "color": "#003087",
+            "url": "https://www.yesnetwork.com/"
           },
           {
             "label": "Apple TV+",
