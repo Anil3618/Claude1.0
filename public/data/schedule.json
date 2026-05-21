@@ -429,7 +429,7 @@
         "game_pk": 824274,
         "game_date": "2026-05-21",
         "game_time_utc": "2026-05-21T17:10:00Z",
-        "status": "Scheduled",
+        "status": "Pre-Game",
         "home_team": {
           "id": 116,
           "name": "Detroit Tigers",
@@ -458,7 +458,7 @@
         "game_pk": 823056,
         "game_date": "2026-05-21",
         "game_time_utc": "2026-05-21T17:15:00Z",
-        "status": "Scheduled",
+        "status": "Pre-Game",
         "home_team": {
           "id": 138,
           "name": "St. Louis Cardinals",
