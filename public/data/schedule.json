@@ -1,6 +1,6 @@
 {
   "generated_at": "2026-05-22",
-  "game_count": 101,
+  "game_count": 102,
   "dates": {
     "2026-05-21": [
       {
@@ -21,14 +21,14 @@
         "venue": "Comerica Park",
         "platforms": [
           {
-            "label": "Guardians.TV",
-            "color": "#00385D",
-            "url": "https://www.mlb.com/guardians/fans/guardians-tv"
-          },
-          {
             "label": "Detroit SportsNet",
             "color": "#0C2340",
             "url": "https://www.mlb.com/tigers"
+          },
+          {
+            "label": "Guardians.TV",
+            "color": "#00385D",
+            "url": "https://www.mlb.com/guardians/fans/guardians-tv"
           }
         ]
       },
@@ -217,7 +217,7 @@
         "game_pk": 824679,
         "game_date": "2026-05-22",
         "game_time_utc": "2026-05-22T18:20:00Z",
-        "status": "Scheduled",
+        "status": "In Progress",
         "home_team": {
           "id": 112,
           "name": "Chicago Cubs",
@@ -243,44 +243,10 @@
         ]
       },
       {
-        "game_pk": 824518,
-        "game_date": "2026-05-22",
-        "game_time_utc": "2026-05-22T22:40:00Z",
-        "status": "Scheduled",
-        "home_team": {
-          "id": 113,
-          "name": "Cincinnati Reds",
-          "abbreviation": "CIN"
-        },
-        "away_team": {
-          "id": 138,
-          "name": "St. Louis Cardinals",
-          "abbreviation": "STL"
-        },
-        "venue": "Great American Ball Park",
-        "platforms": [
-          {
-            "label": "Reds.TV",
-            "color": "#C6011F",
-            "url": "https://www.mlb.com/reds/fans/reds-tv"
-          },
-          {
-            "label": "Cardinals.TV",
-            "color": "#C41E3A",
-            "url": "https://www.mlb.com/cardinals/fans/cardinals-tv"
-          },
-          {
-            "label": "Apple TV+",
-            "color": "#555555",
-            "url": "https://tv.apple.com/"
-          }
-        ]
-      },
-      {
         "game_pk": 823461,
         "game_date": "2026-05-22",
         "game_time_utc": "2026-05-22T22:40:00Z",
-        "status": "Scheduled",
+        "status": "Pre-Game",
         "home_team": {
           "id": 143,
           "name": "Philadelphia Phillies",
@@ -328,14 +294,14 @@
         "venue": "Yankee Stadium",
         "platforms": [
           {
-            "label": "YES Network",
-            "color": "#003087",
-            "url": "https://www.yesnetwork.com/"
-          },
-          {
             "label": "Rays.TV",
             "color": "#092C5C",
             "url": "https://www.mlb.com/rays/fans/rays-tv"
+          },
+          {
+            "label": "YES Network",
+            "color": "#003087",
+            "url": "https://www.yesnetwork.com/"
           },
           {
             "label": "Apple TV+",
@@ -348,7 +314,7 @@
         "game_pk": 822816,
         "game_date": "2026-05-22",
         "game_time_utc": "2026-05-22T23:07:00Z",
-        "status": "Scheduled",
+        "status": "Pre-Game",
         "home_team": {
           "id": 141,
           "name": "Toronto Blue Jays",
@@ -382,7 +348,7 @@
         "game_pk": 824761,
         "game_date": "2026-05-22",
         "game_time_utc": "2026-05-22T23:10:00Z",
-        "status": "Scheduled",
+        "status": "Pre-Game",
         "home_team": {
           "id": 111,
           "name": "Boston Red Sox",
@@ -416,7 +382,7 @@
         "game_pk": 823863,
         "game_date": "2026-05-22",
         "game_time_utc": "2026-05-22T23:10:00Z",
-        "status": "Scheduled",
+        "status": "Pre-Game",
         "home_team": {
           "id": 146,
           "name": "Miami Marlins",
@@ -445,7 +411,7 @@
         "game_pk": 824842,
         "game_date": "2026-05-22",
         "game_time_utc": "2026-05-22T23:15:00Z",
-        "status": "Scheduled",
+        "status": "Pre-Game",
         "home_team": {
           "id": 110,
           "name": "Baltimore Orioles",
@@ -474,7 +440,7 @@
         "game_pk": 824922,
         "game_date": "2026-05-22",
         "game_time_utc": "2026-05-22T23:15:00Z",
-        "status": "Scheduled",
+        "status": "Pre-Game",
         "home_team": {
           "id": 144,
           "name": "Atlanta Braves",
@@ -508,7 +474,7 @@
         "game_pk": 824110,
         "game_date": "2026-05-22",
         "game_time_utc": "2026-05-22T23:40:00Z",
-        "status": "Scheduled",
+        "status": "Pre-Game",
         "home_team": {
           "id": 118,
           "name": "Kansas City Royals",
@@ -542,7 +508,7 @@
         "game_pk": 823788,
         "game_date": "2026-05-22",
         "game_time_utc": "2026-05-22T23:40:00Z",
-        "status": "Scheduled",
+        "status": "Pre-Game",
         "home_team": {
           "id": 158,
           "name": "Milwaukee Brewers",
@@ -564,6 +530,40 @@
             "label": "Brewers.TV",
             "color": "#12284B",
             "url": "https://www.mlb.com/brewers/fans/brewers-tv"
+          },
+          {
+            "label": "Apple TV+",
+            "color": "#555555",
+            "url": "https://tv.apple.com/"
+          }
+        ]
+      },
+      {
+        "game_pk": 824518,
+        "game_date": "2026-05-22",
+        "game_time_utc": "2026-05-22T22:40:00Z",
+        "status": "Postponed",
+        "home_team": {
+          "id": 113,
+          "name": "Cincinnati Reds",
+          "abbreviation": "CIN"
+        },
+        "away_team": {
+          "id": 138,
+          "name": "St. Louis Cardinals",
+          "abbreviation": "STL"
+        },
+        "venue": "Great American Ball Park",
+        "platforms": [
+          {
+            "label": "Cardinals.TV",
+            "color": "#C41E3A",
+            "url": "https://www.mlb.com/cardinals/fans/cardinals-tv"
+          },
+          {
+            "label": "Reds.TV",
+            "color": "#C6011F",
+            "url": "https://www.mlb.com/reds/fans/reds-tv"
           },
           {
             "label": "Apple TV+",
@@ -676,6 +676,59 @@
             "label": "Chicago Sports Network",
             "color": "#27251F",
             "url": "https://www.chicagosportsnetwork.com/"
+          }
+        ]
+      },
+      {
+        "game_pk": 824518,
+        "game_date": "2026-05-23",
+        "game_time_utc": "2026-05-23T17:10:00Z",
+        "status": "Scheduled",
+        "home_team": {
+          "id": 113,
+          "name": "Cincinnati Reds",
+          "abbreviation": "CIN"
+        },
+        "away_team": {
+          "id": 138,
+          "name": "St. Louis Cardinals",
+          "abbreviation": "STL"
+        },
+        "venue": "Great American Ball Park",
+        "platforms": [
+          {
+            "label": "Reds.TV",
+            "color": "#C6011F",
+            "url": "https://www.mlb.com/reds/fans/reds-tv"
+          },
+          {
+            "label": "Cardinals.TV",
+            "color": "#C41E3A",
+            "url": "https://www.mlb.com/cardinals/fans/cardinals-tv"
+          }
+        ]
+      },
+      {
+        "game_pk": 824516,
+        "game_date": "2026-05-23",
+        "game_time_utc": "2026-05-23T23:15:00Z",
+        "status": "Scheduled",
+        "home_team": {
+          "id": 113,
+          "name": "Cincinnati Reds",
+          "abbreviation": "CIN"
+        },
+        "away_team": {
+          "id": 138,
+          "name": "St. Louis Cardinals",
+          "abbreviation": "STL"
+        },
+        "venue": "Great American Ball Park",
+        "platforms": [
+          {
+            "label": "Fox",
+            "color": "#003087",
+            "url": "https://www.fox.com/live/"
           }
         ]
       },
@@ -975,30 +1028,6 @@
         ]
       },
       {
-        "game_pk": 824516,
-        "game_date": "2026-05-23",
-        "game_time_utc": "2026-05-23T23:15:00Z",
-        "status": "Scheduled",
-        "home_team": {
-          "id": 113,
-          "name": "Cincinnati Reds",
-          "abbreviation": "CIN"
-        },
-        "away_team": {
-          "id": 138,
-          "name": "St. Louis Cardinals",
-          "abbreviation": "STL"
-        },
-        "venue": "Great American Ball Park",
-        "platforms": [
-          {
-            "label": "Fox",
-            "color": "#003087",
-            "url": "https://www.fox.com/live/"
-          }
-        ]
-      },
-      {
         "game_pk": 823787,
         "game_date": "2026-05-23",
         "game_time_utc": "2026-05-23T23:15:00Z",
@@ -1075,11 +1104,6 @@
         },
         "venue": "Angel Stadium",
         "platforms": [
-          {
-            "label": "Rangers Sports Network",
-            "color": "#003278",
-            "url": "https://www.mlb.com/rangers"
-          },
           {
             "label": "Peacock",
             "color": "#000000",
@@ -1905,11 +1929,6 @@
             "label": "Space City Home Network",
             "color": "#002D62",
             "url": "https://www.spacecityhomenetwork.com/"
-          },
-          {
-            "label": "Rangers Sports Network",
-            "color": "#003278",
-            "url": "https://www.mlb.com/rangers"
           }
         ]
       },
@@ -2305,11 +2324,6 @@
             "label": "Space City Home Network",
             "color": "#002D62",
             "url": "https://www.spacecityhomenetwork.com/"
-          },
-          {
-            "label": "Rangers Sports Network",
-            "color": "#003278",
-            "url": "https://www.mlb.com/rangers"
           }
         ]
       },
@@ -2824,11 +2838,6 @@
             "label": "Space City Home Network",
             "color": "#002D62",
             "url": "https://www.spacecityhomenetwork.com/"
-          },
-          {
-            "label": "Rangers Sports Network",
-            "color": "#003278",
-            "url": "https://www.mlb.com/rangers"
           }
         ]
       },
@@ -3019,11 +3028,6 @@
             "label": "Space City Home Network",
             "color": "#002D62",
             "url": "https://www.spacecityhomenetwork.com/"
-          },
-          {
-            "label": "Rangers Sports Network",
-            "color": "#003278",
-            "url": "https://www.mlb.com/rangers"
           },
           {
             "label": "Apple TV+",
