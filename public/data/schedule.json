@@ -154,7 +154,7 @@
         "game_pk": 824031,
         "game_date": "2026-05-22",
         "game_time_utc": "2026-05-22T01:38:00Z",
-        "status": "In Progress",
+        "status": "Final",
         "home_team": {
           "id": 108,
           "name": "Los Angeles Angels",
@@ -183,7 +183,7 @@
         "game_pk": 825083,
         "game_date": "2026-05-22",
         "game_time_utc": "2026-05-22T01:40:00Z",
-        "status": "In Progress",
+        "status": "Final",
         "home_team": {
           "id": 109,
           "name": "Arizona Diamondbacks",
