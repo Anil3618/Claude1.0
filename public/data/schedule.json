@@ -21,14 +21,14 @@
         "venue": "Comerica Park",
         "platforms": [
           {
-            "label": "Detroit SportsNet",
-            "color": "#0C2340",
-            "url": "https://www.mlb.com/tigers"
-          },
-          {
             "label": "Guardians.TV",
             "color": "#00385D",
             "url": "https://www.mlb.com/guardians/fans/guardians-tv"
+          },
+          {
+            "label": "Detroit SportsNet",
+            "color": "#0C2340",
+            "url": "https://www.mlb.com/tigers"
           }
         ]
       },
@@ -328,14 +328,14 @@
         "venue": "Yankee Stadium",
         "platforms": [
           {
-            "label": "Rays.TV",
-            "color": "#092C5C",
-            "url": "https://www.mlb.com/rays/fans/rays-tv"
-          },
-          {
             "label": "YES Network",
             "color": "#003087",
             "url": "https://www.yesnetwork.com/"
+          },
+          {
+            "label": "Rays.TV",
+            "color": "#092C5C",
+            "url": "https://www.mlb.com/rays/fans/rays-tv"
           },
           {
             "label": "Apple TV+",
