@@ -1,6 +1,6 @@
 {
   "generated_at": "2026-05-23",
-  "game_count": 110,
+  "game_count": 111,
   "dates": {
     "2026-05-22": [
       {
@@ -473,7 +473,7 @@
         "game_pk": 824518,
         "game_date": "2026-05-23",
         "game_time_utc": "2026-05-23T17:10:00Z",
-        "status": "Scheduled",
+        "status": "In Progress",
         "home_team": {
           "id": 113,
           "name": "Cincinnati Reds",
@@ -526,7 +526,7 @@
         "game_pk": 824674,
         "game_date": "2026-05-23",
         "game_time_utc": "2026-05-23T18:20:00Z",
-        "status": "Scheduled",
+        "status": "In Progress",
         "home_team": {
           "id": 112,
           "name": "Chicago Cubs",
@@ -555,7 +555,7 @@
         "game_pk": 822814,
         "game_date": "2026-05-23",
         "game_time_utc": "2026-05-23T19:07:00Z",
-        "status": "Scheduled",
+        "status": "In Progress",
         "home_team": {
           "id": 141,
           "name": "Toronto Blue Jays",
@@ -586,39 +586,10 @@
         ]
       },
       {
-        "game_pk": 824840,
-        "game_date": "2026-05-23",
-        "game_time_utc": "2026-05-23T20:05:00Z",
-        "status": "Scheduled",
-        "home_team": {
-          "id": 110,
-          "name": "Baltimore Orioles",
-          "abbreviation": "BAL"
-        },
-        "away_team": {
-          "id": 116,
-          "name": "Detroit Tigers",
-          "abbreviation": "DET"
-        },
-        "venue": "Oriole Park at Camden Yards",
-        "platforms": [
-          {
-            "label": "MASN",
-            "color": "#E03A3E",
-            "url": "https://www.masnsports.com/"
-          },
-          {
-            "label": "Detroit SportsNet",
-            "color": "#0C2340",
-            "url": "https://www.mlb.com/tigers"
-          }
-        ]
-      },
-      {
         "game_pk": 823458,
         "game_date": "2026-05-23",
         "game_time_utc": "2026-05-23T20:05:00Z",
-        "status": "Scheduled",
+        "status": "Pre-Game",
         "home_team": {
           "id": 143,
           "name": "Philadelphia Phillies",
@@ -647,7 +618,7 @@
         "game_pk": 823222,
         "game_date": "2026-05-23",
         "game_time_utc": "2026-05-23T20:05:00Z",
-        "status": "Scheduled",
+        "status": "Pre-Game",
         "home_team": {
           "id": 137,
           "name": "San Francisco Giants",
@@ -676,7 +647,7 @@
         "game_pk": 824109,
         "game_date": "2026-05-23",
         "game_time_utc": "2026-05-23T20:10:00Z",
-        "status": "Scheduled",
+        "status": "Pre-Game",
         "home_team": {
           "id": 118,
           "name": "Kansas City Royals",
@@ -710,7 +681,7 @@
         "game_pk": 824760,
         "game_date": "2026-05-23",
         "game_time_utc": "2026-05-23T20:10:00Z",
-        "status": "Scheduled",
+        "status": "Pre-Game",
         "home_team": {
           "id": 111,
           "name": "Boston Red Sox",
@@ -739,7 +710,7 @@
         "game_pk": 824920,
         "game_date": "2026-05-23",
         "game_time_utc": "2026-05-23T20:10:00Z",
-        "status": "Scheduled",
+        "status": "Pre-Game",
         "home_team": {
           "id": 144,
           "name": "Atlanta Braves",
@@ -768,7 +739,7 @@
         "game_pk": 823862,
         "game_date": "2026-05-23",
         "game_time_utc": "2026-05-23T20:10:00Z",
-        "status": "Scheduled",
+        "status": "Pre-Game",
         "home_team": {
           "id": 146,
           "name": "Miami Marlins",
@@ -838,6 +809,35 @@
             "label": "YES Network",
             "color": "#003087",
             "url": "https://www.yesnetwork.com/"
+          }
+        ]
+      },
+      {
+        "game_pk": 824840,
+        "game_date": "2026-05-23",
+        "game_time_utc": "2026-05-23T20:05:00Z",
+        "status": "Postponed",
+        "home_team": {
+          "id": 110,
+          "name": "Baltimore Orioles",
+          "abbreviation": "BAL"
+        },
+        "away_team": {
+          "id": 116,
+          "name": "Detroit Tigers",
+          "abbreviation": "DET"
+        },
+        "venue": "Oriole Park at Camden Yards",
+        "platforms": [
+          {
+            "label": "Detroit SportsNet",
+            "color": "#0C2340",
+            "url": "https://www.mlb.com/tigers"
+          },
+          {
+            "label": "MASN",
+            "color": "#E03A3E",
+            "url": "https://www.masnsports.com/"
           }
         ]
       }
@@ -977,7 +977,7 @@
       {
         "game_pk": 824839,
         "game_date": "2026-05-24",
-        "game_time_utc": "2026-05-24T17:35:00Z",
+        "game_time_utc": "2026-05-24T16:35:00Z",
         "status": "Scheduled",
         "home_team": {
           "id": 110,
@@ -1000,6 +1000,40 @@
             "label": "Detroit SportsNet",
             "color": "#0C2340",
             "url": "https://www.mlb.com/tigers"
+          },
+          {
+            "label": "Peacock",
+            "color": "#000000",
+            "url": "https://www.peacocktv.com/"
+          }
+        ]
+      },
+      {
+        "game_pk": 824840,
+        "game_date": "2026-05-24",
+        "game_time_utc": "2026-05-24T22:05:00Z",
+        "status": "Scheduled",
+        "home_team": {
+          "id": 110,
+          "name": "Baltimore Orioles",
+          "abbreviation": "BAL"
+        },
+        "away_team": {
+          "id": 116,
+          "name": "Detroit Tigers",
+          "abbreviation": "DET"
+        },
+        "venue": "Oriole Park at Camden Yards",
+        "platforms": [
+          {
+            "label": "Detroit SportsNet",
+            "color": "#0C2340",
+            "url": "https://www.mlb.com/tigers"
+          },
+          {
+            "label": "MASN",
+            "color": "#E03A3E",
+            "url": "https://www.masnsports.com/"
           },
           {
             "label": "Peacock",
