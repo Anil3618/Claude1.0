@@ -381,7 +381,7 @@
         "game_pk": 823300,
         "game_date": "2026-05-24",
         "game_time_utc": "2026-05-24T01:40:00Z",
-        "status": "In Progress",
+        "status": "Final",
         "home_team": {
           "id": 135,
           "name": "San Diego Padres",
@@ -415,7 +415,7 @@
         "game_pk": 824030,
         "game_date": "2026-05-24",
         "game_time_utc": "2026-05-24T02:05:00Z",
-        "status": "In Progress",
+        "status": "Final",
         "home_team": {
           "id": 108,
           "name": "Los Angeles Angels",
@@ -439,7 +439,7 @@
         "game_pk": 825080,
         "game_date": "2026-05-24",
         "game_time_utc": "2026-05-24T02:10:00Z",
-        "status": "In Progress",
+        "status": "Final",
         "home_team": {
           "id": 109,
           "name": "Arizona Diamondbacks",
@@ -594,14 +594,14 @@
         "venue": "Fenway Park",
         "platforms": [
           {
-            "label": "NESN",
-            "color": "#003087",
-            "url": "https://www.nesn.com/"
-          },
-          {
             "label": "Twins.TV",
             "color": "#002B5C",
             "url": "https://www.mlb.com/twins/fans/twins-tv"
+          },
+          {
+            "label": "NESN",
+            "color": "#003087",
+            "url": "https://www.nesn.com/"
           },
           {
             "label": "Peacock",
@@ -628,14 +628,14 @@
         "venue": "Citizens Bank Park",
         "platforms": [
           {
-            "label": "Guardians.TV",
-            "color": "#00385D",
-            "url": "https://www.mlb.com/guardians/fans/guardians-tv"
-          },
-          {
             "label": "NBC Sports Philadelphia",
             "color": "#0B2265",
             "url": "https://www.nbcsports.com/philadelphia"
+          },
+          {
+            "label": "Guardians.TV",
+            "color": "#00385D",
+            "url": "https://www.mlb.com/guardians/fans/guardians-tv"
           },
           {
             "label": "Peacock",
@@ -759,14 +759,14 @@
         "venue": "Kauffman Stadium",
         "platforms": [
           {
-            "label": "Royals.TV",
-            "color": "#174885",
-            "url": "https://www.mlb.com/royals/fans/royals-tv"
-          },
-          {
             "label": "Mariners.TV",
             "color": "#0C2C56",
             "url": "https://www.mlb.com/mariners/fans/mariners-tv"
+          },
+          {
+            "label": "Royals.TV",
+            "color": "#174885",
+            "url": "https://www.mlb.com/royals/fans/royals-tv"
           },
           {
             "label": "Peacock",
@@ -827,14 +827,14 @@
         "venue": "Wrigley Field",
         "platforms": [
           {
-            "label": "Space City Home Network",
-            "color": "#002D62",
-            "url": "https://www.spacecityhomenetwork.com/"
-          },
-          {
             "label": "Marquee Sports",
             "color": "#CC3433",
             "url": "https://www.marqueesportsnetwork.com/"
+          },
+          {
+            "label": "Space City Home Network",
+            "color": "#002D62",
+            "url": "https://www.spacecityhomenetwork.com/"
           },
           {
             "label": "Peacock",
