@@ -473,7 +473,7 @@
         "game_pk": 822813,
         "game_date": "2026-05-24",
         "game_time_utc": "2026-05-24T16:15:00Z",
-        "status": "Scheduled",
+        "status": "Final",
         "home_team": {
           "id": 141,
           "name": "Toronto Blue Jays",
@@ -512,7 +512,7 @@
         "game_pk": 824839,
         "game_date": "2026-05-24",
         "game_time_utc": "2026-05-24T16:35:00Z",
-        "status": "Scheduled",
+        "status": "In Progress",
         "home_team": {
           "id": 110,
           "name": "Baltimore Orioles",
@@ -580,7 +580,7 @@
         "game_pk": 824759,
         "game_date": "2026-05-24",
         "game_time_utc": "2026-05-24T17:35:00Z",
-        "status": "Scheduled",
+        "status": "In Progress",
         "home_team": {
           "id": 111,
           "name": "Boston Red Sox",
@@ -594,14 +594,14 @@
         "venue": "Fenway Park",
         "platforms": [
           {
-            "label": "NESN",
-            "color": "#003087",
-            "url": "https://www.nesn.com/"
-          },
-          {
             "label": "Twins.TV",
             "color": "#002B5C",
             "url": "https://www.mlb.com/twins/fans/twins-tv"
+          },
+          {
+            "label": "NESN",
+            "color": "#003087",
+            "url": "https://www.nesn.com/"
           },
           {
             "label": "Peacock",
@@ -614,7 +614,7 @@
         "game_pk": 823459,
         "game_date": "2026-05-24",
         "game_time_utc": "2026-05-24T17:35:00Z",
-        "status": "Scheduled",
+        "status": "In Progress",
         "home_team": {
           "id": 143,
           "name": "Philadelphia Phillies",
@@ -628,14 +628,14 @@
         "venue": "Citizens Bank Park",
         "platforms": [
           {
-            "label": "Guardians.TV",
-            "color": "#00385D",
-            "url": "https://www.mlb.com/guardians/fans/guardians-tv"
-          },
-          {
             "label": "NBC Sports Philadelphia",
             "color": "#0B2265",
             "url": "https://www.nbcsports.com/philadelphia"
+          },
+          {
+            "label": "Guardians.TV",
+            "color": "#00385D",
+            "url": "https://www.mlb.com/guardians/fans/guardians-tv"
           },
           {
             "label": "Peacock",
@@ -648,7 +648,7 @@
         "game_pk": 823544,
         "game_date": "2026-05-24",
         "game_time_utc": "2026-05-24T17:35:00Z",
-        "status": "Scheduled",
+        "status": "In Progress",
         "home_team": {
           "id": 147,
           "name": "New York Yankees",
@@ -679,44 +679,10 @@
         ]
       },
       {
-        "game_pk": 824514,
-        "game_date": "2026-05-24",
-        "game_time_utc": "2026-05-24T17:40:00Z",
-        "status": "Scheduled",
-        "home_team": {
-          "id": 113,
-          "name": "Cincinnati Reds",
-          "abbreviation": "CIN"
-        },
-        "away_team": {
-          "id": 138,
-          "name": "St. Louis Cardinals",
-          "abbreviation": "STL"
-        },
-        "venue": "Great American Ball Park",
-        "platforms": [
-          {
-            "label": "Reds.TV",
-            "color": "#C6011F",
-            "url": "https://www.mlb.com/reds/fans/reds-tv"
-          },
-          {
-            "label": "Cardinals.TV",
-            "color": "#C41E3A",
-            "url": "https://www.mlb.com/cardinals/fans/cardinals-tv"
-          },
-          {
-            "label": "Peacock",
-            "color": "#000000",
-            "url": "https://www.peacocktv.com/"
-          }
-        ]
-      },
-      {
         "game_pk": 823861,
         "game_date": "2026-05-24",
         "game_time_utc": "2026-05-24T17:40:00Z",
-        "status": "Scheduled",
+        "status": "In Progress",
         "home_team": {
           "id": 146,
           "name": "Miami Marlins",
@@ -745,7 +711,7 @@
         "game_pk": 824108,
         "game_date": "2026-05-24",
         "game_time_utc": "2026-05-24T18:10:00Z",
-        "status": "Scheduled",
+        "status": "In Progress",
         "home_team": {
           "id": 118,
           "name": "Kansas City Royals",
@@ -759,14 +725,14 @@
         "venue": "Kauffman Stadium",
         "platforms": [
           {
-            "label": "Royals.TV",
-            "color": "#174885",
-            "url": "https://www.mlb.com/royals/fans/royals-tv"
-          },
-          {
             "label": "Mariners.TV",
             "color": "#0C2C56",
             "url": "https://www.mlb.com/mariners/fans/mariners-tv"
+          },
+          {
+            "label": "Royals.TV",
+            "color": "#174885",
+            "url": "https://www.mlb.com/royals/fans/royals-tv"
           },
           {
             "label": "Peacock",
@@ -779,7 +745,7 @@
         "game_pk": 823786,
         "game_date": "2026-05-24",
         "game_time_utc": "2026-05-24T18:10:00Z",
-        "status": "Scheduled",
+        "status": "In Progress",
         "home_team": {
           "id": 158,
           "name": "Milwaukee Brewers",
@@ -813,7 +779,7 @@
         "game_pk": 824676,
         "game_date": "2026-05-24",
         "game_time_utc": "2026-05-24T18:20:00Z",
-        "status": "Scheduled",
+        "status": "In Progress",
         "home_team": {
           "id": 112,
           "name": "Chicago Cubs",
@@ -827,14 +793,14 @@
         "venue": "Wrigley Field",
         "platforms": [
           {
-            "label": "Space City Home Network",
-            "color": "#002D62",
-            "url": "https://www.spacecityhomenetwork.com/"
-          },
-          {
             "label": "Marquee Sports",
             "color": "#CC3433",
             "url": "https://www.marqueesportsnetwork.com/"
+          },
+          {
+            "label": "Space City Home Network",
+            "color": "#002D62",
+            "url": "https://www.spacecityhomenetwork.com/"
           },
           {
             "label": "Peacock",
@@ -847,7 +813,7 @@
         "game_pk": 823220,
         "game_date": "2026-05-24",
         "game_time_utc": "2026-05-24T20:05:00Z",
-        "status": "Scheduled",
+        "status": "Pre-Game",
         "home_team": {
           "id": 137,
           "name": "San Francisco Giants",
@@ -881,7 +847,7 @@
         "game_pk": 825081,
         "game_date": "2026-05-24",
         "game_time_utc": "2026-05-24T20:10:00Z",
-        "status": "Scheduled",
+        "status": "Pre-Game",
         "home_team": {
           "id": 109,
           "name": "Arizona Diamondbacks",
@@ -915,7 +881,7 @@
         "game_pk": 823297,
         "game_date": "2026-05-24",
         "game_time_utc": "2026-05-24T20:10:00Z",
-        "status": "Scheduled",
+        "status": "Pre-Game",
         "home_team": {
           "id": 135,
           "name": "San Diego Padres",
@@ -949,7 +915,7 @@
         "game_pk": 824921,
         "game_date": "2026-05-24",
         "game_time_utc": "2026-05-24T20:10:00Z",
-        "status": "Scheduled",
+        "status": "Pre-Game",
         "home_team": {
           "id": 144,
           "name": "Atlanta Braves",
@@ -1000,6 +966,40 @@
             "label": "NBC / Peacock",
             "color": "#000000",
             "url": "https://www.peacocktv.com/"
+          },
+          {
+            "label": "Peacock",
+            "color": "#000000",
+            "url": "https://www.peacocktv.com/"
+          }
+        ]
+      },
+      {
+        "game_pk": 824514,
+        "game_date": "2026-05-24",
+        "game_time_utc": "2026-05-24T17:40:00Z",
+        "status": "Postponed",
+        "home_team": {
+          "id": 113,
+          "name": "Cincinnati Reds",
+          "abbreviation": "CIN"
+        },
+        "away_team": {
+          "id": 138,
+          "name": "St. Louis Cardinals",
+          "abbreviation": "STL"
+        },
+        "venue": "Great American Ball Park",
+        "platforms": [
+          {
+            "label": "Reds.TV",
+            "color": "#C6011F",
+            "url": "https://www.mlb.com/reds/fans/reds-tv"
+          },
+          {
+            "label": "Cardinals.TV",
+            "color": "#C41E3A",
+            "url": "https://www.mlb.com/cardinals/fans/cardinals-tv"
           },
           {
             "label": "Peacock",
