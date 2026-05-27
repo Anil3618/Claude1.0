@@ -318,7 +318,7 @@
         "game_pk": 825004,
         "game_date": "2026-05-27",
         "game_time_utc": "2026-05-27T01:40:00Z",
-        "status": "In Progress",
+        "status": "Final",
         "home_team": {
           "id": 133,
           "name": "Athletics",
@@ -347,7 +347,7 @@
         "game_pk": 823294,
         "game_date": "2026-05-27",
         "game_time_utc": "2026-05-27T01:40:00Z",
-        "status": "In Progress",
+        "status": "Final",
         "home_team": {
           "id": 135,
           "name": "San Diego Padres",
@@ -376,7 +376,7 @@
         "game_pk": 823216,
         "game_date": "2026-05-27",
         "game_time_utc": "2026-05-27T01:45:00Z",
-        "status": "In Progress",
+        "status": "Final",
         "home_team": {
           "id": 137,
           "name": "San Francisco Giants",
@@ -405,7 +405,7 @@
         "game_pk": 823949,
         "game_date": "2026-05-27",
         "game_time_utc": "2026-05-27T02:10:00Z",
-        "status": "In Progress",
+        "status": "Final",
         "home_team": {
           "id": 119,
           "name": "Los Angeles Dodgers",
@@ -530,14 +530,14 @@
         "venue": "Sutter Health Park",
         "platforms": [
           {
-            "label": "Mariners.TV",
-            "color": "#0C2C56",
-            "url": "https://www.mlb.com/mariners/fans/mariners-tv"
-          },
-          {
             "label": "NBC Sports California",
             "color": "#0B2265",
             "url": "https://www.nbcsports.com/california"
+          },
+          {
+            "label": "Mariners.TV",
+            "color": "#0C2C56",
+            "url": "https://www.mlb.com/mariners/fans/mariners-tv"
           }
         ]
       },
@@ -617,9 +617,9 @@
         "venue": "Oriole Park at Camden Yards",
         "platforms": [
           {
-            "label": "Rays.TV",
-            "color": "#092C5C",
-            "url": "https://www.mlb.com/rays/fans/rays-tv"
+            "label": "FS1",
+            "color": "#003087",
+            "url": "https://www.foxsports.com/live"
           },
           {
             "label": "MASN",
@@ -627,9 +627,9 @@
             "url": "https://www.masnsports.com/"
           },
           {
-            "label": "FS1",
-            "color": "#003087",
-            "url": "https://www.foxsports.com/live"
+            "label": "Rays.TV",
+            "color": "#092C5C",
+            "url": "https://www.mlb.com/rays/fans/rays-tv"
           }
         ]
       },
