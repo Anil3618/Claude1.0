@@ -434,7 +434,7 @@
         "game_pk": 824272,
         "game_date": "2026-05-28",
         "game_time_utc": "2026-05-28T17:10:00Z",
-        "status": "Pre-Game",
+        "status": "Final",
         "home_team": {
           "id": 116,
           "name": "Detroit Tigers",
@@ -458,7 +458,7 @@
         "game_pk": 824595,
         "game_date": "2026-05-28",
         "game_time_utc": "2026-05-28T18:10:00Z",
-        "status": "Pre-Game",
+        "status": "In Progress",
         "home_team": {
           "id": 145,
           "name": "Chicago White Sox",
@@ -487,7 +487,7 @@
         "game_pk": 824757,
         "game_date": "2026-05-28",
         "game_time_utc": "2026-05-28T20:10:00Z",
-        "status": "Pre-Game",
+        "status": "In Progress",
         "home_team": {
           "id": 111,
           "name": "Boston Red Sox",
@@ -516,7 +516,7 @@
         "game_pk": 824834,
         "game_date": "2026-05-28",
         "game_time_utc": "2026-05-28T22:35:00Z",
-        "status": "Scheduled",
+        "status": "Pre-Game",
         "home_team": {
           "id": 110,
           "name": "Baltimore Orioles",
@@ -550,7 +550,7 @@
         "game_pk": 823378,
         "game_date": "2026-05-28",
         "game_time_utc": "2026-05-28T22:40:00Z",
-        "status": "Scheduled",
+        "status": "Pre-Game",
         "home_team": {
           "id": 134,
           "name": "Pittsburgh Pirates",
@@ -581,7 +581,7 @@
         "game_pk": 822896,
         "game_date": "2026-05-29",
         "game_time_utc": "2026-05-29T00:05:00Z",
-        "status": "Scheduled",
+        "status": "Pre-Game",
         "home_team": {
           "id": 140,
           "name": "Texas Rangers",
