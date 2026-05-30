@@ -464,7 +464,7 @@
         "game_pk": 824593,
         "game_date": "2026-05-30",
         "game_time_utc": "2026-05-30T18:10:00Z",
-        "status": "Scheduled",
+        "status": "In Progress",
         "home_team": {
           "id": 145,
           "name": "Chicago White Sox",
@@ -478,14 +478,14 @@
         "venue": "Rate Field",
         "platforms": [
           {
-            "label": "Detroit SportsNet",
-            "color": "#0C2340",
-            "url": "https://www.mlb.com/tigers"
-          },
-          {
             "label": "Chicago Sports Network",
             "color": "#27251F",
             "url": "https://www.chicagosportsnetwork.com/"
+          },
+          {
+            "label": "Detroit SportsNet",
+            "color": "#0C2340",
+            "url": "https://www.mlb.com/tigers"
           }
         ]
       },
@@ -493,7 +493,7 @@
         "game_pk": 822731,
         "game_date": "2026-05-30",
         "game_time_utc": "2026-05-30T20:05:00Z",
-        "status": "Scheduled",
+        "status": "Pre-Game",
         "home_team": {
           "id": 120,
           "name": "Washington Nationals",
@@ -522,7 +522,7 @@
         "game_pk": 822893,
         "game_date": "2026-05-30",
         "game_time_utc": "2026-05-30T20:05:00Z",
-        "status": "Scheduled",
+        "status": "Pre-Game",
         "home_team": {
           "id": 140,
           "name": "Texas Rangers",
@@ -551,7 +551,7 @@
         "game_pk": 824833,
         "game_date": "2026-05-30",
         "game_time_utc": "2026-05-30T20:05:00Z",
-        "status": "Scheduled",
+        "status": "Pre-Game",
         "home_team": {
           "id": 110,
           "name": "Baltimore Orioles",
@@ -590,7 +590,7 @@
         "game_pk": 823375,
         "game_date": "2026-05-30",
         "game_time_utc": "2026-05-30T20:05:00Z",
-        "status": "Scheduled",
+        "status": "Pre-Game",
         "home_team": {
           "id": 134,
           "name": "Pittsburgh Pirates",
@@ -619,7 +619,7 @@
         "game_pk": 824431,
         "game_date": "2026-05-30",
         "game_time_utc": "2026-05-30T20:10:00Z",
-        "status": "Scheduled",
+        "status": "Pre-Game",
         "home_team": {
           "id": 114,
           "name": "Cleveland Guardians",
@@ -633,14 +633,14 @@
         "venue": "Progressive Field",
         "platforms": [
           {
-            "label": "NESN",
-            "color": "#003087",
-            "url": "https://www.nesn.com/"
-          },
-          {
             "label": "Guardians.TV",
             "color": "#00385D",
             "url": "https://www.mlb.com/guardians/fans/guardians-tv"
+          },
+          {
+            "label": "NESN",
+            "color": "#003087",
+            "url": "https://www.nesn.com/"
           }
         ]
       },
@@ -648,7 +648,7 @@
         "game_pk": 822975,
         "game_date": "2026-05-30",
         "game_time_utc": "2026-05-30T20:10:00Z",
-        "status": "Scheduled",
+        "status": "Pre-Game",
         "home_team": {
           "id": 139,
           "name": "Tampa Bay Rays",
@@ -672,7 +672,7 @@
         "game_pk": 823622,
         "game_date": "2026-05-30",
         "game_time_utc": "2026-05-30T20:10:00Z",
-        "status": "Scheduled",
+        "status": "Pre-Game",
         "home_team": {
           "id": 121,
           "name": "New York Mets",
@@ -696,7 +696,7 @@
         "game_pk": 824190,
         "game_date": "2026-05-30",
         "game_time_utc": "2026-05-30T20:10:00Z",
-        "status": "Scheduled",
+        "status": "Pre-Game",
         "home_team": {
           "id": 117,
           "name": "Houston Astros",
@@ -749,7 +749,7 @@
         "game_pk": 824513,
         "game_date": "2026-05-30",
         "game_time_utc": "2026-05-30T23:15:00Z",
-        "status": "Scheduled",
+        "status": "Pre-Game",
         "home_team": {
           "id": 113,
           "name": "Cincinnati Reds",
