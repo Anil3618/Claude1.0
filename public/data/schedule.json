@@ -509,7 +509,7 @@
         "game_pk": 822974,
         "game_date": "2026-06-01",
         "game_time_utc": "2026-06-01T22:40:00Z",
-        "status": "Scheduled",
+        "status": "Pre-Game",
         "home_team": {
           "id": 139,
           "name": "Tampa Bay Rays",
@@ -538,7 +538,7 @@
         "game_pk": 822730,
         "game_date": "2026-06-01",
         "game_time_utc": "2026-06-01T22:45:00Z",
-        "status": "Scheduled",
+        "status": "Pre-Game",
         "home_team": {
           "id": 120,
           "name": "Washington Nationals",
@@ -562,7 +562,7 @@
         "game_pk": 824510,
         "game_date": "2026-06-01",
         "game_time_utc": "2026-06-01T23:10:00Z",
-        "status": "Scheduled",
+        "status": "Pre-Game",
         "home_team": {
           "id": 113,
           "name": "Cincinnati Reds",
@@ -591,7 +591,7 @@
         "game_pk": 823702,
         "game_date": "2026-06-01",
         "game_time_utc": "2026-06-01T23:40:00Z",
-        "status": "Scheduled",
+        "status": "Pre-Game",
         "home_team": {
           "id": 142,
           "name": "Minnesota Twins",
@@ -620,7 +620,7 @@
         "game_pk": 823781,
         "game_date": "2026-06-01",
         "game_time_utc": "2026-06-01T23:40:00Z",
-        "status": "Scheduled",
+        "status": "Pre-Game",
         "home_team": {
           "id": 158,
           "name": "Milwaukee Brewers",
@@ -654,7 +654,7 @@
         "game_pk": 823050,
         "game_date": "2026-06-01",
         "game_time_utc": "2026-06-01T23:45:00Z",
-        "status": "Scheduled",
+        "status": "Pre-Game",
         "home_team": {
           "id": 138,
           "name": "St. Louis Cardinals",
@@ -680,7 +680,7 @@
         "game_pk": 824027,
         "game_date": "2026-06-02",
         "game_time_utc": "2026-06-02T01:38:00Z",
-        "status": "Scheduled",
+        "status": "Pre-Game",
         "home_team": {
           "id": 108,
           "name": "Los Angeles Angels",
@@ -733,7 +733,7 @@
         "game_pk": 823131,
         "game_date": "2026-06-02",
         "game_time_utc": "2026-06-02T01:40:00Z",
-        "status": "Scheduled",
+        "status": "Pre-Game",
         "home_team": {
           "id": 136,
           "name": "Seattle Mariners",
@@ -747,14 +747,14 @@
         "venue": "T-Mobile Park",
         "platforms": [
           {
-            "label": "Mariners.TV",
-            "color": "#0C2C56",
-            "url": "https://www.mlb.com/mariners/fans/mariners-tv"
-          },
-          {
             "label": "SNY",
             "color": "#002D72",
             "url": "https://sny.tv/"
+          },
+          {
+            "label": "Mariners.TV",
+            "color": "#0C2C56",
+            "url": "https://www.mlb.com/mariners/fans/mariners-tv"
           }
         ]
       },
