@@ -178,7 +178,7 @@
         "game_pk": 824027,
         "game_date": "2026-06-02",
         "game_time_utc": "2026-06-02T01:38:00Z",
-        "status": "In Progress",
+        "status": "Final",
         "home_team": {
           "id": 108,
           "name": "Los Angeles Angels",
@@ -202,7 +202,7 @@
         "game_pk": 825078,
         "game_date": "2026-06-02",
         "game_time_utc": "2026-06-02T01:40:00Z",
-        "status": "Game Over",
+        "status": "Final",
         "home_team": {
           "id": 109,
           "name": "Arizona Diamondbacks",
@@ -231,7 +231,7 @@
         "game_pk": 823131,
         "game_date": "2026-06-02",
         "game_time_utc": "2026-06-02T01:40:00Z",
-        "status": "In Progress",
+        "status": "Final",
         "home_team": {
           "id": 136,
           "name": "Seattle Mariners",
