@@ -260,7 +260,7 @@
         "game_pk": 822971,
         "game_date": "2026-06-02",
         "game_time_utc": "2026-06-02T22:40:00Z",
-        "status": "Scheduled",
+        "status": "Pre-Game",
         "home_team": {
           "id": 139,
           "name": "Tampa Bay Rays",
@@ -289,7 +289,7 @@
         "game_pk": 823460,
         "game_date": "2026-06-02",
         "game_time_utc": "2026-06-02T22:40:00Z",
-        "status": "Scheduled",
+        "status": "Pre-Game",
         "home_team": {
           "id": 143,
           "name": "Philadelphia Phillies",
@@ -323,7 +323,7 @@
         "game_pk": 824754,
         "game_date": "2026-06-02",
         "game_time_utc": "2026-06-02T22:45:00Z",
-        "status": "Scheduled",
+        "status": "Pre-Game",
         "home_team": {
           "id": 111,
           "name": "Boston Red Sox",
@@ -352,7 +352,7 @@
         "game_pk": 822728,
         "game_date": "2026-06-02",
         "game_time_utc": "2026-06-02T22:45:00Z",
-        "status": "Scheduled",
+        "status": "Pre-Game",
         "home_team": {
           "id": 120,
           "name": "Washington Nationals",
@@ -376,7 +376,7 @@
         "game_pk": 823541,
         "game_date": "2026-06-02",
         "game_time_utc": "2026-06-02T23:05:00Z",
-        "status": "Scheduled",
+        "status": "Pre-Game",
         "home_team": {
           "id": 147,
           "name": "New York Yankees",
@@ -405,7 +405,7 @@
         "game_pk": 824511,
         "game_date": "2026-06-02",
         "game_time_utc": "2026-06-02T23:10:00Z",
-        "status": "Scheduled",
+        "status": "Pre-Game",
         "home_team": {
           "id": 113,
           "name": "Cincinnati Reds",
@@ -434,7 +434,7 @@
         "game_pk": 824918,
         "game_date": "2026-06-02",
         "game_time_utc": "2026-06-02T23:15:00Z",
-        "status": "Scheduled",
+        "status": "Pre-Game",
         "home_team": {
           "id": 144,
           "name": "Atlanta Braves",
@@ -463,7 +463,7 @@
         "game_pk": 823700,
         "game_date": "2026-06-02",
         "game_time_utc": "2026-06-02T23:40:00Z",
-        "status": "Scheduled",
+        "status": "Pre-Game",
         "home_team": {
           "id": 142,
           "name": "Minnesota Twins",
@@ -492,7 +492,7 @@
         "game_pk": 823782,
         "game_date": "2026-06-02",
         "game_time_utc": "2026-06-02T23:40:00Z",
-        "status": "Scheduled",
+        "status": "Pre-Game",
         "home_team": {
           "id": 158,
           "name": "Milwaukee Brewers",
@@ -521,7 +521,7 @@
         "game_pk": 823052,
         "game_date": "2026-06-02",
         "game_time_utc": "2026-06-02T23:45:00Z",
-        "status": "Scheduled",
+        "status": "Pre-Game",
         "home_team": {
           "id": 138,
           "name": "St. Louis Cardinals",
@@ -547,7 +547,7 @@
         "game_pk": 824675,
         "game_date": "2026-06-03",
         "game_time_utc": "2026-06-03T00:05:00Z",
-        "status": "Scheduled",
+        "status": "Pre-Game",
         "home_team": {
           "id": 112,
           "name": "Chicago Cubs",
@@ -576,7 +576,7 @@
         "game_pk": 824189,
         "game_date": "2026-06-03",
         "game_time_utc": "2026-06-03T00:10:00Z",
-        "status": "Scheduled",
+        "status": "Pre-Game",
         "home_team": {
           "id": 117,
           "name": "Houston Astros",
