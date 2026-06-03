@@ -434,7 +434,7 @@
         "game_pk": 822727,
         "game_date": "2026-06-03",
         "game_time_utc": "2026-06-03T17:05:00Z",
-        "status": "Warmup",
+        "status": "Final",
         "home_team": {
           "id": 120,
           "name": "Washington Nationals",
@@ -458,7 +458,7 @@
         "game_pk": 822973,
         "game_date": "2026-06-03",
         "game_time_utc": "2026-06-03T17:10:00Z",
-        "status": "Warmup",
+        "status": "Final",
         "home_team": {
           "id": 139,
           "name": "Tampa Bay Rays",
@@ -487,7 +487,7 @@
         "game_pk": 823701,
         "game_date": "2026-06-03",
         "game_time_utc": "2026-06-03T17:40:00Z",
-        "status": "Pre-Game",
+        "status": "Final",
         "home_team": {
           "id": 142,
           "name": "Minnesota Twins",
@@ -516,7 +516,7 @@
         "game_pk": 823130,
         "game_date": "2026-06-03",
         "game_time_utc": "2026-06-03T19:40:00Z",
-        "status": "Pre-Game",
+        "status": "In Progress",
         "home_team": {
           "id": 136,
           "name": "Seattle Mariners",
@@ -530,14 +530,14 @@
         "venue": "T-Mobile Park",
         "platforms": [
           {
-            "label": "Mariners.TV",
-            "color": "#0C2C56",
-            "url": "https://www.mlb.com/mariners/fans/mariners-tv"
-          },
-          {
             "label": "SNY",
             "color": "#002D72",
             "url": "https://sny.tv/"
+          },
+          {
+            "label": "Mariners.TV",
+            "color": "#0C2C56",
+            "url": "https://www.mlb.com/mariners/fans/mariners-tv"
           }
         ]
       },
@@ -545,7 +545,7 @@
         "game_pk": 823456,
         "game_date": "2026-06-03",
         "game_time_utc": "2026-06-03T22:40:00Z",
-        "status": "Scheduled",
+        "status": "Pre-Game",
         "home_team": {
           "id": 143,
           "name": "Philadelphia Phillies",
@@ -574,7 +574,7 @@
         "game_pk": 824755,
         "game_date": "2026-06-03",
         "game_time_utc": "2026-06-03T22:45:00Z",
-        "status": "Scheduled",
+        "status": "Pre-Game",
         "home_team": {
           "id": 111,
           "name": "Boston Red Sox",
@@ -588,14 +588,14 @@
         "venue": "Fenway Park",
         "platforms": [
           {
-            "label": "NESN",
-            "color": "#003087",
-            "url": "https://www.nesn.com/"
-          },
-          {
             "label": "MASN",
             "color": "#E03A3E",
             "url": "https://www.masnsports.com/"
+          },
+          {
+            "label": "NESN",
+            "color": "#003087",
+            "url": "https://www.nesn.com/"
           }
         ]
       },
@@ -603,7 +603,7 @@
         "game_pk": 823540,
         "game_date": "2026-06-03",
         "game_time_utc": "2026-06-03T23:05:00Z",
-        "status": "Scheduled",
+        "status": "Pre-Game",
         "home_team": {
           "id": 147,
           "name": "New York Yankees",
@@ -632,7 +632,7 @@
         "game_pk": 824509,
         "game_date": "2026-06-03",
         "game_time_utc": "2026-06-03T23:10:00Z",
-        "status": "Scheduled",
+        "status": "Pre-Game",
         "home_team": {
           "id": 113,
           "name": "Cincinnati Reds",
@@ -646,14 +646,14 @@
         "venue": "Great American Ball Park",
         "platforms": [
           {
-            "label": "Royals.TV",
-            "color": "#174885",
-            "url": "https://www.mlb.com/royals/fans/royals-tv"
-          },
-          {
             "label": "Reds.TV",
             "color": "#C6011F",
             "url": "https://www.mlb.com/reds/fans/reds-tv"
+          },
+          {
+            "label": "Royals.TV",
+            "color": "#174885",
+            "url": "https://www.mlb.com/royals/fans/royals-tv"
           }
         ]
       },
@@ -661,7 +661,7 @@
         "game_pk": 824917,
         "game_date": "2026-06-03",
         "game_time_utc": "2026-06-03T23:15:00Z",
-        "status": "Scheduled",
+        "status": "Pre-Game",
         "home_team": {
           "id": 144,
           "name": "Atlanta Braves",
@@ -695,7 +695,7 @@
         "game_pk": 823780,
         "game_date": "2026-06-03",
         "game_time_utc": "2026-06-03T23:40:00Z",
-        "status": "Scheduled",
+        "status": "Pre-Game",
         "home_team": {
           "id": 158,
           "name": "Milwaukee Brewers",
@@ -709,14 +709,14 @@
         "venue": "American Family Field",
         "platforms": [
           {
-            "label": "Brewers.TV",
-            "color": "#12284B",
-            "url": "https://www.mlb.com/brewers/fans/brewers-tv"
-          },
-          {
             "label": "NBC Sports Bay Area",
             "color": "#0B2265",
             "url": "https://www.nbcsports.com/bayarea"
+          },
+          {
+            "label": "Brewers.TV",
+            "color": "#12284B",
+            "url": "https://www.mlb.com/brewers/fans/brewers-tv"
           }
         ]
       },
@@ -724,7 +724,7 @@
         "game_pk": 823051,
         "game_date": "2026-06-03",
         "game_time_utc": "2026-06-03T23:45:00Z",
-        "status": "Scheduled",
+        "status": "Pre-Game",
         "home_team": {
           "id": 138,
           "name": "St. Louis Cardinals",
@@ -750,7 +750,7 @@
         "game_pk": 824671,
         "game_date": "2026-06-04",
         "game_time_utc": "2026-06-04T00:05:00Z",
-        "status": "Scheduled",
+        "status": "Pre-Game",
         "home_team": {
           "id": 112,
           "name": "Chicago Cubs",
@@ -764,14 +764,14 @@
         "venue": "Wrigley Field",
         "platforms": [
           {
-            "label": "Marquee Sports",
-            "color": "#CC3433",
-            "url": "https://www.marqueesportsnetwork.com/"
-          },
-          {
             "label": "NBC Sports California",
             "color": "#0B2265",
             "url": "https://www.nbcsports.com/california"
+          },
+          {
+            "label": "Marquee Sports",
+            "color": "#CC3433",
+            "url": "https://www.marqueesportsnetwork.com/"
           }
         ]
       },
@@ -779,7 +779,7 @@
         "game_pk": 824188,
         "game_date": "2026-06-04",
         "game_time_utc": "2026-06-04T00:10:00Z",
-        "status": "Scheduled",
+        "status": "Pre-Game",
         "home_team": {
           "id": 117,
           "name": "Houston Astros",
@@ -793,14 +793,14 @@
         "venue": "Daikin Park",
         "platforms": [
           {
-            "label": "Space City Home Network",
-            "color": "#002D62",
-            "url": "https://www.spacecityhomenetwork.com/"
-          },
-          {
             "label": "SportsNet Pittsburgh",
             "color": "#FDB827",
             "url": "https://www.sportsnetpittsburgh.com/"
+          },
+          {
+            "label": "Space City Home Network",
+            "color": "#002D62",
+            "url": "https://www.spacecityhomenetwork.com/"
           }
         ]
       },
@@ -832,7 +832,7 @@
         "game_pk": 825077,
         "game_date": "2026-06-04",
         "game_time_utc": "2026-06-04T01:40:00Z",
-        "status": "Scheduled",
+        "status": "Pre-Game",
         "home_team": {
           "id": 109,
           "name": "Arizona Diamondbacks",
