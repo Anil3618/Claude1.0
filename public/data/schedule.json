@@ -459,7 +459,7 @@
         "game_pk": 824269,
         "game_date": "2026-06-06",
         "game_time_utc": "2026-06-06T17:10:00Z",
-        "status": "Scheduled",
+        "status": "In Progress",
         "home_team": {
           "id": 116,
           "name": "Detroit Tigers",
@@ -488,7 +488,7 @@
         "game_pk": 823697,
         "game_date": "2026-06-06",
         "game_time_utc": "2026-06-06T18:10:00Z",
-        "status": "Scheduled",
+        "status": "In Progress",
         "home_team": {
           "id": 142,
           "name": "Minnesota Twins",
@@ -517,7 +517,7 @@
         "game_pk": 823048,
         "game_date": "2026-06-06",
         "game_time_utc": "2026-06-06T18:15:00Z",
-        "status": "Scheduled",
+        "status": "In Progress",
         "home_team": {
           "id": 138,
           "name": "St. Louis Cardinals",
@@ -546,7 +546,7 @@
         "game_pk": 824669,
         "game_date": "2026-06-06",
         "game_time_utc": "2026-06-06T18:20:00Z",
-        "status": "Scheduled",
+        "status": "In Progress",
         "home_team": {
           "id": 112,
           "name": "Chicago Cubs",
@@ -575,7 +575,7 @@
         "game_pk": 822808,
         "game_date": "2026-06-06",
         "game_time_utc": "2026-06-06T19:07:00Z",
-        "status": "Scheduled",
+        "status": "In Progress",
         "home_team": {
           "id": 141,
           "name": "Toronto Blue Jays",
@@ -609,7 +609,7 @@
         "game_pk": 823454,
         "game_date": "2026-06-06",
         "game_time_utc": "2026-06-06T20:05:00Z",
-        "status": "Scheduled",
+        "status": "Pre-Game",
         "home_team": {
           "id": 143,
           "name": "Philadelphia Phillies",
@@ -638,7 +638,7 @@
         "game_pk": 825075,
         "game_date": "2026-06-06",
         "game_time_utc": "2026-06-06T20:10:00Z",
-        "status": "Scheduled",
+        "status": "Pre-Game",
         "home_team": {
           "id": 109,
           "name": "Arizona Diamondbacks",
@@ -667,7 +667,7 @@
         "game_pk": 824184,
         "game_date": "2026-06-06",
         "game_time_utc": "2026-06-06T20:10:00Z",
-        "status": "Scheduled",
+        "status": "Pre-Game",
         "home_team": {
           "id": 117,
           "name": "Houston Astros",
@@ -696,7 +696,7 @@
         "game_pk": 824915,
         "game_date": "2026-06-06",
         "game_time_utc": "2026-06-06T20:10:00Z",
-        "status": "Scheduled",
+        "status": "Pre-Game",
         "home_team": {
           "id": 144,
           "name": "Atlanta Braves",
@@ -725,7 +725,7 @@
         "game_pk": 823859,
         "game_date": "2026-06-06",
         "game_time_utc": "2026-06-06T20:10:00Z",
-        "status": "Scheduled",
+        "status": "Pre-Game",
         "home_team": {
           "id": 146,
           "name": "Miami Marlins",
@@ -2415,14 +2415,14 @@
         "venue": "Citi Field",
         "platforms": [
           {
-            "label": "SNY",
-            "color": "#002D72",
-            "url": "https://sny.tv/"
-          },
-          {
             "label": "Cardinals.TV",
             "color": "#C41E3A",
             "url": "https://www.mlb.com/cardinals/fans/cardinals-tv"
+          },
+          {
+            "label": "SNY",
+            "color": "#002D72",
+            "url": "https://sny.tv/"
           }
         ]
       },
