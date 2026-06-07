@@ -429,7 +429,7 @@
         "game_pk": 824916,
         "game_date": "2026-06-07",
         "game_time_utc": "2026-06-07T17:35:00Z",
-        "status": "Scheduled",
+        "status": "In Progress",
         "home_team": {
           "id": 144,
           "name": "Atlanta Braves",
@@ -458,7 +458,7 @@
         "game_pk": 823453,
         "game_date": "2026-06-07",
         "game_time_utc": "2026-06-07T17:35:00Z",
-        "status": "Pre-Game",
+        "status": "In Progress",
         "home_team": {
           "id": 143,
           "name": "Philadelphia Phillies",
@@ -487,7 +487,7 @@
         "game_pk": 823537,
         "game_date": "2026-06-07",
         "game_time_utc": "2026-06-07T17:35:00Z",
-        "status": "Pre-Game",
+        "status": "In Progress",
         "home_team": {
           "id": 147,
           "name": "New York Yankees",
@@ -516,7 +516,7 @@
         "game_pk": 822807,
         "game_date": "2026-06-07",
         "game_time_utc": "2026-06-07T17:37:00Z",
-        "status": "Scheduled",
+        "status": "In Progress",
         "home_team": {
           "id": 141,
           "name": "Toronto Blue Jays",
@@ -555,7 +555,7 @@
         "game_pk": 824268,
         "game_date": "2026-06-07",
         "game_time_utc": "2026-06-07T17:40:00Z",
-        "status": "Scheduled",
+        "status": "In Progress",
         "home_team": {
           "id": 116,
           "name": "Detroit Tigers",
@@ -584,7 +584,7 @@
         "game_pk": 823857,
         "game_date": "2026-06-07",
         "game_time_utc": "2026-06-07T17:40:00Z",
-        "status": "Scheduled",
+        "status": "In Progress",
         "home_team": {
           "id": 146,
           "name": "Miami Marlins",
@@ -608,7 +608,7 @@
         "game_pk": 824183,
         "game_date": "2026-06-07",
         "game_time_utc": "2026-06-07T18:10:00Z",
-        "status": "Scheduled",
+        "status": "In Progress",
         "home_team": {
           "id": 117,
           "name": "Houston Astros",
@@ -637,7 +637,7 @@
         "game_pk": 823696,
         "game_date": "2026-06-07",
         "game_time_utc": "2026-06-07T18:10:00Z",
-        "status": "Scheduled",
+        "status": "In Progress",
         "home_team": {
           "id": 142,
           "name": "Minnesota Twins",
@@ -666,7 +666,7 @@
         "game_pk": 823047,
         "game_date": "2026-06-07",
         "game_time_utc": "2026-06-07T18:15:00Z",
-        "status": "Scheduled",
+        "status": "In Progress",
         "home_team": {
           "id": 138,
           "name": "St. Louis Cardinals",
@@ -695,7 +695,7 @@
         "game_pk": 822890,
         "game_date": "2026-06-07",
         "game_time_utc": "2026-06-07T18:35:00Z",
-        "status": "Scheduled",
+        "status": "In Progress",
         "home_team": {
           "id": 140,
           "name": "Texas Rangers",
@@ -719,7 +719,7 @@
         "game_pk": 824349,
         "game_date": "2026-06-07",
         "game_time_utc": "2026-06-07T19:10:00Z",
-        "status": "Scheduled",
+        "status": "In Progress",
         "home_team": {
           "id": 115,
           "name": "Colorado Rockies",
@@ -748,7 +748,7 @@
         "game_pk": 825074,
         "game_date": "2026-06-07",
         "game_time_utc": "2026-06-07T19:15:00Z",
-        "status": "Scheduled",
+        "status": "In Progress",
         "home_team": {
           "id": 109,
           "name": "Arizona Diamondbacks",
@@ -772,7 +772,7 @@
         "game_pk": 823941,
         "game_date": "2026-06-07",
         "game_time_utc": "2026-06-07T20:10:00Z",
-        "status": "Scheduled",
+        "status": "Pre-Game",
         "home_team": {
           "id": 119,
           "name": "Los Angeles Dodgers",
@@ -796,7 +796,7 @@
         "game_pk": 823291,
         "game_date": "2026-06-07",
         "game_time_utc": "2026-06-07T20:10:00Z",
-        "status": "Scheduled",
+        "status": "Pre-Game",
         "home_team": {
           "id": 135,
           "name": "San Diego Padres",
@@ -1963,14 +1963,14 @@
         "venue": "Citi Field",
         "platforms": [
           {
-            "label": "SNY",
-            "color": "#002D72",
-            "url": "https://sny.tv/"
-          },
-          {
             "label": "Cardinals.TV",
             "color": "#C41E3A",
             "url": "https://www.mlb.com/cardinals/fans/cardinals-tv"
+          },
+          {
+            "label": "SNY",
+            "color": "#002D72",
+            "url": "https://sny.tv/"
           }
         ]
       },
