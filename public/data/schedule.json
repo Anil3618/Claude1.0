@@ -1541,14 +1541,14 @@
         "venue": "Citi Field",
         "platforms": [
           {
-            "label": "Cardinals.TV",
-            "color": "#C41E3A",
-            "url": "https://www.mlb.com/cardinals/fans/cardinals-tv"
-          },
-          {
             "label": "SNY",
             "color": "#002D72",
             "url": "https://sny.tv/"
+          },
+          {
+            "label": "Cardinals.TV",
+            "color": "#C41E3A",
+            "url": "https://www.mlb.com/cardinals/fans/cardinals-tv"
           }
         ]
       },
