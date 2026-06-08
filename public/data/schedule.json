@@ -429,7 +429,7 @@
         "game_pk": 824829,
         "game_date": "2026-06-08",
         "game_time_utc": "2026-06-08T22:35:00Z",
-        "status": "Scheduled",
+        "status": "Pre-Game",
         "home_team": {
           "id": 110,
           "name": "Baltimore Orioles",
@@ -458,7 +458,7 @@
         "game_pk": 822972,
         "game_date": "2026-06-08",
         "game_time_utc": "2026-06-08T22:40:00Z",
-        "status": "Scheduled",
+        "status": "Pre-Game",
         "home_team": {
           "id": 139,
           "name": "Tampa Bay Rays",
@@ -487,7 +487,7 @@
         "game_pk": 824427,
         "game_date": "2026-06-08",
         "game_time_utc": "2026-06-08T22:40:00Z",
-        "status": "Scheduled",
+        "status": "Pre-Game",
         "home_team": {
           "id": 114,
           "name": "Cleveland Guardians",
@@ -521,7 +521,7 @@
         "game_pk": 822806,
         "game_date": "2026-06-08",
         "game_time_utc": "2026-06-08T23:07:00Z",
-        "status": "Scheduled",
+        "status": "Pre-Game",
         "home_team": {
           "id": 141,
           "name": "Toronto Blue Jays",
@@ -2545,6 +2545,11 @@
         },
         "venue": "American Family Field",
         "platforms": [
+          {
+            "label": "NBC Sports Philadelphia",
+            "color": "#0B2265",
+            "url": "https://www.nbcsports.com/philadelphia"
+          },
           {
             "label": "FS1",
             "color": "#003087",
