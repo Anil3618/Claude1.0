@@ -21,14 +21,14 @@
         "venue": "Oriole Park at Camden Yards",
         "platforms": [
           {
-            "label": "MASN",
-            "color": "#E03A3E",
-            "url": "https://www.masnsports.com/"
-          },
-          {
             "label": "Mariners.TV",
             "color": "#0C2C56",
             "url": "https://www.mlb.com/mariners/fans/mariners-tv"
+          },
+          {
+            "label": "MASN",
+            "color": "#E03A3E",
+            "url": "https://www.masnsports.com/"
           }
         ]
       },
@@ -140,7 +140,7 @@
         "game_pk": 824025,
         "game_date": "2026-06-09",
         "game_time_utc": "2026-06-09T01:38:00Z",
-        "status": "In Progress",
+        "status": "Final",
         "home_team": {
           "id": 108,
           "name": "Los Angeles Angels",
@@ -164,7 +164,7 @@
         "game_pk": 823289,
         "game_date": "2026-06-09",
         "game_time_utc": "2026-06-09T01:40:00Z",
-        "status": "In Progress",
+        "status": "Final",
         "home_team": {
           "id": 135,
           "name": "San Diego Padres",
@@ -193,7 +193,7 @@
         "game_pk": 823218,
         "game_date": "2026-06-09",
         "game_time_utc": "2026-06-09T01:45:00Z",
-        "status": "In Progress",
+        "status": "Final",
         "home_team": {
           "id": 137,
           "name": "San Francisco Giants",
@@ -222,7 +222,7 @@
         "game_pk": 824998,
         "game_date": "2026-06-09",
         "game_time_utc": "2026-06-09T02:05:00Z",
-        "status": "In Progress",
+        "status": "Final",
         "home_team": {
           "id": 133,
           "name": "Athletics",
