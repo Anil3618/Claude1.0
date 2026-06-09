@@ -21,14 +21,14 @@
         "venue": "Oriole Park at Camden Yards",
         "platforms": [
           {
-            "label": "Mariners.TV",
-            "color": "#0C2C56",
-            "url": "https://www.mlb.com/mariners/fans/mariners-tv"
-          },
-          {
             "label": "MASN",
             "color": "#E03A3E",
             "url": "https://www.masnsports.com/"
+          },
+          {
+            "label": "Mariners.TV",
+            "color": "#0C2C56",
+            "url": "https://www.mlb.com/mariners/fans/mariners-tv"
           }
         ]
       },
@@ -251,7 +251,7 @@
         "game_pk": 824830,
         "game_date": "2026-06-09",
         "game_time_utc": "2026-06-09T22:35:00Z",
-        "status": "Scheduled",
+        "status": "Pre-Game",
         "home_team": {
           "id": 110,
           "name": "Baltimore Orioles",
@@ -280,7 +280,7 @@
         "game_pk": 823374,
         "game_date": "2026-06-09",
         "game_time_utc": "2026-06-09T22:40:00Z",
-        "status": "Scheduled",
+        "status": "Pre-Game",
         "home_team": {
           "id": 134,
           "name": "Pittsburgh Pirates",
@@ -309,7 +309,7 @@
         "game_pk": 822969,
         "game_date": "2026-06-09",
         "game_time_utc": "2026-06-09T22:40:00Z",
-        "status": "Scheduled",
+        "status": "Pre-Game",
         "home_team": {
           "id": 139,
           "name": "Tampa Bay Rays",
@@ -338,7 +338,7 @@
         "game_pk": 824267,
         "game_date": "2026-06-09",
         "game_time_utc": "2026-06-09T22:40:00Z",
-        "status": "Scheduled",
+        "status": "Pre-Game",
         "home_team": {
           "id": 116,
           "name": "Detroit Tigers",
@@ -367,7 +367,7 @@
         "game_pk": 823858,
         "game_date": "2026-06-09",
         "game_time_utc": "2026-06-09T22:40:00Z",
-        "status": "Scheduled",
+        "status": "Pre-Game",
         "home_team": {
           "id": 146,
           "name": "Miami Marlins",
@@ -391,7 +391,7 @@
         "game_pk": 824429,
         "game_date": "2026-06-09",
         "game_time_utc": "2026-06-09T22:40:00Z",
-        "status": "Scheduled",
+        "status": "Pre-Game",
         "home_team": {
           "id": 114,
           "name": "Cleveland Guardians",
@@ -425,7 +425,7 @@
         "game_pk": 822805,
         "game_date": "2026-06-09",
         "game_time_utc": "2026-06-09T23:07:00Z",
-        "status": "Scheduled",
+        "status": "Pre-Game",
         "home_team": {
           "id": 141,
           "name": "Toronto Blue Jays",
@@ -454,7 +454,7 @@
         "game_pk": 823620,
         "game_date": "2026-06-09",
         "game_time_utc": "2026-06-09T23:10:00Z",
-        "status": "Scheduled",
+        "status": "Pre-Game",
         "home_team": {
           "id": 121,
           "name": "New York Mets",
@@ -507,7 +507,7 @@
         "game_pk": 824591,
         "game_date": "2026-06-09",
         "game_time_utc": "2026-06-09T23:40:00Z",
-        "status": "Scheduled",
+        "status": "Pre-Game",
         "home_team": {
           "id": 145,
           "name": "Chicago White Sox",
@@ -663,14 +663,14 @@
         "venue": "Las Vegas Ballpark",
         "platforms": [
           {
-            "label": "Brewers.TV",
-            "color": "#12284B",
-            "url": "https://www.mlb.com/brewers/fans/brewers-tv"
-          },
-          {
             "label": "NBC Sports California",
             "color": "#0B2265",
             "url": "https://www.nbcsports.com/california"
+          },
+          {
+            "label": "Brewers.TV",
+            "color": "#12284B",
+            "url": "https://www.mlb.com/brewers/fans/brewers-tv"
           }
         ]
       },
