@@ -434,7 +434,7 @@
         "game_pk": 823619,
         "game_date": "2026-06-11",
         "game_time_utc": "2026-06-11T17:10:00Z",
-        "status": "Scheduled",
+        "status": "Pre-Game",
         "home_team": {
           "id": 121,
           "name": "New York Mets",
@@ -463,7 +463,7 @@
         "game_pk": 824265,
         "game_date": "2026-06-11",
         "game_time_utc": "2026-06-11T17:10:00Z",
-        "status": "Scheduled",
+        "status": "Pre-Game",
         "home_team": {
           "id": 116,
           "name": "Detroit Tigers",
@@ -492,7 +492,7 @@
         "game_pk": 823855,
         "game_date": "2026-06-11",
         "game_time_utc": "2026-06-11T17:10:00Z",
-        "status": "Scheduled",
+        "status": "Pre-Game",
         "home_team": {
           "id": 146,
           "name": "Miami Marlins",
@@ -516,7 +516,7 @@
         "game_pk": 824101,
         "game_date": "2026-06-11",
         "game_time_utc": "2026-06-11T18:10:00Z",
-        "status": "Scheduled",
+        "status": "Pre-Game",
         "home_team": {
           "id": 118,
           "name": "Kansas City Royals",
