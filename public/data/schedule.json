@@ -226,7 +226,7 @@
         "game_pk": 823370,
         "game_date": "2026-06-12",
         "game_time_utc": "2026-06-12T22:40:00Z",
-        "status": "Scheduled",
+        "status": "Pre-Game",
         "home_team": {
           "id": 134,
           "name": "Pittsburgh Pirates",
@@ -255,7 +255,7 @@
         "game_pk": 822726,
         "game_date": "2026-06-12",
         "game_time_utc": "2026-06-12T22:45:00Z",
-        "status": "Scheduled",
+        "status": "Pre-Game",
         "home_team": {
           "id": 120,
           "name": "Washington Nationals",
@@ -289,7 +289,7 @@
         "game_pk": 824826,
         "game_date": "2026-06-12",
         "game_time_utc": "2026-06-12T23:05:00Z",
-        "status": "Scheduled",
+        "status": "Pre-Game",
         "home_team": {
           "id": 110,
           "name": "Baltimore Orioles",
@@ -323,7 +323,7 @@
         "game_pk": 824425,
         "game_date": "2026-06-12",
         "game_time_utc": "2026-06-12T23:10:00Z",
-        "status": "Scheduled",
+        "status": "Pre-Game",
         "home_team": {
           "id": 114,
           "name": "Cleveland Guardians",
@@ -357,7 +357,7 @@
         "game_pk": 824752,
         "game_date": "2026-06-12",
         "game_time_utc": "2026-06-12T23:10:00Z",
-        "status": "Scheduled",
+        "status": "Pre-Game",
         "home_team": {
           "id": 111,
           "name": "Boston Red Sox",
@@ -386,7 +386,7 @@
         "game_pk": 824507,
         "game_date": "2026-06-12",
         "game_time_utc": "2026-06-12T23:15:00Z",
-        "status": "Scheduled",
+        "status": "Pre-Game",
         "home_team": {
           "id": 113,
           "name": "Cincinnati Reds",
@@ -415,7 +415,7 @@
         "game_pk": 823617,
         "game_date": "2026-06-12",
         "game_time_utc": "2026-06-12T23:15:00Z",
-        "status": "Scheduled",
+        "status": "Pre-Game",
         "home_team": {
           "id": 121,
           "name": "New York Mets",
@@ -444,7 +444,7 @@
         "game_pk": 822803,
         "game_date": "2026-06-12",
         "game_time_utc": "2026-06-12T23:37:00Z",
-        "status": "Scheduled",
+        "status": "Pre-Game",
         "home_team": {
           "id": 141,
           "name": "Toronto Blue Jays",
@@ -488,7 +488,7 @@
         "game_pk": 824588,
         "game_date": "2026-06-12",
         "game_time_utc": "2026-06-12T23:40:00Z",
-        "status": "Scheduled",
+        "status": "Pre-Game",
         "home_team": {
           "id": 145,
           "name": "Chicago White Sox",
@@ -522,7 +522,7 @@
         "game_pk": 823778,
         "game_date": "2026-06-12",
         "game_time_utc": "2026-06-12T23:40:00Z",
-        "status": "Scheduled",
+        "status": "Pre-Game",
         "home_team": {
           "id": 158,
           "name": "Milwaukee Brewers",
@@ -558,7 +558,7 @@
         "game_pk": 824102,
         "game_date": "2026-06-13",
         "game_time_utc": "2026-06-13T00:10:00Z",
-        "status": "Scheduled",
+        "status": "Pre-Game",
         "home_team": {
           "id": 118,
           "name": "Kansas City Royals",
