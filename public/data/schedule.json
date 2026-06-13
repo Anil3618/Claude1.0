@@ -1905,14 +1905,14 @@
         "venue": "Daikin Park",
         "platforms": [
           {
-            "label": "Space City Home Network",
-            "color": "#002D62",
-            "url": "https://www.spacecityhomenetwork.com/"
-          },
-          {
             "label": "Detroit SportsNet",
             "color": "#0C2340",
             "url": "https://www.mlb.com/tigers"
+          },
+          {
+            "label": "Space City Home Network",
+            "color": "#002D62",
+            "url": "https://www.spacecityhomenetwork.com/"
           }
         ]
       },
@@ -2121,14 +2121,14 @@
         "venue": "Daikin Park",
         "platforms": [
           {
-            "label": "Space City Home Network",
-            "color": "#002D62",
-            "url": "https://www.spacecityhomenetwork.com/"
-          },
-          {
             "label": "Detroit SportsNet",
             "color": "#0C2340",
             "url": "https://www.mlb.com/tigers"
+          },
+          {
+            "label": "Space City Home Network",
+            "color": "#002D62",
+            "url": "https://www.spacecityhomenetwork.com/"
           }
         ]
       },
