@@ -479,7 +479,7 @@
         "game_pk": 823694,
         "game_date": "2026-06-13",
         "game_time_utc": "2026-06-13T18:10:00Z",
-        "status": "Scheduled",
+        "status": "In Progress",
         "home_team": {
           "id": 142,
           "name": "Minnesota Twins",
@@ -508,7 +508,7 @@
         "game_pk": 822802,
         "game_date": "2026-06-13",
         "game_time_utc": "2026-06-13T19:07:00Z",
-        "status": "Scheduled",
+        "status": "In Progress",
         "home_team": {
           "id": 141,
           "name": "Toronto Blue Jays",
@@ -542,7 +542,7 @@
         "game_pk": 824828,
         "game_date": "2026-06-13",
         "game_time_utc": "2026-06-13T20:05:00Z",
-        "status": "Scheduled",
+        "status": "Pre-Game",
         "home_team": {
           "id": 110,
           "name": "Baltimore Orioles",
@@ -571,7 +571,7 @@
         "game_pk": 822725,
         "game_date": "2026-06-13",
         "game_time_utc": "2026-06-13T20:05:00Z",
-        "status": "Scheduled",
+        "status": "Pre-Game",
         "home_team": {
           "id": 120,
           "name": "Washington Nationals",
@@ -600,7 +600,7 @@
         "game_pk": 823369,
         "game_date": "2026-06-13",
         "game_time_utc": "2026-06-13T20:05:00Z",
-        "status": "Scheduled",
+        "status": "Pre-Game",
         "home_team": {
           "id": 134,
           "name": "Pittsburgh Pirates",
@@ -624,7 +624,7 @@
         "game_pk": 824508,
         "game_date": "2026-06-13",
         "game_time_utc": "2026-06-13T20:10:00Z",
-        "status": "Scheduled",
+        "status": "Pre-Game",
         "home_team": {
           "id": 113,
           "name": "Cincinnati Reds",
@@ -653,7 +653,7 @@
         "game_pk": 824426,
         "game_date": "2026-06-13",
         "game_time_utc": "2026-06-13T20:10:00Z",
-        "status": "Scheduled",
+        "status": "Pre-Game",
         "home_team": {
           "id": 114,
           "name": "Cleveland Guardians",
@@ -682,7 +682,7 @@
         "game_pk": 824749,
         "game_date": "2026-06-13",
         "game_time_utc": "2026-06-13T20:10:00Z",
-        "status": "Scheduled",
+        "status": "Pre-Game",
         "home_team": {
           "id": 111,
           "name": "Boston Red Sox",
@@ -706,7 +706,7 @@
         "game_pk": 823616,
         "game_date": "2026-06-13",
         "game_time_utc": "2026-06-13T20:10:00Z",
-        "status": "Scheduled",
+        "status": "Pre-Game",
         "home_team": {
           "id": 121,
           "name": "New York Mets",
@@ -735,7 +735,7 @@
         "game_pk": 824587,
         "game_date": "2026-06-13",
         "game_time_utc": "2026-06-13T20:10:00Z",
-        "status": "Scheduled",
+        "status": "Pre-Game",
         "home_team": {
           "id": 145,
           "name": "Chicago White Sox",
@@ -764,7 +764,7 @@
         "game_pk": 824100,
         "game_date": "2026-06-13",
         "game_time_utc": "2026-06-13T23:10:00Z",
-        "status": "Scheduled",
+        "status": "Pre-Game",
         "home_team": {
           "id": 118,
           "name": "Kansas City Royals",
@@ -1905,14 +1905,14 @@
         "venue": "Daikin Park",
         "platforms": [
           {
-            "label": "Detroit SportsNet",
-            "color": "#0C2340",
-            "url": "https://www.mlb.com/tigers"
-          },
-          {
             "label": "Space City Home Network",
             "color": "#002D62",
             "url": "https://www.spacecityhomenetwork.com/"
+          },
+          {
+            "label": "Detroit SportsNet",
+            "color": "#0C2340",
+            "url": "https://www.mlb.com/tigers"
           }
         ]
       },
@@ -2121,14 +2121,14 @@
         "venue": "Daikin Park",
         "platforms": [
           {
-            "label": "Detroit SportsNet",
-            "color": "#0C2340",
-            "url": "https://www.mlb.com/tigers"
-          },
-          {
             "label": "Space City Home Network",
             "color": "#002D62",
             "url": "https://www.spacecityhomenetwork.com/"
+          },
+          {
+            "label": "Detroit SportsNet",
+            "color": "#0C2340",
+            "url": "https://www.mlb.com/tigers"
           }
         ]
       },
