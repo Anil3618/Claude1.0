@@ -439,7 +439,7 @@
         "game_pk": 823368,
         "game_date": "2026-06-14",
         "game_time_utc": "2026-06-14T16:15:00Z",
-        "status": "Pre-Game",
+        "status": "Final",
         "home_team": {
           "id": 134,
           "name": "Pittsburgh Pirates",
@@ -463,7 +463,7 @@
         "game_pk": 824823,
         "game_date": "2026-06-14",
         "game_time_utc": "2026-06-14T17:35:00Z",
-        "status": "Scheduled",
+        "status": "In Progress",
         "home_team": {
           "id": 110,
           "name": "Baltimore Orioles",
@@ -492,7 +492,7 @@
         "game_pk": 822722,
         "game_date": "2026-06-14",
         "game_time_utc": "2026-06-14T17:35:00Z",
-        "status": "Scheduled",
+        "status": "In Progress",
         "home_team": {
           "id": 120,
           "name": "Washington Nationals",
@@ -521,7 +521,7 @@
         "game_pk": 822801,
         "game_date": "2026-06-14",
         "game_time_utc": "2026-06-14T17:37:00Z",
-        "status": "Scheduled",
+        "status": "In Progress",
         "home_team": {
           "id": 141,
           "name": "Toronto Blue Jays",
@@ -540,7 +540,7 @@
             "url": "https://www.yesnetwork.com/"
           },
           {
-            "label": "Sportsnet 1",
+            "label": "Sportsnet",
             "color": "#E31937",
             "url": "https://www.sportsnet.ca/"
           },
@@ -555,7 +555,7 @@
         "game_pk": 824506,
         "game_date": "2026-06-14",
         "game_time_utc": "2026-06-14T17:40:00Z",
-        "status": "Pre-Game",
+        "status": "In Progress",
         "home_team": {
           "id": 113,
           "name": "Cincinnati Reds",
@@ -581,39 +581,10 @@
         ]
       },
       {
-        "game_pk": 824424,
-        "game_date": "2026-06-14",
-        "game_time_utc": "2026-06-14T17:40:00Z",
-        "status": "Scheduled",
-        "home_team": {
-          "id": 114,
-          "name": "Cleveland Guardians",
-          "abbreviation": "CLE"
-        },
-        "away_team": {
-          "id": 116,
-          "name": "Detroit Tigers",
-          "abbreviation": "DET"
-        },
-        "venue": "Progressive Field",
-        "platforms": [
-          {
-            "label": "Guardians.TV",
-            "color": "#00385D",
-            "url": "https://www.mlb.com/guardians/fans/guardians-tv"
-          },
-          {
-            "label": "Detroit SportsNet",
-            "color": "#0C2340",
-            "url": "https://www.mlb.com/tigers"
-          }
-        ]
-      },
-      {
         "game_pk": 823615,
         "game_date": "2026-06-14",
         "game_time_utc": "2026-06-14T17:40:00Z",
-        "status": "Scheduled",
+        "status": "In Progress",
         "home_team": {
           "id": 121,
           "name": "New York Mets",
@@ -642,7 +613,7 @@
         "game_pk": 824099,
         "game_date": "2026-06-14",
         "game_time_utc": "2026-06-14T18:10:00Z",
-        "status": "Scheduled",
+        "status": "In Progress",
         "home_team": {
           "id": 118,
           "name": "Kansas City Royals",
@@ -671,7 +642,7 @@
         "game_pk": 823693,
         "game_date": "2026-06-14",
         "game_time_utc": "2026-06-14T18:10:00Z",
-        "status": "Scheduled",
+        "status": "In Progress",
         "home_team": {
           "id": 142,
           "name": "Minnesota Twins",
@@ -700,7 +671,7 @@
         "game_pk": 824586,
         "game_date": "2026-06-14",
         "game_time_utc": "2026-06-14T18:10:00Z",
-        "status": "Scheduled",
+        "status": "In Progress",
         "home_team": {
           "id": 145,
           "name": "Chicago White Sox",
@@ -729,7 +700,7 @@
         "game_pk": 823777,
         "game_date": "2026-06-14",
         "game_time_utc": "2026-06-14T18:10:00Z",
-        "status": "Scheduled",
+        "status": "In Progress",
         "home_team": {
           "id": 158,
           "name": "Milwaukee Brewers",
@@ -758,7 +729,7 @@
         "game_pk": 824994,
         "game_date": "2026-06-14",
         "game_time_utc": "2026-06-14T19:05:00Z",
-        "status": "Scheduled",
+        "status": "In Progress",
         "home_team": {
           "id": 133,
           "name": "Athletics",
@@ -787,7 +758,7 @@
         "game_pk": 823212,
         "game_date": "2026-06-14",
         "game_time_utc": "2026-06-14T19:10:00Z",
-        "status": "Scheduled",
+        "status": "In Progress",
         "home_team": {
           "id": 137,
           "name": "San Francisco Giants",
@@ -805,7 +776,7 @@
         "game_pk": 824021,
         "game_date": "2026-06-14",
         "game_time_utc": "2026-06-14T20:07:00Z",
-        "status": "Scheduled",
+        "status": "Pre-Game",
         "home_team": {
           "id": 108,
           "name": "Los Angeles Angels",
@@ -829,7 +800,7 @@
         "game_pk": 824751,
         "game_date": "2026-06-14",
         "game_time_utc": "2026-06-14T23:20:00Z",
-        "status": "Scheduled",
+        "status": "Pre-Game",
         "home_team": {
           "id": 111,
           "name": "Boston Red Sox",
@@ -846,6 +817,35 @@
             "label": "NBC / Peacock",
             "color": "#000000",
             "url": "https://www.peacocktv.com/"
+          }
+        ]
+      },
+      {
+        "game_pk": 824424,
+        "game_date": "2026-06-14",
+        "game_time_utc": "2026-06-14T17:40:00Z",
+        "status": "Postponed",
+        "home_team": {
+          "id": 114,
+          "name": "Cleveland Guardians",
+          "abbreviation": "CLE"
+        },
+        "away_team": {
+          "id": 116,
+          "name": "Detroit Tigers",
+          "abbreviation": "DET"
+        },
+        "venue": "Progressive Field",
+        "platforms": [
+          {
+            "label": "Guardians.TV",
+            "color": "#00385D",
+            "url": "https://www.mlb.com/guardians/fans/guardians-tv"
+          },
+          {
+            "label": "Detroit SportsNet",
+            "color": "#0C2340",
+            "url": "https://www.mlb.com/tigers"
           }
         ]
       }
@@ -1433,14 +1433,14 @@
         "venue": "Daikin Park",
         "platforms": [
           {
-            "label": "Detroit SportsNet",
-            "color": "#0C2340",
-            "url": "https://www.mlb.com/tigers"
-          },
-          {
             "label": "Space City Home Network",
             "color": "#002D62",
             "url": "https://www.spacecityhomenetwork.com/"
+          },
+          {
+            "label": "Detroit SportsNet",
+            "color": "#0C2340",
+            "url": "https://www.mlb.com/tigers"
           }
         ]
       },
@@ -1649,14 +1649,14 @@
         "venue": "Daikin Park",
         "platforms": [
           {
-            "label": "Detroit SportsNet",
-            "color": "#0C2340",
-            "url": "https://www.mlb.com/tigers"
-          },
-          {
             "label": "Space City Home Network",
             "color": "#002D62",
             "url": "https://www.spacecityhomenetwork.com/"
+          },
+          {
+            "label": "Detroit SportsNet",
+            "color": "#0C2340",
+            "url": "https://www.mlb.com/tigers"
           }
         ]
       },
@@ -1765,7 +1765,7 @@
             "url": "https://www.nesn.com/"
           },
           {
-            "label": "Sportsnet",
+            "label": "Sportsnet 1",
             "color": "#E31937",
             "url": "https://www.sportsnet.ca/"
           },
