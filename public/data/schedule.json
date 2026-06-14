@@ -439,7 +439,7 @@
         "game_pk": 823368,
         "game_date": "2026-06-14",
         "game_time_utc": "2026-06-14T16:15:00Z",
-        "status": "Scheduled",
+        "status": "Pre-Game",
         "home_team": {
           "id": 134,
           "name": "Pittsburgh Pirates",
@@ -555,7 +555,7 @@
         "game_pk": 824506,
         "game_date": "2026-06-14",
         "game_time_utc": "2026-06-14T17:40:00Z",
-        "status": "Scheduled",
+        "status": "Pre-Game",
         "home_team": {
           "id": 113,
           "name": "Cincinnati Reds",
@@ -1433,14 +1433,14 @@
         "venue": "Daikin Park",
         "platforms": [
           {
-            "label": "Space City Home Network",
-            "color": "#002D62",
-            "url": "https://www.spacecityhomenetwork.com/"
-          },
-          {
             "label": "Detroit SportsNet",
             "color": "#0C2340",
             "url": "https://www.mlb.com/tigers"
+          },
+          {
+            "label": "Space City Home Network",
+            "color": "#002D62",
+            "url": "https://www.spacecityhomenetwork.com/"
           }
         ]
       },
@@ -1649,14 +1649,14 @@
         "venue": "Daikin Park",
         "platforms": [
           {
-            "label": "Space City Home Network",
-            "color": "#002D62",
-            "url": "https://www.spacecityhomenetwork.com/"
-          },
-          {
             "label": "Detroit SportsNet",
             "color": "#0C2340",
             "url": "https://www.mlb.com/tigers"
+          },
+          {
+            "label": "Space City Home Network",
+            "color": "#002D62",
+            "url": "https://www.spacecityhomenetwork.com/"
           }
         ]
       },
