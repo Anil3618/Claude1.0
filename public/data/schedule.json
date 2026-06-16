@@ -226,7 +226,7 @@
         "game_pk": 824993,
         "game_date": "2026-06-16",
         "game_time_utc": "2026-06-16T01:40:00Z",
-        "status": "In Progress",
+        "status": "Final",
         "home_team": {
           "id": 133,
           "name": "Athletics",
@@ -255,7 +255,7 @@
         "game_pk": 823938,
         "game_date": "2026-06-16",
         "game_time_utc": "2026-06-16T02:10:00Z",
-        "status": "In Progress",
+        "status": "Final",
         "home_team": {
           "id": 119,
           "name": "Los Angeles Dodgers",
@@ -585,14 +585,14 @@
         "venue": "Daikin Park",
         "platforms": [
           {
-            "label": "Detroit SportsNet",
-            "color": "#0C2340",
-            "url": "https://www.mlb.com/tigers"
-          },
-          {
             "label": "Space City Home Network",
             "color": "#002D62",
             "url": "https://www.spacecityhomenetwork.com/"
+          },
+          {
+            "label": "Detroit SportsNet",
+            "color": "#0C2340",
+            "url": "https://www.mlb.com/tigers"
           }
         ]
       },
@@ -801,14 +801,14 @@
         "venue": "Daikin Park",
         "platforms": [
           {
-            "label": "Detroit SportsNet",
-            "color": "#0C2340",
-            "url": "https://www.mlb.com/tigers"
-          },
-          {
             "label": "Space City Home Network",
             "color": "#002D62",
             "url": "https://www.spacecityhomenetwork.com/"
+          },
+          {
+            "label": "Detroit SportsNet",
+            "color": "#0C2340",
+            "url": "https://www.mlb.com/tigers"
           }
         ]
       },
