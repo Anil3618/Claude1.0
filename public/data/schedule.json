@@ -279,7 +279,7 @@
         "game_pk": 823451,
         "game_date": "2026-06-16",
         "game_time_utc": "2026-06-16T22:40:00Z",
-        "status": "Scheduled",
+        "status": "Pre-Game",
         "home_team": {
           "id": 143,
           "name": "Philadelphia Phillies",
@@ -303,7 +303,7 @@
         "game_pk": 822723,
         "game_date": "2026-06-16",
         "game_time_utc": "2026-06-16T22:45:00Z",
-        "status": "Scheduled",
+        "status": "Pre-Game",
         "home_team": {
           "id": 120,
           "name": "Washington Nationals",
@@ -332,7 +332,7 @@
         "game_pk": 824750,
         "game_date": "2026-06-16",
         "game_time_utc": "2026-06-16T22:45:00Z",
-        "status": "Scheduled",
+        "status": "Pre-Game",
         "home_team": {
           "id": 111,
           "name": "Boston Red Sox",
@@ -366,7 +366,7 @@
         "game_pk": 823535,
         "game_date": "2026-06-16",
         "game_time_utc": "2026-06-16T23:05:00Z",
-        "status": "Scheduled",
+        "status": "Pre-Game",
         "home_team": {
           "id": 147,
           "name": "New York Yankees",
@@ -395,7 +395,7 @@
         "game_pk": 824504,
         "game_date": "2026-06-16",
         "game_time_utc": "2026-06-16T23:10:00Z",
-        "status": "Scheduled",
+        "status": "Pre-Game",
         "home_team": {
           "id": 113,
           "name": "Cincinnati Reds",
@@ -424,7 +424,7 @@
         "game_pk": 824912,
         "game_date": "2026-06-16",
         "game_time_utc": "2026-06-16T23:15:00Z",
-        "status": "Scheduled",
+        "status": "Pre-Game",
         "home_team": {
           "id": 144,
           "name": "Atlanta Braves",
@@ -453,7 +453,7 @@
         "game_pk": 823775,
         "game_date": "2026-06-16",
         "game_time_utc": "2026-06-16T23:40:00Z",
-        "status": "Scheduled",
+        "status": "Pre-Game",
         "home_team": {
           "id": 158,
           "name": "Milwaukee Brewers",
@@ -482,7 +482,7 @@
         "game_pk": 823045,
         "game_date": "2026-06-16",
         "game_time_utc": "2026-06-16T23:45:00Z",
-        "status": "Scheduled",
+        "status": "Pre-Game",
         "home_team": {
           "id": 138,
           "name": "St. Louis Cardinals",
@@ -518,7 +518,7 @@
         "game_pk": 824667,
         "game_date": "2026-06-17",
         "game_time_utc": "2026-06-17T00:05:00Z",
-        "status": "Scheduled",
+        "status": "Pre-Game",
         "home_team": {
           "id": 112,
           "name": "Chicago Cubs",
@@ -547,7 +547,7 @@
         "game_pk": 822888,
         "game_date": "2026-06-17",
         "game_time_utc": "2026-06-17T00:05:00Z",
-        "status": "Scheduled",
+        "status": "Pre-Game",
         "home_team": {
           "id": 140,
           "name": "Texas Rangers",
@@ -571,7 +571,7 @@
         "game_pk": 824182,
         "game_date": "2026-06-17",
         "game_time_utc": "2026-06-17T00:10:00Z",
-        "status": "Scheduled",
+        "status": "Pre-Game",
         "home_team": {
           "id": 117,
           "name": "Houston Astros",
@@ -585,14 +585,14 @@
         "venue": "Daikin Park",
         "platforms": [
           {
-            "label": "Space City Home Network",
-            "color": "#002D62",
-            "url": "https://www.spacecityhomenetwork.com/"
-          },
-          {
             "label": "Detroit SportsNet",
             "color": "#0C2340",
             "url": "https://www.mlb.com/tigers"
+          },
+          {
+            "label": "Space City Home Network",
+            "color": "#002D62",
+            "url": "https://www.spacecityhomenetwork.com/"
           }
         ]
       },
@@ -801,14 +801,14 @@
         "venue": "Daikin Park",
         "platforms": [
           {
-            "label": "Space City Home Network",
-            "color": "#002D62",
-            "url": "https://www.spacecityhomenetwork.com/"
-          },
-          {
             "label": "Detroit SportsNet",
             "color": "#0C2340",
             "url": "https://www.mlb.com/tigers"
+          },
+          {
+            "label": "Space City Home Network",
+            "color": "#002D62",
+            "url": "https://www.spacecityhomenetwork.com/"
           }
         ]
       },
