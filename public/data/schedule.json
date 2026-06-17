@@ -152,7 +152,7 @@
         "game_pk": 824912,
         "game_date": "2026-06-16",
         "game_time_utc": "2026-06-16T23:15:00Z",
-        "status": "Suspended",
+        "status": "Final",
         "home_team": {
           "id": 144,
           "name": "Atlanta Braves",
@@ -439,7 +439,7 @@
         "game_pk": 824503,
         "game_date": "2026-06-17",
         "game_time_utc": "2026-06-17T16:40:00Z",
-        "status": "Pre-Game",
+        "status": "Final",
         "home_team": {
           "id": 113,
           "name": "Cincinnati Reds",
@@ -468,7 +468,7 @@
         "game_pk": 822721,
         "game_date": "2026-06-17",
         "game_time_utc": "2026-06-17T17:05:00Z",
-        "status": "Pre-Game",
+        "status": "Game Over",
         "home_team": {
           "id": 120,
           "name": "Washington Nationals",
@@ -497,7 +497,7 @@
         "game_pk": 823450,
         "game_date": "2026-06-17",
         "game_time_utc": "2026-06-17T17:05:00Z",
-        "status": "Pre-Game",
+        "status": "Final",
         "home_team": {
           "id": 143,
           "name": "Philadelphia Phillies",
@@ -509,13 +509,19 @@
           "abbreviation": "MIA"
         },
         "venue": "Citizens Bank Park",
-        "platforms": []
+        "platforms": [
+          {
+            "label": "NBC Sports Philadelphia",
+            "color": "#0B2265",
+            "url": "https://www.nbcsports.com/philadelphia"
+          }
+        ]
       },
       {
         "game_pk": 824912,
         "game_date": "2026-06-17",
         "game_time_utc": "2026-06-17T18:00:00Z",
-        "status": "Suspended",
+        "status": "Final",
         "home_team": {
           "id": 144,
           "name": "Atlanta Braves",
@@ -544,7 +550,7 @@
         "game_pk": 824178,
         "game_date": "2026-06-17",
         "game_time_utc": "2026-06-17T18:10:00Z",
-        "status": "Pre-Game",
+        "status": "In Progress",
         "home_team": {
           "id": 117,
           "name": "Houston Astros",
@@ -573,7 +579,7 @@
         "game_pk": 823044,
         "game_date": "2026-06-17",
         "game_time_utc": "2026-06-17T18:15:00Z",
-        "status": "Pre-Game",
+        "status": "In Progress",
         "home_team": {
           "id": 138,
           "name": "St. Louis Cardinals",
@@ -602,7 +608,7 @@
         "game_pk": 823940,
         "game_date": "2026-06-17",
         "game_time_utc": "2026-06-17T19:10:00Z",
-        "status": "Scheduled",
+        "status": "In Progress",
         "home_team": {
           "id": 119,
           "name": "Los Angeles Dodgers",
@@ -631,7 +637,7 @@
         "game_pk": 825072,
         "game_date": "2026-06-17",
         "game_time_utc": "2026-06-17T19:40:00Z",
-        "status": "Scheduled",
+        "status": "In Progress",
         "home_team": {
           "id": 109,
           "name": "Arizona Diamondbacks",
@@ -655,7 +661,7 @@
         "game_pk": 824746,
         "game_date": "2026-06-17",
         "game_time_utc": "2026-06-17T22:45:00Z",
-        "status": "Scheduled",
+        "status": "Pre-Game",
         "home_team": {
           "id": 111,
           "name": "Boston Red Sox",
@@ -689,7 +695,7 @@
         "game_pk": 823536,
         "game_date": "2026-06-17",
         "game_time_utc": "2026-06-17T23:05:00Z",
-        "status": "Scheduled",
+        "status": "Pre-Game",
         "home_team": {
           "id": 147,
           "name": "New York Yankees",
@@ -778,7 +784,7 @@
         "game_pk": 824668,
         "game_date": "2026-06-18",
         "game_time_utc": "2026-06-18T00:05:00Z",
-        "status": "Scheduled",
+        "status": "Pre-Game",
         "home_team": {
           "id": 112,
           "name": "Chicago Cubs",
@@ -2343,6 +2349,35 @@
     ],
     "2026-06-22": [
       {
+        "game_pk": 824261,
+        "game_date": "2026-06-22",
+        "game_time_utc": "2026-06-22T22:10:00Z",
+        "status": "Scheduled",
+        "home_team": {
+          "id": 116,
+          "name": "Detroit Tigers",
+          "abbreviation": "DET"
+        },
+        "away_team": {
+          "id": 147,
+          "name": "New York Yankees",
+          "abbreviation": "NYY"
+        },
+        "venue": "Comerica Park",
+        "platforms": [
+          {
+            "label": "YES Network",
+            "color": "#003087",
+            "url": "https://www.yesnetwork.com/"
+          },
+          {
+            "label": "Detroit SportsNet",
+            "color": "#0C2340",
+            "url": "https://www.mlb.com/tigers"
+          }
+        ]
+      },
+      {
         "game_pk": 822964,
         "game_date": "2026-06-22",
         "game_time_utc": "2026-06-22T22:40:00Z",
@@ -2388,35 +2423,6 @@
         },
         "venue": "loanDepot park",
         "platforms": []
-      },
-      {
-        "game_pk": 824261,
-        "game_date": "2026-06-22",
-        "game_time_utc": "2026-06-22T22:40:00Z",
-        "status": "Scheduled",
-        "home_team": {
-          "id": 116,
-          "name": "Detroit Tigers",
-          "abbreviation": "DET"
-        },
-        "away_team": {
-          "id": 147,
-          "name": "New York Yankees",
-          "abbreviation": "NYY"
-        },
-        "venue": "Comerica Park",
-        "platforms": [
-          {
-            "label": "YES Network",
-            "color": "#003087",
-            "url": "https://www.yesnetwork.com/"
-          },
-          {
-            "label": "Detroit SportsNet",
-            "color": "#0C2340",
-            "url": "https://www.mlb.com/tigers"
-          }
-        ]
       },
       {
         "game_pk": 822720,
