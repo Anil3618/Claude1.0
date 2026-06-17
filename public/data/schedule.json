@@ -328,7 +328,7 @@
         "game_pk": 825070,
         "game_date": "2026-06-17",
         "game_time_utc": "2026-06-17T01:40:00Z",
-        "status": "Game Over",
+        "status": "Final",
         "home_team": {
           "id": 109,
           "name": "Arizona Diamondbacks",
@@ -352,7 +352,7 @@
         "game_pk": 824991,
         "game_date": "2026-06-17",
         "game_time_utc": "2026-06-17T01:40:00Z",
-        "status": "In Progress",
+        "status": "Final",
         "home_team": {
           "id": 133,
           "name": "Athletics",
