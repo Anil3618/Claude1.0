@@ -439,7 +439,7 @@
         "game_pk": 824748,
         "game_date": "2026-06-18",
         "game_time_utc": "2026-06-18T17:35:00Z",
-        "status": "Pre-Game",
+        "status": "Final",
         "home_team": {
           "id": 111,
           "name": "Boston Red Sox",
@@ -468,7 +468,7 @@
         "game_pk": 823772,
         "game_date": "2026-06-18",
         "game_time_utc": "2026-06-18T18:10:00Z",
-        "status": "Scheduled",
+        "status": "In Progress",
         "home_team": {
           "id": 158,
           "name": "Milwaukee Brewers",
@@ -497,7 +497,7 @@
         "game_pk": 822889,
         "game_date": "2026-06-18",
         "game_time_utc": "2026-06-18T18:35:00Z",
-        "status": "Scheduled",
+        "status": "In Progress",
         "home_team": {
           "id": 140,
           "name": "Texas Rangers",
@@ -521,7 +521,7 @@
         "game_pk": 823125,
         "game_date": "2026-06-18",
         "game_time_utc": "2026-06-18T20:10:00Z",
-        "status": "Scheduled",
+        "status": "In Progress",
         "home_team": {
           "id": 136,
           "name": "Seattle Mariners",
@@ -550,7 +550,7 @@
         "game_pk": 823448,
         "game_date": "2026-06-18",
         "game_time_utc": "2026-06-18T22:40:00Z",
-        "status": "Scheduled",
+        "status": "Pre-Game",
         "home_team": {
           "id": 143,
           "name": "Philadelphia Phillies",
@@ -584,7 +584,7 @@
         "game_pk": 823533,
         "game_date": "2026-06-18",
         "game_time_utc": "2026-06-18T23:05:00Z",
-        "status": "Scheduled",
+        "status": "Pre-Game",
         "home_team": {
           "id": 147,
           "name": "New York Yankees",
@@ -610,39 +610,10 @@
         ]
       },
       {
-        "game_pk": 824911,
-        "game_date": "2026-06-18",
-        "game_time_utc": "2026-06-18T23:15:00Z",
-        "status": "Scheduled",
-        "home_team": {
-          "id": 144,
-          "name": "Atlanta Braves",
-          "abbreviation": "ATL"
-        },
-        "away_team": {
-          "id": 137,
-          "name": "San Francisco Giants",
-          "abbreviation": "SF"
-        },
-        "venue": "Truist Park",
-        "platforms": [
-          {
-            "label": "NBC Sports Bay Area",
-            "color": "#0B2265",
-            "url": "https://www.nbcsports.com/bayarea"
-          },
-          {
-            "label": "BravesVision",
-            "color": "#CE1141",
-            "url": "https://www.mlb.com/braves/ballpark/bravesvision"
-          }
-        ]
-      },
-      {
         "game_pk": 824098,
         "game_date": "2026-06-18",
         "game_time_utc": "2026-06-18T23:40:00Z",
-        "status": "Scheduled",
+        "status": "Pre-Game",
         "home_team": {
           "id": 118,
           "name": "Kansas City Royals",
@@ -664,6 +635,35 @@
             "label": "Royals.TV",
             "color": "#174885",
             "url": "https://www.mlb.com/royals/fans/royals-tv"
+          }
+        ]
+      },
+      {
+        "game_pk": 824911,
+        "game_date": "2026-06-18",
+        "game_time_utc": "2026-06-18T23:15:00Z",
+        "status": "Postponed",
+        "home_team": {
+          "id": 144,
+          "name": "Atlanta Braves",
+          "abbreviation": "ATL"
+        },
+        "away_team": {
+          "id": 137,
+          "name": "San Francisco Giants",
+          "abbreviation": "SF"
+        },
+        "venue": "Truist Park",
+        "platforms": [
+          {
+            "label": "NBC Sports Bay Area",
+            "color": "#0B2265",
+            "url": "https://www.nbcsports.com/bayarea"
+          },
+          {
+            "label": "BravesVision",
+            "color": "#CE1141",
+            "url": "https://www.mlb.com/braves/ballpark/bravesvision"
           }
         ]
       }
