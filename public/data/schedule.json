@@ -381,7 +381,7 @@
         "game_pk": 824992,
         "game_date": "2026-06-18",
         "game_time_utc": "2026-06-18T01:40:00Z",
-        "status": "In Progress",
+        "status": "Final",
         "home_team": {
           "id": 133,
           "name": "Athletics",
@@ -410,7 +410,7 @@
         "game_pk": 823127,
         "game_date": "2026-06-18",
         "game_time_utc": "2026-06-18T01:40:00Z",
-        "status": "In Progress",
+        "status": "Final",
         "home_team": {
           "id": 136,
           "name": "Seattle Mariners",
