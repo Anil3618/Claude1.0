@@ -420,7 +420,7 @@
         "game_pk": 824263,
         "game_date": "2026-06-20",
         "game_time_utc": "2026-06-20T17:10:00Z",
-        "status": "Pre-Game",
+        "status": "In Progress",
         "home_team": {
           "id": 116,
           "name": "Detroit Tigers",
@@ -449,7 +449,7 @@
         "game_pk": 823532,
         "game_date": "2026-06-20",
         "game_time_utc": "2026-06-20T17:35:00Z",
-        "status": "Pre-Game",
+        "status": "In Progress",
         "home_team": {
           "id": 147,
           "name": "New York Yankees",
@@ -478,7 +478,7 @@
         "game_pk": 824665,
         "game_date": "2026-06-20",
         "game_time_utc": "2026-06-20T18:20:00Z",
-        "status": "Scheduled",
+        "status": "In Progress",
         "home_team": {
           "id": 112,
           "name": "Chicago Cubs",
@@ -512,7 +512,7 @@
         "game_pk": 822885,
         "game_date": "2026-06-20",
         "game_time_utc": "2026-06-20T20:05:00Z",
-        "status": "Scheduled",
+        "status": "Pre-Game",
         "home_team": {
           "id": 140,
           "name": "Texas Rangers",
@@ -536,7 +536,7 @@
         "game_pk": 822967,
         "game_date": "2026-06-20",
         "game_time_utc": "2026-06-20T20:10:00Z",
-        "status": "Scheduled",
+        "status": "Pre-Game",
         "home_team": {
           "id": 139,
           "name": "Tampa Bay Rays",
@@ -565,7 +565,7 @@
         "game_pk": 823854,
         "game_date": "2026-06-20",
         "game_time_utc": "2026-06-20T20:10:00Z",
-        "status": "Scheduled",
+        "status": "Pre-Game",
         "home_team": {
           "id": 146,
           "name": "Miami Marlins",
@@ -589,7 +589,7 @@
         "game_pk": 824909,
         "game_date": "2026-06-20",
         "game_time_utc": "2026-06-20T20:10:00Z",
-        "status": "Scheduled",
+        "status": "Pre-Game",
         "home_team": {
           "id": 144,
           "name": "Atlanta Braves",
@@ -618,7 +618,7 @@
         "game_pk": 824180,
         "game_date": "2026-06-20",
         "game_time_utc": "2026-06-20T23:15:00Z",
-        "status": "Scheduled",
+        "status": "Pre-Game",
         "home_team": {
           "id": 117,
           "name": "Houston Astros",
@@ -642,7 +642,7 @@
         "game_pk": 823447,
         "game_date": "2026-06-20",
         "game_time_utc": "2026-06-20T23:15:00Z",
-        "status": "Scheduled",
+        "status": "Pre-Game",
         "home_team": {
           "id": 143,
           "name": "Philadelphia Phillies",
