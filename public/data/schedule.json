@@ -395,7 +395,7 @@
         "game_pk": 823531,
         "game_date": "2026-06-21",
         "game_time_utc": "2026-06-21T17:35:00Z",
-        "status": "Pre-Game",
+        "status": "In Progress",
         "home_team": {
           "id": 147,
           "name": "New York Yankees",
@@ -424,7 +424,7 @@
         "game_pk": 824908,
         "game_date": "2026-06-21",
         "game_time_utc": "2026-06-21T17:35:00Z",
-        "status": "Scheduled",
+        "status": "In Progress",
         "home_team": {
           "id": 144,
           "name": "Atlanta Braves",
@@ -453,7 +453,7 @@
         "game_pk": 822968,
         "game_date": "2026-06-21",
         "game_time_utc": "2026-06-21T17:40:00Z",
-        "status": "Scheduled",
+        "status": "In Progress",
         "home_team": {
           "id": 139,
           "name": "Tampa Bay Rays",
@@ -482,7 +482,7 @@
         "game_pk": 824260,
         "game_date": "2026-06-21",
         "game_time_utc": "2026-06-21T17:40:00Z",
-        "status": "Pre-Game",
+        "status": "In Progress",
         "home_team": {
           "id": 116,
           "name": "Detroit Tigers",
@@ -511,7 +511,7 @@
         "game_pk": 823852,
         "game_date": "2026-06-21",
         "game_time_utc": "2026-06-21T17:40:00Z",
-        "status": "Scheduled",
+        "status": "In Progress",
         "home_team": {
           "id": 146,
           "name": "Miami Marlins",
@@ -535,7 +535,7 @@
         "game_pk": 824177,
         "game_date": "2026-06-21",
         "game_time_utc": "2026-06-21T18:10:00Z",
-        "status": "Scheduled",
+        "status": "In Progress",
         "home_team": {
           "id": 117,
           "name": "Houston Astros",
@@ -564,7 +564,7 @@
         "game_pk": 824095,
         "game_date": "2026-06-21",
         "game_time_utc": "2026-06-21T18:10:00Z",
-        "status": "Scheduled",
+        "status": "In Progress",
         "home_team": {
           "id": 118,
           "name": "Kansas City Royals",
@@ -590,44 +590,10 @@
         ]
       },
       {
-        "game_pk": 824664,
-        "game_date": "2026-06-21",
-        "game_time_utc": "2026-06-21T18:20:00Z",
-        "status": "Scheduled",
-        "home_team": {
-          "id": 112,
-          "name": "Chicago Cubs",
-          "abbreviation": "CHC"
-        },
-        "away_team": {
-          "id": 141,
-          "name": "Toronto Blue Jays",
-          "abbreviation": "TOR"
-        },
-        "venue": "Wrigley Field",
-        "platforms": [
-          {
-            "label": "Marquee Sports",
-            "color": "#CC3433",
-            "url": "https://www.marqueesportsnetwork.com/"
-          },
-          {
-            "label": "Sportsnet",
-            "color": "#E31937",
-            "url": "https://www.sportsnet.ca/"
-          },
-          {
-            "label": "TVA Sports",
-            "color": "#E31937",
-            "url": "https://www.tvasports.ca/"
-          }
-        ]
-      },
-      {
         "game_pk": 822883,
         "game_date": "2026-06-21",
         "game_time_utc": "2026-06-21T18:35:00Z",
-        "status": "Scheduled",
+        "status": "In Progress",
         "home_team": {
           "id": 140,
           "name": "Texas Rangers",
@@ -651,7 +617,7 @@
         "game_pk": 824343,
         "game_date": "2026-06-21",
         "game_time_utc": "2026-06-21T19:10:00Z",
-        "status": "Scheduled",
+        "status": "In Progress",
         "home_team": {
           "id": 115,
           "name": "Colorado Rockies",
@@ -680,7 +646,7 @@
         "game_pk": 825067,
         "game_date": "2026-06-21",
         "game_time_utc": "2026-06-21T19:15:00Z",
-        "status": "Scheduled",
+        "status": "In Progress",
         "home_team": {
           "id": 109,
           "name": "Arizona Diamondbacks",
@@ -704,7 +670,7 @@
         "game_pk": 824987,
         "game_date": "2026-06-21",
         "game_time_utc": "2026-06-21T20:05:00Z",
-        "status": "Scheduled",
+        "status": "Warmup",
         "home_team": {
           "id": 133,
           "name": "Athletics",
@@ -728,7 +694,7 @@
         "game_pk": 823934,
         "game_date": "2026-06-21",
         "game_time_utc": "2026-06-21T20:10:00Z",
-        "status": "Scheduled",
+        "status": "Warmup",
         "home_team": {
           "id": 119,
           "name": "Los Angeles Dodgers",
@@ -757,7 +723,7 @@
         "game_pk": 823123,
         "game_date": "2026-06-21",
         "game_time_utc": "2026-06-21T20:10:00Z",
-        "status": "Scheduled",
+        "status": "Pre-Game",
         "home_team": {
           "id": 136,
           "name": "Seattle Mariners",
@@ -786,7 +752,7 @@
         "game_pk": 823449,
         "game_date": "2026-06-21",
         "game_time_utc": "2026-06-21T23:20:00Z",
-        "status": "Scheduled",
+        "status": "Pre-Game",
         "home_team": {
           "id": 143,
           "name": "Philadelphia Phillies",
@@ -803,6 +769,40 @@
             "label": "NBC / Peacock",
             "color": "#000000",
             "url": "https://www.peacocktv.com/"
+          }
+        ]
+      },
+      {
+        "game_pk": 824664,
+        "game_date": "2026-06-21",
+        "game_time_utc": "2026-06-21T18:20:00Z",
+        "status": "Postponed",
+        "home_team": {
+          "id": 112,
+          "name": "Chicago Cubs",
+          "abbreviation": "CHC"
+        },
+        "away_team": {
+          "id": 141,
+          "name": "Toronto Blue Jays",
+          "abbreviation": "TOR"
+        },
+        "venue": "Wrigley Field",
+        "platforms": [
+          {
+            "label": "Marquee Sports",
+            "color": "#CC3433",
+            "url": "https://www.marqueesportsnetwork.com/"
+          },
+          {
+            "label": "Sportsnet",
+            "color": "#E31937",
+            "url": "https://www.sportsnet.ca/"
+          },
+          {
+            "label": "TVA Sports",
+            "color": "#E31937",
+            "url": "https://www.tvasports.ca/"
           }
         ]
       }
