@@ -50,11 +50,6 @@
         "venue": "Truist Park",
         "platforms": [
           {
-            "label": "Brewers.TV",
-            "color": "#12284B",
-            "url": "https://www.mlb.com/brewers/fans/brewers-tv"
-          },
-          {
             "label": "BravesVision",
             "color": "#CE1141",
             "url": "https://www.mlb.com/braves/ballpark/bravesvision"
@@ -189,11 +184,6 @@
         },
         "venue": "Kauffman Stadium",
         "platforms": [
-          {
-            "label": "Cardinals.TV",
-            "color": "#C41E3A",
-            "url": "https://www.mlb.com/cardinals/fans/cardinals-tv"
-          },
           {
             "label": "Royals.TV",
             "color": "#174885",
@@ -424,7 +414,7 @@
         "game_pk": 824261,
         "game_date": "2026-06-22",
         "game_time_utc": "2026-06-22T22:10:00Z",
-        "status": "Scheduled",
+        "status": "Pre-Game",
         "home_team": {
           "id": 116,
           "name": "Detroit Tigers",
@@ -453,7 +443,7 @@
         "game_pk": 822964,
         "game_date": "2026-06-22",
         "game_time_utc": "2026-06-22T22:40:00Z",
-        "status": "Scheduled",
+        "status": "Pre-Game",
         "home_team": {
           "id": 139,
           "name": "Tampa Bay Rays",
@@ -482,7 +472,7 @@
         "game_pk": 823851,
         "game_date": "2026-06-22",
         "game_time_utc": "2026-06-22T22:40:00Z",
-        "status": "Scheduled",
+        "status": "Pre-Game",
         "home_team": {
           "id": 146,
           "name": "Miami Marlins",
@@ -500,7 +490,7 @@
         "game_pk": 822720,
         "game_date": "2026-06-22",
         "game_time_utc": "2026-06-22T22:45:00Z",
-        "status": "Scheduled",
+        "status": "Pre-Game",
         "home_team": {
           "id": 120,
           "name": "Washington Nationals",
@@ -529,7 +519,7 @@
         "game_pk": 822800,
         "game_date": "2026-06-22",
         "game_time_utc": "2026-06-22T23:07:00Z",
-        "status": "Scheduled",
+        "status": "Pre-Game",
         "home_team": {
           "id": 141,
           "name": "Toronto Blue Jays",
@@ -563,7 +553,7 @@
         "game_pk": 823613,
         "game_date": "2026-06-22",
         "game_time_utc": "2026-06-22T23:10:00Z",
-        "status": "Scheduled",
+        "status": "Pre-Game",
         "home_team": {
           "id": 121,
           "name": "New York Mets",
@@ -592,7 +582,7 @@
         "game_pk": 824502,
         "game_date": "2026-06-22",
         "game_time_utc": "2026-06-22T23:10:00Z",
-        "status": "Scheduled",
+        "status": "Pre-Game",
         "home_team": {
           "id": 113,
           "name": "Cincinnati Reds",
@@ -609,11 +599,6 @@
             "label": "Reds.TV",
             "color": "#C6011F",
             "url": "https://www.mlb.com/reds/fans/reds-tv"
-          },
-          {
-            "label": "Brewers.TV",
-            "color": "#12284B",
-            "url": "https://www.mlb.com/brewers/fans/brewers-tv"
           }
         ]
       },
@@ -621,7 +606,7 @@
         "game_pk": 823692,
         "game_date": "2026-06-22",
         "game_time_utc": "2026-06-22T23:40:00Z",
-        "status": "Scheduled",
+        "status": "Pre-Game",
         "home_team": {
           "id": 142,
           "name": "Minnesota Twins",
@@ -650,7 +635,7 @@
         "game_pk": 824585,
         "game_date": "2026-06-22",
         "game_time_utc": "2026-06-22T23:40:00Z",
-        "status": "Scheduled",
+        "status": "Pre-Game",
         "home_team": {
           "id": 145,
           "name": "Chicago White Sox",
@@ -679,7 +664,7 @@
         "game_pk": 823040,
         "game_date": "2026-06-22",
         "game_time_utc": "2026-06-22T23:45:00Z",
-        "status": "Scheduled",
+        "status": "Pre-Game",
         "home_team": {
           "id": 138,
           "name": "St. Louis Cardinals",
@@ -696,11 +681,6 @@
             "label": "Dbacks.TV",
             "color": "#A71930",
             "url": "https://www.mlb.com/dbacks/fans/dbacks-tv"
-          },
-          {
-            "label": "Cardinals.TV",
-            "color": "#C41E3A",
-            "url": "https://www.mlb.com/cardinals/fans/cardinals-tv"
           }
         ]
       }
@@ -996,11 +976,6 @@
             "label": "Reds.TV",
             "color": "#C6011F",
             "url": "https://www.mlb.com/reds/fans/reds-tv"
-          },
-          {
-            "label": "Brewers.TV",
-            "color": "#12284B",
-            "url": "https://www.mlb.com/brewers/fans/brewers-tv"
           }
         ]
       },
@@ -1088,11 +1063,6 @@
             "label": "Dbacks.TV",
             "color": "#A71930",
             "url": "https://www.mlb.com/dbacks/fans/dbacks-tv"
-          },
-          {
-            "label": "Cardinals.TV",
-            "color": "#C41E3A",
-            "url": "https://www.mlb.com/cardinals/fans/cardinals-tv"
           }
         ]
       }
@@ -1509,11 +1479,6 @@
             "label": "Reds.TV",
             "color": "#C6011F",
             "url": "https://www.mlb.com/reds/fans/reds-tv"
-          },
-          {
-            "label": "Brewers.TV",
-            "color": "#12284B",
-            "url": "https://www.mlb.com/brewers/fans/brewers-tv"
           }
         ]
       },
@@ -1567,11 +1532,6 @@
             "label": "Dbacks.TV",
             "color": "#A71930",
             "url": "https://www.mlb.com/dbacks/fans/dbacks-tv"
-          },
-          {
-            "label": "Cardinals.TV",
-            "color": "#C41E3A",
-            "url": "https://www.mlb.com/cardinals/fans/cardinals-tv"
           }
         ]
       }
@@ -1888,11 +1848,6 @@
             "label": "Dbacks.TV",
             "color": "#A71930",
             "url": "https://www.mlb.com/dbacks/fans/dbacks-tv"
-          },
-          {
-            "label": "Cardinals.TV",
-            "color": "#C41E3A",
-            "url": "https://www.mlb.com/cardinals/fans/cardinals-tv"
           }
         ]
       }
@@ -2275,13 +2230,7 @@
           "abbreviation": "MIA"
         },
         "venue": "Busch Stadium",
-        "platforms": [
-          {
-            "label": "Cardinals.TV",
-            "color": "#C41E3A",
-            "url": "https://www.mlb.com/cardinals/fans/cardinals-tv"
-          }
-        ]
+        "platforms": []
       },
       {
         "game_pk": 824014,
@@ -2660,11 +2609,6 @@
             "label": "Marquee Sports",
             "color": "#CC3433",
             "url": "https://www.marqueesportsnetwork.com/"
-          },
-          {
-            "label": "Brewers.TV",
-            "color": "#12284B",
-            "url": "https://www.mlb.com/brewers/fans/brewers-tv"
           }
         ]
       },
@@ -2684,13 +2628,7 @@
           "abbreviation": "MIA"
         },
         "venue": "Busch Stadium",
-        "platforms": [
-          {
-            "label": "Cardinals.TV",
-            "color": "#C41E3A",
-            "url": "https://www.mlb.com/cardinals/fans/cardinals-tv"
-          }
-        ]
+        "platforms": []
       }
     ],
     "2026-06-28": [
@@ -3063,11 +3001,6 @@
             "label": "Marquee Sports",
             "color": "#CC3433",
             "url": "https://www.marqueesportsnetwork.com/"
-          },
-          {
-            "label": "Brewers.TV",
-            "color": "#12284B",
-            "url": "https://www.mlb.com/brewers/fans/brewers-tv"
           }
         ]
       },
@@ -3087,13 +3020,7 @@
           "abbreviation": "MIA"
         },
         "venue": "Busch Stadium",
-        "platforms": [
-          {
-            "label": "Cardinals.TV",
-            "color": "#C41E3A",
-            "url": "https://www.mlb.com/cardinals/fans/cardinals-tv"
-          }
-        ]
+        "platforms": []
       },
       {
         "game_pk": 824011,
