@@ -266,14 +266,14 @@
         "venue": "Citi Field",
         "platforms": [
           {
-            "label": "Marquee Sports",
-            "color": "#CC3433",
-            "url": "https://www.marqueesportsnetwork.com/"
-          },
-          {
             "label": "SNY",
             "color": "#002D72",
             "url": "https://sny.tv/"
+          },
+          {
+            "label": "Marquee Sports",
+            "color": "#CC3433",
+            "url": "https://www.marqueesportsnetwork.com/"
           }
         ]
       }
@@ -360,7 +360,7 @@
         "game_pk": 822799,
         "game_date": "2026-06-23",
         "game_time_utc": "2026-06-23T20:07:00Z",
-        "status": "Scheduled",
+        "status": "Warmup",
         "home_team": {
           "id": 141,
           "name": "Toronto Blue Jays",
@@ -389,7 +389,7 @@
         "game_pk": 823365,
         "game_date": "2026-06-23",
         "game_time_utc": "2026-06-23T22:40:00Z",
-        "status": "Scheduled",
+        "status": "Pre-Game",
         "home_team": {
           "id": 134,
           "name": "Pittsburgh Pirates",
@@ -418,7 +418,7 @@
         "game_pk": 822963,
         "game_date": "2026-06-23",
         "game_time_utc": "2026-06-23T22:40:00Z",
-        "status": "Scheduled",
+        "status": "Pre-Game",
         "home_team": {
           "id": 139,
           "name": "Tampa Bay Rays",
@@ -447,7 +447,7 @@
         "game_pk": 823849,
         "game_date": "2026-06-23",
         "game_time_utc": "2026-06-23T22:40:00Z",
-        "status": "Scheduled",
+        "status": "Pre-Game",
         "home_team": {
           "id": 146,
           "name": "Miami Marlins",
@@ -465,7 +465,7 @@
         "game_pk": 824262,
         "game_date": "2026-06-23",
         "game_time_utc": "2026-06-23T22:40:00Z",
-        "status": "Scheduled",
+        "status": "Pre-Game",
         "home_team": {
           "id": 116,
           "name": "Detroit Tigers",
@@ -494,7 +494,7 @@
         "game_pk": 822718,
         "game_date": "2026-06-23",
         "game_time_utc": "2026-06-23T22:45:00Z",
-        "status": "Scheduled",
+        "status": "Pre-Game",
         "home_team": {
           "id": 120,
           "name": "Washington Nationals",
@@ -523,7 +523,7 @@
         "game_pk": 823614,
         "game_date": "2026-06-23",
         "game_time_utc": "2026-06-23T23:10:00Z",
-        "status": "Scheduled",
+        "status": "Pre-Game",
         "home_team": {
           "id": 121,
           "name": "New York Mets",
@@ -537,14 +537,14 @@
         "venue": "Citi Field",
         "platforms": [
           {
-            "label": "SNY",
-            "color": "#002D72",
-            "url": "https://sny.tv/"
-          },
-          {
             "label": "Marquee Sports",
             "color": "#CC3433",
             "url": "https://www.marqueesportsnetwork.com/"
+          },
+          {
+            "label": "SNY",
+            "color": "#002D72",
+            "url": "https://sny.tv/"
           }
         ]
       },
@@ -552,7 +552,7 @@
         "game_pk": 824501,
         "game_date": "2026-06-23",
         "game_time_utc": "2026-06-23T23:10:00Z",
-        "status": "Scheduled",
+        "status": "Pre-Game",
         "home_team": {
           "id": 113,
           "name": "Cincinnati Reds",
@@ -576,7 +576,7 @@
         "game_pk": 823690,
         "game_date": "2026-06-23",
         "game_time_utc": "2026-06-23T23:40:00Z",
-        "status": "Scheduled",
+        "status": "Pre-Game",
         "home_team": {
           "id": 142,
           "name": "Minnesota Twins",
@@ -610,7 +610,7 @@
         "game_pk": 824584,
         "game_date": "2026-06-23",
         "game_time_utc": "2026-06-23T23:40:00Z",
-        "status": "Scheduled",
+        "status": "Pre-Game",
         "home_team": {
           "id": 145,
           "name": "Chicago White Sox",
@@ -639,7 +639,7 @@
         "game_pk": 823043,
         "game_date": "2026-06-23",
         "game_time_utc": "2026-06-23T23:45:00Z",
-        "status": "Scheduled",
+        "status": "Pre-Game",
         "home_team": {
           "id": 138,
           "name": "St. Louis Cardinals",
@@ -665,7 +665,7 @@
         "game_pk": 824340,
         "game_date": "2026-06-24",
         "game_time_utc": "2026-06-24T00:40:00Z",
-        "status": "Scheduled",
+        "status": "Pre-Game",
         "home_team": {
           "id": 115,
           "name": "Colorado Rockies",
@@ -808,14 +808,14 @@
         "venue": "Citi Field",
         "platforms": [
           {
-            "label": "SNY",
-            "color": "#002D72",
-            "url": "https://sny.tv/"
-          },
-          {
             "label": "Marquee Sports",
             "color": "#CC3433",
             "url": "https://www.marqueesportsnetwork.com/"
+          },
+          {
+            "label": "SNY",
+            "color": "#002D72",
+            "url": "https://sny.tv/"
           }
         ]
       },
