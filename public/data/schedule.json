@@ -341,7 +341,7 @@
         "game_pk": 824017,
         "game_date": "2026-06-24",
         "game_time_utc": "2026-06-24T01:38:00Z",
-        "status": "In Progress",
+        "status": "Final",
         "home_team": {
           "id": 108,
           "name": "Los Angeles Angels",
@@ -365,7 +365,7 @@
         "game_pk": 823286,
         "game_date": "2026-06-24",
         "game_time_utc": "2026-06-24T01:40:00Z",
-        "status": "In Progress",
+        "status": "Final",
         "home_team": {
           "id": 135,
           "name": "San Diego Padres",
@@ -394,7 +394,7 @@
         "game_pk": 823210,
         "game_date": "2026-06-24",
         "game_time_utc": "2026-06-24T01:45:00Z",
-        "status": "In Progress",
+        "status": "Final",
         "home_team": {
           "id": 137,
           "name": "San Francisco Giants",
