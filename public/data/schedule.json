@@ -265,7 +265,7 @@
         "game_pk": 824255,
         "game_date": "2026-06-26",
         "game_time_utc": "2026-06-26T22:40:00Z",
-        "status": "Scheduled",
+        "status": "Pre-Game",
         "home_team": {
           "id": 116,
           "name": "Detroit Tigers",
@@ -299,7 +299,7 @@
         "game_pk": 823363,
         "game_date": "2026-06-26",
         "game_time_utc": "2026-06-26T22:40:00Z",
-        "status": "Scheduled",
+        "status": "Pre-Game",
         "home_team": {
           "id": 134,
           "name": "Pittsburgh Pirates",
@@ -333,7 +333,7 @@
         "game_pk": 824824,
         "game_date": "2026-06-26",
         "game_time_utc": "2026-06-26T23:05:00Z",
-        "status": "Scheduled",
+        "status": "Pre-Game",
         "home_team": {
           "id": 110,
           "name": "Baltimore Orioles",
@@ -367,7 +367,7 @@
         "game_pk": 822796,
         "game_date": "2026-06-26",
         "game_time_utc": "2026-06-26T23:07:00Z",
-        "status": "Scheduled",
+        "status": "Pre-Game",
         "home_team": {
           "id": 141,
           "name": "Toronto Blue Jays",
@@ -396,7 +396,7 @@
         "game_pk": 824423,
         "game_date": "2026-06-26",
         "game_time_utc": "2026-06-26T23:10:00Z",
-        "status": "Scheduled",
+        "status": "Pre-Game",
         "home_team": {
           "id": 114,
           "name": "Cleveland Guardians",
@@ -430,7 +430,7 @@
         "game_pk": 822962,
         "game_date": "2026-06-26",
         "game_time_utc": "2026-06-26T23:10:00Z",
-        "status": "Scheduled",
+        "status": "Pre-Game",
         "home_team": {
           "id": 139,
           "name": "Tampa Bay Rays",
@@ -464,7 +464,7 @@
         "game_pk": 823610,
         "game_date": "2026-06-26",
         "game_time_utc": "2026-06-26T23:10:00Z",
-        "status": "Scheduled",
+        "status": "Pre-Game",
         "home_team": {
           "id": 121,
           "name": "New York Mets",
@@ -532,7 +532,7 @@
         "game_pk": 824582,
         "game_date": "2026-06-26",
         "game_time_utc": "2026-06-26T23:40:00Z",
-        "status": "Scheduled",
+        "status": "Pre-Game",
         "home_team": {
           "id": 145,
           "name": "Chicago White Sox",
@@ -597,7 +597,7 @@
         "game_pk": 823688,
         "game_date": "2026-06-27",
         "game_time_utc": "2026-06-27T00:10:00Z",
-        "status": "Scheduled",
+        "status": "Pre-Game",
         "home_team": {
           "id": 142,
           "name": "Minnesota Twins",
