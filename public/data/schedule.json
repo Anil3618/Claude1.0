@@ -463,7 +463,7 @@
         "game_pk": 824257,
         "game_date": "2026-06-27",
         "game_time_utc": "2026-06-27T17:10:00Z",
-        "status": "Scheduled",
+        "status": "In Progress",
         "home_team": {
           "id": 116,
           "name": "Detroit Tigers",
@@ -492,7 +492,7 @@
         "game_pk": 824745,
         "game_date": "2026-06-27",
         "game_time_utc": "2026-06-27T17:10:00Z",
-        "status": "Pre-Game",
+        "status": "In Progress",
         "home_team": {
           "id": 111,
           "name": "Boston Red Sox",
@@ -510,7 +510,7 @@
         "game_pk": 822794,
         "game_date": "2026-06-27",
         "game_time_utc": "2026-06-27T19:07:00Z",
-        "status": "Scheduled",
+        "status": "In Progress",
         "home_team": {
           "id": 141,
           "name": "Toronto Blue Jays",
@@ -539,7 +539,7 @@
         "game_pk": 823364,
         "game_date": "2026-06-27",
         "game_time_utc": "2026-06-27T20:05:00Z",
-        "status": "Scheduled",
+        "status": "Pre-Game",
         "home_team": {
           "id": 134,
           "name": "Pittsburgh Pirates",
@@ -568,7 +568,7 @@
         "game_pk": 823609,
         "game_date": "2026-06-27",
         "game_time_utc": "2026-06-27T20:10:00Z",
-        "status": "Scheduled",
+        "status": "Pre-Game",
         "home_team": {
           "id": 121,
           "name": "New York Mets",
@@ -597,7 +597,7 @@
         "game_pk": 824581,
         "game_date": "2026-06-27",
         "game_time_utc": "2026-06-27T20:10:00Z",
-        "status": "Scheduled",
+        "status": "Pre-Game",
         "home_team": {
           "id": 145,
           "name": "Chicago White Sox",
@@ -626,7 +626,7 @@
         "game_pk": 822960,
         "game_date": "2026-06-27",
         "game_time_utc": "2026-06-27T22:10:00Z",
-        "status": "Scheduled",
+        "status": "Pre-Game",
         "home_team": {
           "id": 139,
           "name": "Tampa Bay Rays",
@@ -655,7 +655,7 @@
         "game_pk": 824825,
         "game_date": "2026-06-27",
         "game_time_utc": "2026-06-27T23:05:00Z",
-        "status": "Scheduled",
+        "status": "Pre-Game",
         "home_team": {
           "id": 110,
           "name": "Baltimore Orioles",
@@ -684,7 +684,7 @@
         "game_pk": 824421,
         "game_date": "2026-06-27",
         "game_time_utc": "2026-06-27T23:10:00Z",
-        "status": "Scheduled",
+        "status": "Pre-Game",
         "home_team": {
           "id": 114,
           "name": "Cleveland Guardians",
@@ -713,7 +713,7 @@
         "game_pk": 823689,
         "game_date": "2026-06-27",
         "game_time_utc": "2026-06-27T23:10:00Z",
-        "status": "Scheduled",
+        "status": "Pre-Game",
         "home_team": {
           "id": 142,
           "name": "Minnesota Twins",
@@ -2219,14 +2219,14 @@
         "venue": "Rogers Centre",
         "platforms": [
           {
-            "label": "Sportsnet",
-            "color": "#E31937",
-            "url": "https://www.sportsnet.ca/"
-          },
-          {
             "label": "SNY",
             "color": "#002D72",
             "url": "https://sny.tv/"
+          },
+          {
+            "label": "Sportsnet",
+            "color": "#E31937",
+            "url": "https://www.sportsnet.ca/"
           }
         ]
       },
