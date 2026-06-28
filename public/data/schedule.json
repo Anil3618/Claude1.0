@@ -393,7 +393,7 @@
         "game_pk": 824015,
         "game_date": "2026-06-28",
         "game_time_utc": "2026-06-28T01:38:00Z",
-        "status": "In Progress",
+        "status": "Final",
         "home_team": {
           "id": 108,
           "name": "Los Angeles Angels",
@@ -1763,14 +1763,14 @@
         "venue": "Rogers Centre",
         "platforms": [
           {
-            "label": "Sportsnet",
-            "color": "#E31937",
-            "url": "https://www.sportsnet.ca/"
-          },
-          {
             "label": "SNY",
             "color": "#002D72",
             "url": "https://sny.tv/"
+          },
+          {
+            "label": "Sportsnet",
+            "color": "#E31937",
+            "url": "https://www.sportsnet.ca/"
           }
         ]
       },
