@@ -1763,14 +1763,14 @@
         "venue": "Rogers Centre",
         "platforms": [
           {
-            "label": "SNY",
-            "color": "#002D72",
-            "url": "https://sny.tv/"
-          },
-          {
             "label": "Sportsnet",
             "color": "#E31937",
             "url": "https://www.sportsnet.ca/"
+          },
+          {
+            "label": "SNY",
+            "color": "#002D72",
+            "url": "https://sny.tv/"
           }
         ]
       },
