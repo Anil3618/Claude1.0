@@ -260,7 +260,7 @@
         "game_pk": 824174,
         "game_date": "2026-07-02",
         "game_time_utc": "2026-07-02T00:10:00Z",
-        "status": "Game Over",
+        "status": "Final",
         "home_team": {
           "id": 117,
           "name": "Houston Astros",
@@ -337,7 +337,7 @@
         "game_pk": 824985,
         "game_date": "2026-07-02",
         "game_time_utc": "2026-07-02T01:40:00Z",
-        "status": "In Progress",
+        "status": "Final",
         "home_team": {
           "id": 133,
           "name": "Athletics",
@@ -366,7 +366,7 @@
         "game_pk": 825064,
         "game_date": "2026-07-02",
         "game_time_utc": "2026-07-02T01:40:00Z",
-        "status": "In Progress",
+        "status": "Final",
         "home_team": {
           "id": 109,
           "name": "Arizona Diamondbacks",
