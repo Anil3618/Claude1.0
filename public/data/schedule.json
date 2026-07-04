@@ -461,7 +461,7 @@
         "game_pk": 822716,
         "game_date": "2026-07-04",
         "game_time_utc": "2026-07-04T15:05:00Z",
-        "status": "Pre-Game",
+        "status": "Final",
         "home_team": {
           "id": 120,
           "name": "Washington Nationals",
@@ -500,7 +500,7 @@
         "game_pk": 823526,
         "game_date": "2026-07-04",
         "game_time_utc": "2026-07-04T17:35:00Z",
-        "status": "Scheduled",
+        "status": "In Progress",
         "home_team": {
           "id": 147,
           "name": "New York Yankees",
@@ -539,7 +539,7 @@
         "game_pk": 822882,
         "game_date": "2026-07-04",
         "game_time_utc": "2026-07-04T20:05:00Z",
-        "status": "Scheduled",
+        "status": "Pre-Game",
         "home_team": {
           "id": 140,
           "name": "Texas Rangers",
@@ -573,7 +573,7 @@
         "game_pk": 823118,
         "game_date": "2026-07-04",
         "game_time_utc": "2026-07-04T20:10:00Z",
-        "status": "Scheduled",
+        "status": "Pre-Game",
         "home_team": {
           "id": 136,
           "name": "Seattle Mariners",
@@ -617,7 +617,7 @@
         "game_pk": 824499,
         "game_date": "2026-07-04",
         "game_time_utc": "2026-07-04T23:10:00Z",
-        "status": "Scheduled",
+        "status": "Pre-Game",
         "home_team": {
           "id": 113,
           "name": "Cincinnati Reds",
