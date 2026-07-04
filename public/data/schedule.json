@@ -138,7 +138,7 @@
         "game_pk": 824417,
         "game_date": "2026-07-03",
         "game_time_utc": "2026-07-03T23:10:00Z",
-        "status": "In Progress",
+        "status": "Final",
         "home_team": {
           "id": 114,
           "name": "Cleveland Guardians",
@@ -281,7 +281,7 @@
         "game_pk": 824013,
         "game_date": "2026-07-04",
         "game_time_utc": "2026-07-04T01:38:00Z",
-        "status": "In Progress",
+        "status": "Final",
         "home_team": {
           "id": 108,
           "name": "Los Angeles Angels",
@@ -315,7 +315,7 @@
         "game_pk": 824982,
         "game_date": "2026-07-04",
         "game_time_utc": "2026-07-04T01:40:00Z",
-        "status": "In Progress",
+        "status": "Final",
         "home_team": {
           "id": 133,
           "name": "Athletics",
@@ -349,7 +349,7 @@
         "game_pk": 825062,
         "game_date": "2026-07-04",
         "game_time_utc": "2026-07-04T01:45:00Z",
-        "status": "In Progress",
+        "status": "Final",
         "home_team": {
           "id": 109,
           "name": "Arizona Diamondbacks",
@@ -383,7 +383,7 @@
         "game_pk": 823933,
         "game_date": "2026-07-04",
         "game_time_utc": "2026-07-04T02:10:00Z",
-        "status": "In Progress",
+        "status": "Final",
         "home_team": {
           "id": 119,
           "name": "Los Angeles Dodgers",
@@ -422,7 +422,7 @@
         "game_pk": 823120,
         "game_date": "2026-07-04",
         "game_time_utc": "2026-07-04T02:10:00Z",
-        "status": "In Progress",
+        "status": "Final",
         "home_team": {
           "id": 136,
           "name": "Seattle Mariners",
