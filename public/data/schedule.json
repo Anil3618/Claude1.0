@@ -375,7 +375,7 @@
         "game_pk": 824252,
         "game_date": "2026-07-10",
         "game_time_utc": "2026-07-10T22:40:00Z",
-        "status": "Scheduled",
+        "status": "Pre-Game",
         "home_team": {
           "id": 116,
           "name": "Detroit Tigers",
@@ -409,7 +409,7 @@
         "game_pk": 823357,
         "game_date": "2026-07-10",
         "game_time_utc": "2026-07-10T22:40:00Z",
-        "status": "Scheduled",
+        "status": "Pre-Game",
         "home_team": {
           "id": 134,
           "name": "Pittsburgh Pirates",
@@ -438,7 +438,7 @@
         "game_pk": 822709,
         "game_date": "2026-07-10",
         "game_time_utc": "2026-07-10T22:45:00Z",
-        "status": "Scheduled",
+        "status": "Pre-Game",
         "home_team": {
           "id": 120,
           "name": "Washington Nationals",
@@ -472,7 +472,7 @@
         "game_pk": 824817,
         "game_date": "2026-07-10",
         "game_time_utc": "2026-07-10T23:05:00Z",
-        "status": "Scheduled",
+        "status": "Pre-Game",
         "home_team": {
           "id": 110,
           "name": "Baltimore Orioles",
@@ -506,7 +506,7 @@
         "game_pk": 824493,
         "game_date": "2026-07-10",
         "game_time_utc": "2026-07-10T23:10:00Z",
-        "status": "Scheduled",
+        "status": "Pre-Game",
         "home_team": {
           "id": 113,
           "name": "Cincinnati Reds",
@@ -540,7 +540,7 @@
         "game_pk": 822955,
         "game_date": "2026-07-10",
         "game_time_utc": "2026-07-10T23:10:00Z",
-        "status": "Scheduled",
+        "status": "Pre-Game",
         "home_team": {
           "id": 139,
           "name": "Tampa Bay Rays",
@@ -574,7 +574,7 @@
         "game_pk": 823845,
         "game_date": "2026-07-10",
         "game_time_utc": "2026-07-10T23:10:00Z",
-        "status": "Scheduled",
+        "status": "Pre-Game",
         "home_team": {
           "id": 146,
           "name": "Miami Marlins",
@@ -632,7 +632,7 @@
         "game_pk": 824575,
         "game_date": "2026-07-10",
         "game_time_utc": "2026-07-10T23:40:00Z",
-        "status": "Scheduled",
+        "status": "Pre-Game",
         "home_team": {
           "id": 145,
           "name": "Chicago White Sox",
