@@ -41,7 +41,7 @@
         "game_pk": 822709,
         "game_date": "2026-07-10",
         "game_time_utc": "2026-07-10T22:45:00Z",
-        "status": "In Progress",
+        "status": "Final",
         "home_team": {
           "id": 120,
           "name": "Washington Nationals",
@@ -206,7 +206,7 @@
         "game_pk": 823604,
         "game_date": "2026-07-10",
         "game_time_utc": "2026-07-10T23:15:00Z",
-        "status": "In Progress",
+        "status": "Final",
         "home_team": {
           "id": 121,
           "name": "New York Mets",
@@ -300,7 +300,7 @@
         "game_pk": 822878,
         "game_date": "2026-07-11",
         "game_time_utc": "2026-07-11T00:05:00Z",
-        "status": "Game Over",
+        "status": "Final",
         "home_team": {
           "id": 140,
           "name": "Texas Rangers",
@@ -324,7 +324,7 @@
         "game_pk": 823685,
         "game_date": "2026-07-11",
         "game_time_utc": "2026-07-11T00:10:00Z",
-        "status": "In Progress",
+        "status": "Final",
         "home_team": {
           "id": 142,
           "name": "Minnesota Twins",
@@ -348,7 +348,7 @@
         "game_pk": 823033,
         "game_date": "2026-07-11",
         "game_time_utc": "2026-07-11T00:15:00Z",
-        "status": "Delayed",
+        "status": "Final",
         "home_team": {
           "id": 138,
           "name": "St. Louis Cardinals",
@@ -372,7 +372,7 @@
         "game_pk": 823278,
         "game_date": "2026-07-11",
         "game_time_utc": "2026-07-11T01:40:00Z",
-        "status": "In Progress",
+        "status": "Final",
         "home_team": {
           "id": 135,
           "name": "San Diego Padres",
@@ -406,7 +406,7 @@
         "game_pk": 823927,
         "game_date": "2026-07-11",
         "game_time_utc": "2026-07-11T02:10:00Z",
-        "status": "In Progress",
+        "status": "Final",
         "home_team": {
           "id": 119,
           "name": "Los Angeles Dodgers",
@@ -435,7 +435,7 @@
         "game_pk": 823200,
         "game_date": "2026-07-11",
         "game_time_utc": "2026-07-11T02:15:00Z",
-        "status": "In Progress",
+        "status": "Final",
         "home_team": {
           "id": 137,
           "name": "San Francisco Giants",
