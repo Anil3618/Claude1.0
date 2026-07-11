@@ -464,7 +464,7 @@
         "game_pk": 823357,
         "game_date": "2026-07-11",
         "game_time_utc": "2026-07-11T16:05:00Z",
-        "status": "Scheduled",
+        "status": "Game Over",
         "home_team": {
           "id": 134,
           "name": "Pittsburgh Pirates",
@@ -512,7 +512,7 @@
         "game_pk": 823682,
         "game_date": "2026-07-11",
         "game_time_utc": "2026-07-11T18:10:00Z",
-        "status": "Scheduled",
+        "status": "In Progress",
         "home_team": {
           "id": 142,
           "name": "Minnesota Twins",
@@ -536,7 +536,7 @@
         "game_pk": 824576,
         "game_date": "2026-07-11",
         "game_time_utc": "2026-07-11T18:10:00Z",
-        "status": "Scheduled",
+        "status": "In Progress",
         "home_team": {
           "id": 145,
           "name": "Chicago White Sox",
@@ -565,7 +565,7 @@
         "game_pk": 823198,
         "game_date": "2026-07-11",
         "game_time_utc": "2026-07-11T20:05:00Z",
-        "status": "Scheduled",
+        "status": "Pre-Game",
         "home_team": {
           "id": 137,
           "name": "San Francisco Giants",
@@ -594,7 +594,7 @@
         "game_pk": 822711,
         "game_date": "2026-07-11",
         "game_time_utc": "2026-07-11T20:05:00Z",
-        "status": "Scheduled",
+        "status": "Pre-Game",
         "home_team": {
           "id": 120,
           "name": "Washington Nationals",
@@ -623,7 +623,7 @@
         "game_pk": 823603,
         "game_date": "2026-07-11",
         "game_time_utc": "2026-07-11T20:10:00Z",
-        "status": "Scheduled",
+        "status": "Pre-Game",
         "home_team": {
           "id": 121,
           "name": "New York Mets",
@@ -657,7 +657,7 @@
         "game_pk": 822953,
         "game_date": "2026-07-11",
         "game_time_utc": "2026-07-11T20:10:00Z",
-        "status": "Scheduled",
+        "status": "Pre-Game",
         "home_team": {
           "id": 139,
           "name": "Tampa Bay Rays",
@@ -686,7 +686,7 @@
         "game_pk": 823844,
         "game_date": "2026-07-11",
         "game_time_utc": "2026-07-11T20:10:00Z",
-        "status": "Scheduled",
+        "status": "Pre-Game",
         "home_team": {
           "id": 146,
           "name": "Miami Marlins",
@@ -768,7 +768,7 @@
         "game_pk": 822875,
         "game_date": "2026-07-11",
         "game_time_utc": "2026-07-11T23:05:00Z",
-        "status": "Scheduled",
+        "status": "Pre-Game",
         "home_team": {
           "id": 140,
           "name": "Texas Rangers",
@@ -792,7 +792,7 @@
         "game_pk": 824492,
         "game_date": "2026-07-11",
         "game_time_utc": "2026-07-11T23:10:00Z",
-        "status": "Scheduled",
+        "status": "Pre-Game",
         "home_team": {
           "id": 113,
           "name": "Cincinnati Reds",
