@@ -33,7 +33,7 @@
         "game_pk": 824766,
         "game_date": "2026-07-17",
         "game_time_utc": "2026-07-17T17:35:00Z",
-        "status": "Scheduled",
+        "status": "In Progress",
         "home_team": {
           "id": 111,
           "name": "Boston Red Sox",
@@ -101,7 +101,7 @@
         "game_pk": 823524,
         "game_date": "2026-07-17",
         "game_time_utc": "2026-07-17T23:05:00Z",
-        "status": "Scheduled",
+        "status": "Pre-Game",
         "home_team": {
           "id": 147,
           "name": "New York Yankees",
@@ -140,7 +140,7 @@
         "game_pk": 824414,
         "game_date": "2026-07-17",
         "game_time_utc": "2026-07-17T23:10:00Z",
-        "status": "Scheduled",
+        "status": "Pre-Game",
         "home_team": {
           "id": 114,
           "name": "Cleveland Guardians",
@@ -174,7 +174,7 @@
         "game_pk": 824901,
         "game_date": "2026-07-17",
         "game_time_utc": "2026-07-17T23:15:00Z",
-        "status": "Scheduled",
+        "status": "Pre-Game",
         "home_team": {
           "id": 144,
           "name": "Atlanta Braves",
@@ -258,7 +258,7 @@
         "game_pk": 824655,
         "game_date": "2026-07-18",
         "game_time_utc": "2026-07-18T00:05:00Z",
-        "status": "Scheduled",
+        "status": "Pre-Game",
         "home_team": {
           "id": 112,
           "name": "Chicago Cubs",
