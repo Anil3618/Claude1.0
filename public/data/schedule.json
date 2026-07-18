@@ -454,7 +454,7 @@
         "game_pk": 824414,
         "game_date": "2026-07-18",
         "game_time_utc": "2026-07-18T17:10:00Z",
-        "status": "Scheduled",
+        "status": "In Progress",
         "home_team": {
           "id": 114,
           "name": "Cleveland Guardians",
@@ -512,7 +512,7 @@
         "game_pk": 824657,
         "game_date": "2026-07-18",
         "game_time_utc": "2026-07-18T18:20:00Z",
-        "status": "Scheduled",
+        "status": "In Progress",
         "home_team": {
           "id": 112,
           "name": "Chicago Cubs",
@@ -538,10 +538,39 @@
         ]
       },
       {
+        "game_pk": 823441,
+        "game_date": "2026-07-18",
+        "game_time_utc": "2026-07-18T19:05:00Z",
+        "status": "Warmup",
+        "home_team": {
+          "id": 143,
+          "name": "Philadelphia Phillies",
+          "abbreviation": "PHI"
+        },
+        "away_team": {
+          "id": 121,
+          "name": "New York Mets",
+          "abbreviation": "NYM"
+        },
+        "venue": "Citizens Bank Park",
+        "platforms": [
+          {
+            "label": "NBC Sports Philadelphia",
+            "color": "#0B2265",
+            "url": "https://www.nbcsports.com/philadelphia"
+          },
+          {
+            "label": "SNY",
+            "color": "#002D72",
+            "url": "https://sny.tv/"
+          }
+        ]
+      },
+      {
         "game_pk": 822790,
         "game_date": "2026-07-18",
         "game_time_utc": "2026-07-18T19:07:00Z",
-        "status": "Scheduled",
+        "status": "Delayed Start",
         "home_team": {
           "id": 141,
           "name": "Toronto Blue Jays",
@@ -575,7 +604,7 @@
         "game_pk": 824331,
         "game_date": "2026-07-18",
         "game_time_utc": "2026-07-18T19:10:00Z",
-        "status": "Scheduled",
+        "status": "Warmup",
         "home_team": {
           "id": 115,
           "name": "Colorado Rockies",
@@ -601,39 +630,10 @@
         ]
       },
       {
-        "game_pk": 823441,
-        "game_date": "2026-07-18",
-        "game_time_utc": "2026-07-18T20:05:00Z",
-        "status": "Scheduled",
-        "home_team": {
-          "id": 143,
-          "name": "Philadelphia Phillies",
-          "abbreviation": "PHI"
-        },
-        "away_team": {
-          "id": 121,
-          "name": "New York Mets",
-          "abbreviation": "NYM"
-        },
-        "venue": "Citizens Bank Park",
-        "platforms": [
-          {
-            "label": "NBC Sports Philadelphia",
-            "color": "#0B2265",
-            "url": "https://www.nbcsports.com/philadelphia"
-          },
-          {
-            "label": "SNY",
-            "color": "#002D72",
-            "url": "https://sny.tv/"
-          }
-        ]
-      },
-      {
         "game_pk": 824169,
         "game_date": "2026-07-18",
         "game_time_utc": "2026-07-18T20:10:00Z",
-        "status": "Scheduled",
+        "status": "Pre-Game",
         "home_team": {
           "id": 117,
           "name": "Houston Astros",
@@ -662,7 +662,7 @@
         "game_pk": 824088,
         "game_date": "2026-07-18",
         "game_time_utc": "2026-07-18T20:10:00Z",
-        "status": "Scheduled",
+        "status": "Pre-Game",
         "home_team": {
           "id": 118,
           "name": "Kansas City Royals",
@@ -691,7 +691,7 @@
         "game_pk": 825059,
         "game_date": "2026-07-18",
         "game_time_utc": "2026-07-18T20:10:00Z",
-        "status": "Scheduled",
+        "status": "Pre-Game",
         "home_team": {
           "id": 109,
           "name": "Arizona Diamondbacks",
@@ -715,7 +715,7 @@
         "game_pk": 824738,
         "game_date": "2026-07-18",
         "game_time_utc": "2026-07-18T20:10:00Z",
-        "status": "Scheduled",
+        "status": "Pre-Game",
         "home_team": {
           "id": 111,
           "name": "Boston Red Sox",
@@ -744,7 +744,7 @@
         "game_pk": 824899,
         "game_date": "2026-07-18",
         "game_time_utc": "2026-07-18T20:10:00Z",
-        "status": "Scheduled",
+        "status": "Pre-Game",
         "home_team": {
           "id": 144,
           "name": "Atlanta Braves",
@@ -768,7 +768,7 @@
         "game_pk": 823763,
         "game_date": "2026-07-18",
         "game_time_utc": "2026-07-18T20:10:00Z",
-        "status": "Scheduled",
+        "status": "Pre-Game",
         "home_team": {
           "id": 158,
           "name": "Milwaukee Brewers",
