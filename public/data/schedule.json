@@ -447,7 +447,7 @@
         "game_pk": 824410,
         "game_date": "2026-07-20",
         "game_time_utc": "2026-07-20T22:40:00Z",
-        "status": "Scheduled",
+        "status": "Pre-Game",
         "home_team": {
           "id": 114,
           "name": "Cleveland Guardians",
@@ -476,7 +476,7 @@
         "game_pk": 823522,
         "game_date": "2026-07-20",
         "game_time_utc": "2026-07-20T23:05:00Z",
-        "status": "Scheduled",
+        "status": "Pre-Game",
         "home_team": {
           "id": 147,
           "name": "New York Yankees",
@@ -505,7 +505,7 @@
         "game_pk": 822788,
         "game_date": "2026-07-20",
         "game_time_utc": "2026-07-20T23:07:00Z",
-        "status": "Scheduled",
+        "status": "Pre-Game",
         "home_team": {
           "id": 141,
           "name": "Toronto Blue Jays",
@@ -539,7 +539,7 @@
         "game_pk": 824736,
         "game_date": "2026-07-20",
         "game_time_utc": "2026-07-20T23:10:00Z",
-        "status": "Scheduled",
+        "status": "Pre-Game",
         "home_team": {
           "id": 111,
           "name": "Boston Red Sox",
@@ -568,7 +568,7 @@
         "game_pk": 823436,
         "game_date": "2026-07-20",
         "game_time_utc": "2026-07-20T23:10:00Z",
-        "status": "Scheduled",
+        "status": "Pre-Game",
         "home_team": {
           "id": 143,
           "name": "Philadelphia Phillies",
@@ -592,7 +592,7 @@
         "game_pk": 824898,
         "game_date": "2026-07-20",
         "game_time_utc": "2026-07-20T23:15:00Z",
-        "status": "Scheduled",
+        "status": "Pre-Game",
         "home_team": {
           "id": 144,
           "name": "Atlanta Braves",
@@ -621,7 +621,7 @@
         "game_pk": 824087,
         "game_date": "2026-07-20",
         "game_time_utc": "2026-07-20T23:40:00Z",
-        "status": "Scheduled",
+        "status": "Pre-Game",
         "home_team": {
           "id": 118,
           "name": "Kansas City Royals",
