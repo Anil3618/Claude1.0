@@ -154,7 +154,7 @@
         "game_pk": 823759,
         "game_date": "2026-07-24",
         "game_time_utc": "2026-07-24T20:10:00Z",
-        "status": "Scheduled",
+        "status": "Pre-Game",
         "home_team": {
           "id": 158,
           "name": "Milwaukee Brewers",
@@ -183,7 +183,7 @@
         "game_pk": 824248,
         "game_date": "2026-07-24",
         "game_time_utc": "2026-07-24T22:40:00Z",
-        "status": "Scheduled",
+        "status": "Pre-Game",
         "home_team": {
           "id": 116,
           "name": "Detroit Tigers",
@@ -217,7 +217,7 @@
         "game_pk": 823352,
         "game_date": "2026-07-24",
         "game_time_utc": "2026-07-24T22:40:00Z",
-        "status": "Scheduled",
+        "status": "Pre-Game",
         "home_team": {
           "id": 134,
           "name": "Pittsburgh Pirates",
@@ -251,7 +251,7 @@
         "game_pk": 822707,
         "game_date": "2026-07-24",
         "game_time_utc": "2026-07-24T22:45:00Z",
-        "status": "Scheduled",
+        "status": "Pre-Game",
         "home_team": {
           "id": 120,
           "name": "Washington Nationals",
@@ -265,14 +265,14 @@
         "venue": "Nationals Park",
         "platforms": [
           {
-            "label": "Nationals.TV",
-            "color": "#AB0003",
-            "url": "https://www.mlb.com/nationals/fans/nationals-tv"
-          },
-          {
             "label": "Dbacks.TV",
             "color": "#A71930",
             "url": "https://www.mlb.com/dbacks/fans/dbacks-tv"
+          },
+          {
+            "label": "Nationals.TV",
+            "color": "#AB0003",
+            "url": "https://www.mlb.com/nationals/fans/nationals-tv"
           },
           {
             "label": "Apple TV+",
@@ -314,7 +314,7 @@
         "game_pk": 824812,
         "game_date": "2026-07-24",
         "game_time_utc": "2026-07-24T23:05:00Z",
-        "status": "Scheduled",
+        "status": "Pre-Game",
         "home_team": {
           "id": 110,
           "name": "Baltimore Orioles",
@@ -328,14 +328,14 @@
         "venue": "Oriole Park at Camden Yards",
         "platforms": [
           {
-            "label": "MASN",
-            "color": "#E03A3E",
-            "url": "https://www.masnsports.com/"
-          },
-          {
             "label": "BravesVision",
             "color": "#CE1141",
             "url": "https://www.mlb.com/braves/ballpark/bravesvision"
+          },
+          {
+            "label": "MASN",
+            "color": "#E03A3E",
+            "url": "https://www.masnsports.com/"
           },
           {
             "label": "Apple TV+",
@@ -348,7 +348,7 @@
         "game_pk": 823601,
         "game_date": "2026-07-24",
         "game_time_utc": "2026-07-24T23:10:00Z",
-        "status": "Scheduled",
+        "status": "Pre-Game",
         "home_team": {
           "id": 121,
           "name": "New York Mets",
@@ -382,7 +382,7 @@
         "game_pk": 822952,
         "game_date": "2026-07-24",
         "game_time_utc": "2026-07-24T23:10:00Z",
-        "status": "Scheduled",
+        "status": "Pre-Game",
         "home_team": {
           "id": 139,
           "name": "Tampa Bay Rays",
@@ -396,14 +396,14 @@
         "venue": "Tropicana Field",
         "platforms": [
           {
-            "label": "Guardians.TV",
-            "color": "#00385D",
-            "url": "https://www.mlb.com/guardians/fans/guardians-tv"
-          },
-          {
             "label": "Rays.TV",
             "color": "#092C5C",
             "url": "https://www.mlb.com/rays/fans/rays-tv"
+          },
+          {
+            "label": "Guardians.TV",
+            "color": "#00385D",
+            "url": "https://www.mlb.com/guardians/fans/guardians-tv"
           },
           {
             "label": "Apple TV+",
@@ -416,7 +416,7 @@
         "game_pk": 823843,
         "game_date": "2026-07-24",
         "game_time_utc": "2026-07-24T23:10:00Z",
-        "status": "Scheduled",
+        "status": "Pre-Game",
         "home_team": {
           "id": 146,
           "name": "Miami Marlins",
@@ -445,7 +445,7 @@
         "game_pk": 824733,
         "game_date": "2026-07-24",
         "game_time_utc": "2026-07-24T23:15:00Z",
-        "status": "Scheduled",
+        "status": "Pre-Game",
         "home_team": {
           "id": 111,
           "name": "Boston Red Sox",
@@ -493,14 +493,14 @@
         "venue": "Rate Field",
         "platforms": [
           {
-            "label": "Space City Home Network",
-            "color": "#002D62",
-            "url": "https://www.spacecityhomenetwork.com/"
-          },
-          {
             "label": "Chicago Sports Network",
             "color": "#27251F",
             "url": "https://www.chicagosportsnetwork.com/"
+          },
+          {
+            "label": "Space City Home Network",
+            "color": "#002D62",
+            "url": "https://www.spacecityhomenetwork.com/"
           },
           {
             "label": "Apple TV+",
