@@ -424,7 +424,7 @@
         "game_pk": 822950,
         "game_date": "2026-07-26",
         "game_time_utc": "2026-07-26T16:15:00Z",
-        "status": "Pre-Game",
+        "status": "Final",
         "home_team": {
           "id": 139,
           "name": "Tampa Bay Rays",
@@ -448,7 +448,7 @@
         "game_pk": 822706,
         "game_date": "2026-07-26",
         "game_time_utc": "2026-07-26T17:35:00Z",
-        "status": "Pre-Game",
+        "status": "In Progress",
         "home_team": {
           "id": 120,
           "name": "Washington Nationals",
@@ -477,7 +477,7 @@
         "game_pk": 823354,
         "game_date": "2026-07-26",
         "game_time_utc": "2026-07-26T17:35:00Z",
-        "status": "Scheduled",
+        "status": "In Progress",
         "home_team": {
           "id": 134,
           "name": "Pittsburgh Pirates",
@@ -506,7 +506,7 @@
         "game_pk": 824730,
         "game_date": "2026-07-26",
         "game_time_utc": "2026-07-26T17:35:00Z",
-        "status": "Scheduled",
+        "status": "In Progress",
         "home_team": {
           "id": 111,
           "name": "Boston Red Sox",
@@ -540,7 +540,7 @@
         "game_pk": 824810,
         "game_date": "2026-07-26",
         "game_time_utc": "2026-07-26T17:35:00Z",
-        "status": "Scheduled",
+        "status": "In Progress",
         "home_team": {
           "id": 110,
           "name": "Baltimore Orioles",
@@ -569,7 +569,7 @@
         "game_pk": 824246,
         "game_date": "2026-07-26",
         "game_time_utc": "2026-07-26T17:40:00Z",
-        "status": "Scheduled",
+        "status": "In Progress",
         "home_team": {
           "id": 116,
           "name": "Detroit Tigers",
@@ -598,7 +598,7 @@
         "game_pk": 823599,
         "game_date": "2026-07-26",
         "game_time_utc": "2026-07-26T17:40:00Z",
-        "status": "Scheduled",
+        "status": "In Progress",
         "home_team": {
           "id": 121,
           "name": "New York Mets",
@@ -627,7 +627,7 @@
         "game_pk": 823840,
         "game_date": "2026-07-26",
         "game_time_utc": "2026-07-26T17:40:00Z",
-        "status": "Scheduled",
+        "status": "In Progress",
         "home_team": {
           "id": 146,
           "name": "Miami Marlins",
@@ -651,7 +651,7 @@
         "game_pk": 823678,
         "game_date": "2026-07-26",
         "game_time_utc": "2026-07-26T18:10:00Z",
-        "status": "Scheduled",
+        "status": "In Progress",
         "home_team": {
           "id": 142,
           "name": "Minnesota Twins",
@@ -680,7 +680,7 @@
         "game_pk": 824572,
         "game_date": "2026-07-26",
         "game_time_utc": "2026-07-26T18:10:00Z",
-        "status": "Scheduled",
+        "status": "In Progress",
         "home_team": {
           "id": 145,
           "name": "Chicago White Sox",
@@ -709,7 +709,7 @@
         "game_pk": 823755,
         "game_date": "2026-07-26",
         "game_time_utc": "2026-07-26T18:10:00Z",
-        "status": "Scheduled",
+        "status": "In Progress",
         "home_team": {
           "id": 158,
           "name": "Milwaukee Brewers",
@@ -733,7 +733,7 @@
         "game_pk": 823028,
         "game_date": "2026-07-26",
         "game_time_utc": "2026-07-26T18:15:00Z",
-        "status": "Scheduled",
+        "status": "In Progress",
         "home_team": {
           "id": 138,
           "name": "St. Louis Cardinals",
@@ -757,7 +757,7 @@
         "game_pk": 822870,
         "game_date": "2026-07-26",
         "game_time_utc": "2026-07-26T18:35:00Z",
-        "status": "Scheduled",
+        "status": "In Progress",
         "home_team": {
           "id": 140,
           "name": "Texas Rangers",
@@ -781,7 +781,7 @@
         "game_pk": 823194,
         "game_date": "2026-07-26",
         "game_time_utc": "2026-07-26T20:05:00Z",
-        "status": "Scheduled",
+        "status": "Pre-Game",
         "home_team": {
           "id": 137,
           "name": "San Francisco Giants",
@@ -1009,14 +1009,14 @@
         "venue": "Citi Field",
         "platforms": [
           {
-            "label": "SNY",
-            "color": "#002D72",
-            "url": "https://sny.tv/"
-          },
-          {
             "label": "BravesVision",
             "color": "#CE1141",
             "url": "https://www.mlb.com/braves/ballpark/bravesvision"
+          },
+          {
+            "label": "SNY",
+            "color": "#002D72",
+            "url": "https://sny.tv/"
           }
         ]
       },
@@ -1334,14 +1334,14 @@
         "venue": "Citi Field",
         "platforms": [
           {
-            "label": "SNY",
-            "color": "#002D72",
-            "url": "https://sny.tv/"
-          },
-          {
             "label": "BravesVision",
             "color": "#CE1141",
             "url": "https://www.mlb.com/braves/ballpark/bravesvision"
+          },
+          {
+            "label": "SNY",
+            "color": "#002D72",
+            "url": "https://sny.tv/"
           }
         ]
       },
