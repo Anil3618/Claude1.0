@@ -424,7 +424,7 @@
         "game_pk": 822950,
         "game_date": "2026-07-26",
         "game_time_utc": "2026-07-26T16:15:00Z",
-        "status": "Scheduled",
+        "status": "Pre-Game",
         "home_team": {
           "id": 139,
           "name": "Tampa Bay Rays",
@@ -448,7 +448,7 @@
         "game_pk": 822706,
         "game_date": "2026-07-26",
         "game_time_utc": "2026-07-26T17:35:00Z",
-        "status": "Scheduled",
+        "status": "Pre-Game",
         "home_team": {
           "id": 120,
           "name": "Washington Nationals",
