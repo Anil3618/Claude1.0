@@ -592,14 +592,14 @@
         "venue": "Citi Field",
         "platforms": [
           {
-            "label": "BravesVision",
-            "color": "#CE1141",
-            "url": "https://www.mlb.com/braves/ballpark/bravesvision"
-          },
-          {
             "label": "SNY",
             "color": "#002D72",
             "url": "https://sny.tv/"
+          },
+          {
+            "label": "BravesVision",
+            "color": "#CE1141",
+            "url": "https://www.mlb.com/braves/ballpark/bravesvision"
           }
         ]
       },
@@ -917,14 +917,14 @@
         "venue": "Citi Field",
         "platforms": [
           {
-            "label": "BravesVision",
-            "color": "#CE1141",
-            "url": "https://www.mlb.com/braves/ballpark/bravesvision"
-          },
-          {
             "label": "SNY",
             "color": "#002D72",
             "url": "https://sny.tv/"
+          },
+          {
+            "label": "BravesVision",
+            "color": "#CE1141",
+            "url": "https://www.mlb.com/braves/ballpark/bravesvision"
           }
         ]
       },
