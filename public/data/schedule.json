@@ -1,6 +1,6 @@
 {
   "generated_at": "2026-07-28",
-  "game_count": 106,
+  "game_count": 107,
   "dates": {
     "2026-07-27": [
       {
@@ -332,7 +332,7 @@
         "game_pk": 824490,
         "game_date": "2026-07-28",
         "game_time_utc": "2026-07-28T17:40:00Z",
-        "status": "Scheduled",
+        "status": "In Progress",
         "home_team": {
           "id": 113,
           "name": "Cincinnati Reds",
@@ -390,7 +390,7 @@
         "game_pk": 824243,
         "game_date": "2026-07-28",
         "game_time_utc": "2026-07-28T22:40:00Z",
-        "status": "Scheduled",
+        "status": "Pre-Game",
         "home_team": {
           "id": 116,
           "name": "Detroit Tigers",
@@ -419,7 +419,7 @@
         "game_pk": 823350,
         "game_date": "2026-07-28",
         "game_time_utc": "2026-07-28T22:40:00Z",
-        "status": "Scheduled",
+        "status": "Pre-Game",
         "home_team": {
           "id": 134,
           "name": "Pittsburgh Pirates",
@@ -448,7 +448,7 @@
         "game_pk": 822949,
         "game_date": "2026-07-28",
         "game_time_utc": "2026-07-28T22:40:00Z",
-        "status": "Scheduled",
+        "status": "Pre-Game",
         "home_team": {
           "id": 139,
           "name": "Tampa Bay Rays",
@@ -472,7 +472,7 @@
         "game_pk": 823838,
         "game_date": "2026-07-28",
         "game_time_utc": "2026-07-28T22:40:00Z",
-        "status": "Scheduled",
+        "status": "Pre-Game",
         "home_team": {
           "id": 146,
           "name": "Miami Marlins",
@@ -496,7 +496,7 @@
         "game_pk": 822703,
         "game_date": "2026-07-28",
         "game_time_utc": "2026-07-28T22:45:00Z",
-        "status": "Scheduled",
+        "status": "Pre-Game",
         "home_team": {
           "id": 120,
           "name": "Washington Nationals",
@@ -518,35 +518,6 @@
             "label": "Nationals.TV",
             "color": "#AB0003",
             "url": "https://www.mlb.com/nationals/fans/nationals-tv"
-          }
-        ]
-      },
-      {
-        "game_pk": 823598,
-        "game_date": "2026-07-28",
-        "game_time_utc": "2026-07-28T23:10:00Z",
-        "status": "Scheduled",
-        "home_team": {
-          "id": 121,
-          "name": "New York Mets",
-          "abbreviation": "NYM"
-        },
-        "away_team": {
-          "id": 144,
-          "name": "Atlanta Braves",
-          "abbreviation": "ATL"
-        },
-        "venue": "Citi Field",
-        "platforms": [
-          {
-            "label": "BravesVision",
-            "color": "#CE1141",
-            "url": "https://www.mlb.com/braves/ballpark/bravesvision"
-          },
-          {
-            "label": "SNY",
-            "color": "#002D72",
-            "url": "https://sny.tv/"
           }
         ]
       },
@@ -629,6 +600,35 @@
             "label": "Marquee Sports",
             "color": "#CC3433",
             "url": "https://www.marqueesportsnetwork.com/"
+          }
+        ]
+      },
+      {
+        "game_pk": 823598,
+        "game_date": "2026-07-28",
+        "game_time_utc": "2026-07-28T23:10:00Z",
+        "status": "Postponed",
+        "home_team": {
+          "id": 121,
+          "name": "New York Mets",
+          "abbreviation": "NYM"
+        },
+        "away_team": {
+          "id": 144,
+          "name": "Atlanta Braves",
+          "abbreviation": "ATL"
+        },
+        "venue": "Citi Field",
+        "platforms": [
+          {
+            "label": "BravesVision",
+            "color": "#CE1141",
+            "url": "https://www.mlb.com/braves/ballpark/bravesvision"
+          },
+          {
+            "label": "SNY",
+            "color": "#002D72",
+            "url": "https://sny.tv/"
           }
         ]
       }
@@ -884,6 +884,35 @@
         "game_pk": 823596,
         "game_date": "2026-07-29",
         "game_time_utc": "2026-07-29T17:10:00Z",
+        "status": "Scheduled",
+        "home_team": {
+          "id": 121,
+          "name": "New York Mets",
+          "abbreviation": "NYM"
+        },
+        "away_team": {
+          "id": 144,
+          "name": "Atlanta Braves",
+          "abbreviation": "ATL"
+        },
+        "venue": "Citi Field",
+        "platforms": [
+          {
+            "label": "SNY",
+            "color": "#002D72",
+            "url": "https://sny.tv/"
+          },
+          {
+            "label": "BravesVision",
+            "color": "#CE1141",
+            "url": "https://www.mlb.com/braves/ballpark/bravesvision"
+          }
+        ]
+      },
+      {
+        "game_pk": 823598,
+        "game_date": "2026-07-29",
+        "game_time_utc": "2026-07-29T23:10:00Z",
         "status": "Scheduled",
         "home_team": {
           "id": 121,
