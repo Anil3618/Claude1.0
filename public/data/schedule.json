@@ -94,7 +94,7 @@
         "game_pk": 823350,
         "game_date": "2026-07-28",
         "game_time_utc": "2026-07-28T22:40:00Z",
-        "status": "In Progress",
+        "status": "Final",
         "home_team": {
           "id": 134,
           "name": "Pittsburgh Pirates",
@@ -171,7 +171,7 @@
         "game_pk": 822703,
         "game_date": "2026-07-28",
         "game_time_utc": "2026-07-28T22:45:00Z",
-        "status": "In Progress",
+        "status": "Final",
         "home_team": {
           "id": 120,
           "name": "Washington Nationals",
@@ -258,7 +258,7 @@
         "game_pk": 823026,
         "game_date": "2026-07-28",
         "game_time_utc": "2026-07-28T23:45:00Z",
-        "status": "In Progress",
+        "status": "Final",
         "home_team": {
           "id": 138,
           "name": "St. Louis Cardinals",
@@ -313,7 +313,7 @@
         "game_pk": 824003,
         "game_date": "2026-07-29",
         "game_time_utc": "2026-07-29T01:38:00Z",
-        "status": "In Progress",
+        "status": "Final",
         "home_team": {
           "id": 108,
           "name": "Los Angeles Angels",
@@ -337,7 +337,7 @@
         "game_pk": 824976,
         "game_date": "2026-07-29",
         "game_time_utc": "2026-07-29T01:40:00Z",
-        "status": "In Progress",
+        "status": "Final",
         "home_team": {
           "id": 133,
           "name": "Athletics",
@@ -366,7 +366,7 @@
         "game_pk": 823275,
         "game_date": "2026-07-29",
         "game_time_utc": "2026-07-29T01:40:00Z",
-        "status": "In Progress",
+        "status": "Final",
         "home_team": {
           "id": 135,
           "name": "San Diego Padres",
@@ -395,7 +395,7 @@
         "game_pk": 823193,
         "game_date": "2026-07-29",
         "game_time_utc": "2026-07-29T01:45:00Z",
-        "status": "In Progress",
+        "status": "Final",
         "home_team": {
           "id": 137,
           "name": "San Francisco Giants",
@@ -419,7 +419,7 @@
         "game_pk": 823923,
         "game_date": "2026-07-29",
         "game_time_utc": "2026-07-29T02:10:00Z",
-        "status": "In Progress",
+        "status": "Final",
         "home_team": {
           "id": 119,
           "name": "Los Angeles Dodgers",
