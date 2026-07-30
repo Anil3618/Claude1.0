@@ -453,7 +453,7 @@
         "game_pk": 822946,
         "game_date": "2026-07-30",
         "game_time_utc": "2026-07-30T16:10:00Z",
-        "status": "Scheduled",
+        "status": "Pre-Game",
         "home_team": {
           "id": 139,
           "name": "Tampa Bay Rays",
@@ -2276,14 +2276,14 @@
         "venue": "Progressive Field",
         "platforms": [
           {
-            "label": "SNY",
-            "color": "#002D72",
-            "url": "https://sny.tv/"
-          },
-          {
             "label": "Guardians.TV",
             "color": "#00385D",
             "url": "https://www.mlb.com/guardians/fans/guardians-tv"
+          },
+          {
+            "label": "SNY",
+            "color": "#002D72",
+            "url": "https://sny.tv/"
           }
         ]
       },
@@ -2809,14 +2809,14 @@
         "venue": "Progressive Field",
         "platforms": [
           {
-            "label": "SNY",
-            "color": "#002D72",
-            "url": "https://sny.tv/"
-          },
-          {
             "label": "Guardians.TV",
             "color": "#00385D",
             "url": "https://www.mlb.com/guardians/fans/guardians-tv"
+          },
+          {
+            "label": "SNY",
+            "color": "#002D72",
+            "url": "https://sny.tv/"
           }
         ]
       },
