@@ -311,7 +311,7 @@
         "game_pk": 824567,
         "game_date": "2026-07-29",
         "game_time_utc": "2026-07-29T23:40:00Z",
-        "status": "In Progress",
+        "status": "Final",
         "home_team": {
           "id": 145,
           "name": "Chicago White Sox",
@@ -345,7 +345,7 @@
         "game_pk": 823022,
         "game_date": "2026-07-29",
         "game_time_utc": "2026-07-29T23:45:00Z",
-        "status": "In Progress",
+        "status": "Final",
         "home_team": {
           "id": 138,
           "name": "St. Louis Cardinals",
@@ -371,7 +371,7 @@
         "game_pk": 824002,
         "game_date": "2026-07-30",
         "game_time_utc": "2026-07-30T01:38:00Z",
-        "status": "In Progress",
+        "status": "Final",
         "home_team": {
           "id": 108,
           "name": "Los Angeles Angels",
@@ -395,7 +395,7 @@
         "game_pk": 824973,
         "game_date": "2026-07-30",
         "game_time_utc": "2026-07-30T01:40:00Z",
-        "status": "In Progress",
+        "status": "Final",
         "home_team": {
           "id": 133,
           "name": "Athletics",
@@ -424,7 +424,7 @@
         "game_pk": 823924,
         "game_date": "2026-07-30",
         "game_time_utc": "2026-07-30T02:10:00Z",
-        "status": "In Progress",
+        "status": "Final",
         "home_team": {
           "id": 119,
           "name": "Los Angeles Dodgers",
@@ -2276,14 +2276,14 @@
         "venue": "Progressive Field",
         "platforms": [
           {
-            "label": "Guardians.TV",
-            "color": "#00385D",
-            "url": "https://www.mlb.com/guardians/fans/guardians-tv"
-          },
-          {
             "label": "SNY",
             "color": "#002D72",
             "url": "https://sny.tv/"
+          },
+          {
+            "label": "Guardians.TV",
+            "color": "#00385D",
+            "url": "https://www.mlb.com/guardians/fans/guardians-tv"
           }
         ]
       },
@@ -2809,14 +2809,14 @@
         "venue": "Progressive Field",
         "platforms": [
           {
-            "label": "Guardians.TV",
-            "color": "#00385D",
-            "url": "https://www.mlb.com/guardians/fans/guardians-tv"
-          },
-          {
             "label": "SNY",
             "color": "#002D72",
             "url": "https://sny.tv/"
+          },
+          {
+            "label": "Guardians.TV",
+            "color": "#00385D",
+            "url": "https://www.mlb.com/guardians/fans/guardians-tv"
           }
         ]
       },
