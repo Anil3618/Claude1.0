@@ -299,7 +299,7 @@
         "game_pk": 824651,
         "game_date": "2026-07-31",
         "game_time_utc": "2026-07-31T18:20:00Z",
-        "status": "Scheduled",
+        "status": "In Progress",
         "home_team": {
           "id": 112,
           "name": "Chicago Cubs",
@@ -333,7 +333,7 @@
         "game_pk": 824486,
         "game_date": "2026-07-31",
         "game_time_utc": "2026-07-31T22:10:00Z",
-        "status": "Scheduled",
+        "status": "Pre-Game",
         "home_team": {
           "id": 113,
           "name": "Cincinnati Reds",
@@ -401,7 +401,7 @@
         "game_pk": 822782,
         "game_date": "2026-07-31",
         "game_time_utc": "2026-07-31T23:07:00Z",
-        "status": "Scheduled",
+        "status": "Pre-Game",
         "home_team": {
           "id": 141,
           "name": "Toronto Blue Jays",
@@ -430,7 +430,7 @@
         "game_pk": 824407,
         "game_date": "2026-07-31",
         "game_time_utc": "2026-07-31T23:10:00Z",
-        "status": "Scheduled",
+        "status": "Pre-Game",
         "home_team": {
           "id": 114,
           "name": "Cleveland Guardians",
@@ -464,7 +464,7 @@
         "game_pk": 822945,
         "game_date": "2026-07-31",
         "game_time_utc": "2026-07-31T23:10:00Z",
-        "status": "Scheduled",
+        "status": "Pre-Game",
         "home_team": {
           "id": 139,
           "name": "Tampa Bay Rays",
@@ -527,7 +527,7 @@
         "game_pk": 824892,
         "game_date": "2026-07-31",
         "game_time_utc": "2026-07-31T23:15:00Z",
-        "status": "Scheduled",
+        "status": "Pre-Game",
         "home_team": {
           "id": 144,
           "name": "Atlanta Braves",
@@ -1443,13 +1443,7 @@
           "abbreviation": "MIL"
         },
         "venue": "Angel Stadium",
-        "platforms": [
-          {
-            "label": "NBC / Peacock",
-            "color": "#000000",
-            "url": "https://www.peacocktv.com/"
-          }
-        ]
+        "platforms": []
       },
       {
         "game_pk": 824971,
