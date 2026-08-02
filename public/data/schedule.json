@@ -418,7 +418,7 @@
         "game_pk": 824807,
         "game_date": "2026-08-02",
         "game_time_utc": "2026-08-02T17:35:00Z",
-        "status": "Scheduled",
+        "status": "Delayed",
         "home_team": {
           "id": 110,
           "name": "Baltimore Orioles",
@@ -447,7 +447,7 @@
         "game_pk": 824891,
         "game_date": "2026-08-02",
         "game_time_utc": "2026-08-02T17:35:00Z",
-        "status": "Scheduled",
+        "status": "In Progress",
         "home_team": {
           "id": 144,
           "name": "Atlanta Braves",
@@ -476,7 +476,7 @@
         "game_pk": 822783,
         "game_date": "2026-08-02",
         "game_time_utc": "2026-08-02T17:37:00Z",
-        "status": "Scheduled",
+        "status": "In Progress",
         "home_team": {
           "id": 141,
           "name": "Toronto Blue Jays",
@@ -500,7 +500,7 @@
         "game_pk": 824404,
         "game_date": "2026-08-02",
         "game_time_utc": "2026-08-02T17:40:00Z",
-        "status": "Scheduled",
+        "status": "In Progress",
         "home_team": {
           "id": 114,
           "name": "Cleveland Guardians",
@@ -529,7 +529,7 @@
         "game_pk": 824483,
         "game_date": "2026-08-02",
         "game_time_utc": "2026-08-02T17:40:00Z",
-        "status": "Scheduled",
+        "status": "In Progress",
         "home_team": {
           "id": 113,
           "name": "Cincinnati Reds",
@@ -558,7 +558,7 @@
         "game_pk": 822943,
         "game_date": "2026-08-02",
         "game_time_utc": "2026-08-02T17:40:00Z",
-        "status": "Scheduled",
+        "status": "In Progress",
         "home_team": {
           "id": 139,
           "name": "Tampa Bay Rays",
@@ -587,7 +587,7 @@
         "game_pk": 823592,
         "game_date": "2026-08-02",
         "game_time_utc": "2026-08-02T17:40:00Z",
-        "status": "Scheduled",
+        "status": "In Progress",
         "home_team": {
           "id": 121,
           "name": "New York Mets",
@@ -611,7 +611,7 @@
         "game_pk": 824163,
         "game_date": "2026-08-02",
         "game_time_utc": "2026-08-02T18:10:00Z",
-        "status": "Scheduled",
+        "status": "In Progress",
         "home_team": {
           "id": 117,
           "name": "Houston Astros",
@@ -635,7 +635,7 @@
         "game_pk": 824648,
         "game_date": "2026-08-02",
         "game_time_utc": "2026-08-02T18:20:00Z",
-        "status": "Scheduled",
+        "status": "In Progress",
         "home_team": {
           "id": 112,
           "name": "Chicago Cubs",
@@ -664,7 +664,7 @@
         "game_pk": 824323,
         "game_date": "2026-08-02",
         "game_time_utc": "2026-08-02T19:10:00Z",
-        "status": "Scheduled",
+        "status": "In Progress",
         "home_team": {
           "id": 115,
           "name": "Colorado Rockies",
@@ -693,7 +693,7 @@
         "game_pk": 823996,
         "game_date": "2026-08-02",
         "game_time_utc": "2026-08-02T19:15:00Z",
-        "status": "Scheduled",
+        "status": "Warmup",
         "home_team": {
           "id": 108,
           "name": "Los Angeles Angels",
@@ -711,7 +711,7 @@
         "game_pk": 824971,
         "game_date": "2026-08-02",
         "game_time_utc": "2026-08-02T20:05:00Z",
-        "status": "Scheduled",
+        "status": "Pre-Game",
         "home_team": {
           "id": 133,
           "name": "Athletics",
@@ -740,7 +740,7 @@
         "game_pk": 823270,
         "game_date": "2026-08-02",
         "game_time_utc": "2026-08-02T20:10:00Z",
-        "status": "Scheduled",
+        "status": "Pre-Game",
         "home_team": {
           "id": 135,
           "name": "San Diego Padres",
@@ -769,7 +769,7 @@
         "game_pk": 823107,
         "game_date": "2026-08-02",
         "game_time_utc": "2026-08-02T20:10:00Z",
-        "status": "Scheduled",
+        "status": "Pre-Game",
         "home_team": {
           "id": 136,
           "name": "Seattle Mariners",
@@ -1086,14 +1086,14 @@
         "venue": "Progressive Field",
         "platforms": [
           {
-            "label": "Guardians.TV",
-            "color": "#00385D",
-            "url": "https://www.mlb.com/guardians/fans/guardians-tv"
-          },
-          {
             "label": "SNY",
             "color": "#002D72",
             "url": "https://sny.tv/"
+          },
+          {
+            "label": "Guardians.TV",
+            "color": "#00385D",
+            "url": "https://www.mlb.com/guardians/fans/guardians-tv"
           }
         ]
       },
@@ -1619,14 +1619,14 @@
         "venue": "Progressive Field",
         "platforms": [
           {
-            "label": "Guardians.TV",
-            "color": "#00385D",
-            "url": "https://www.mlb.com/guardians/fans/guardians-tv"
-          },
-          {
             "label": "SNY",
             "color": "#002D72",
             "url": "https://sny.tv/"
+          },
+          {
+            "label": "Guardians.TV",
+            "color": "#00385D",
+            "url": "https://www.mlb.com/guardians/fans/guardians-tv"
           }
         ]
       },
