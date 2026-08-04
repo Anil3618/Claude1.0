@@ -231,7 +231,7 @@
         "game_pk": 824805,
         "game_date": "2026-08-04",
         "game_time_utc": "2026-08-04T22:35:00Z",
-        "status": "Scheduled",
+        "status": "Pre-Game",
         "home_team": {
           "id": 110,
           "name": "Baltimore Orioles",
@@ -255,7 +255,7 @@
         "game_pk": 824403,
         "game_date": "2026-08-04",
         "game_time_utc": "2026-08-04T22:40:00Z",
-        "status": "Scheduled",
+        "status": "Pre-Game",
         "home_team": {
           "id": 114,
           "name": "Cleveland Guardians",
@@ -269,14 +269,14 @@
         "venue": "Progressive Field",
         "platforms": [
           {
-            "label": "SNY",
-            "color": "#002D72",
-            "url": "https://sny.tv/"
-          },
-          {
             "label": "Guardians.TV",
             "color": "#00385D",
             "url": "https://www.mlb.com/guardians/fans/guardians-tv"
+          },
+          {
+            "label": "SNY",
+            "color": "#002D72",
+            "url": "https://sny.tv/"
           }
         ]
       },
@@ -284,7 +284,7 @@
         "game_pk": 824484,
         "game_date": "2026-08-04",
         "game_time_utc": "2026-08-04T22:40:00Z",
-        "status": "Scheduled",
+        "status": "Pre-Game",
         "home_team": {
           "id": 113,
           "name": "Cincinnati Reds",
@@ -313,7 +313,7 @@
         "game_pk": 823432,
         "game_date": "2026-08-04",
         "game_time_utc": "2026-08-04T22:40:00Z",
-        "status": "Scheduled",
+        "status": "Pre-Game",
         "home_team": {
           "id": 143,
           "name": "Philadelphia Phillies",
@@ -342,7 +342,7 @@
         "game_pk": 823517,
         "game_date": "2026-08-04",
         "game_time_utc": "2026-08-04T23:05:00Z",
-        "status": "Scheduled",
+        "status": "Pre-Game",
         "home_team": {
           "id": 147,
           "name": "New York Yankees",
@@ -366,7 +366,7 @@
         "game_pk": 824731,
         "game_date": "2026-08-04",
         "game_time_utc": "2026-08-04T23:10:00Z",
-        "status": "Scheduled",
+        "status": "Pre-Game",
         "home_team": {
           "id": 111,
           "name": "Boston Red Sox",
@@ -395,7 +395,7 @@
         "game_pk": 824888,
         "game_date": "2026-08-04",
         "game_time_utc": "2026-08-04T23:15:00Z",
-        "status": "Scheduled",
+        "status": "Pre-Game",
         "home_team": {
           "id": 144,
           "name": "Atlanta Braves",
@@ -419,7 +419,7 @@
         "game_pk": 824084,
         "game_date": "2026-08-04",
         "game_time_utc": "2026-08-04T23:40:00Z",
-        "status": "Scheduled",
+        "status": "Pre-Game",
         "home_team": {
           "id": 118,
           "name": "Kansas City Royals",
@@ -802,14 +802,14 @@
         "venue": "Progressive Field",
         "platforms": [
           {
-            "label": "SNY",
-            "color": "#002D72",
-            "url": "https://sny.tv/"
-          },
-          {
             "label": "Guardians.TV",
             "color": "#00385D",
             "url": "https://www.mlb.com/guardians/fans/guardians-tv"
+          },
+          {
+            "label": "SNY",
+            "color": "#002D72",
+            "url": "https://sny.tv/"
           }
         ]
       },
