@@ -176,7 +176,7 @@
         "game_pk": 823430,
         "game_date": "2026-08-06",
         "game_time_utc": "2026-08-06T22:05:00Z",
-        "status": "In Progress",
+        "status": "Final",
         "home_team": {
           "id": 143,
           "name": "Philadelphia Phillies",
@@ -205,7 +205,7 @@
         "game_pk": 824729,
         "game_date": "2026-08-06",
         "game_time_utc": "2026-08-06T23:10:00Z",
-        "status": "In Progress",
+        "status": "Final",
         "home_team": {
           "id": 111,
           "name": "Boston Red Sox",
@@ -234,7 +234,7 @@
         "game_pk": 824885,
         "game_date": "2026-08-06",
         "game_time_utc": "2026-08-06T23:15:00Z",
-        "status": "Delayed",
+        "status": "Final",
         "home_team": {
           "id": 144,
           "name": "Atlanta Braves",
@@ -258,7 +258,7 @@
         "game_pk": 824080,
         "game_date": "2026-08-06",
         "game_time_utc": "2026-08-06T23:40:00Z",
-        "status": "In Progress",
+        "status": "Final",
         "home_team": {
           "id": 118,
           "name": "Kansas City Royals",
@@ -284,7 +284,7 @@
         "game_pk": 825053,
         "game_date": "2026-08-07",
         "game_time_utc": "2026-08-07T01:40:00Z",
-        "status": "Pre-Game",
+        "status": "Final",
         "home_team": {
           "id": 109,
           "name": "Arizona Diamondbacks",
