@@ -454,7 +454,7 @@
         "game_pk": 823514,
         "game_date": "2026-08-08",
         "game_time_utc": "2026-08-08T19:05:00Z",
-        "status": "Scheduled",
+        "status": "Pre-Game",
         "home_team": {
           "id": 147,
           "name": "New York Yankees",
@@ -483,7 +483,7 @@
         "game_pk": 824726,
         "game_date": "2026-08-08",
         "game_time_utc": "2026-08-08T20:10:00Z",
-        "status": "Scheduled",
+        "status": "Pre-Game",
         "home_team": {
           "id": 111,
           "name": "Boston Red Sox",
@@ -517,7 +517,7 @@
         "game_pk": 823834,
         "game_date": "2026-08-08",
         "game_time_utc": "2026-08-08T20:10:00Z",
-        "status": "Scheduled",
+        "status": "Pre-Game",
         "home_team": {
           "id": 146,
           "name": "Miami Marlins",
@@ -535,7 +535,7 @@
         "game_pk": 823426,
         "game_date": "2026-08-08",
         "game_time_utc": "2026-08-08T22:05:00Z",
-        "status": "Scheduled",
+        "status": "Pre-Game",
         "home_team": {
           "id": 143,
           "name": "Philadelphia Phillies",
@@ -704,7 +704,7 @@
         "game_pk": 823188,
         "game_date": "2026-08-08",
         "game_time_utc": "2026-08-08T23:15:00Z",
-        "status": "Scheduled",
+        "status": "Pre-Game",
         "home_team": {
           "id": 137,
           "name": "San Francisco Giants",
