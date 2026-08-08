@@ -7,7 +7,7 @@
         "game_pk": 823349,
         "game_date": "2026-08-07",
         "game_time_utc": "2026-08-07T22:40:00Z",
-        "status": "In Progress",
+        "status": "Final",
         "home_team": {
           "id": 134,
           "name": "Pittsburgh Pirates",
@@ -41,7 +41,7 @@
         "game_pk": 823428,
         "game_date": "2026-08-07",
         "game_time_utc": "2026-08-07T22:40:00Z",
-        "status": "In Progress",
+        "status": "Final",
         "home_team": {
           "id": 143,
           "name": "Philadelphia Phillies",
@@ -75,7 +75,7 @@
         "game_pk": 822699,
         "game_date": "2026-08-07",
         "game_time_utc": "2026-08-07T22:45:00Z",
-        "status": "In Progress",
+        "status": "Final",
         "home_team": {
           "id": 120,
           "name": "Washington Nationals",
@@ -109,7 +109,7 @@
         "game_pk": 823515,
         "game_date": "2026-08-07",
         "game_time_utc": "2026-08-07T23:05:00Z",
-        "status": "In Progress",
+        "status": "Final",
         "home_team": {
           "id": 147,
           "name": "New York Yankees",
@@ -143,7 +143,7 @@
         "game_pk": 824727,
         "game_date": "2026-08-07",
         "game_time_utc": "2026-08-07T23:10:00Z",
-        "status": "In Progress",
+        "status": "Final",
         "home_team": {
           "id": 111,
           "name": "Boston Red Sox",
@@ -177,7 +177,7 @@
         "game_pk": 823836,
         "game_date": "2026-08-07",
         "game_time_utc": "2026-08-07T23:10:00Z",
-        "status": "In Progress",
+        "status": "Final",
         "home_team": {
           "id": 146,
           "name": "Miami Marlins",
@@ -201,7 +201,7 @@
         "game_pk": 824566,
         "game_date": "2026-08-07",
         "game_time_utc": "2026-08-07T23:40:00Z",
-        "status": "In Progress",
+        "status": "Final",
         "home_team": {
           "id": 145,
           "name": "Chicago White Sox",
@@ -235,7 +235,7 @@
         "game_pk": 823750,
         "game_date": "2026-08-07",
         "game_time_utc": "2026-08-07T23:40:00Z",
-        "status": "In Progress",
+        "status": "Final",
         "home_team": {
           "id": 158,
           "name": "Milwaukee Brewers",
@@ -266,7 +266,7 @@
         "game_pk": 824081,
         "game_date": "2026-08-08",
         "game_time_utc": "2026-08-08T00:10:00Z",
-        "status": "In Progress",
+        "status": "Final",
         "home_team": {
           "id": 118,
           "name": "Kansas City Royals",
@@ -295,7 +295,7 @@
         "game_pk": 823024,
         "game_date": "2026-08-08",
         "game_time_utc": "2026-08-08T00:15:00Z",
-        "status": "In Progress",
+        "status": "Final",
         "home_team": {
           "id": 138,
           "name": "St. Louis Cardinals",
@@ -319,7 +319,7 @@
         "game_pk": 822863,
         "game_date": "2026-08-08",
         "game_time_utc": "2026-08-08T00:15:00Z",
-        "status": "In Progress",
+        "status": "Final",
         "home_team": {
           "id": 140,
           "name": "Texas Rangers",
@@ -343,7 +343,7 @@
         "game_pk": 825051,
         "game_date": "2026-08-08",
         "game_time_utc": "2026-08-08T01:40:00Z",
-        "status": "Warmup",
+        "status": "Final",
         "home_team": {
           "id": 109,
           "name": "Arizona Diamondbacks",
@@ -372,7 +372,7 @@
         "game_pk": 823266,
         "game_date": "2026-08-08",
         "game_time_utc": "2026-08-08T01:40:00Z",
-        "status": "In Progress",
+        "status": "Final",
         "home_team": {
           "id": 135,
           "name": "San Diego Padres",
@@ -401,7 +401,7 @@
         "game_pk": 823103,
         "game_date": "2026-08-08",
         "game_time_utc": "2026-08-08T01:45:00Z",
-        "status": "Warmup",
+        "status": "Final",
         "home_team": {
           "id": 136,
           "name": "Seattle Mariners",
@@ -425,7 +425,7 @@
         "game_pk": 823191,
         "game_date": "2026-08-08",
         "game_time_utc": "2026-08-08T02:15:00Z",
-        "status": "Pre-Game",
+        "status": "Final",
         "home_team": {
           "id": 137,
           "name": "San Francisco Giants",
