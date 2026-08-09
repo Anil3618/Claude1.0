@@ -395,7 +395,7 @@
         "game_pk": 822700,
         "game_date": "2026-08-09",
         "game_time_utc": "2026-08-09T16:15:00Z",
-        "status": "Scheduled",
+        "status": "In Progress",
         "home_team": {
           "id": 120,
           "name": "Washington Nationals",
@@ -413,7 +413,7 @@
         "game_pk": 824724,
         "game_date": "2026-08-09",
         "game_time_utc": "2026-08-09T17:35:00Z",
-        "status": "Scheduled",
+        "status": "In Progress",
         "home_team": {
           "id": 111,
           "name": "Boston Red Sox",
@@ -442,7 +442,7 @@
         "game_pk": 823345,
         "game_date": "2026-08-09",
         "game_time_utc": "2026-08-09T17:35:00Z",
-        "status": "Scheduled",
+        "status": "In Progress",
         "home_team": {
           "id": 134,
           "name": "Pittsburgh Pirates",
@@ -471,7 +471,7 @@
         "game_pk": 823425,
         "game_date": "2026-08-09",
         "game_time_utc": "2026-08-09T17:35:00Z",
-        "status": "Scheduled",
+        "status": "In Progress",
         "home_team": {
           "id": 143,
           "name": "Philadelphia Phillies",
@@ -500,7 +500,7 @@
         "game_pk": 823513,
         "game_date": "2026-08-09",
         "game_time_utc": "2026-08-09T17:35:00Z",
-        "status": "Scheduled",
+        "status": "In Progress",
         "home_team": {
           "id": 147,
           "name": "New York Yankees",
@@ -529,7 +529,7 @@
         "game_pk": 823835,
         "game_date": "2026-08-09",
         "game_time_utc": "2026-08-09T17:40:00Z",
-        "status": "Scheduled",
+        "status": "In Progress",
         "home_team": {
           "id": 146,
           "name": "Miami Marlins",
@@ -547,7 +547,7 @@
         "game_pk": 824078,
         "game_date": "2026-08-09",
         "game_time_utc": "2026-08-09T18:10:00Z",
-        "status": "Scheduled",
+        "status": "In Progress",
         "home_team": {
           "id": 118,
           "name": "Kansas City Royals",
@@ -576,7 +576,7 @@
         "game_pk": 824564,
         "game_date": "2026-08-09",
         "game_time_utc": "2026-08-09T18:10:00Z",
-        "status": "Scheduled",
+        "status": "Delayed",
         "home_team": {
           "id": 145,
           "name": "Chicago White Sox",
@@ -605,7 +605,7 @@
         "game_pk": 823751,
         "game_date": "2026-08-09",
         "game_time_utc": "2026-08-09T18:10:00Z",
-        "status": "Scheduled",
+        "status": "In Progress",
         "home_team": {
           "id": 158,
           "name": "Milwaukee Brewers",
@@ -629,7 +629,7 @@
         "game_pk": 823020,
         "game_date": "2026-08-09",
         "game_time_utc": "2026-08-09T18:15:00Z",
-        "status": "Scheduled",
+        "status": "In Progress",
         "home_team": {
           "id": 138,
           "name": "St. Louis Cardinals",
@@ -653,7 +653,7 @@
         "game_pk": 822862,
         "game_date": "2026-08-09",
         "game_time_utc": "2026-08-09T18:35:00Z",
-        "status": "Scheduled",
+        "status": "In Progress",
         "home_team": {
           "id": 140,
           "name": "Texas Rangers",
@@ -677,7 +677,7 @@
         "game_pk": 823190,
         "game_date": "2026-08-09",
         "game_time_utc": "2026-08-09T20:05:00Z",
-        "status": "Scheduled",
+        "status": "Pre-Game",
         "home_team": {
           "id": 137,
           "name": "San Francisco Giants",
@@ -706,7 +706,7 @@
         "game_pk": 825050,
         "game_date": "2026-08-09",
         "game_time_utc": "2026-08-09T20:10:00Z",
-        "status": "Scheduled",
+        "status": "Pre-Game",
         "home_team": {
           "id": 109,
           "name": "Arizona Diamondbacks",
@@ -735,7 +735,7 @@
         "game_pk": 823104,
         "game_date": "2026-08-09",
         "game_time_utc": "2026-08-09T20:10:00Z",
-        "status": "Scheduled",
+        "status": "Pre-Game",
         "home_team": {
           "id": 136,
           "name": "Seattle Mariners",
