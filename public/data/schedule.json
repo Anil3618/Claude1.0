@@ -89,7 +89,7 @@
         "game_pk": 823512,
         "game_date": "2026-08-11",
         "game_time_utc": "2026-08-11T23:05:00Z",
-        "status": "In Progress",
+        "status": "Final",
         "home_team": {
           "id": 147,
           "name": "New York Yankees",
@@ -123,7 +123,7 @@
         "game_pk": 822778,
         "game_date": "2026-08-11",
         "game_time_utc": "2026-08-11T23:07:00Z",
-        "status": "Game Over",
+        "status": "Final",
         "home_team": {
           "id": 141,
           "name": "Toronto Blue Jays",
@@ -181,7 +181,7 @@
         "game_pk": 823673,
         "game_date": "2026-08-11",
         "game_time_utc": "2026-08-11T23:40:00Z",
-        "status": "In Progress",
+        "status": "Final",
         "home_team": {
           "id": 142,
           "name": "Minnesota Twins",
@@ -210,7 +210,7 @@
         "game_pk": 824563,
         "game_date": "2026-08-11",
         "game_time_utc": "2026-08-11T23:40:00Z",
-        "status": "In Progress",
+        "status": "Final",
         "home_team": {
           "id": 145,
           "name": "Chicago White Sox",
@@ -239,7 +239,7 @@
         "game_pk": 823019,
         "game_date": "2026-08-11",
         "game_time_utc": "2026-08-11T23:45:00Z",
-        "status": "In Progress",
+        "status": "Final",
         "home_team": {
           "id": 138,
           "name": "St. Louis Cardinals",
@@ -265,7 +265,7 @@
         "game_pk": 823997,
         "game_date": "2026-08-12",
         "game_time_utc": "2026-08-12T01:38:00Z",
-        "status": "In Progress",
+        "status": "Final",
         "home_team": {
           "id": 108,
           "name": "Los Angeles Angels",
@@ -283,7 +283,7 @@
         "game_pk": 825046,
         "game_date": "2026-08-12",
         "game_time_utc": "2026-08-12T01:40:00Z",
-        "status": "In Progress",
+        "status": "Final",
         "home_team": {
           "id": 109,
           "name": "Arizona Diamondbacks",
@@ -312,7 +312,7 @@
         "game_pk": 824970,
         "game_date": "2026-08-12",
         "game_time_utc": "2026-08-12T01:40:00Z",
-        "status": "In Progress",
+        "status": "Final",
         "home_team": {
           "id": 133,
           "name": "Athletics",
@@ -341,7 +341,7 @@
         "game_pk": 823264,
         "game_date": "2026-08-12",
         "game_time_utc": "2026-08-12T01:40:00Z",
-        "status": "In Progress",
+        "status": "Final",
         "home_team": {
           "id": 135,
           "name": "San Diego Padres",
@@ -365,7 +365,7 @@
         "game_pk": 823186,
         "game_date": "2026-08-12",
         "game_time_utc": "2026-08-12T01:45:00Z",
-        "status": "In Progress",
+        "status": "Final",
         "home_team": {
           "id": 137,
           "name": "San Francisco Giants",
@@ -394,7 +394,7 @@
         "game_pk": 823917,
         "game_date": "2026-08-12",
         "game_time_utc": "2026-08-12T02:10:00Z",
-        "status": "Warmup",
+        "status": "Final",
         "home_team": {
           "id": 119,
           "name": "Los Angeles Dodgers",
