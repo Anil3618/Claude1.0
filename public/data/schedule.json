@@ -779,14 +779,14 @@
         "venue": "PNC Park",
         "platforms": [
           {
-            "label": "SportsNet Pittsburgh",
-            "color": "#FDB827",
-            "url": "https://www.sportsnetpittsburgh.com/"
-          },
-          {
             "label": "NESN",
             "color": "#003087",
             "url": "https://www.nesn.com/"
+          },
+          {
+            "label": "SportsNet Pittsburgh",
+            "color": "#FDB827",
+            "url": "https://www.sportsnetpittsburgh.com/"
           },
           {
             "label": "Apple TV+",
@@ -881,14 +881,14 @@
         "venue": "Progressive Field",
         "platforms": [
           {
-            "label": "Guardians.TV",
-            "color": "#00385D",
-            "url": "https://www.mlb.com/guardians/fans/guardians-tv"
-          },
-          {
             "label": "Padres.TV",
             "color": "#2F241D",
             "url": "https://www.mlb.com/padres/fans/padres-tv"
+          },
+          {
+            "label": "Guardians.TV",
+            "color": "#00385D",
+            "url": "https://www.mlb.com/guardians/fans/guardians-tv"
           },
           {
             "label": "Apple TV+",
@@ -915,14 +915,14 @@
         "venue": "Tropicana Field",
         "platforms": [
           {
-            "label": "Rays.TV",
-            "color": "#092C5C",
-            "url": "https://www.mlb.com/rays/fans/rays-tv"
-          },
-          {
             "label": "MASN",
             "color": "#E03A3E",
             "url": "https://www.masnsports.com/"
+          },
+          {
+            "label": "Rays.TV",
+            "color": "#092C5C",
+            "url": "https://www.mlb.com/rays/fans/rays-tv"
           },
           {
             "label": "Apple TV+",
@@ -949,14 +949,14 @@
         "venue": "Truist Park",
         "platforms": [
           {
-            "label": "BravesVision",
-            "color": "#CE1141",
-            "url": "https://www.mlb.com/braves/ballpark/bravesvision"
-          },
-          {
             "label": "Dbacks.TV",
             "color": "#A71930",
             "url": "https://www.mlb.com/dbacks/fans/dbacks-tv"
+          },
+          {
+            "label": "BravesVision",
+            "color": "#CE1141",
+            "url": "https://www.mlb.com/braves/ballpark/bravesvision"
           },
           {
             "label": "Apple TV+",
@@ -1376,14 +1376,14 @@
         "venue": "Daikin Park",
         "platforms": [
           {
-            "label": "Space City Home Network",
-            "color": "#002D62",
-            "url": "https://www.spacecityhomenetwork.com/"
-          },
-          {
             "label": "Mariners.TV",
             "color": "#0C2C56",
             "url": "https://www.mlb.com/mariners/fans/mariners-tv"
+          },
+          {
+            "label": "Space City Home Network",
+            "color": "#002D62",
+            "url": "https://www.spacecityhomenetwork.com/"
           }
         ]
       },
@@ -1556,14 +1556,14 @@
         "venue": "PNC Park",
         "platforms": [
           {
-            "label": "SportsNet Pittsburgh",
-            "color": "#FDB827",
-            "url": "https://www.sportsnetpittsburgh.com/"
-          },
-          {
             "label": "NESN",
             "color": "#003087",
             "url": "https://www.nesn.com/"
+          },
+          {
+            "label": "SportsNet Pittsburgh",
+            "color": "#FDB827",
+            "url": "https://www.sportsnetpittsburgh.com/"
           }
         ]
       },
@@ -1677,14 +1677,14 @@
         "venue": "Progressive Field",
         "platforms": [
           {
-            "label": "Guardians.TV",
-            "color": "#00385D",
-            "url": "https://www.mlb.com/guardians/fans/guardians-tv"
-          },
-          {
             "label": "Padres.TV",
             "color": "#2F241D",
             "url": "https://www.mlb.com/padres/fans/padres-tv"
+          },
+          {
+            "label": "Guardians.TV",
+            "color": "#00385D",
+            "url": "https://www.mlb.com/guardians/fans/guardians-tv"
           }
         ]
       },
@@ -2116,14 +2116,14 @@
         "venue": "Kauffman Stadium",
         "platforms": [
           {
-            "label": "NBC Sports California",
-            "color": "#0B2265",
-            "url": "https://www.nbcsports.com/california"
-          },
-          {
             "label": "Royals.TV",
             "color": "#174885",
             "url": "https://www.mlb.com/royals/fans/royals-tv"
+          },
+          {
+            "label": "NBC Sports California",
+            "color": "#0B2265",
+            "url": "https://www.nbcsports.com/california"
           }
         ]
       },
@@ -2263,14 +2263,14 @@
         "venue": "PNC Park",
         "platforms": [
           {
-            "label": "Detroit SportsNet",
-            "color": "#0C2340",
-            "url": "https://www.mlb.com/tigers"
-          },
-          {
             "label": "SportsNet Pittsburgh",
             "color": "#FDB827",
             "url": "https://www.sportsnetpittsburgh.com/"
+          },
+          {
+            "label": "Detroit SportsNet",
+            "color": "#0C2340",
+            "url": "https://www.mlb.com/tigers"
           }
         ]
       },
@@ -2456,14 +2456,14 @@
         "venue": "Kauffman Stadium",
         "platforms": [
           {
-            "label": "Royals.TV",
-            "color": "#174885",
-            "url": "https://www.mlb.com/royals/fans/royals-tv"
-          },
-          {
             "label": "NBC Sports California",
             "color": "#0B2265",
             "url": "https://www.nbcsports.com/california"
+          },
+          {
+            "label": "Royals.TV",
+            "color": "#174885",
+            "url": "https://www.mlb.com/royals/fans/royals-tv"
           }
         ]
       },
@@ -2680,14 +2680,14 @@
         "venue": "Citi Field",
         "platforms": [
           {
-            "label": "SNY",
-            "color": "#002D72",
-            "url": "https://sny.tv/"
-          },
-          {
             "label": "Padres.TV",
             "color": "#2F241D",
             "url": "https://www.mlb.com/padres/fans/padres-tv"
+          },
+          {
+            "label": "SNY",
+            "color": "#002D72",
+            "url": "https://sny.tv/"
           }
         ]
       },
@@ -2907,14 +2907,14 @@
         "venue": "Tropicana Field",
         "platforms": [
           {
-            "label": "Sportsnet",
-            "color": "#E31937",
-            "url": "https://www.sportsnet.ca/"
-          },
-          {
             "label": "Rays.TV",
             "color": "#092C5C",
             "url": "https://www.mlb.com/rays/fans/rays-tv"
+          },
+          {
+            "label": "Sportsnet",
+            "color": "#E31937",
+            "url": "https://www.sportsnet.ca/"
           },
           {
             "label": "TVA Sports",
@@ -2941,14 +2941,14 @@
         "venue": "Kauffman Stadium",
         "platforms": [
           {
-            "label": "Royals.TV",
-            "color": "#174885",
-            "url": "https://www.mlb.com/royals/fans/royals-tv"
-          },
-          {
             "label": "NBC Sports California",
             "color": "#0B2265",
             "url": "https://www.nbcsports.com/california"
+          },
+          {
+            "label": "Royals.TV",
+            "color": "#174885",
+            "url": "https://www.mlb.com/royals/fans/royals-tv"
           }
         ]
       },
