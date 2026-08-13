@@ -429,7 +429,7 @@
         "game_pk": 824238,
         "game_date": "2026-08-13",
         "game_time_utc": "2026-08-13T17:10:00Z",
-        "status": "Scheduled",
+        "status": "In Progress",
         "home_team": {
           "id": 116,
           "name": "Detroit Tigers",
@@ -460,73 +460,10 @@
         ]
       },
       {
-        "game_pk": 823829,
-        "game_date": "2026-08-13",
-        "game_time_utc": "2026-08-13T17:10:00Z",
-        "status": "Scheduled",
-        "home_team": {
-          "id": 146,
-          "name": "Miami Marlins",
-          "abbreviation": "MIA"
-        },
-        "away_team": {
-          "id": 134,
-          "name": "Pittsburgh Pirates",
-          "abbreviation": "PIT"
-        },
-        "venue": "loanDepot park",
-        "platforms": [
-          {
-            "label": "SportsNet Pittsburgh",
-            "color": "#FDB827",
-            "url": "https://www.sportsnetpittsburgh.com/"
-          },
-          {
-            "label": "Netflix",
-            "color": "#E50914",
-            "url": "https://www.netflix.com/"
-          }
-        ]
-      },
-      {
-        "game_pk": 823508,
-        "game_date": "2026-08-13",
-        "game_time_utc": "2026-08-13T17:35:00Z",
-        "status": "Scheduled",
-        "home_team": {
-          "id": 147,
-          "name": "New York Yankees",
-          "abbreviation": "NYY"
-        },
-        "away_team": {
-          "id": 136,
-          "name": "Seattle Mariners",
-          "abbreviation": "SEA"
-        },
-        "venue": "Yankee Stadium",
-        "platforms": [
-          {
-            "label": "YES Network",
-            "color": "#003087",
-            "url": "https://www.yesnetwork.com/"
-          },
-          {
-            "label": "Mariners.TV",
-            "color": "#0C2C56",
-            "url": "https://www.mlb.com/mariners/fans/mariners-tv"
-          },
-          {
-            "label": "Netflix",
-            "color": "#E50914",
-            "url": "https://www.netflix.com/"
-          }
-        ]
-      },
-      {
         "game_pk": 824561,
         "game_date": "2026-08-13",
-        "game_time_utc": "2026-08-13T18:10:00Z",
-        "status": "Scheduled",
+        "game_time_utc": "2026-08-13T17:10:00Z",
+        "status": "In Progress",
         "home_team": {
           "id": 145,
           "name": "Chicago White Sox",
@@ -557,10 +494,73 @@
         ]
       },
       {
+        "game_pk": 823829,
+        "game_date": "2026-08-13",
+        "game_time_utc": "2026-08-13T17:10:00Z",
+        "status": "In Progress",
+        "home_team": {
+          "id": 146,
+          "name": "Miami Marlins",
+          "abbreviation": "MIA"
+        },
+        "away_team": {
+          "id": 134,
+          "name": "Pittsburgh Pirates",
+          "abbreviation": "PIT"
+        },
+        "venue": "loanDepot park",
+        "platforms": [
+          {
+            "label": "SportsNet Pittsburgh",
+            "color": "#FDB827",
+            "url": "https://www.sportsnetpittsburgh.com/"
+          },
+          {
+            "label": "Netflix",
+            "color": "#E50914",
+            "url": "https://www.netflix.com/"
+          }
+        ]
+      },
+      {
+        "game_pk": 823508,
+        "game_date": "2026-08-13",
+        "game_time_utc": "2026-08-13T17:35:00Z",
+        "status": "In Progress",
+        "home_team": {
+          "id": 147,
+          "name": "New York Yankees",
+          "abbreviation": "NYY"
+        },
+        "away_team": {
+          "id": 136,
+          "name": "Seattle Mariners",
+          "abbreviation": "SEA"
+        },
+        "venue": "Yankee Stadium",
+        "platforms": [
+          {
+            "label": "YES Network",
+            "color": "#003087",
+            "url": "https://www.yesnetwork.com/"
+          },
+          {
+            "label": "Mariners.TV",
+            "color": "#0C2C56",
+            "url": "https://www.mlb.com/mariners/fans/mariners-tv"
+          },
+          {
+            "label": "Netflix",
+            "color": "#E50914",
+            "url": "https://www.netflix.com/"
+          }
+        ]
+      },
+      {
         "game_pk": 822776,
         "game_date": "2026-08-13",
         "game_time_utc": "2026-08-13T19:07:00Z",
-        "status": "Scheduled",
+        "status": "Warmup",
         "home_team": {
           "id": 141,
           "name": "Toronto Blue Jays",
@@ -594,7 +594,7 @@
         "game_pk": 822696,
         "game_date": "2026-08-13",
         "game_time_utc": "2026-08-13T20:05:00Z",
-        "status": "Scheduled",
+        "status": "Pre-Game",
         "home_team": {
           "id": 120,
           "name": "Washington Nationals",
