@@ -186,7 +186,7 @@
         "game_pk": 824480,
         "game_date": "2026-08-15",
         "game_time_utc": "2026-08-15T22:40:00Z",
-        "status": "In Progress",
+        "status": "Final",
         "home_team": {
           "id": 113,
           "name": "Cincinnati Reds",
@@ -210,7 +210,7 @@
         "game_pk": 824400,
         "game_date": "2026-08-15",
         "game_time_utc": "2026-08-15T23:10:00Z",
-        "status": "In Progress",
+        "status": "Final",
         "home_team": {
           "id": 114,
           "name": "Cleveland Guardians",
@@ -239,7 +239,7 @@
         "game_pk": 824157,
         "game_date": "2026-08-15",
         "game_time_utc": "2026-08-15T23:10:00Z",
-        "status": "In Progress",
+        "status": "Final",
         "home_team": {
           "id": 117,
           "name": "Houston Astros",
@@ -268,7 +268,7 @@
         "game_pk": 823671,
         "game_date": "2026-08-15",
         "game_time_utc": "2026-08-15T23:10:00Z",
-        "status": "In Progress",
+        "status": "Final",
         "home_team": {
           "id": 142,
           "name": "Minnesota Twins",
@@ -297,7 +297,7 @@
         "game_pk": 823347,
         "game_date": "2026-08-15",
         "game_time_utc": "2026-08-15T23:15:00Z",
-        "status": "In Progress",
+        "status": "Final",
         "home_team": {
           "id": 134,
           "name": "Pittsburgh Pirates",
@@ -315,7 +315,7 @@
         "game_pk": 824884,
         "game_date": "2026-08-15",
         "game_time_utc": "2026-08-15T23:15:00Z",
-        "status": "In Progress",
+        "status": "Final",
         "home_team": {
           "id": 144,
           "name": "Atlanta Braves",
@@ -333,7 +333,7 @@
         "game_pk": 823914,
         "game_date": "2026-08-15",
         "game_time_utc": "2026-08-15T23:15:00Z",
-        "status": "In Progress",
+        "status": "Final",
         "home_team": {
           "id": 119,
           "name": "Los Angeles Dodgers",
@@ -353,7 +353,7 @@
         "game_pk": 823990,
         "game_date": "2026-08-16",
         "game_time_utc": "2026-08-16T01:38:00Z",
-        "status": "Warmup",
+        "status": "Final",
         "home_team": {
           "id": 108,
           "name": "Los Angeles Angels",
@@ -377,7 +377,7 @@
         "game_pk": 824966,
         "game_date": "2026-08-16",
         "game_time_utc": "2026-08-16T01:40:00Z",
-        "status": "Pre-Game",
+        "status": "Final",
         "home_team": {
           "id": 133,
           "name": "Athletics",
