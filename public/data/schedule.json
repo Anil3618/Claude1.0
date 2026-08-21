@@ -265,7 +265,7 @@
         "game_pk": 823746,
         "game_date": "2026-08-21",
         "game_time_utc": "2026-08-21T20:10:00Z",
-        "status": "Scheduled",
+        "status": "Pre-Game",
         "home_team": {
           "id": 158,
           "name": "Milwaukee Brewers",
@@ -1970,9 +1970,9 @@
         "venue": "Truist Park",
         "platforms": [
           {
-            "label": "BravesVision",
-            "color": "#CE1141",
-            "url": "https://www.mlb.com/braves/ballpark/bravesvision"
+            "label": "Spectrum SportsNet LA",
+            "color": "#005BA1",
+            "url": "https://www.spectrumnews1.com/ca/la-sports"
           },
           {
             "label": "TBS",
@@ -1980,9 +1980,9 @@
             "url": "https://www.tbs.com/watchtbs"
           },
           {
-            "label": "Spectrum SportsNet LA",
-            "color": "#005BA1",
-            "url": "https://www.spectrumnews1.com/ca/la-sports"
+            "label": "BravesVision",
+            "color": "#CE1141",
+            "url": "https://www.mlb.com/braves/ballpark/bravesvision"
           }
         ]
       },
