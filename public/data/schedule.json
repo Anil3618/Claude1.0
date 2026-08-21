@@ -171,7 +171,7 @@
         "game_pk": 824802,
         "game_date": "2026-08-20",
         "game_time_utc": "2026-08-20T22:35:00Z",
-        "status": "In Progress",
+        "status": "Final",
         "home_team": {
           "id": 110,
           "name": "Baltimore Orioles",
@@ -202,7 +202,7 @@
         "game_pk": 822861,
         "game_date": "2026-08-21",
         "game_time_utc": "2026-08-21T00:05:00Z",
-        "status": "In Progress",
+        "status": "Final",
         "home_team": {
           "id": 140,
           "name": "Texas Rangers",
@@ -236,7 +236,7 @@
         "game_pk": 824153,
         "game_date": "2026-08-21",
         "game_time_utc": "2026-08-21T00:10:00Z",
-        "status": "In Progress",
+        "status": "Final",
         "home_team": {
           "id": 117,
           "name": "Houston Astros",
