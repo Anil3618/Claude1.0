@@ -7,7 +7,7 @@
         "game_pk": 824235,
         "game_date": "2026-08-24",
         "game_time_utc": "2026-08-24T22:40:00Z",
-        "status": "In Progress",
+        "status": "Final",
         "home_team": {
           "id": 116,
           "name": "Detroit Tigers",
@@ -41,7 +41,7 @@
         "game_pk": 823828,
         "game_date": "2026-08-24",
         "game_time_utc": "2026-08-24T22:40:00Z",
-        "status": "In Progress",
+        "status": "Final",
         "home_team": {
           "id": 146,
           "name": "Miami Marlins",
@@ -65,7 +65,7 @@
         "game_pk": 822695,
         "game_date": "2026-08-24",
         "game_time_utc": "2026-08-24T22:45:00Z",
-        "status": "In Progress",
+        "status": "Final",
         "home_team": {
           "id": 120,
           "name": "Washington Nationals",
@@ -94,7 +94,7 @@
         "game_pk": 824557,
         "game_date": "2026-08-24",
         "game_time_utc": "2026-08-24T23:40:00Z",
-        "status": "In Progress",
+        "status": "Final",
         "home_team": {
           "id": 145,
           "name": "Chicago White Sox",
@@ -120,7 +120,7 @@
         "game_pk": 823992,
         "game_date": "2026-08-25",
         "game_time_utc": "2026-08-25T01:38:00Z",
-        "status": "Pre-Game",
+        "status": "Final",
         "home_team": {
           "id": 108,
           "name": "Los Angeles Angels",
@@ -144,7 +144,7 @@
         "game_pk": 825041,
         "game_date": "2026-08-25",
         "game_time_utc": "2026-08-25T01:40:00Z",
-        "status": "Warmup",
+        "status": "Final",
         "home_team": {
           "id": 109,
           "name": "Arizona Diamondbacks",
@@ -173,7 +173,7 @@
         "game_pk": 823260,
         "game_date": "2026-08-25",
         "game_time_utc": "2026-08-25T01:40:00Z",
-        "status": "Pre-Game",
+        "status": "Final",
         "home_team": {
           "id": 135,
           "name": "San Diego Padres",
@@ -202,7 +202,7 @@
         "game_pk": 824964,
         "game_date": "2026-08-25",
         "game_time_utc": "2026-08-25T01:40:00Z",
-        "status": "Warmup",
+        "status": "Final",
         "home_team": {
           "id": 133,
           "name": "Athletics",
@@ -231,7 +231,7 @@
         "game_pk": 823097,
         "game_date": "2026-08-25",
         "game_time_utc": "2026-08-25T01:40:00Z",
-        "status": "Warmup",
+        "status": "Final",
         "home_team": {
           "id": 136,
           "name": "Seattle Mariners",
@@ -260,7 +260,7 @@
         "game_pk": 823183,
         "game_date": "2026-08-25",
         "game_time_utc": "2026-08-25T01:45:00Z",
-        "status": "Pre-Game",
+        "status": "Final",
         "home_team": {
           "id": 137,
           "name": "San Francisco Giants",
@@ -947,14 +947,14 @@
         "venue": "Yankee Stadium",
         "platforms": [
           {
-            "label": "Space City Home Network",
-            "color": "#002D62",
-            "url": "https://www.spacecityhomenetwork.com/"
-          },
-          {
             "label": "Prime Video",
             "color": "#00A8E0",
             "url": "https://www.amazon.com/primevideo"
+          },
+          {
+            "label": "Space City Home Network",
+            "color": "#002D62",
+            "url": "https://www.spacecityhomenetwork.com/"
           }
         ]
       },
@@ -1118,14 +1118,14 @@
         "venue": "Sutter Health Park",
         "platforms": [
           {
-            "label": "Twins.TV",
-            "color": "#002B5C",
-            "url": "https://www.mlb.com/twins/fans/twins-tv"
-          },
-          {
             "label": "NBC Sports California",
             "color": "#0B2265",
             "url": "https://www.nbcsports.com/california"
+          },
+          {
+            "label": "Twins.TV",
+            "color": "#002B5C",
+            "url": "https://www.mlb.com/twins/fans/twins-tv"
           }
         ]
       },
@@ -2141,14 +2141,14 @@
         "venue": "Truist Park",
         "platforms": [
           {
-            "label": "Rockies.TV",
-            "color": "#333366",
-            "url": "https://www.mlb.com/rockies/fans/rockies-tv"
-          },
-          {
             "label": "BravesVision",
             "color": "#CE1141",
             "url": "https://www.mlb.com/braves/ballpark/bravesvision"
+          },
+          {
+            "label": "Rockies.TV",
+            "color": "#333366",
+            "url": "https://www.mlb.com/rockies/fans/rockies-tv"
           }
         ]
       },
@@ -2219,14 +2219,14 @@
         "venue": "Sutter Health Park",
         "platforms": [
           {
-            "label": "NBC Sports California",
-            "color": "#0B2265",
-            "url": "https://www.nbcsports.com/california"
-          },
-          {
             "label": "MASN",
             "color": "#E03A3E",
             "url": "https://www.masnsports.com/"
+          },
+          {
+            "label": "NBC Sports California",
+            "color": "#0B2265",
+            "url": "https://www.nbcsports.com/california"
           }
         ]
       },
@@ -2319,14 +2319,14 @@
         "venue": "Yankee Stadium",
         "platforms": [
           {
-            "label": "YES Network",
-            "color": "#003087",
-            "url": "https://www.yesnetwork.com/"
-          },
-          {
             "label": "NESN",
             "color": "#003087",
             "url": "https://www.nesn.com/"
+          },
+          {
+            "label": "YES Network",
+            "color": "#003087",
+            "url": "https://www.yesnetwork.com/"
           }
         ]
       },
@@ -2382,14 +2382,14 @@
         "venue": "Progressive Field",
         "platforms": [
           {
-            "label": "Guardians.TV",
-            "color": "#00385D",
-            "url": "https://www.mlb.com/guardians/fans/guardians-tv"
-          },
-          {
             "label": "Royals.TV",
             "color": "#174885",
             "url": "https://www.mlb.com/royals/fans/royals-tv"
+          },
+          {
+            "label": "Guardians.TV",
+            "color": "#00385D",
+            "url": "https://www.mlb.com/guardians/fans/guardians-tv"
           }
         ]
       },
@@ -2564,14 +2564,14 @@
         "venue": "Sutter Health Park",
         "platforms": [
           {
-            "label": "NBC Sports California",
-            "color": "#0B2265",
-            "url": "https://www.nbcsports.com/california"
-          },
-          {
             "label": "MASN",
             "color": "#E03A3E",
             "url": "https://www.masnsports.com/"
+          },
+          {
+            "label": "NBC Sports California",
+            "color": "#0B2265",
+            "url": "https://www.nbcsports.com/california"
           }
         ]
       },
