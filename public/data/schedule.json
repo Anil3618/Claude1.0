@@ -424,7 +424,7 @@
         "game_pk": 824234,
         "game_date": "2026-08-26",
         "game_time_utc": "2026-08-26T17:10:00Z",
-        "status": "Scheduled",
+        "status": "Final",
         "home_team": {
           "id": 116,
           "name": "Detroit Tigers",
@@ -453,7 +453,7 @@
         "game_pk": 825039,
         "game_date": "2026-08-26",
         "game_time_utc": "2026-08-26T19:40:00Z",
-        "status": "Scheduled",
+        "status": "In Progress",
         "home_team": {
           "id": 109,
           "name": "Arizona Diamondbacks",
@@ -482,7 +482,7 @@
         "game_pk": 823180,
         "game_date": "2026-08-26",
         "game_time_utc": "2026-08-26T19:45:00Z",
-        "status": "Scheduled",
+        "status": "In Progress",
         "home_team": {
           "id": 137,
           "name": "San Francisco Giants",
@@ -511,7 +511,7 @@
         "game_pk": 823988,
         "game_date": "2026-08-26",
         "game_time_utc": "2026-08-26T20:07:00Z",
-        "status": "Scheduled",
+        "status": "Warmup",
         "home_team": {
           "id": 108,
           "name": "Los Angeles Angels",
@@ -535,7 +535,7 @@
         "game_pk": 823255,
         "game_date": "2026-08-26",
         "game_time_utc": "2026-08-26T20:10:00Z",
-        "status": "Scheduled",
+        "status": "Warmup",
         "home_team": {
           "id": 135,
           "name": "San Diego Padres",
@@ -564,7 +564,7 @@
         "game_pk": 823096,
         "game_date": "2026-08-26",
         "game_time_utc": "2026-08-26T20:10:00Z",
-        "status": "Scheduled",
+        "status": "Pre-Game",
         "home_team": {
           "id": 136,
           "name": "Seattle Mariners",
@@ -593,7 +593,7 @@
         "game_pk": 823825,
         "game_date": "2026-08-26",
         "game_time_utc": "2026-08-26T22:40:00Z",
-        "status": "Scheduled",
+        "status": "Pre-Game",
         "home_team": {
           "id": 146,
           "name": "Miami Marlins",
@@ -617,7 +617,7 @@
         "game_pk": 822692,
         "game_date": "2026-08-26",
         "game_time_utc": "2026-08-26T22:45:00Z",
-        "status": "Scheduled",
+        "status": "Pre-Game",
         "home_team": {
           "id": 120,
           "name": "Washington Nationals",
@@ -646,7 +646,7 @@
         "game_pk": 823506,
         "game_date": "2026-08-26",
         "game_time_utc": "2026-08-26T23:05:00Z",
-        "status": "Scheduled",
+        "status": "Pre-Game",
         "home_team": {
           "id": 147,
           "name": "New York Yankees",
@@ -675,7 +675,7 @@
         "game_pk": 822772,
         "game_date": "2026-08-26",
         "game_time_utc": "2026-08-26T23:07:00Z",
-        "status": "Scheduled",
+        "status": "Pre-Game",
         "home_team": {
           "id": 141,
           "name": "Toronto Blue Jays",
@@ -733,7 +733,7 @@
         "game_pk": 824878,
         "game_date": "2026-08-26",
         "game_time_utc": "2026-08-26T23:15:00Z",
-        "status": "Scheduled",
+        "status": "Pre-Game",
         "home_team": {
           "id": 144,
           "name": "Atlanta Braves",
@@ -767,7 +767,7 @@
         "game_pk": 824555,
         "game_date": "2026-08-26",
         "game_time_utc": "2026-08-26T23:40:00Z",
-        "status": "Scheduled",
+        "status": "Pre-Game",
         "home_team": {
           "id": 145,
           "name": "Chicago White Sox",
@@ -791,7 +791,7 @@
         "game_pk": 823015,
         "game_date": "2026-08-26",
         "game_time_utc": "2026-08-26T23:45:00Z",
-        "status": "Scheduled",
+        "status": "Pre-Game",
         "home_team": {
           "id": 138,
           "name": "St. Louis Cardinals",
@@ -817,7 +817,7 @@
         "game_pk": 824963,
         "game_date": "2026-08-27",
         "game_time_utc": "2026-08-27T01:05:00Z",
-        "status": "Scheduled",
+        "status": "Pre-Game",
         "home_team": {
           "id": 133,
           "name": "Athletics",
