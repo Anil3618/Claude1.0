@@ -429,7 +429,7 @@
         "game_pk": 822694,
         "game_date": "2026-08-27",
         "game_time_utc": "2026-08-27T17:05:00Z",
-        "status": "Scheduled",
+        "status": "Final",
         "home_team": {
           "id": 120,
           "name": "Washington Nationals",
@@ -458,7 +458,7 @@
         "game_pk": 823014,
         "game_date": "2026-08-27",
         "game_time_utc": "2026-08-27T18:15:00Z",
-        "status": "Scheduled",
+        "status": "Final",
         "home_team": {
           "id": 138,
           "name": "St. Louis Cardinals",
@@ -482,7 +482,7 @@
         "game_pk": 823503,
         "game_date": "2026-08-27",
         "game_time_utc": "2026-08-27T23:05:00Z",
-        "status": "Scheduled",
+        "status": "Pre-Game",
         "home_team": {
           "id": 147,
           "name": "New York Yankees",
@@ -496,14 +496,14 @@
         "venue": "Yankee Stadium",
         "platforms": [
           {
-            "label": "Space City Home Network",
-            "color": "#002D62",
-            "url": "https://www.spacecityhomenetwork.com/"
-          },
-          {
             "label": "YES Network",
             "color": "#003087",
             "url": "https://www.yesnetwork.com/"
+          },
+          {
+            "label": "Space City Home Network",
+            "color": "#002D62",
+            "url": "https://www.spacecityhomenetwork.com/"
           }
         ]
       },
@@ -511,7 +511,7 @@
         "game_pk": 822771,
         "game_date": "2026-08-27",
         "game_time_utc": "2026-08-27T23:07:00Z",
-        "status": "Scheduled",
+        "status": "Pre-Game",
         "home_team": {
           "id": 141,
           "name": "Toronto Blue Jays",
@@ -540,7 +540,7 @@
         "game_pk": 823581,
         "game_date": "2026-08-27",
         "game_time_utc": "2026-08-27T23:10:00Z",
-        "status": "Scheduled",
+        "status": "Pre-Game",
         "home_team": {
           "id": 121,
           "name": "New York Mets",
@@ -564,7 +564,7 @@
         "game_pk": 824879,
         "game_date": "2026-08-27",
         "game_time_utc": "2026-08-27T23:15:00Z",
-        "status": "Scheduled",
+        "status": "Pre-Game",
         "home_team": {
           "id": 144,
           "name": "Atlanta Braves",
@@ -600,7 +600,7 @@
         "game_pk": 823179,
         "game_date": "2026-08-28",
         "game_time_utc": "2026-08-28T01:45:00Z",
-        "status": "Scheduled",
+        "status": "Pre-Game",
         "home_team": {
           "id": 137,
           "name": "San Francisco Giants",
