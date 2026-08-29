@@ -459,7 +459,7 @@
         "game_pk": 823539,
         "game_date": "2026-08-29",
         "game_time_utc": "2026-08-29T17:05:00Z",
-        "status": "Scheduled",
+        "status": "Final",
         "home_team": {
           "id": 147,
           "name": "New York Yankees",
@@ -511,7 +511,7 @@
         "game_pk": 824230,
         "game_date": "2026-08-29",
         "game_time_utc": "2026-08-29T17:10:00Z",
-        "status": "Scheduled",
+        "status": "Final",
         "home_team": {
           "id": 116,
           "name": "Detroit Tigers",
@@ -540,7 +540,7 @@
         "game_pk": 823665,
         "game_date": "2026-08-29",
         "game_time_utc": "2026-08-29T18:10:00Z",
-        "status": "Scheduled",
+        "status": "In Progress",
         "home_team": {
           "id": 142,
           "name": "Minnesota Twins",
@@ -569,7 +569,7 @@
         "game_pk": 823011,
         "game_date": "2026-08-29",
         "game_time_utc": "2026-08-29T18:15:00Z",
-        "status": "Scheduled",
+        "status": "In Progress",
         "home_team": {
           "id": 138,
           "name": "St. Louis Cardinals",
@@ -593,7 +593,7 @@
         "game_pk": 824637,
         "game_date": "2026-08-29",
         "game_time_utc": "2026-08-29T18:20:00Z",
-        "status": "Scheduled",
+        "status": "In Progress",
         "home_team": {
           "id": 112,
           "name": "Chicago Cubs",
@@ -622,7 +622,7 @@
         "game_pk": 822770,
         "game_date": "2026-08-29",
         "game_time_utc": "2026-08-29T19:07:00Z",
-        "status": "Scheduled",
+        "status": "In Progress",
         "home_team": {
           "id": 141,
           "name": "Toronto Blue Jays",
@@ -656,7 +656,7 @@
         "game_pk": 823177,
         "game_date": "2026-08-29",
         "game_time_utc": "2026-08-29T20:05:00Z",
-        "status": "Scheduled",
+        "status": "In Progress",
         "home_team": {
           "id": 137,
           "name": "San Francisco Giants",
@@ -685,7 +685,7 @@
         "game_pk": 822690,
         "game_date": "2026-08-29",
         "game_time_utc": "2026-08-29T20:05:00Z",
-        "status": "Scheduled",
+        "status": "In Progress",
         "home_team": {
           "id": 120,
           "name": "Washington Nationals",
@@ -709,7 +709,7 @@
         "game_pk": 824392,
         "game_date": "2026-08-29",
         "game_time_utc": "2026-08-29T20:10:00Z",
-        "status": "Scheduled",
+        "status": "In Progress",
         "home_team": {
           "id": 114,
           "name": "Cleveland Guardians",
@@ -738,7 +738,7 @@
         "game_pk": 823582,
         "game_date": "2026-08-29",
         "game_time_utc": "2026-08-29T20:10:00Z",
-        "status": "Scheduled",
+        "status": "In Progress",
         "home_team": {
           "id": 121,
           "name": "New York Mets",
@@ -767,7 +767,7 @@
         "game_pk": 822936,
         "game_date": "2026-08-29",
         "game_time_utc": "2026-08-29T20:10:00Z",
-        "status": "Scheduled",
+        "status": "In Progress",
         "home_team": {
           "id": 139,
           "name": "Tampa Bay Rays",
@@ -796,7 +796,7 @@
         "game_pk": 824874,
         "game_date": "2026-08-29",
         "game_time_utc": "2026-08-29T20:10:00Z",
-        "status": "Scheduled",
+        "status": "In Progress",
         "home_team": {
           "id": 144,
           "name": "Atlanta Braves",
@@ -825,7 +825,7 @@
         "game_pk": 823741,
         "game_date": "2026-08-29",
         "game_time_utc": "2026-08-29T23:15:00Z",
-        "status": "Scheduled",
+        "status": "Pre-Game",
         "home_team": {
           "id": 158,
           "name": "Milwaukee Brewers",
@@ -888,14 +888,14 @@
         "venue": "Sutter Health Park",
         "platforms": [
           {
-            "label": "NBC Sports California",
-            "color": "#0B2265",
-            "url": "https://www.nbcsports.com/california"
-          },
-          {
             "label": "MASN",
             "color": "#E03A3E",
             "url": "https://www.masnsports.com/"
+          },
+          {
+            "label": "NBC Sports California",
+            "color": "#0B2265",
+            "url": "https://www.nbcsports.com/california"
           }
         ]
       },
@@ -1051,14 +1051,14 @@
         "venue": "Progressive Field",
         "platforms": [
           {
-            "label": "Guardians.TV",
-            "color": "#00385D",
-            "url": "https://www.mlb.com/guardians/fans/guardians-tv"
-          },
-          {
             "label": "Royals.TV",
             "color": "#174885",
             "url": "https://www.mlb.com/royals/fans/royals-tv"
+          },
+          {
+            "label": "Guardians.TV",
+            "color": "#00385D",
+            "url": "https://www.mlb.com/guardians/fans/guardians-tv"
           }
         ]
       },
@@ -1233,14 +1233,14 @@
         "venue": "Sutter Health Park",
         "platforms": [
           {
-            "label": "NBC Sports California",
-            "color": "#0B2265",
-            "url": "https://www.nbcsports.com/california"
-          },
-          {
             "label": "MASN",
             "color": "#E03A3E",
             "url": "https://www.masnsports.com/"
+          },
+          {
+            "label": "NBC Sports California",
+            "color": "#0B2265",
+            "url": "https://www.nbcsports.com/california"
           }
         ]
       },
