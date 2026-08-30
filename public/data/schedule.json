@@ -393,7 +393,7 @@
         "game_pk": 823176,
         "game_date": "2026-08-30",
         "game_time_utc": "2026-08-30T02:05:00Z",
-        "status": "In Progress",
+        "status": "Final",
         "home_team": {
           "id": 137,
           "name": "San Francisco Giants",
@@ -422,7 +422,7 @@
         "game_pk": 824961,
         "game_date": "2026-08-30",
         "game_time_utc": "2026-08-30T02:05:00Z",
-        "status": "In Progress",
+        "status": "Final",
         "home_team": {
           "id": 133,
           "name": "Athletics",
@@ -451,7 +451,7 @@
         "game_pk": 823986,
         "game_date": "2026-08-30",
         "game_time_utc": "2026-08-30T02:07:00Z",
-        "status": "In Progress",
+        "status": "Final",
         "home_team": {
           "id": 108,
           "name": "Los Angeles Angels",
@@ -599,14 +599,14 @@
         "venue": "Progressive Field",
         "platforms": [
           {
-            "label": "Royals.TV",
-            "color": "#174885",
-            "url": "https://www.mlb.com/royals/fans/royals-tv"
-          },
-          {
             "label": "Guardians.TV",
             "color": "#00385D",
             "url": "https://www.mlb.com/guardians/fans/guardians-tv"
+          },
+          {
+            "label": "Royals.TV",
+            "color": "#174885",
+            "url": "https://www.mlb.com/royals/fans/royals-tv"
           }
         ]
       },
