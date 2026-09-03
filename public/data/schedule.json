@@ -429,7 +429,7 @@
         "game_pk": 823337,
         "game_date": "2026-09-03",
         "game_time_utc": "2026-09-03T16:35:00Z",
-        "status": "Pre-Game",
+        "status": "Final",
         "home_team": {
           "id": 134,
           "name": "Pittsburgh Pirates",
@@ -458,7 +458,7 @@
         "game_pk": 824388,
         "game_date": "2026-09-03",
         "game_time_utc": "2026-09-03T17:10:00Z",
-        "status": "Pre-Game",
+        "status": "In Progress",
         "home_team": {
           "id": 114,
           "name": "Cleveland Guardians",
@@ -487,7 +487,7 @@
         "game_pk": 824144,
         "game_date": "2026-09-03",
         "game_time_utc": "2026-09-03T18:10:00Z",
-        "status": "Pre-Game",
+        "status": "In Progress",
         "home_team": {
           "id": 117,
           "name": "Houston Astros",
@@ -516,7 +516,7 @@
         "game_pk": 824796,
         "game_date": "2026-09-03",
         "game_time_utc": "2026-09-03T23:15:00Z",
-        "status": "Scheduled",
+        "status": "Pre-Game",
         "home_team": {
           "id": 110,
           "name": "Baltimore Orioles",
@@ -534,7 +534,7 @@
         "game_pk": 824632,
         "game_date": "2026-09-03",
         "game_time_utc": "2026-09-03T23:15:00Z",
-        "status": "Scheduled",
+        "status": "Pre-Game",
         "home_team": {
           "id": 112,
           "name": "Chicago Cubs",
@@ -552,7 +552,7 @@
         "game_pk": 824069,
         "game_date": "2026-09-03",
         "game_time_utc": "2026-09-03T23:40:00Z",
-        "status": "Scheduled",
+        "status": "Pre-Game",
         "home_team": {
           "id": 118,
           "name": "Kansas City Royals",
@@ -578,7 +578,7 @@
         "game_pk": 822853,
         "game_date": "2026-09-04",
         "game_time_utc": "2026-09-04T00:05:00Z",
-        "status": "Scheduled",
+        "status": "Pre-Game",
         "home_team": {
           "id": 140,
           "name": "Texas Rangers",
