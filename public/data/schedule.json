@@ -429,7 +429,7 @@
         "game_pk": 823337,
         "game_date": "2026-09-03",
         "game_time_utc": "2026-09-03T16:35:00Z",
-        "status": "Scheduled",
+        "status": "Pre-Game",
         "home_team": {
           "id": 134,
           "name": "Pittsburgh Pirates",
@@ -458,7 +458,7 @@
         "game_pk": 824388,
         "game_date": "2026-09-03",
         "game_time_utc": "2026-09-03T17:10:00Z",
-        "status": "Scheduled",
+        "status": "Pre-Game",
         "home_team": {
           "id": 114,
           "name": "Cleveland Guardians",
@@ -487,7 +487,7 @@
         "game_pk": 824144,
         "game_date": "2026-09-03",
         "game_time_utc": "2026-09-03T18:10:00Z",
-        "status": "Scheduled",
+        "status": "Pre-Game",
         "home_team": {
           "id": 117,
           "name": "Houston Astros",
