@@ -216,21 +216,6 @@ export function ScheduleView({ schedule, today }: Props) {
         )}
       </section>
 
-      {/* Yesterday — final games only */}
-      {yesterdayGames.length > 0 && (
-        <section className="mb-12">
-          <h2 className="text-xs font-semibold text-gray-500 mb-4 uppercase tracking-wide flex items-center gap-2">
-            Yesterday · {yesterday}
-            <span className="text-gray-700 font-normal normal-case tracking-normal text-[10px]">Final results</span>
-          </h2>
-          <div className="grid grid-cols-1 sm:grid-cols-2 gap-4">
-            {yesterdayGames.map(game => (
-              <GameCard key={game.game_pk} game={game} />
-            ))}
-          </div>
-        </section>
-      )}
-
       {/* Upcoming */}
       {upcomingDates.map(dateStr => {
         const games: Game[] = filteredDates[dateStr] ?? [];
@@ -247,6 +232,21 @@ export function ScheduleView({ schedule, today }: Props) {
           </section>
         );
       })}
+
+      {/* Yesterday — final games only, shown last */}
+      {yesterdayGames.length > 0 && (
+        <section className="mb-12">
+          <h2 className="text-xs font-semibold text-gray-500 mb-4 uppercase tracking-wide flex items-center gap-2">
+            Yesterday · {yesterday}
+            <span className="text-gray-700 font-normal normal-case tracking-normal text-[10px]">Final results</span>
+          </h2>
+          <div className="grid grid-cols-1 sm:grid-cols-2 gap-4">
+            {yesterdayGames.map(game => (
+              <GameCard key={game.game_pk} game={game} />
+            ))}
+          </div>
+        </section>
+      )}
 
       {sortedDates.length === 0 && (
         <p className="text-gray-500 py-10 text-center">
