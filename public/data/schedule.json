@@ -185,7 +185,7 @@
         "game_pk": 823095,
         "game_date": "2026-09-04",
         "game_time_utc": "2026-09-04T01:40:00Z",
-        "status": "In Progress",
+        "status": "Final",
         "home_team": {
           "id": 136,
           "name": "Seattle Mariners",
@@ -219,7 +219,7 @@
         "game_pk": 823907,
         "game_date": "2026-09-04",
         "game_time_utc": "2026-09-04T02:10:00Z",
-        "status": "In Progress",
+        "status": "Final",
         "home_team": {
           "id": 119,
           "name": "Los Angeles Dodgers",
@@ -417,14 +417,14 @@
         "venue": "Oriole Park at Camden Yards",
         "platforms": [
           {
-            "label": "NESN",
-            "color": "#003087",
-            "url": "https://www.nesn.com/"
-          },
-          {
             "label": "MASN",
             "color": "#E03A3E",
             "url": "https://www.masnsports.com/"
+          },
+          {
+            "label": "NESN",
+            "color": "#003087",
+            "url": "https://www.nesn.com/"
           },
           {
             "label": "Apple TV+",
