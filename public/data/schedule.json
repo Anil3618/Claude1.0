@@ -429,7 +429,7 @@
         "game_pk": 824226,
         "game_date": "2026-09-09",
         "game_time_utc": "2026-09-09T17:10:00Z",
-        "status": "Pre-Game",
+        "status": "In Progress",
         "home_team": {
           "id": 116,
           "name": "Detroit Tigers",
@@ -458,7 +458,7 @@
         "game_pk": 824956,
         "game_date": "2026-09-09",
         "game_time_utc": "2026-09-09T19:05:00Z",
-        "status": "Pre-Game",
+        "status": "In Progress",
         "home_team": {
           "id": 133,
           "name": "Athletics",
@@ -487,7 +487,7 @@
         "game_pk": 823172,
         "game_date": "2026-09-09",
         "game_time_utc": "2026-09-09T19:45:00Z",
-        "status": "Scheduled",
+        "status": "In Progress",
         "home_team": {
           "id": 137,
           "name": "San Francisco Giants",
@@ -511,7 +511,7 @@
         "game_pk": 823251,
         "game_date": "2026-09-09",
         "game_time_utc": "2026-09-09T20:10:00Z",
-        "status": "Scheduled",
+        "status": "In Progress",
         "home_team": {
           "id": 135,
           "name": "San Diego Padres",
@@ -540,7 +540,7 @@
         "game_pk": 823090,
         "game_date": "2026-09-09",
         "game_time_utc": "2026-09-09T20:10:00Z",
-        "status": "Scheduled",
+        "status": "In Progress",
         "home_team": {
           "id": 136,
           "name": "Seattle Mariners",
@@ -564,7 +564,7 @@
         "game_pk": 824791,
         "game_date": "2026-09-09",
         "game_time_utc": "2026-09-09T22:35:00Z",
-        "status": "Scheduled",
+        "status": "Pre-Game",
         "home_team": {
           "id": 110,
           "name": "Baltimore Orioles",
@@ -593,7 +593,7 @@
         "game_pk": 823416,
         "game_date": "2026-09-09",
         "game_time_utc": "2026-09-09T22:40:00Z",
-        "status": "Scheduled",
+        "status": "Pre-Game",
         "home_team": {
           "id": 143,
           "name": "Philadelphia Phillies",
@@ -622,7 +622,7 @@
         "game_pk": 823818,
         "game_date": "2026-09-09",
         "game_time_utc": "2026-09-09T22:40:00Z",
-        "status": "Scheduled",
+        "status": "Pre-Game",
         "home_team": {
           "id": 146,
           "name": "Miami Marlins",
@@ -646,7 +646,7 @@
         "game_pk": 824713,
         "game_date": "2026-09-09",
         "game_time_utc": "2026-09-09T22:45:00Z",
-        "status": "Scheduled",
+        "status": "Pre-Game",
         "home_team": {
           "id": 111,
           "name": "Boston Red Sox",
@@ -670,7 +670,7 @@
         "game_pk": 823497,
         "game_date": "2026-09-09",
         "game_time_utc": "2026-09-09T23:05:00Z",
-        "status": "Scheduled",
+        "status": "Pre-Game",
         "home_team": {
           "id": 147,
           "name": "New York Yankees",
@@ -684,14 +684,14 @@
         "venue": "Yankee Stadium",
         "platforms": [
           {
-            "label": "YES Network",
-            "color": "#003087",
-            "url": "https://www.yesnetwork.com/"
-          },
-          {
             "label": "Rockies.TV",
             "color": "#333366",
             "url": "https://www.mlb.com/rockies/fans/rockies-tv"
+          },
+          {
+            "label": "YES Network",
+            "color": "#003087",
+            "url": "https://www.yesnetwork.com/"
           }
         ]
       },
@@ -699,7 +699,7 @@
         "game_pk": 824871,
         "game_date": "2026-09-09",
         "game_time_utc": "2026-09-09T23:15:00Z",
-        "status": "Scheduled",
+        "status": "Pre-Game",
         "home_team": {
           "id": 144,
           "name": "Atlanta Braves",
@@ -713,14 +713,14 @@
         "venue": "Truist Park",
         "platforms": [
           {
-            "label": "Rays.TV",
-            "color": "#092C5C",
-            "url": "https://www.mlb.com/rays/fans/rays-tv"
-          },
-          {
             "label": "BravesVision",
             "color": "#CE1141",
             "url": "https://www.mlb.com/braves/ballpark/bravesvision"
+          },
+          {
+            "label": "Rays.TV",
+            "color": "#092C5C",
+            "url": "https://www.mlb.com/rays/fans/rays-tv"
           },
           {
             "label": "MLB Network",
@@ -733,7 +733,7 @@
         "game_pk": 824064,
         "game_date": "2026-09-09",
         "game_time_utc": "2026-09-09T23:40:00Z",
-        "status": "Scheduled",
+        "status": "Pre-Game",
         "home_team": {
           "id": 118,
           "name": "Kansas City Royals",
@@ -762,7 +762,7 @@
         "game_pk": 824549,
         "game_date": "2026-09-09",
         "game_time_utc": "2026-09-09T23:40:00Z",
-        "status": "Scheduled",
+        "status": "Pre-Game",
         "home_team": {
           "id": 145,
           "name": "Chicago White Sox",
@@ -776,14 +776,14 @@
         "venue": "Rate Field",
         "platforms": [
           {
-            "label": "SportsNet Pittsburgh",
-            "color": "#FDB827",
-            "url": "https://www.sportsnetpittsburgh.com/"
-          },
-          {
             "label": "Chicago Sports Network",
             "color": "#27251F",
             "url": "https://www.chicagosportsnetwork.com/"
+          },
+          {
+            "label": "SportsNet Pittsburgh",
+            "color": "#FDB827",
+            "url": "https://www.sportsnetpittsburgh.com/"
           }
         ]
       },
@@ -791,7 +791,7 @@
         "game_pk": 823739,
         "game_date": "2026-09-09",
         "game_time_utc": "2026-09-09T23:40:00Z",
-        "status": "Scheduled",
+        "status": "Pre-Game",
         "home_team": {
           "id": 158,
           "name": "Milwaukee Brewers",
