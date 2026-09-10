@@ -424,7 +424,7 @@
         "game_pk": 824872,
         "game_date": "2026-09-10",
         "game_time_utc": "2026-09-10T16:15:00Z",
-        "status": "Scheduled",
+        "status": "Warmup",
         "home_team": {
           "id": 144,
           "name": "Atlanta Braves",
@@ -453,7 +453,7 @@
         "game_pk": 823413,
         "game_date": "2026-09-10",
         "game_time_utc": "2026-09-10T17:05:00Z",
-        "status": "Scheduled",
+        "status": "Pre-Game",
         "home_team": {
           "id": 143,
           "name": "Philadelphia Phillies",
