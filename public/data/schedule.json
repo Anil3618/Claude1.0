@@ -424,7 +424,7 @@
         "game_pk": 824872,
         "game_date": "2026-09-10",
         "game_time_utc": "2026-09-10T16:15:00Z",
-        "status": "Warmup",
+        "status": "Final",
         "home_team": {
           "id": 144,
           "name": "Atlanta Braves",
@@ -453,7 +453,7 @@
         "game_pk": 823413,
         "game_date": "2026-09-10",
         "game_time_utc": "2026-09-10T17:05:00Z",
-        "status": "Pre-Game",
+        "status": "Final",
         "home_team": {
           "id": 143,
           "name": "Philadelphia Phillies",
@@ -482,7 +482,7 @@
         "game_pk": 823088,
         "game_date": "2026-09-10",
         "game_time_utc": "2026-09-10T20:10:00Z",
-        "status": "Scheduled",
+        "status": "In Progress",
         "home_team": {
           "id": 136,
           "name": "Seattle Mariners",
@@ -506,7 +506,7 @@
         "game_pk": 823499,
         "game_date": "2026-09-10",
         "game_time_utc": "2026-09-10T23:05:00Z",
-        "status": "Scheduled",
+        "status": "Pre-Game",
         "home_team": {
           "id": 147,
           "name": "New York Yankees",
@@ -535,7 +535,7 @@
         "game_pk": 824550,
         "game_date": "2026-09-10",
         "game_time_utc": "2026-09-10T23:40:00Z",
-        "status": "Scheduled",
+        "status": "Pre-Game",
         "home_team": {
           "id": 145,
           "name": "Chicago White Sox",
