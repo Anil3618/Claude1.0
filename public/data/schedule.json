@@ -469,7 +469,7 @@
         "game_pk": 824224,
         "game_date": "2026-09-12",
         "game_time_utc": "2026-09-12T17:10:00Z",
-        "status": "Scheduled",
+        "status": "Pre-Game",
         "home_team": {
           "id": 116,
           "name": "Detroit Tigers",
@@ -498,7 +498,7 @@
         "game_pk": 823496,
         "game_date": "2026-09-12",
         "game_time_utc": "2026-09-12T17:35:00Z",
-        "status": "Scheduled",
+        "status": "Pre-Game",
         "home_team": {
           "id": 147,
           "name": "New York Yankees",
