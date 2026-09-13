@@ -429,7 +429,7 @@
         "game_pk": 824225,
         "game_date": "2026-09-13",
         "game_time_utc": "2026-09-13T16:10:00Z",
-        "status": "Pre-Game",
+        "status": "Final",
         "home_team": {
           "id": 116,
           "name": "Detroit Tigers",
@@ -458,7 +458,7 @@
         "game_pk": 822682,
         "game_date": "2026-09-13",
         "game_time_utc": "2026-09-13T17:35:00Z",
-        "status": "Pre-Game",
+        "status": "Game Over",
         "home_team": {
           "id": 120,
           "name": "Washington Nationals",
@@ -482,7 +482,7 @@
         "game_pk": 824869,
         "game_date": "2026-09-13",
         "game_time_utc": "2026-09-13T17:35:00Z",
-        "status": "Pre-Game",
+        "status": "In Progress",
         "home_team": {
           "id": 144,
           "name": "Atlanta Braves",
@@ -511,7 +511,7 @@
         "game_pk": 823495,
         "game_date": "2026-09-13",
         "game_time_utc": "2026-09-13T17:35:00Z",
-        "status": "Pre-Game",
+        "status": "Game Over",
         "home_team": {
           "id": 147,
           "name": "New York Yankees",
@@ -540,7 +540,7 @@
         "game_pk": 822764,
         "game_date": "2026-09-13",
         "game_time_utc": "2026-09-13T17:37:00Z",
-        "status": "Pre-Game",
+        "status": "In Progress",
         "home_team": {
           "id": 141,
           "name": "Toronto Blue Jays",
@@ -569,7 +569,7 @@
         "game_pk": 822928,
         "game_date": "2026-09-13",
         "game_time_utc": "2026-09-13T17:40:00Z",
-        "status": "Pre-Game",
+        "status": "Game Over",
         "home_team": {
           "id": 139,
           "name": "Tampa Bay Rays",
@@ -598,7 +598,7 @@
         "game_pk": 823815,
         "game_date": "2026-09-13",
         "game_time_utc": "2026-09-13T17:40:00Z",
-        "status": "Pre-Game",
+        "status": "In Progress",
         "home_team": {
           "id": 146,
           "name": "Miami Marlins",
@@ -622,7 +622,7 @@
         "game_pk": 823658,
         "game_date": "2026-09-13",
         "game_time_utc": "2026-09-13T18:10:00Z",
-        "status": "Pre-Game",
+        "status": "In Progress",
         "home_team": {
           "id": 142,
           "name": "Minnesota Twins",
@@ -651,7 +651,7 @@
         "game_pk": 823734,
         "game_date": "2026-09-13",
         "game_time_utc": "2026-09-13T18:10:00Z",
-        "status": "Pre-Game",
+        "status": "In Progress",
         "home_team": {
           "id": 158,
           "name": "Milwaukee Brewers",
@@ -675,7 +675,7 @@
         "game_pk": 823008,
         "game_date": "2026-09-13",
         "game_time_utc": "2026-09-13T18:15:00Z",
-        "status": "Pre-Game",
+        "status": "In Progress",
         "home_team": {
           "id": 138,
           "name": "St. Louis Cardinals",
@@ -699,7 +699,7 @@
         "game_pk": 824628,
         "game_date": "2026-09-13",
         "game_time_utc": "2026-09-13T18:20:00Z",
-        "status": "Pre-Game",
+        "status": "In Progress",
         "home_team": {
           "id": 112,
           "name": "Chicago Cubs",
@@ -728,7 +728,7 @@
         "game_pk": 824708,
         "game_date": "2026-09-13",
         "game_time_utc": "2026-09-13T19:05:00Z",
-        "status": "Scheduled",
+        "status": "Delayed Start",
         "home_team": {
           "id": 111,
           "name": "Boston Red Sox",
@@ -757,7 +757,7 @@
         "game_pk": 824952,
         "game_date": "2026-09-13",
         "game_time_utc": "2026-09-13T20:05:00Z",
-        "status": "Scheduled",
+        "status": "In Progress",
         "home_team": {
           "id": 133,
           "name": "Athletics",
@@ -786,7 +786,7 @@
         "game_pk": 825033,
         "game_date": "2026-09-13",
         "game_time_utc": "2026-09-13T20:10:00Z",
-        "status": "Scheduled",
+        "status": "In Progress",
         "home_team": {
           "id": 109,
           "name": "Arizona Diamondbacks",
@@ -810,7 +810,7 @@
         "game_pk": 823171,
         "game_date": "2026-09-13",
         "game_time_utc": "2026-09-13T23:20:00Z",
-        "status": "Scheduled",
+        "status": "Pre-Game",
         "home_team": {
           "id": 137,
           "name": "San Francisco Giants",
