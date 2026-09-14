@@ -408,7 +408,7 @@
         "game_pk": 824465,
         "game_date": "2026-09-14",
         "game_time_utc": "2026-09-14T22:40:00Z",
-        "status": "Scheduled",
+        "status": "Pre-Game",
         "home_team": {
           "id": 113,
           "name": "Cincinnati Reds",
@@ -437,7 +437,7 @@
         "game_pk": 824386,
         "game_date": "2026-09-14",
         "game_time_utc": "2026-09-14T22:40:00Z",
-        "status": "Scheduled",
+        "status": "Pre-Game",
         "home_team": {
           "id": 114,
           "name": "Cleveland Guardians",
@@ -466,7 +466,7 @@
         "game_pk": 822765,
         "game_date": "2026-09-14",
         "game_time_utc": "2026-09-14T23:07:00Z",
-        "status": "Scheduled",
+        "status": "Pre-Game",
         "home_team": {
           "id": 141,
           "name": "Toronto Blue Jays",
@@ -500,7 +500,7 @@
         "game_pk": 823575,
         "game_date": "2026-09-14",
         "game_time_utc": "2026-09-14T23:10:00Z",
-        "status": "Scheduled",
+        "status": "Pre-Game",
         "home_team": {
           "id": 121,
           "name": "New York Mets",
@@ -529,7 +529,7 @@
         "game_pk": 824629,
         "game_date": "2026-09-14",
         "game_time_utc": "2026-09-14T23:40:00Z",
-        "status": "Scheduled",
+        "status": "Pre-Game",
         "home_team": {
           "id": 112,
           "name": "Chicago Cubs",
@@ -563,7 +563,7 @@
         "game_pk": 823656,
         "game_date": "2026-09-14",
         "game_time_utc": "2026-09-14T23:40:00Z",
-        "status": "Scheduled",
+        "status": "Pre-Game",
         "home_team": {
           "id": 142,
           "name": "Minnesota Twins",
@@ -592,7 +592,7 @@
         "game_pk": 823006,
         "game_date": "2026-09-14",
         "game_time_utc": "2026-09-14T23:45:00Z",
-        "status": "Scheduled",
+        "status": "Pre-Game",
         "home_team": {
           "id": 138,
           "name": "St. Louis Cardinals",
@@ -618,7 +618,7 @@
         "game_pk": 824308,
         "game_date": "2026-09-15",
         "game_time_utc": "2026-09-15T00:40:00Z",
-        "status": "Scheduled",
+        "status": "Pre-Game",
         "home_team": {
           "id": 115,
           "name": "Colorado Rockies",
@@ -671,7 +671,7 @@
         "game_pk": 825034,
         "game_date": "2026-09-15",
         "game_time_utc": "2026-09-15T01:40:00Z",
-        "status": "Scheduled",
+        "status": "Pre-Game",
         "home_team": {
           "id": 109,
           "name": "Arizona Diamondbacks",
