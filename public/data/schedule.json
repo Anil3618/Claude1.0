@@ -347,7 +347,7 @@
         "game_pk": 823249,
         "game_date": "2026-09-20",
         "game_time_utc": "2026-09-20T00:40:00Z",
-        "status": "In Progress",
+        "status": "Final",
         "home_team": {
           "id": 135,
           "name": "San Diego Padres",
@@ -371,7 +371,7 @@
         "game_pk": 823899,
         "game_date": "2026-09-20",
         "game_time_utc": "2026-09-20T01:10:00Z",
-        "status": "In Progress",
+        "status": "Final",
         "home_team": {
           "id": 119,
           "name": "Los Angeles Dodgers",
@@ -400,7 +400,7 @@
         "game_pk": 823976,
         "game_date": "2026-09-20",
         "game_time_utc": "2026-09-20T01:38:00Z",
-        "status": "In Progress",
+        "status": "Final",
         "home_team": {
           "id": 108,
           "name": "Los Angeles Angels",
