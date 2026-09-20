@@ -424,7 +424,7 @@
         "game_pk": 823570,
         "game_date": "2026-09-20",
         "game_time_utc": "2026-09-20T17:10:00Z",
-        "status": "Scheduled",
+        "status": "Pre-Game",
         "home_team": {
           "id": 121,
           "name": "New York Mets",
@@ -453,7 +453,7 @@
         "game_pk": 823329,
         "game_date": "2026-09-20",
         "game_time_utc": "2026-09-20T17:35:00Z",
-        "status": "Scheduled",
+        "status": "Pre-Game",
         "home_team": {
           "id": 134,
           "name": "Pittsburgh Pirates",
@@ -482,7 +482,7 @@
         "game_pk": 824462,
         "game_date": "2026-09-20",
         "game_time_utc": "2026-09-20T17:40:00Z",
-        "status": "Scheduled",
+        "status": "Pre-Game",
         "home_team": {
           "id": 113,
           "name": "Cincinnati Reds",
@@ -511,7 +511,7 @@
         "game_pk": 824381,
         "game_date": "2026-09-20",
         "game_time_utc": "2026-09-20T17:40:00Z",
-        "status": "Scheduled",
+        "status": "Pre-Game",
         "home_team": {
           "id": 114,
           "name": "Cleveland Guardians",
@@ -540,7 +540,7 @@
         "game_pk": 822922,
         "game_date": "2026-09-20",
         "game_time_utc": "2026-09-20T17:40:00Z",
-        "status": "Scheduled",
+        "status": "Pre-Game",
         "home_team": {
           "id": 139,
           "name": "Tampa Bay Rays",
@@ -569,7 +569,7 @@
         "game_pk": 824139,
         "game_date": "2026-09-20",
         "game_time_utc": "2026-09-20T18:10:00Z",
-        "status": "Scheduled",
+        "status": "Pre-Game",
         "home_team": {
           "id": 117,
           "name": "Houston Astros",
@@ -598,7 +598,7 @@
         "game_pk": 824546,
         "game_date": "2026-09-20",
         "game_time_utc": "2026-09-20T18:10:00Z",
-        "status": "Scheduled",
+        "status": "Pre-Game",
         "home_team": {
           "id": 145,
           "name": "Chicago White Sox",
@@ -627,7 +627,7 @@
         "game_pk": 823001,
         "game_date": "2026-09-20",
         "game_time_utc": "2026-09-20T18:15:00Z",
-        "status": "Scheduled",
+        "status": "Pre-Game",
         "home_team": {
           "id": 138,
           "name": "St. Louis Cardinals",
@@ -651,7 +651,7 @@
         "game_pk": 822844,
         "game_date": "2026-09-20",
         "game_time_utc": "2026-09-20T18:35:00Z",
-        "status": "Scheduled",
+        "status": "Pre-Game",
         "home_team": {
           "id": 140,
           "name": "Texas Rangers",
