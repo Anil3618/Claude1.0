@@ -229,7 +229,7 @@
         "game_pk": 824624,
         "game_date": "2026-09-22",
         "game_time_utc": "2026-09-22T23:40:00Z",
-        "status": "In Progress",
+        "status": "Final",
         "home_team": {
           "id": 112,
           "name": "Chicago Cubs",
@@ -337,7 +337,7 @@
         "game_pk": 824953,
         "game_date": "2026-09-23",
         "game_time_utc": "2026-09-23T01:40:00Z",
-        "status": "In Progress",
+        "status": "Final",
         "home_team": {
           "id": 133,
           "name": "Athletics",
@@ -361,7 +361,7 @@
         "game_pk": 823089,
         "game_date": "2026-09-23",
         "game_time_utc": "2026-09-23T01:40:00Z",
-        "status": "In Progress",
+        "status": "Final",
         "home_team": {
           "id": 136,
           "name": "Seattle Mariners",
@@ -390,7 +390,7 @@
         "game_pk": 823166,
         "game_date": "2026-09-23",
         "game_time_utc": "2026-09-23T01:45:00Z",
-        "status": "In Progress",
+        "status": "Final",
         "home_team": {
           "id": 137,
           "name": "San Francisco Giants",
@@ -419,7 +419,7 @@
         "game_pk": 823897,
         "game_date": "2026-09-23",
         "game_time_utc": "2026-09-23T02:10:00Z",
-        "status": "In Progress",
+        "status": "Final",
         "home_team": {
           "id": 119,
           "name": "Los Angeles Dodgers",
