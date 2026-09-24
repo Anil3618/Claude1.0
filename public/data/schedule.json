@@ -448,7 +448,7 @@
         "game_pk": 823326,
         "game_date": "2026-09-24",
         "game_time_utc": "2026-09-24T16:35:00Z",
-        "status": "In Progress",
+        "status": "Final",
         "home_team": {
           "id": 134,
           "name": "Pittsburgh Pirates",
@@ -472,7 +472,7 @@
         "game_pk": 824059,
         "game_date": "2026-09-24",
         "game_time_utc": "2026-09-24T18:10:00Z",
-        "status": "Pre-Game",
+        "status": "Final",
         "home_team": {
           "id": 118,
           "name": "Kansas City Royals",
@@ -501,7 +501,7 @@
         "game_pk": 824623,
         "game_date": "2026-09-24",
         "game_time_utc": "2026-09-24T18:20:00Z",
-        "status": "Pre-Game",
+        "status": "Final",
         "home_team": {
           "id": 112,
           "name": "Chicago Cubs",
@@ -525,7 +525,7 @@
         "game_pk": 822842,
         "game_date": "2026-09-24",
         "game_time_utc": "2026-09-24T18:35:00Z",
-        "status": "Pre-Game",
+        "status": "Final",
         "home_team": {
           "id": 140,
           "name": "Texas Rangers",
@@ -549,7 +549,7 @@
         "game_pk": 824298,
         "game_date": "2026-09-24",
         "game_time_utc": "2026-09-24T19:10:00Z",
-        "status": "Pre-Game",
+        "status": "In Progress",
         "home_team": {
           "id": 115,
           "name": "Colorado Rockies",
@@ -578,7 +578,7 @@
         "game_pk": 823411,
         "game_date": "2026-09-24",
         "game_time_utc": "2026-09-24T22:05:00Z",
-        "status": "Scheduled",
+        "status": "Pre-Game",
         "home_team": {
           "id": 143,
           "name": "Philadelphia Phillies",
@@ -602,7 +602,7 @@
         "game_pk": 824707,
         "game_date": "2026-09-24",
         "game_time_utc": "2026-09-24T22:45:00Z",
-        "status": "Scheduled",
+        "status": "Pre-Game",
         "home_team": {
           "id": 111,
           "name": "Boston Red Sox",
@@ -631,7 +631,7 @@
         "game_pk": 823493,
         "game_date": "2026-09-24",
         "game_time_utc": "2026-09-24T23:05:00Z",
-        "status": "Scheduled",
+        "status": "Pre-Game",
         "home_team": {
           "id": 147,
           "name": "New York Yankees",
@@ -660,7 +660,7 @@
         "game_pk": 824866,
         "game_date": "2026-09-24",
         "game_time_utc": "2026-09-24T23:15:00Z",
-        "status": "Scheduled",
+        "status": "Pre-Game",
         "home_team": {
           "id": 144,
           "name": "Atlanta Braves",
