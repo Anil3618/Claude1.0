@@ -352,7 +352,7 @@
         "game_pk": 824703,
         "game_date": "2026-09-25",
         "game_time_utc": "2026-09-25T17:05:00Z",
-        "status": "Pre-Game",
+        "status": "Final",
         "home_team": {
           "id": 111,
           "name": "Boston Red Sox",
@@ -386,7 +386,7 @@
         "game_pk": 824706,
         "game_date": "2026-09-25",
         "game_time_utc": "2026-09-25T21:35:00Z",
-        "status": "Scheduled",
+        "status": "Pre-Game",
         "home_team": {
           "id": 111,
           "name": "Boston Red Sox",
@@ -420,7 +420,7 @@
         "game_pk": 823491,
         "game_date": "2026-09-25",
         "game_time_utc": "2026-09-25T20:05:00Z",
-        "status": "Pre-Game",
+        "status": "In Progress",
         "home_team": {
           "id": 147,
           "name": "New York Yankees",
@@ -488,7 +488,7 @@
         "game_pk": 824220,
         "game_date": "2026-09-25",
         "game_time_utc": "2026-09-25T22:40:00Z",
-        "status": "Scheduled",
+        "status": "Pre-Game",
         "home_team": {
           "id": 116,
           "name": "Detroit Tigers",
@@ -522,7 +522,7 @@
         "game_pk": 823409,
         "game_date": "2026-09-25",
         "game_time_utc": "2026-09-25T22:40:00Z",
-        "status": "Scheduled",
+        "status": "Pre-Game",
         "home_team": {
           "id": 143,
           "name": "Philadelphia Phillies",
@@ -556,7 +556,7 @@
         "game_pk": 822681,
         "game_date": "2026-09-25",
         "game_time_utc": "2026-09-25T22:45:00Z",
-        "status": "Scheduled",
+        "status": "Pre-Game",
         "home_team": {
           "id": 120,
           "name": "Washington Nationals",
@@ -590,7 +590,7 @@
         "game_pk": 822760,
         "game_date": "2026-09-25",
         "game_time_utc": "2026-09-25T23:07:00Z",
-        "status": "Scheduled",
+        "status": "Pre-Game",
         "home_team": {
           "id": 141,
           "name": "Toronto Blue Jays",
@@ -629,7 +629,7 @@
         "game_pk": 823816,
         "game_date": "2026-09-25",
         "game_time_utc": "2026-09-25T23:10:00Z",
-        "status": "Scheduled",
+        "status": "Pre-Game",
         "home_team": {
           "id": 146,
           "name": "Miami Marlins",
@@ -658,7 +658,7 @@
         "game_pk": 824058,
         "game_date": "2026-09-25",
         "game_time_utc": "2026-09-25T23:40:00Z",
-        "status": "Scheduled",
+        "status": "Pre-Game",
         "home_team": {
           "id": 118,
           "name": "Kansas City Royals",
@@ -692,7 +692,7 @@
         "game_pk": 824544,
         "game_date": "2026-09-25",
         "game_time_utc": "2026-09-25T23:40:00Z",
-        "status": "Scheduled",
+        "status": "Pre-Game",
         "home_team": {
           "id": 145,
           "name": "Chicago White Sox",
@@ -726,7 +726,7 @@
         "game_pk": 823735,
         "game_date": "2026-09-25",
         "game_time_utc": "2026-09-25T23:40:00Z",
-        "status": "Scheduled",
+        "status": "Pre-Game",
         "home_team": {
           "id": 158,
           "name": "Milwaukee Brewers",
@@ -752,7 +752,7 @@
         "game_pk": 823652,
         "game_date": "2026-09-26",
         "game_time_utc": "2026-09-26T00:10:00Z",
-        "status": "Scheduled",
+        "status": "Pre-Game",
         "home_team": {
           "id": 142,
           "name": "Minnesota Twins",
@@ -1657,9 +1657,9 @@
           "abbreviation": "NYY"
         },
         "away_team": {
-          "id": 4944,
-          "name": "AL Wild Card #2",
-          "abbreviation": "ALWC2"
+          "id": 111,
+          "name": "Boston Red Sox",
+          "abbreviation": "BOS"
         },
         "venue": "Yankee Stadium",
         "platforms": [
@@ -1725,13 +1725,13 @@
         "status": "Scheduled",
         "home_team": {
           "id": 4614,
-          "name": "AL West #1",
-          "abbreviation": "ALW1"
+          "name": "HOU/TEX",
+          "abbreviation": "HOU/TEX"
         },
         "away_team": {
           "id": 4946,
-          "name": "AL Wild Card #3",
-          "abbreviation": "ALWC3"
+          "name": "CWS/CLE",
+          "abbreviation": "CWS/CLE"
         },
         "venue": "AL Stadium",
         "platforms": [
@@ -1755,9 +1755,9 @@
           "abbreviation": "NYY"
         },
         "away_team": {
-          "id": 4944,
-          "name": "AL Wild Card #2",
-          "abbreviation": "ALWC2"
+          "id": 111,
+          "name": "Boston Red Sox",
+          "abbreviation": "BOS"
         },
         "venue": "Yankee Stadium",
         "platforms": [
@@ -1823,13 +1823,13 @@
         "status": "Scheduled",
         "home_team": {
           "id": 4614,
-          "name": "AL West #1",
-          "abbreviation": "ALW1"
+          "name": "HOU/TEX",
+          "abbreviation": "HOU/TEX"
         },
         "away_team": {
           "id": 4946,
-          "name": "AL Wild Card #3",
-          "abbreviation": "ALWC3"
+          "name": "CWS/CLE",
+          "abbreviation": "CWS/CLE"
         },
         "venue": "AL Stadium",
         "platforms": [
@@ -1853,9 +1853,9 @@
           "abbreviation": "NYY"
         },
         "away_team": {
-          "id": 4944,
-          "name": "AL Wild Card #2",
-          "abbreviation": "ALWC2"
+          "id": 111,
+          "name": "Boston Red Sox",
+          "abbreviation": "BOS"
         },
         "venue": "Yankee Stadium",
         "platforms": [
@@ -1921,13 +1921,13 @@
         "status": "Scheduled",
         "home_team": {
           "id": 4614,
-          "name": "AL West #1",
-          "abbreviation": "ALW1"
+          "name": "HOU/TEX",
+          "abbreviation": "HOU/TEX"
         },
         "away_team": {
           "id": 4946,
-          "name": "AL Wild Card #3",
-          "abbreviation": "ALWC3"
+          "name": "CWS/CLE",
+          "abbreviation": "CWS/CLE"
         },
         "venue": "AL Stadium",
         "platforms": [
