@@ -542,7 +542,7 @@
         "game_pk": 822678,
         "game_date": "2026-09-26",
         "game_time_utc": "2026-09-26T16:35:00Z",
-        "status": "Pre-Game",
+        "status": "Final",
         "home_team": {
           "id": 120,
           "name": "Washington Nationals",
@@ -571,7 +571,7 @@
         "game_pk": 824219,
         "game_date": "2026-09-26",
         "game_time_utc": "2026-09-26T17:10:00Z",
-        "status": "Pre-Game",
+        "status": "Final",
         "home_team": {
           "id": 116,
           "name": "Detroit Tigers",
@@ -600,7 +600,7 @@
         "game_pk": 822759,
         "game_date": "2026-09-26",
         "game_time_utc": "2026-09-26T19:07:00Z",
-        "status": "Pre-Game",
+        "status": "In Progress",
         "home_team": {
           "id": 141,
           "name": "Toronto Blue Jays",
@@ -634,7 +634,7 @@
         "game_pk": 823165,
         "game_date": "2026-09-26",
         "game_time_utc": "2026-09-26T20:05:00Z",
-        "status": "Scheduled",
+        "status": "Player challenge",
         "home_team": {
           "id": 137,
           "name": "San Francisco Giants",
@@ -663,7 +663,7 @@
         "game_pk": 823653,
         "game_date": "2026-09-26",
         "game_time_utc": "2026-09-26T20:10:00Z",
-        "status": "Scheduled",
+        "status": "Delayed Start",
         "home_team": {
           "id": 142,
           "name": "Minnesota Twins",
@@ -687,7 +687,7 @@
         "game_pk": 823813,
         "game_date": "2026-09-26",
         "game_time_utc": "2026-09-26T20:10:00Z",
-        "status": "Scheduled",
+        "status": "In Progress",
         "home_team": {
           "id": 146,
           "name": "Miami Marlins",
@@ -711,7 +711,7 @@
         "game_pk": 824057,
         "game_date": "2026-09-26",
         "game_time_utc": "2026-09-26T23:10:00Z",
-        "status": "Scheduled",
+        "status": "Pre-Game",
         "home_team": {
           "id": 118,
           "name": "Kansas City Royals",
@@ -740,7 +740,7 @@
         "game_pk": 824543,
         "game_date": "2026-09-26",
         "game_time_utc": "2026-09-26T23:10:00Z",
-        "status": "Scheduled",
+        "status": "Pre-Game",
         "home_team": {
           "id": 145,
           "name": "Chicago White Sox",
@@ -769,7 +769,7 @@
         "game_pk": 823733,
         "game_date": "2026-09-26",
         "game_time_utc": "2026-09-26T23:10:00Z",
-        "status": "Scheduled",
+        "status": "Pre-Game",
         "home_team": {
           "id": 158,
           "name": "Milwaukee Brewers",
@@ -787,7 +787,7 @@
         "game_pk": 823407,
         "game_date": "2026-09-26",
         "game_time_utc": "2026-09-26T23:15:00Z",
-        "status": "Scheduled",
+        "status": "Pre-Game",
         "home_team": {
           "id": 143,
           "name": "Philadelphia Phillies",
@@ -886,6 +886,64 @@
         ]
       },
       {
+        "game_pk": 822679,
+        "game_date": "2026-09-27",
+        "game_time_utc": "2026-09-27T17:05:00Z",
+        "status": "Scheduled",
+        "home_team": {
+          "id": 120,
+          "name": "Washington Nationals",
+          "abbreviation": "WSH"
+        },
+        "away_team": {
+          "id": 121,
+          "name": "New York Mets",
+          "abbreviation": "NYM"
+        },
+        "venue": "Nationals Park",
+        "platforms": [
+          {
+            "label": "SNY",
+            "color": "#002D72",
+            "url": "https://sny.tv/"
+          },
+          {
+            "label": "Nationals.TV",
+            "color": "#AB0003",
+            "url": "https://www.mlb.com/nationals/fans/nationals-tv"
+          }
+        ]
+      },
+      {
+        "game_pk": 823490,
+        "game_date": "2026-09-27",
+        "game_time_utc": "2026-09-27T17:05:00Z",
+        "status": "Scheduled",
+        "home_team": {
+          "id": 147,
+          "name": "New York Yankees",
+          "abbreviation": "NYY"
+        },
+        "away_team": {
+          "id": 110,
+          "name": "Baltimore Orioles",
+          "abbreviation": "BAL"
+        },
+        "venue": "Yankee Stadium",
+        "platforms": [
+          {
+            "label": "YES Network",
+            "color": "#003087",
+            "url": "https://www.yesnetwork.com/"
+          },
+          {
+            "label": "MASN",
+            "color": "#E03A3E",
+            "url": "https://www.masnsports.com/"
+          }
+        ]
+      },
+      {
         "game_pk": 824705,
         "game_date": "2026-09-27",
         "game_time_utc": "2026-09-27T19:05:00Z",
@@ -911,35 +969,6 @@
             "label": "Marquee Sports",
             "color": "#CC3433",
             "url": "https://www.marqueesportsnetwork.com/"
-          }
-        ]
-      },
-      {
-        "game_pk": 822679,
-        "game_date": "2026-09-27",
-        "game_time_utc": "2026-09-27T19:05:00Z",
-        "status": "Scheduled",
-        "home_team": {
-          "id": 120,
-          "name": "Washington Nationals",
-          "abbreviation": "WSH"
-        },
-        "away_team": {
-          "id": 121,
-          "name": "New York Mets",
-          "abbreviation": "NYM"
-        },
-        "venue": "Nationals Park",
-        "platforms": [
-          {
-            "label": "SNY",
-            "color": "#002D72",
-            "url": "https://sny.tv/"
-          },
-          {
-            "label": "Nationals.TV",
-            "color": "#AB0003",
-            "url": "https://www.mlb.com/nationals/fans/nationals-tv"
           }
         ]
       },
@@ -1269,35 +1298,6 @@
         },
         "venue": "American Family Field",
         "platforms": []
-      },
-      {
-        "game_pk": 823490,
-        "game_date": "2026-09-27",
-        "game_time_utc": "2026-09-27T19:20:00Z",
-        "status": "Scheduled",
-        "home_team": {
-          "id": 147,
-          "name": "New York Yankees",
-          "abbreviation": "NYY"
-        },
-        "away_team": {
-          "id": 110,
-          "name": "Baltimore Orioles",
-          "abbreviation": "BAL"
-        },
-        "venue": "Yankee Stadium",
-        "platforms": [
-          {
-            "label": "YES Network",
-            "color": "#003087",
-            "url": "https://www.yesnetwork.com/"
-          },
-          {
-            "label": "MASN",
-            "color": "#E03A3E",
-            "url": "https://www.masnsports.com/"
-          }
-        ]
       }
     ],
     "2026-09-29": [
