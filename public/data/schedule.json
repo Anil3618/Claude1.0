@@ -354,7 +354,7 @@
         "game_pk": 822679,
         "game_date": "2026-09-27",
         "game_time_utc": "2026-09-27T17:05:00Z",
-        "status": "Delayed Start",
+        "status": "Final",
         "home_team": {
           "id": 120,
           "name": "Washington Nationals",
@@ -380,39 +380,10 @@
         ]
       },
       {
-        "game_pk": 823490,
-        "game_date": "2026-09-27",
-        "game_time_utc": "2026-09-27T17:05:00Z",
-        "status": "Pre-Game",
-        "home_team": {
-          "id": 147,
-          "name": "New York Yankees",
-          "abbreviation": "NYY"
-        },
-        "away_team": {
-          "id": 110,
-          "name": "Baltimore Orioles",
-          "abbreviation": "BAL"
-        },
-        "venue": "Yankee Stadium",
-        "platforms": [
-          {
-            "label": "YES Network",
-            "color": "#003087",
-            "url": "https://www.yesnetwork.com/"
-          },
-          {
-            "label": "MASN",
-            "color": "#E03A3E",
-            "url": "https://www.masnsports.com/"
-          }
-        ]
-      },
-      {
         "game_pk": 823408,
         "game_date": "2026-09-27",
         "game_time_utc": "2026-09-27T18:30:00Z",
-        "status": "Pre-Game",
+        "status": "In Progress",
         "home_team": {
           "id": 143,
           "name": "Philadelphia Phillies",
@@ -441,7 +412,7 @@
         "game_pk": 824705,
         "game_date": "2026-09-27",
         "game_time_utc": "2026-09-27T19:05:00Z",
-        "status": "Pre-Game",
+        "status": "In Progress",
         "home_team": {
           "id": 111,
           "name": "Boston Red Sox",
@@ -470,7 +441,7 @@
         "game_pk": 824948,
         "game_date": "2026-09-27",
         "game_time_utc": "2026-09-27T19:05:00Z",
-        "status": "Pre-Game",
+        "status": "In Progress",
         "home_team": {
           "id": 133,
           "name": "Athletics",
@@ -499,7 +470,7 @@
         "game_pk": 823164,
         "game_date": "2026-09-27",
         "game_time_utc": "2026-09-27T19:05:00Z",
-        "status": "Pre-Game",
+        "status": "In Progress",
         "home_team": {
           "id": 137,
           "name": "San Francisco Giants",
@@ -528,7 +499,7 @@
         "game_pk": 822761,
         "game_date": "2026-09-27",
         "game_time_utc": "2026-09-27T19:07:00Z",
-        "status": "Pre-Game",
+        "status": "In Progress",
         "home_team": {
           "id": 141,
           "name": "Toronto Blue Jays",
@@ -562,7 +533,7 @@
         "game_pk": 824055,
         "game_date": "2026-09-27",
         "game_time_utc": "2026-09-27T19:10:00Z",
-        "status": "Pre-Game",
+        "status": "In Progress",
         "home_team": {
           "id": 118,
           "name": "Kansas City Royals",
@@ -591,7 +562,7 @@
         "game_pk": 824217,
         "game_date": "2026-09-27",
         "game_time_utc": "2026-09-27T19:10:00Z",
-        "status": "Pre-Game",
+        "status": "In Progress",
         "home_team": {
           "id": 116,
           "name": "Detroit Tigers",
@@ -620,7 +591,7 @@
         "game_pk": 823246,
         "game_date": "2026-09-27",
         "game_time_utc": "2026-09-27T19:10:00Z",
-        "status": "Pre-Game",
+        "status": "In Progress",
         "home_team": {
           "id": 135,
           "name": "San Diego Padres",
@@ -649,7 +620,7 @@
         "game_pk": 823084,
         "game_date": "2026-09-27",
         "game_time_utc": "2026-09-27T19:10:00Z",
-        "status": "Scheduled",
+        "status": "In Progress",
         "home_team": {
           "id": 136,
           "name": "Seattle Mariners",
@@ -673,7 +644,7 @@
         "game_pk": 823650,
         "game_date": "2026-09-27",
         "game_time_utc": "2026-09-27T19:10:00Z",
-        "status": "Pre-Game",
+        "status": "In Progress",
         "home_team": {
           "id": 142,
           "name": "Minnesota Twins",
@@ -697,7 +668,7 @@
         "game_pk": 824542,
         "game_date": "2026-09-27",
         "game_time_utc": "2026-09-27T19:10:00Z",
-        "status": "Pre-Game",
+        "status": "In Progress",
         "home_team": {
           "id": 145,
           "name": "Chicago White Sox",
@@ -726,7 +697,7 @@
         "game_pk": 823814,
         "game_date": "2026-09-27",
         "game_time_utc": "2026-09-27T19:10:00Z",
-        "status": "Pre-Game",
+        "status": "In Progress",
         "home_team": {
           "id": 146,
           "name": "Miami Marlins",
@@ -750,7 +721,7 @@
         "game_pk": 823731,
         "game_date": "2026-09-27",
         "game_time_utc": "2026-09-27T19:10:00Z",
-        "status": "Pre-Game",
+        "status": "In Progress",
         "home_team": {
           "id": 158,
           "name": "Milwaukee Brewers",
@@ -763,6 +734,35 @@
         },
         "venue": "American Family Field",
         "platforms": []
+      },
+      {
+        "game_pk": 823490,
+        "game_date": "2026-09-27",
+        "game_time_utc": "2026-09-27T17:05:00Z",
+        "status": "Cancelled",
+        "home_team": {
+          "id": 147,
+          "name": "New York Yankees",
+          "abbreviation": "NYY"
+        },
+        "away_team": {
+          "id": 110,
+          "name": "Baltimore Orioles",
+          "abbreviation": "BAL"
+        },
+        "venue": "Yankee Stadium",
+        "platforms": [
+          {
+            "label": "YES Network",
+            "color": "#003087",
+            "url": "https://www.yesnetwork.com/"
+          },
+          {
+            "label": "MASN",
+            "color": "#E03A3E",
+            "url": "https://www.masnsports.com/"
+          }
+        ]
       }
     ],
     "2026-09-29": [
