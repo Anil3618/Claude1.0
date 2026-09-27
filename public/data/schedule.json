@@ -354,7 +354,7 @@
         "game_pk": 822679,
         "game_date": "2026-09-27",
         "game_time_utc": "2026-09-27T17:05:00Z",
-        "status": "Scheduled",
+        "status": "Delayed Start",
         "home_team": {
           "id": 120,
           "name": "Washington Nationals",
@@ -383,7 +383,7 @@
         "game_pk": 823490,
         "game_date": "2026-09-27",
         "game_time_utc": "2026-09-27T17:05:00Z",
-        "status": "Scheduled",
+        "status": "Pre-Game",
         "home_team": {
           "id": 147,
           "name": "New York Yankees",
@@ -409,10 +409,39 @@
         ]
       },
       {
+        "game_pk": 823408,
+        "game_date": "2026-09-27",
+        "game_time_utc": "2026-09-27T18:30:00Z",
+        "status": "Pre-Game",
+        "home_team": {
+          "id": 143,
+          "name": "Philadelphia Phillies",
+          "abbreviation": "PHI"
+        },
+        "away_team": {
+          "id": 139,
+          "name": "Tampa Bay Rays",
+          "abbreviation": "TB"
+        },
+        "venue": "Citizens Bank Park",
+        "platforms": [
+          {
+            "label": "NBC Sports Philadelphia",
+            "color": "#0B2265",
+            "url": "https://www.nbcsports.com/philadelphia"
+          },
+          {
+            "label": "Rays.TV",
+            "color": "#092C5C",
+            "url": "https://www.mlb.com/rays/fans/rays-tv"
+          }
+        ]
+      },
+      {
         "game_pk": 824705,
         "game_date": "2026-09-27",
         "game_time_utc": "2026-09-27T19:05:00Z",
-        "status": "Scheduled",
+        "status": "Pre-Game",
         "home_team": {
           "id": 111,
           "name": "Boston Red Sox",
@@ -441,7 +470,7 @@
         "game_pk": 824948,
         "game_date": "2026-09-27",
         "game_time_utc": "2026-09-27T19:05:00Z",
-        "status": "Scheduled",
+        "status": "Pre-Game",
         "home_team": {
           "id": 133,
           "name": "Athletics",
@@ -470,7 +499,7 @@
         "game_pk": 823164,
         "game_date": "2026-09-27",
         "game_time_utc": "2026-09-27T19:05:00Z",
-        "status": "Scheduled",
+        "status": "Pre-Game",
         "home_team": {
           "id": 137,
           "name": "San Francisco Giants",
@@ -496,39 +525,10 @@
         ]
       },
       {
-        "game_pk": 823408,
-        "game_date": "2026-09-27",
-        "game_time_utc": "2026-09-27T19:05:00Z",
-        "status": "Scheduled",
-        "home_team": {
-          "id": 143,
-          "name": "Philadelphia Phillies",
-          "abbreviation": "PHI"
-        },
-        "away_team": {
-          "id": 139,
-          "name": "Tampa Bay Rays",
-          "abbreviation": "TB"
-        },
-        "venue": "Citizens Bank Park",
-        "platforms": [
-          {
-            "label": "NBC Sports Philadelphia",
-            "color": "#0B2265",
-            "url": "https://www.nbcsports.com/philadelphia"
-          },
-          {
-            "label": "Rays.TV",
-            "color": "#092C5C",
-            "url": "https://www.mlb.com/rays/fans/rays-tv"
-          }
-        ]
-      },
-      {
         "game_pk": 822761,
         "game_date": "2026-09-27",
         "game_time_utc": "2026-09-27T19:07:00Z",
-        "status": "Scheduled",
+        "status": "Pre-Game",
         "home_team": {
           "id": 141,
           "name": "Toronto Blue Jays",
@@ -562,7 +562,7 @@
         "game_pk": 824055,
         "game_date": "2026-09-27",
         "game_time_utc": "2026-09-27T19:10:00Z",
-        "status": "Scheduled",
+        "status": "Pre-Game",
         "home_team": {
           "id": 118,
           "name": "Kansas City Royals",
@@ -591,7 +591,7 @@
         "game_pk": 824217,
         "game_date": "2026-09-27",
         "game_time_utc": "2026-09-27T19:10:00Z",
-        "status": "Scheduled",
+        "status": "Pre-Game",
         "home_team": {
           "id": 116,
           "name": "Detroit Tigers",
@@ -620,7 +620,7 @@
         "game_pk": 823246,
         "game_date": "2026-09-27",
         "game_time_utc": "2026-09-27T19:10:00Z",
-        "status": "Scheduled",
+        "status": "Pre-Game",
         "home_team": {
           "id": 135,
           "name": "San Diego Padres",
@@ -673,7 +673,7 @@
         "game_pk": 823650,
         "game_date": "2026-09-27",
         "game_time_utc": "2026-09-27T19:10:00Z",
-        "status": "Scheduled",
+        "status": "Pre-Game",
         "home_team": {
           "id": 142,
           "name": "Minnesota Twins",
@@ -697,7 +697,7 @@
         "game_pk": 824542,
         "game_date": "2026-09-27",
         "game_time_utc": "2026-09-27T19:10:00Z",
-        "status": "Scheduled",
+        "status": "Pre-Game",
         "home_team": {
           "id": 145,
           "name": "Chicago White Sox",
@@ -726,7 +726,7 @@
         "game_pk": 823814,
         "game_date": "2026-09-27",
         "game_time_utc": "2026-09-27T19:10:00Z",
-        "status": "Scheduled",
+        "status": "Pre-Game",
         "home_team": {
           "id": 146,
           "name": "Miami Marlins",
@@ -750,7 +750,7 @@
         "game_pk": 823731,
         "game_date": "2026-09-27",
         "game_time_utc": "2026-09-27T19:10:00Z",
-        "status": "Scheduled",
+        "status": "Pre-Game",
         "home_team": {
           "id": 158,
           "name": "Milwaukee Brewers",
@@ -767,21 +767,21 @@
     ],
     "2026-09-29": [
       {
-        "game_pk": 849851,
+        "game_pk": 849845,
         "game_date": "2026-09-29",
-        "game_time_utc": "2026-09-29T07:33:00Z",
+        "game_time_utc": "2026-09-29T18:00:00Z",
         "status": "Scheduled",
         "home_team": {
-          "id": 147,
-          "name": "New York Yankees",
-          "abbreviation": "NYY"
+          "id": 144,
+          "name": "Atlanta Braves",
+          "abbreviation": "ATL"
         },
         "away_team": {
-          "id": 111,
-          "name": "Boston Red Sox",
-          "abbreviation": "BOS"
+          "id": 4947,
+          "name": "PHI/ARI",
+          "abbreviation": "PHI/ARI"
         },
-        "venue": "Yankee Stadium",
+        "venue": "Truist Park",
         "platforms": [
           {
             "label": "NBC / Peacock",
@@ -793,7 +793,7 @@
       {
         "game_pk": 849849,
         "game_date": "2026-09-29",
-        "game_time_utc": "2026-09-29T07:33:00Z",
+        "game_time_utc": "2026-09-29T21:00:00Z",
         "status": "Scheduled",
         "home_team": {
           "id": 4614,
@@ -806,68 +806,14 @@
           "abbreviation": "CWS"
         },
         "venue": "AL Stadium",
-        "platforms": [
-          {
-            "label": "NBC / Peacock",
-            "color": "#000000",
-            "url": "https://www.peacocktv.com/"
-          }
-        ]
-      },
-      {
-        "game_pk": 849845,
-        "game_date": "2026-09-29",
-        "game_time_utc": "2026-09-29T07:33:00Z",
-        "status": "Scheduled",
-        "home_team": {
-          "id": 144,
-          "name": "Atlanta Braves",
-          "abbreviation": "ATL"
-        },
-        "away_team": {
-          "id": 4947,
-          "name": "NL Wild Card #3",
-          "abbreviation": "NLWC3"
-        },
-        "venue": "Truist Park",
-        "platforms": [
-          {
-            "label": "NBC / Peacock",
-            "color": "#000000",
-            "url": "https://www.peacocktv.com/"
-          }
-        ]
-      },
-      {
-        "game_pk": 849843,
-        "game_date": "2026-09-29",
-        "game_time_utc": "2026-09-29T10:33:00Z",
-        "status": "Scheduled",
-        "home_team": {
-          "id": 135,
-          "name": "San Diego Padres",
-          "abbreviation": "SD"
-        },
-        "away_team": {
-          "id": 112,
-          "name": "Chicago Cubs",
-          "abbreviation": "CHC"
-        },
-        "venue": "Petco Park",
-        "platforms": [
-          {
-            "label": "NBC / Peacock",
-            "color": "#000000",
-            "url": "https://www.peacocktv.com/"
-          }
-        ]
+        "platforms": []
       }
     ],
     "2026-09-30": [
       {
-        "game_pk": 849848,
+        "game_pk": 849851,
         "game_date": "2026-09-30",
-        "game_time_utc": "2026-09-30T07:33:00Z",
+        "game_time_utc": "2026-09-30T00:00:00Z",
         "status": "Scheduled",
         "home_team": {
           "id": 147,
@@ -880,6 +826,48 @@
           "abbreviation": "BOS"
         },
         "venue": "Yankee Stadium",
+        "platforms": [
+          {
+            "label": "NBC / Peacock",
+            "color": "#000000",
+            "url": "https://www.peacocktv.com/"
+          }
+        ]
+      },
+      {
+        "game_pk": 849843,
+        "game_date": "2026-09-30",
+        "game_time_utc": "2026-09-30T02:00:00Z",
+        "status": "Scheduled",
+        "home_team": {
+          "id": 135,
+          "name": "San Diego Padres",
+          "abbreviation": "SD"
+        },
+        "away_team": {
+          "id": 112,
+          "name": "Chicago Cubs",
+          "abbreviation": "CHC"
+        },
+        "venue": "Petco Park",
+        "platforms": []
+      },
+      {
+        "game_pk": 849841,
+        "game_date": "2026-09-30",
+        "game_time_utc": "2026-09-30T18:00:00Z",
+        "status": "Scheduled",
+        "home_team": {
+          "id": 144,
+          "name": "Atlanta Braves",
+          "abbreviation": "ATL"
+        },
+        "away_team": {
+          "id": 4947,
+          "name": "PHI/ARI",
+          "abbreviation": "PHI/ARI"
+        },
+        "venue": "Truist Park",
         "platforms": [
           {
             "label": "NBC / Peacock",
@@ -891,7 +879,7 @@
       {
         "game_pk": 849846,
         "game_date": "2026-09-30",
-        "game_time_utc": "2026-09-30T07:33:00Z",
+        "game_time_utc": "2026-09-30T21:00:00Z",
         "status": "Scheduled",
         "home_team": {
           "id": 4614,
@@ -904,68 +892,14 @@
           "abbreviation": "CWS"
         },
         "venue": "AL Stadium",
-        "platforms": [
-          {
-            "label": "NBC / Peacock",
-            "color": "#000000",
-            "url": "https://www.peacocktv.com/"
-          }
-        ]
-      },
-      {
-        "game_pk": 849841,
-        "game_date": "2026-09-30",
-        "game_time_utc": "2026-09-30T07:33:00Z",
-        "status": "Scheduled",
-        "home_team": {
-          "id": 144,
-          "name": "Atlanta Braves",
-          "abbreviation": "ATL"
-        },
-        "away_team": {
-          "id": 4947,
-          "name": "NL Wild Card #3",
-          "abbreviation": "NLWC3"
-        },
-        "venue": "Truist Park",
-        "platforms": [
-          {
-            "label": "NBC / Peacock",
-            "color": "#000000",
-            "url": "https://www.peacocktv.com/"
-          }
-        ]
-      },
-      {
-        "game_pk": 849842,
-        "game_date": "2026-09-30",
-        "game_time_utc": "2026-09-30T10:33:00Z",
-        "status": "Scheduled",
-        "home_team": {
-          "id": 135,
-          "name": "San Diego Padres",
-          "abbreviation": "SD"
-        },
-        "away_team": {
-          "id": 112,
-          "name": "Chicago Cubs",
-          "abbreviation": "CHC"
-        },
-        "venue": "Petco Park",
-        "platforms": [
-          {
-            "label": "NBC / Peacock",
-            "color": "#000000",
-            "url": "https://www.peacocktv.com/"
-          }
-        ]
+        "platforms": []
       }
     ],
     "2026-10-01": [
       {
-        "game_pk": 849847,
+        "game_pk": 849848,
         "game_date": "2026-10-01",
-        "game_time_utc": "2026-10-01T07:33:00Z",
+        "game_time_utc": "2026-10-01T00:00:00Z",
         "status": "Scheduled",
         "home_team": {
           "id": 147,
@@ -987,9 +921,51 @@
         ]
       },
       {
+        "game_pk": 849842,
+        "game_date": "2026-10-01",
+        "game_time_utc": "2026-10-01T02:00:00Z",
+        "status": "Scheduled",
+        "home_team": {
+          "id": 135,
+          "name": "San Diego Padres",
+          "abbreviation": "SD"
+        },
+        "away_team": {
+          "id": 112,
+          "name": "Chicago Cubs",
+          "abbreviation": "CHC"
+        },
+        "venue": "Petco Park",
+        "platforms": []
+      },
+      {
+        "game_pk": 849844,
+        "game_date": "2026-10-01",
+        "game_time_utc": "2026-10-01T18:00:00Z",
+        "status": "Scheduled",
+        "home_team": {
+          "id": 144,
+          "name": "Atlanta Braves",
+          "abbreviation": "ATL"
+        },
+        "away_team": {
+          "id": 4947,
+          "name": "PHI/ARI",
+          "abbreviation": "PHI/ARI"
+        },
+        "venue": "Truist Park",
+        "platforms": [
+          {
+            "label": "NBC / Peacock",
+            "color": "#000000",
+            "url": "https://www.peacocktv.com/"
+          }
+        ]
+      },
+      {
         "game_pk": 849850,
         "game_date": "2026-10-01",
-        "game_time_utc": "2026-10-01T07:33:00Z",
+        "game_time_utc": "2026-10-01T21:00:00Z",
         "status": "Scheduled",
         "home_team": {
           "id": 4614,
@@ -1002,42 +978,43 @@
           "abbreviation": "CWS"
         },
         "venue": "AL Stadium",
-        "platforms": [
-          {
-            "label": "NBC / Peacock",
-            "color": "#000000",
-            "url": "https://www.peacocktv.com/"
-          }
-        ]
-      },
+        "platforms": []
+      }
+    ],
+    "2026-10-02": [
       {
-        "game_pk": 849844,
-        "game_date": "2026-10-01",
-        "game_time_utc": "2026-10-01T07:33:00Z",
+        "game_pk": 849847,
+        "game_date": "2026-10-02",
+        "game_time_utc": "2026-10-02T00:00:00Z",
         "status": "Scheduled",
         "home_team": {
-          "id": 144,
-          "name": "Atlanta Braves",
-          "abbreviation": "ATL"
+          "id": 147,
+          "name": "New York Yankees",
+          "abbreviation": "NYY"
         },
         "away_team": {
-          "id": 4947,
-          "name": "NL Wild Card #3",
-          "abbreviation": "NLWC3"
+          "id": 111,
+          "name": "Boston Red Sox",
+          "abbreviation": "BOS"
         },
-        "venue": "Truist Park",
+        "venue": "Yankee Stadium",
         "platforms": [
           {
             "label": "NBC / Peacock",
             "color": "#000000",
             "url": "https://www.peacocktv.com/"
+          },
+          {
+            "label": "Apple TV+",
+            "color": "#555555",
+            "url": "https://tv.apple.com/"
           }
         ]
       },
       {
         "game_pk": 849840,
-        "game_date": "2026-10-01",
-        "game_time_utc": "2026-10-01T10:33:00Z",
+        "game_date": "2026-10-02",
+        "game_time_utc": "2026-10-02T02:00:00Z",
         "status": "Scheduled",
         "home_team": {
           "id": 135,
@@ -1052,9 +1029,9 @@
         "venue": "Petco Park",
         "platforms": [
           {
-            "label": "NBC / Peacock",
-            "color": "#000000",
-            "url": "https://www.peacocktv.com/"
+            "label": "Apple TV+",
+            "color": "#555555",
+            "url": "https://tv.apple.com/"
           }
         ]
       }
