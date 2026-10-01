@@ -1,94 +1,8 @@
 {
-  "generated_at": "2026-09-30",
-  "game_count": 22,
+  "generated_at": "2026-10-01",
+  "game_count": 20,
   "dates": {
-    "2026-09-29": [
-      {
-        "game_pk": 849845,
-        "game_date": "2026-09-29",
-        "game_time_utc": "2026-09-29T18:00:00Z",
-        "status": "Final",
-        "home_team": {
-          "id": 144,
-          "name": "Atlanta Braves",
-          "abbreviation": "ATL"
-        },
-        "away_team": {
-          "id": 143,
-          "name": "Philadelphia Phillies",
-          "abbreviation": "PHI"
-        },
-        "venue": "Truist Park",
-        "platforms": [
-          {
-            "label": "NBC / Peacock",
-            "color": "#000000",
-            "url": "https://www.peacocktv.com/"
-          }
-        ]
-      },
-      {
-        "game_pk": 849849,
-        "game_date": "2026-09-29",
-        "game_time_utc": "2026-09-29T21:00:00Z",
-        "status": "Final",
-        "home_team": {
-          "id": 117,
-          "name": "Houston Astros",
-          "abbreviation": "HOU"
-        },
-        "away_team": {
-          "id": 145,
-          "name": "Chicago White Sox",
-          "abbreviation": "CWS"
-        },
-        "venue": "Daikin Park",
-        "platforms": []
-      }
-    ],
     "2026-09-30": [
-      {
-        "game_pk": 849851,
-        "game_date": "2026-09-30",
-        "game_time_utc": "2026-09-30T00:00:00Z",
-        "status": "Final",
-        "home_team": {
-          "id": 147,
-          "name": "New York Yankees",
-          "abbreviation": "NYY"
-        },
-        "away_team": {
-          "id": 111,
-          "name": "Boston Red Sox",
-          "abbreviation": "BOS"
-        },
-        "venue": "Yankee Stadium",
-        "platforms": [
-          {
-            "label": "NBC / Peacock",
-            "color": "#000000",
-            "url": "https://www.peacocktv.com/"
-          }
-        ]
-      },
-      {
-        "game_pk": 849843,
-        "game_date": "2026-09-30",
-        "game_time_utc": "2026-09-30T02:00:00Z",
-        "status": "Final",
-        "home_team": {
-          "id": 135,
-          "name": "San Diego Padres",
-          "abbreviation": "SD"
-        },
-        "away_team": {
-          "id": 112,
-          "name": "Chicago Cubs",
-          "abbreviation": "CHC"
-        },
-        "venue": "Petco Park",
-        "platforms": []
-      },
       {
         "game_pk": 849841,
         "game_date": "2026-09-30",
@@ -117,7 +31,7 @@
         "game_pk": 849846,
         "game_date": "2026-09-30",
         "game_time_utc": "2026-09-30T21:00:00Z",
-        "status": "In Progress",
+        "status": "Final",
         "home_team": {
           "id": 117,
           "name": "Houston Astros",
@@ -137,7 +51,7 @@
         "game_pk": 849848,
         "game_date": "2026-10-01",
         "game_time_utc": "2026-10-01T00:00:00Z",
-        "status": "Pre-Game",
+        "status": "Final",
         "home_team": {
           "id": 147,
           "name": "New York Yankees",
@@ -161,7 +75,7 @@
         "game_pk": 849842,
         "game_date": "2026-10-01",
         "game_time_utc": "2026-10-01T02:00:00Z",
-        "status": "Pre-Game",
+        "status": "In Progress",
         "home_team": {
           "id": 135,
           "name": "San Diego Padres",
@@ -198,56 +112,9 @@
             "url": "https://www.peacocktv.com/"
           }
         ]
-      },
-      {
-        "game_pk": 849850,
-        "game_date": "2026-10-01",
-        "game_time_utc": "2026-10-01T21:00:00Z",
-        "status": "Scheduled",
-        "home_team": {
-          "id": 117,
-          "name": "Houston Astros",
-          "abbreviation": "HOU"
-        },
-        "away_team": {
-          "id": 145,
-          "name": "Chicago White Sox",
-          "abbreviation": "CWS"
-        },
-        "venue": "Daikin Park",
-        "platforms": []
       }
     ],
     "2026-10-02": [
-      {
-        "game_pk": 849847,
-        "game_date": "2026-10-02",
-        "game_time_utc": "2026-10-02T00:00:00Z",
-        "status": "Scheduled",
-        "home_team": {
-          "id": 147,
-          "name": "New York Yankees",
-          "abbreviation": "NYY"
-        },
-        "away_team": {
-          "id": 111,
-          "name": "Boston Red Sox",
-          "abbreviation": "BOS"
-        },
-        "venue": "Yankee Stadium",
-        "platforms": [
-          {
-            "label": "NBC / Peacock",
-            "color": "#000000",
-            "url": "https://www.peacocktv.com/"
-          },
-          {
-            "label": "Apple TV+",
-            "color": "#555555",
-            "url": "https://tv.apple.com/"
-          }
-        ]
-      },
       {
         "game_pk": 849840,
         "game_date": "2026-10-02",
@@ -285,9 +152,9 @@
           "abbreviation": "CLE"
         },
         "away_team": {
-          "id": 5528,
-          "name": "HOU/CWS",
-          "abbreviation": "HOU/CWS"
+          "id": 145,
+          "name": "Chicago White Sox",
+          "abbreviation": "CWS"
         },
         "venue": "Progressive Field",
         "platforms": []
@@ -303,9 +170,9 @@
           "abbreviation": "TB"
         },
         "away_team": {
-          "id": 5529,
-          "name": "NYY/BOS",
-          "abbreviation": "NYY/BOS"
+          "id": 147,
+          "name": "New York Yankees",
+          "abbreviation": "NYY"
         },
         "venue": "Tropicana Field",
         "platforms": []
@@ -397,9 +264,9 @@
           "abbreviation": "CLE"
         },
         "away_team": {
-          "id": 5528,
-          "name": "HOU/CWS",
-          "abbreviation": "HOU/CWS"
+          "id": 145,
+          "name": "Chicago White Sox",
+          "abbreviation": "CWS"
         },
         "venue": "Progressive Field",
         "platforms": []
@@ -417,9 +284,9 @@
           "abbreviation": "TB"
         },
         "away_team": {
-          "id": 5529,
-          "name": "NYY/BOS",
-          "abbreviation": "NYY/BOS"
+          "id": 147,
+          "name": "New York Yankees",
+          "abbreviation": "NYY"
         },
         "venue": "Tropicana Field",
         "platforms": []
@@ -446,6 +313,80 @@
         "game_pk": 849826,
         "game_date": "2026-10-06",
         "game_time_utc": "2026-10-06T07:33:00Z",
+        "status": "Scheduled",
+        "home_team": {
+          "id": 5533,
+          "name": "SD/CHC",
+          "abbreviation": "SD/CHC"
+        },
+        "away_team": {
+          "id": 158,
+          "name": "Milwaukee Brewers",
+          "abbreviation": "MIL"
+        },
+        "venue": "NL Stadium",
+        "platforms": []
+      }
+    ],
+    "2026-10-07": [
+      {
+        "game_pk": 849833,
+        "game_date": "2026-10-07",
+        "game_time_utc": "2026-10-07T07:33:00Z",
+        "status": "Scheduled",
+        "home_team": {
+          "id": 145,
+          "name": "Chicago White Sox",
+          "abbreviation": "CWS"
+        },
+        "away_team": {
+          "id": 114,
+          "name": "Cleveland Guardians",
+          "abbreviation": "CLE"
+        },
+        "venue": "Rate Field",
+        "platforms": []
+      },
+      {
+        "game_pk": 849838,
+        "game_date": "2026-10-07",
+        "game_time_utc": "2026-10-07T07:33:00Z",
+        "status": "Scheduled",
+        "home_team": {
+          "id": 147,
+          "name": "New York Yankees",
+          "abbreviation": "NYY"
+        },
+        "away_team": {
+          "id": 139,
+          "name": "Tampa Bay Rays",
+          "abbreviation": "TB"
+        },
+        "venue": "Yankee Stadium",
+        "platforms": []
+      },
+      {
+        "game_pk": 849822,
+        "game_date": "2026-10-07",
+        "game_time_utc": "2026-10-07T07:33:00Z",
+        "status": "Scheduled",
+        "home_team": {
+          "id": 5532,
+          "name": "ATL/PHI",
+          "abbreviation": "ATL/PHI"
+        },
+        "away_team": {
+          "id": 119,
+          "name": "Los Angeles Dodgers",
+          "abbreviation": "LAD"
+        },
+        "venue": "NL Stadium",
+        "platforms": []
+      },
+      {
+        "game_pk": 849827,
+        "game_date": "2026-10-07",
+        "game_time_utc": "2026-10-07T07:33:00Z",
         "status": "Scheduled",
         "home_team": {
           "id": 5533,
