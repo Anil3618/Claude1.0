@@ -7,7 +7,7 @@
         "game_pk": 849829,
         "game_date": "2026-10-03",
         "game_time_utc": "2026-10-03T17:00:00Z",
-        "status": "Pre-Game",
+        "status": "Final",
         "home_team": {
           "id": 114,
           "name": "Cleveland Guardians",
@@ -25,7 +25,7 @@
         "game_pk": 849828,
         "game_date": "2026-10-03",
         "game_time_utc": "2026-10-03T20:00:00Z",
-        "status": "Scheduled",
+        "status": "In Progress",
         "home_team": {
           "id": 119,
           "name": "Los Angeles Dodgers",
@@ -43,7 +43,7 @@
         "game_pk": 849835,
         "game_date": "2026-10-03",
         "game_time_utc": "2026-10-03T22:30:00Z",
-        "status": "Scheduled",
+        "status": "Pre-Game",
         "home_team": {
           "id": 139,
           "name": "Tampa Bay Rays",
@@ -63,7 +63,7 @@
         "game_pk": 849830,
         "game_date": "2026-10-04",
         "game_time_utc": "2026-10-04T00:30:00Z",
-        "status": "Scheduled",
+        "status": "Pre-Game",
         "home_team": {
           "id": 158,
           "name": "Milwaukee Brewers",
