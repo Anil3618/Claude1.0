@@ -1,38 +1,7 @@
 {
-  "generated_at": "2026-10-02",
-  "game_count": 17,
+  "generated_at": "2026-10-03",
+  "game_count": 18,
   "dates": {
-    "2026-10-02": [
-      {
-        "game_pk": 849844,
-        "game_date": "2026-10-02",
-        "game_time_utc": "2026-10-02T00:00:00Z",
-        "status": "Final",
-        "home_team": {
-          "id": 144,
-          "name": "Atlanta Braves",
-          "abbreviation": "ATL"
-        },
-        "away_team": {
-          "id": 143,
-          "name": "Philadelphia Phillies",
-          "abbreviation": "PHI"
-        },
-        "venue": "Truist Park",
-        "platforms": [
-          {
-            "label": "NBC / Peacock",
-            "color": "#000000",
-            "url": "https://www.peacocktv.com/"
-          },
-          {
-            "label": "Apple TV+",
-            "color": "#555555",
-            "url": "https://tv.apple.com/"
-          }
-        ]
-      }
-    ],
     "2026-10-03": [
       {
         "game_pk": 849829,
@@ -339,6 +308,50 @@
             "url": "https://tv.apple.com/"
           }
         ]
+      },
+      {
+        "game_pk": 849824,
+        "game_date": "2026-10-09",
+        "game_time_utc": "2026-10-09T20:30:00Z",
+        "status": "Scheduled",
+        "home_team": {
+          "id": 158,
+          "name": "Milwaukee Brewers",
+          "abbreviation": "MIL"
+        },
+        "away_team": {
+          "id": 135,
+          "name": "San Diego Padres",
+          "abbreviation": "SD"
+        },
+        "venue": "American Family Field",
+        "platforms": [
+          {
+            "label": "Apple TV+",
+            "color": "#555555",
+            "url": "https://tv.apple.com/"
+          }
+        ]
+      }
+    ],
+    "2026-10-10": [
+      {
+        "game_pk": 849821,
+        "game_date": "2026-10-10",
+        "game_time_utc": "2026-10-10T00:00:00Z",
+        "status": "Scheduled",
+        "home_team": {
+          "id": 119,
+          "name": "Los Angeles Dodgers",
+          "abbreviation": "LAD"
+        },
+        "away_team": {
+          "id": 144,
+          "name": "Atlanta Braves",
+          "abbreviation": "ATL"
+        },
+        "venue": "UNIQLO Field at Dodger Stadium",
+        "platforms": []
       }
     ]
   }
