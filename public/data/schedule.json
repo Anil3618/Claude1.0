@@ -1,87 +1,13 @@
 {
-  "generated_at": "2026-10-04",
-  "game_count": 20,
+  "generated_at": "2026-10-05",
+  "game_count": 17,
   "dates": {
-    "2026-10-03": [
-      {
-        "game_pk": 849829,
-        "game_date": "2026-10-03",
-        "game_time_utc": "2026-10-03T17:00:00Z",
-        "status": "Final",
-        "home_team": {
-          "id": 114,
-          "name": "Cleveland Guardians",
-          "abbreviation": "CLE"
-        },
-        "away_team": {
-          "id": 145,
-          "name": "Chicago White Sox",
-          "abbreviation": "CWS"
-        },
-        "venue": "Progressive Field",
-        "platforms": []
-      },
-      {
-        "game_pk": 849828,
-        "game_date": "2026-10-03",
-        "game_time_utc": "2026-10-03T20:00:00Z",
-        "status": "Final",
-        "home_team": {
-          "id": 119,
-          "name": "Los Angeles Dodgers",
-          "abbreviation": "LAD"
-        },
-        "away_team": {
-          "id": 144,
-          "name": "Atlanta Braves",
-          "abbreviation": "ATL"
-        },
-        "venue": "UNIQLO Field at Dodger Stadium",
-        "platforms": []
-      },
-      {
-        "game_pk": 849835,
-        "game_date": "2026-10-03",
-        "game_time_utc": "2026-10-03T22:30:00Z",
-        "status": "Final",
-        "home_team": {
-          "id": 139,
-          "name": "Tampa Bay Rays",
-          "abbreviation": "TB"
-        },
-        "away_team": {
-          "id": 147,
-          "name": "New York Yankees",
-          "abbreviation": "NYY"
-        },
-        "venue": "Tropicana Field",
-        "platforms": []
-      }
-    ],
     "2026-10-04": [
-      {
-        "game_pk": 849830,
-        "game_date": "2026-10-04",
-        "game_time_utc": "2026-10-04T00:30:00Z",
-        "status": "Final",
-        "home_team": {
-          "id": 158,
-          "name": "Milwaukee Brewers",
-          "abbreviation": "MIL"
-        },
-        "away_team": {
-          "id": 135,
-          "name": "San Diego Padres",
-          "abbreviation": "SD"
-        },
-        "venue": "American Family Field",
-        "platforms": []
-      },
       {
         "game_pk": 849825,
         "game_date": "2026-10-04",
         "game_time_utc": "2026-10-04T20:00:00Z",
-        "status": "In Progress",
+        "status": "Final",
         "home_team": {
           "id": 158,
           "name": "Milwaukee Brewers",
@@ -101,7 +27,7 @@
         "game_pk": 849823,
         "game_date": "2026-10-05",
         "game_time_utc": "2026-10-05T00:00:00Z",
-        "status": "Pre-Game",
+        "status": "Final",
         "home_team": {
           "id": 119,
           "name": "Los Angeles Dodgers",
@@ -389,6 +315,24 @@
           "abbreviation": "NYY"
         },
         "venue": "Tropicana Field",
+        "platforms": []
+      },
+      {
+        "game_pk": 849809,
+        "game_date": "2026-10-11",
+        "game_time_utc": "2026-10-11T07:33:00Z",
+        "status": "Scheduled",
+        "home_team": {
+          "id": 5517,
+          "name": "NL Higher Seed",
+          "abbreviation": "NL High"
+        },
+        "away_team": {
+          "id": 5525,
+          "name": "NL Lower Seed",
+          "abbreviation": "NL Low"
+        },
+        "venue": "NL Stadium",
         "platforms": []
       }
     ]
