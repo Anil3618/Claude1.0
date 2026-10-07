@@ -1,51 +1,13 @@
 {
-  "generated_at": "2026-10-06",
-  "game_count": 17,
+  "generated_at": "2026-10-07",
+  "game_count": 16,
   "dates": {
-    "2026-10-05": [
-      {
-        "game_pk": 849834,
-        "game_date": "2026-10-05",
-        "game_time_utc": "2026-10-05T21:00:00Z",
-        "status": "Final",
-        "home_team": {
-          "id": 114,
-          "name": "Cleveland Guardians",
-          "abbreviation": "CLE"
-        },
-        "away_team": {
-          "id": 145,
-          "name": "Chicago White Sox",
-          "abbreviation": "CWS"
-        },
-        "venue": "Progressive Field",
-        "platforms": []
-      }
-    ],
     "2026-10-06": [
-      {
-        "game_pk": 849839,
-        "game_date": "2026-10-06",
-        "game_time_utc": "2026-10-06T00:00:00Z",
-        "status": "Final",
-        "home_team": {
-          "id": 139,
-          "name": "Tampa Bay Rays",
-          "abbreviation": "TB"
-        },
-        "away_team": {
-          "id": 147,
-          "name": "New York Yankees",
-          "abbreviation": "NYY"
-        },
-        "venue": "Tropicana Field",
-        "platforms": []
-      },
       {
         "game_pk": 849819,
         "game_date": "2026-10-06",
         "game_time_utc": "2026-10-06T22:00:00Z",
-        "status": "In Progress",
+        "status": "Final",
         "home_team": {
           "id": 144,
           "name": "Atlanta Braves",
@@ -65,7 +27,7 @@
         "game_pk": 849826,
         "game_date": "2026-10-07",
         "game_time_utc": "2026-10-07T01:30:00Z",
-        "status": "Pre-Game",
+        "status": "In Progress",
         "home_team": {
           "id": 135,
           "name": "San Diego Padres",
@@ -333,6 +295,26 @@
           "abbreviation": "NL Low"
         },
         "venue": "NL Stadium",
+        "platforms": []
+      }
+    ],
+    "2026-10-13": [
+      {
+        "game_pk": 849813,
+        "game_date": "2026-10-13",
+        "game_time_utc": "2026-10-13T07:33:00Z",
+        "status": "Scheduled",
+        "home_team": {
+          "id": 5513,
+          "name": "AL Higher Seed",
+          "abbreviation": "AL High"
+        },
+        "away_team": {
+          "id": 5521,
+          "name": "AL Lower Seed",
+          "abbreviation": "AL Low"
+        },
+        "venue": "AL Stadium",
         "platforms": []
       }
     ]
