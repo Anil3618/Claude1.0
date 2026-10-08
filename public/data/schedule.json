@@ -83,7 +83,7 @@
         "game_pk": 849832,
         "game_date": "2026-10-09",
         "game_time_utc": "2026-10-09T00:00:00Z",
-        "status": "Scheduled",
+        "status": "Pre-Game",
         "home_team": {
           "id": 145,
           "name": "Chicago White Sox",
@@ -122,31 +122,13 @@
         },
         "venue": "Progressive Field",
         "platforms": []
-      },
-      {
-        "game_pk": 849809,
-        "game_date": "2026-10-11",
-        "game_time_utc": "2026-10-11T07:33:00Z",
-        "status": "Scheduled",
-        "home_team": {
-          "id": 158,
-          "name": "Milwaukee Brewers",
-          "abbreviation": "MIL"
-        },
-        "away_team": {
-          "id": 119,
-          "name": "Los Angeles Dodgers",
-          "abbreviation": "LAD"
-        },
-        "venue": "American Family Field",
-        "platforms": []
       }
     ],
     "2026-10-12": [
       {
-        "game_pk": 849812,
+        "game_pk": 849809,
         "game_date": "2026-10-12",
-        "game_time_utc": "2026-10-12T07:33:00Z",
+        "game_time_utc": "2026-10-12T00:00:00Z",
         "status": "Scheduled",
         "home_team": {
           "id": 158,
@@ -162,29 +144,29 @@
         "platforms": []
       },
       {
-        "game_pk": 849820,
+        "game_pk": 849812,
         "game_date": "2026-10-12",
-        "game_time_utc": "2026-10-12T07:33:00Z",
+        "game_time_utc": "2026-10-12T21:00:00Z",
         "status": "Scheduled",
         "home_team": {
-          "id": 139,
-          "name": "Tampa Bay Rays",
-          "abbreviation": "TB"
+          "id": 158,
+          "name": "Milwaukee Brewers",
+          "abbreviation": "MIL"
         },
         "away_team": {
-          "id": 5521,
-          "name": "CLE/CWS",
-          "abbreviation": "CLE/CWS"
+          "id": 119,
+          "name": "Los Angeles Dodgers",
+          "abbreviation": "LAD"
         },
-        "venue": "Tropicana Field",
+        "venue": "American Family Field",
         "platforms": []
       }
     ],
     "2026-10-13": [
       {
-        "game_pk": 849813,
+        "game_pk": 849820,
         "game_date": "2026-10-13",
-        "game_time_utc": "2026-10-13T07:33:00Z",
+        "game_time_utc": "2026-10-13T00:00:00Z",
         "status": "Scheduled",
         "home_team": {
           "id": 139,
@@ -202,9 +184,29 @@
     ],
     "2026-10-14": [
       {
-        "game_pk": 849811,
+        "game_pk": 849813,
         "game_date": "2026-10-14",
-        "game_time_utc": "2026-10-14T07:33:00Z",
+        "game_time_utc": "2026-10-14T00:00:00Z",
+        "status": "Scheduled",
+        "home_team": {
+          "id": 139,
+          "name": "Tampa Bay Rays",
+          "abbreviation": "TB"
+        },
+        "away_team": {
+          "id": 5521,
+          "name": "CLE/CWS",
+          "abbreviation": "CLE/CWS"
+        },
+        "venue": "Tropicana Field",
+        "platforms": []
+      }
+    ],
+    "2026-10-15": [
+      {
+        "game_pk": 849811,
+        "game_date": "2026-10-15",
+        "game_time_utc": "2026-10-15T00:00:00Z",
         "status": "Scheduled",
         "home_team": {
           "id": 119,
