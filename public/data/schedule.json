@@ -1,89 +1,13 @@
 {
-  "generated_at": "2026-10-08",
-  "game_count": 11,
+  "generated_at": "2026-10-09",
+  "game_count": 9,
   "dates": {
-    "2026-10-07": [
-      {
-        "game_pk": 849833,
-        "game_date": "2026-10-07",
-        "game_time_utc": "2026-10-07T20:00:00Z",
-        "status": "Final",
-        "home_team": {
-          "id": 145,
-          "name": "Chicago White Sox",
-          "abbreviation": "CWS"
-        },
-        "away_team": {
-          "id": 114,
-          "name": "Cleveland Guardians",
-          "abbreviation": "CLE"
-        },
-        "venue": "Rate Field",
-        "platforms": []
-      },
-      {
-        "game_pk": 849822,
-        "game_date": "2026-10-07",
-        "game_time_utc": "2026-10-07T22:00:00Z",
-        "status": "Final",
-        "home_team": {
-          "id": 144,
-          "name": "Atlanta Braves",
-          "abbreviation": "ATL"
-        },
-        "away_team": {
-          "id": 119,
-          "name": "Los Angeles Dodgers",
-          "abbreviation": "LAD"
-        },
-        "venue": "Truist Park",
-        "platforms": []
-      }
-    ],
-    "2026-10-08": [
-      {
-        "game_pk": 849838,
-        "game_date": "2026-10-08",
-        "game_time_utc": "2026-10-08T00:00:00Z",
-        "status": "Final",
-        "home_team": {
-          "id": 147,
-          "name": "New York Yankees",
-          "abbreviation": "NYY"
-        },
-        "away_team": {
-          "id": 139,
-          "name": "Tampa Bay Rays",
-          "abbreviation": "TB"
-        },
-        "venue": "Yankee Stadium",
-        "platforms": []
-      },
-      {
-        "game_pk": 849827,
-        "game_date": "2026-10-08",
-        "game_time_utc": "2026-10-08T02:00:00Z",
-        "status": "Final",
-        "home_team": {
-          "id": 135,
-          "name": "San Diego Padres",
-          "abbreviation": "SD"
-        },
-        "away_team": {
-          "id": 158,
-          "name": "Milwaukee Brewers",
-          "abbreviation": "MIL"
-        },
-        "venue": "Petco Park",
-        "platforms": []
-      }
-    ],
     "2026-10-09": [
       {
         "game_pk": 849832,
         "game_date": "2026-10-09",
         "game_time_utc": "2026-10-09T00:00:00Z",
-        "status": "Pre-Game",
+        "status": "Final",
         "home_team": {
           "id": 145,
           "name": "Chicago White Sox",
@@ -220,6 +144,50 @@
         },
         "venue": "UNIQLO Field at Dodger Stadium",
         "platforms": []
+      },
+      {
+        "game_pk": 849818,
+        "game_date": "2026-10-15",
+        "game_time_utc": "2026-10-15T22:00:00Z",
+        "status": "Scheduled",
+        "home_team": {
+          "id": 5521,
+          "name": "CLE/CWS",
+          "abbreviation": "CLE/CWS"
+        },
+        "away_team": {
+          "id": 139,
+          "name": "Tampa Bay Rays",
+          "abbreviation": "TB"
+        },
+        "venue": "AL Stadium",
+        "platforms": []
+      }
+    ],
+    "2026-10-16": [
+      {
+        "game_pk": 849810,
+        "game_date": "2026-10-16",
+        "game_time_utc": "2026-10-16T01:00:00Z",
+        "status": "Scheduled",
+        "home_team": {
+          "id": 119,
+          "name": "Los Angeles Dodgers",
+          "abbreviation": "LAD"
+        },
+        "away_team": {
+          "id": 158,
+          "name": "Milwaukee Brewers",
+          "abbreviation": "MIL"
+        },
+        "venue": "UNIQLO Field at Dodger Stadium",
+        "platforms": [
+          {
+            "label": "Apple TV+",
+            "color": "#555555",
+            "url": "https://tv.apple.com/"
+          }
+        ]
       }
     ]
   }
