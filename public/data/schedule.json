@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-10-10",
-  "game_count": 10,
+  "generated_at": "2026-10-11",
+  "game_count": 11,
   "dates": {
     "2026-10-11": [
       {
         "game_pk": 849831,
         "game_date": "2026-10-11",
         "game_time_utc": "2026-10-11T00:00:00Z",
-        "status": "Pre-Game",
+        "status": "Final",
         "home_team": {
           "id": 114,
           "name": "Cleveland Guardians",
@@ -72,9 +72,9 @@
           "abbreviation": "TB"
         },
         "away_team": {
-          "id": 5521,
-          "name": "CLE/CWS",
-          "abbreviation": "CLE/CWS"
+          "id": 114,
+          "name": "Cleveland Guardians",
+          "abbreviation": "CLE"
         },
         "venue": "Tropicana Field",
         "platforms": []
@@ -92,9 +92,9 @@
           "abbreviation": "TB"
         },
         "away_team": {
-          "id": 5521,
-          "name": "CLE/CWS",
-          "abbreviation": "CLE/CWS"
+          "id": 114,
+          "name": "Cleveland Guardians",
+          "abbreviation": "CLE"
         },
         "venue": "Tropicana Field",
         "platforms": []
@@ -125,16 +125,16 @@
         "game_time_utc": "2026-10-15T22:00:00Z",
         "status": "Scheduled",
         "home_team": {
-          "id": 5521,
-          "name": "CLE/CWS",
-          "abbreviation": "CLE/CWS"
+          "id": 114,
+          "name": "Cleveland Guardians",
+          "abbreviation": "CLE"
         },
         "away_team": {
           "id": 139,
           "name": "Tampa Bay Rays",
           "abbreviation": "TB"
         },
-        "venue": "AL Stadium",
+        "venue": "Progressive Field",
         "platforms": []
       }
     ],
@@ -169,16 +169,16 @@
         "game_time_utc": "2026-10-16T22:00:00Z",
         "status": "Scheduled",
         "home_team": {
-          "id": 5521,
-          "name": "CLE/CWS",
-          "abbreviation": "CLE/CWS"
+          "id": 114,
+          "name": "Cleveland Guardians",
+          "abbreviation": "CLE"
         },
         "away_team": {
           "id": 139,
           "name": "Tampa Bay Rays",
           "abbreviation": "TB"
         },
-        "venue": "AL Stadium",
+        "venue": "Progressive Field",
         "platforms": [
           {
             "label": "Apple TV+",
@@ -205,6 +205,26 @@
           "abbreviation": "MIL"
         },
         "venue": "UNIQLO Field at Dodger Stadium",
+        "platforms": []
+      }
+    ],
+    "2026-10-18": [
+      {
+        "game_pk": 849816,
+        "game_date": "2026-10-18",
+        "game_time_utc": "2026-10-18T00:00:00Z",
+        "status": "Scheduled",
+        "home_team": {
+          "id": 114,
+          "name": "Cleveland Guardians",
+          "abbreviation": "CLE"
+        },
+        "away_team": {
+          "id": 139,
+          "name": "Tampa Bay Rays",
+          "abbreviation": "TB"
+        },
+        "venue": "Progressive Field",
         "platforms": []
       }
     ]
