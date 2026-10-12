@@ -1,33 +1,13 @@
 {
-  "generated_at": "2026-10-11",
+  "generated_at": "2026-10-12",
   "game_count": 11,
   "dates": {
-    "2026-10-11": [
-      {
-        "game_pk": 849831,
-        "game_date": "2026-10-11",
-        "game_time_utc": "2026-10-11T00:00:00Z",
-        "status": "Final",
-        "home_team": {
-          "id": 114,
-          "name": "Cleveland Guardians",
-          "abbreviation": "CLE"
-        },
-        "away_team": {
-          "id": 145,
-          "name": "Chicago White Sox",
-          "abbreviation": "CWS"
-        },
-        "venue": "Progressive Field",
-        "platforms": []
-      }
-    ],
     "2026-10-12": [
       {
         "game_pk": 849809,
         "game_date": "2026-10-12",
         "game_time_utc": "2026-10-12T00:00:00Z",
-        "status": "Pre-Game",
+        "status": "Final",
         "home_team": {
           "id": 158,
           "name": "Milwaukee Brewers",
@@ -225,6 +205,26 @@
           "abbreviation": "TB"
         },
         "venue": "Progressive Field",
+        "platforms": []
+      }
+    ],
+    "2026-10-19": [
+      {
+        "game_pk": 849806,
+        "game_date": "2026-10-19",
+        "game_time_utc": "2026-10-19T00:00:00Z",
+        "status": "Scheduled",
+        "home_team": {
+          "id": 158,
+          "name": "Milwaukee Brewers",
+          "abbreviation": "MIL"
+        },
+        "away_team": {
+          "id": 119,
+          "name": "Los Angeles Dodgers",
+          "abbreviation": "LAD"
+        },
+        "venue": "American Family Field",
         "platforms": []
       }
     ]
