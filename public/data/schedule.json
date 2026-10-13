@@ -1,31 +1,13 @@
 {
-  "generated_at": "2026-10-12",
-  "game_count": 11,
+  "generated_at": "2026-10-13",
+  "game_count": 12,
   "dates": {
     "2026-10-12": [
-      {
-        "game_pk": 849809,
-        "game_date": "2026-10-12",
-        "game_time_utc": "2026-10-12T00:00:00Z",
-        "status": "Final",
-        "home_team": {
-          "id": 158,
-          "name": "Milwaukee Brewers",
-          "abbreviation": "MIL"
-        },
-        "away_team": {
-          "id": 119,
-          "name": "Los Angeles Dodgers",
-          "abbreviation": "LAD"
-        },
-        "venue": "American Family Field",
-        "platforms": []
-      },
       {
         "game_pk": 849812,
         "game_date": "2026-10-12",
         "game_time_utc": "2026-10-12T21:00:00Z",
-        "status": "Scheduled",
+        "status": "In Progress",
         "home_team": {
           "id": 158,
           "name": "Milwaukee Brewers",
@@ -45,7 +27,7 @@
         "game_pk": 849820,
         "game_date": "2026-10-13",
         "game_time_utc": "2026-10-13T00:00:00Z",
-        "status": "Scheduled",
+        "status": "In Progress",
         "home_team": {
           "id": 139,
           "name": "Tampa Bay Rays",
@@ -213,6 +195,44 @@
         "game_pk": 849806,
         "game_date": "2026-10-19",
         "game_time_utc": "2026-10-19T00:00:00Z",
+        "status": "Scheduled",
+        "home_team": {
+          "id": 158,
+          "name": "Milwaukee Brewers",
+          "abbreviation": "MIL"
+        },
+        "away_team": {
+          "id": 119,
+          "name": "Los Angeles Dodgers",
+          "abbreviation": "LAD"
+        },
+        "venue": "American Family Field",
+        "platforms": []
+      },
+      {
+        "game_pk": 849815,
+        "game_date": "2026-10-19",
+        "game_time_utc": "2026-10-19T21:00:00Z",
+        "status": "Scheduled",
+        "home_team": {
+          "id": 139,
+          "name": "Tampa Bay Rays",
+          "abbreviation": "TB"
+        },
+        "away_team": {
+          "id": 114,
+          "name": "Cleveland Guardians",
+          "abbreviation": "CLE"
+        },
+        "venue": "Tropicana Field",
+        "platforms": []
+      }
+    ],
+    "2026-10-20": [
+      {
+        "game_pk": 849807,
+        "game_date": "2026-10-20",
+        "game_time_utc": "2026-10-20T00:00:00Z",
         "status": "Scheduled",
         "home_team": {
           "id": 158,
