@@ -1,26 +1,8 @@
 {
-  "generated_at": "2026-10-15",
-  "game_count": 10,
+  "generated_at": "2026-10-16",
+  "game_count": 6,
   "dates": {
     "2026-10-15": [
-      {
-        "game_pk": 849811,
-        "game_date": "2026-10-15",
-        "game_time_utc": "2026-10-15T00:00:00Z",
-        "status": "Final",
-        "home_team": {
-          "id": 119,
-          "name": "Los Angeles Dodgers",
-          "abbreviation": "LAD"
-        },
-        "away_team": {
-          "id": 158,
-          "name": "Milwaukee Brewers",
-          "abbreviation": "MIL"
-        },
-        "venue": "UNIQLO Field at Dodger Stadium",
-        "platforms": []
-      },
       {
         "game_pk": 849818,
         "game_date": "2026-10-15",
@@ -45,7 +27,7 @@
         "game_pk": 849810,
         "game_date": "2026-10-16",
         "game_time_utc": "2026-10-16T00:00:00Z",
-        "status": "Pre-Game",
+        "status": "Final",
         "home_team": {
           "id": 119,
           "name": "Los Angeles Dodgers",
@@ -64,11 +46,13 @@
             "url": "https://tv.apple.com/"
           }
         ]
-      },
+      }
+    ],
+    "2026-10-17": [
       {
         "game_pk": 849817,
-        "game_date": "2026-10-16",
-        "game_time_utc": "2026-10-16T22:00:00Z",
+        "game_date": "2026-10-17",
+        "game_time_utc": "2026-10-17T00:00:00Z",
         "status": "Scheduled",
         "home_team": {
           "id": 114,
@@ -81,32 +65,6 @@
           "abbreviation": "TB"
         },
         "venue": "Progressive Field",
-        "platforms": [
-          {
-            "label": "Apple TV+",
-            "color": "#555555",
-            "url": "https://tv.apple.com/"
-          }
-        ]
-      }
-    ],
-    "2026-10-17": [
-      {
-        "game_pk": 849808,
-        "game_date": "2026-10-17",
-        "game_time_utc": "2026-10-17T01:00:00Z",
-        "status": "Scheduled",
-        "home_team": {
-          "id": 119,
-          "name": "Los Angeles Dodgers",
-          "abbreviation": "LAD"
-        },
-        "away_team": {
-          "id": 158,
-          "name": "Milwaukee Brewers",
-          "abbreviation": "MIL"
-        },
-        "venue": "UNIQLO Field at Dodger Stadium",
         "platforms": []
       }
     ],
@@ -130,29 +88,11 @@
         "platforms": []
       }
     ],
-    "2026-10-19": [
-      {
-        "game_pk": 849806,
-        "game_date": "2026-10-19",
-        "game_time_utc": "2026-10-19T00:00:00Z",
-        "status": "Scheduled",
-        "home_team": {
-          "id": 158,
-          "name": "Milwaukee Brewers",
-          "abbreviation": "MIL"
-        },
-        "away_team": {
-          "id": 119,
-          "name": "Los Angeles Dodgers",
-          "abbreviation": "LAD"
-        },
-        "venue": "American Family Field",
-        "platforms": []
-      },
+    "2026-10-20": [
       {
         "game_pk": 849815,
-        "game_date": "2026-10-19",
-        "game_time_utc": "2026-10-19T21:00:00Z",
+        "game_date": "2026-10-20",
+        "game_time_utc": "2026-10-20T00:00:00Z",
         "status": "Scheduled",
         "home_team": {
           "id": 139,
@@ -165,26 +105,6 @@
           "abbreviation": "CLE"
         },
         "venue": "Tropicana Field",
-        "platforms": []
-      }
-    ],
-    "2026-10-20": [
-      {
-        "game_pk": 849807,
-        "game_date": "2026-10-20",
-        "game_time_utc": "2026-10-20T00:00:00Z",
-        "status": "Scheduled",
-        "home_team": {
-          "id": 158,
-          "name": "Milwaukee Brewers",
-          "abbreviation": "MIL"
-        },
-        "away_team": {
-          "id": 119,
-          "name": "Los Angeles Dodgers",
-          "abbreviation": "LAD"
-        },
-        "venue": "American Family Field",
         "platforms": []
       }
     ],
