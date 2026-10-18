@@ -1,33 +1,13 @@
 {
-  "generated_at": "2026-10-17",
+  "generated_at": "2026-10-18",
   "game_count": 6,
   "dates": {
-    "2026-10-17": [
-      {
-        "game_pk": 849817,
-        "game_date": "2026-10-17",
-        "game_time_utc": "2026-10-17T00:00:00Z",
-        "status": "Postponed",
-        "home_team": {
-          "id": 114,
-          "name": "Cleveland Guardians",
-          "abbreviation": "CLE"
-        },
-        "away_team": {
-          "id": 139,
-          "name": "Tampa Bay Rays",
-          "abbreviation": "TB"
-        },
-        "venue": "Progressive Field",
-        "platforms": []
-      }
-    ],
     "2026-10-18": [
       {
         "game_pk": 849816,
         "game_date": "2026-10-18",
         "game_time_utc": "2026-10-18T00:08:00Z",
-        "status": "Pre-Game",
+        "status": "Final",
         "home_team": {
           "id": 114,
           "name": "Cleveland Guardians",
@@ -105,6 +85,26 @@
         "game_pk": 849805,
         "game_date": "2026-10-24",
         "game_time_utc": "2026-10-24T00:00:00Z",
+        "status": "Scheduled",
+        "home_team": {
+          "id": 158,
+          "name": "Milwaukee Brewers",
+          "abbreviation": "MIL"
+        },
+        "away_team": {
+          "id": 21,
+          "name": "TB/CLE",
+          "abbreviation": "TB/CLE"
+        },
+        "venue": "American Family Field",
+        "platforms": []
+      }
+    ],
+    "2026-10-25": [
+      {
+        "game_pk": 849802,
+        "game_date": "2026-10-25",
+        "game_time_utc": "2026-10-25T00:00:00Z",
         "status": "Scheduled",
         "home_team": {
           "id": 158,
