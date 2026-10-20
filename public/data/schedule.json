@@ -1,53 +1,13 @@
 {
-  "generated_at": "2026-10-19",
-  "game_count": 5,
+  "generated_at": "2026-10-20",
+  "game_count": 4,
   "dates": {
-    "2026-10-18": [
-      {
-        "game_pk": 849817,
-        "game_date": "2026-10-18",
-        "game_time_utc": "2026-10-18T21:08:00Z",
-        "status": "Final",
-        "home_team": {
-          "id": 114,
-          "name": "Cleveland Guardians",
-          "abbreviation": "CLE"
-        },
-        "away_team": {
-          "id": 139,
-          "name": "Tampa Bay Rays",
-          "abbreviation": "TB"
-        },
-        "venue": "Progressive Field",
-        "platforms": []
-      }
-    ],
     "2026-10-20": [
       {
         "game_pk": 849815,
         "game_date": "2026-10-20",
         "game_time_utc": "2026-10-20T00:08:00Z",
-        "status": "Pre-Game",
-        "home_team": {
-          "id": 139,
-          "name": "Tampa Bay Rays",
-          "abbreviation": "TB"
-        },
-        "away_team": {
-          "id": 114,
-          "name": "Cleveland Guardians",
-          "abbreviation": "CLE"
-        },
-        "venue": "Tropicana Field",
-        "platforms": []
-      }
-    ],
-    "2026-10-21": [
-      {
-        "game_pk": 849814,
-        "game_date": "2026-10-21",
-        "game_time_utc": "2026-10-21T00:08:00Z",
-        "status": "Scheduled",
+        "status": "Final",
         "home_team": {
           "id": 139,
           "name": "Tampa Bay Rays",
@@ -74,9 +34,9 @@
           "abbreviation": "MIL"
         },
         "away_team": {
-          "id": 21,
-          "name": "TB/CLE",
-          "abbreviation": "TB/CLE"
+          "id": 139,
+          "name": "Tampa Bay Rays",
+          "abbreviation": "TB"
         },
         "venue": "American Family Field",
         "platforms": []
@@ -94,11 +54,31 @@
           "abbreviation": "MIL"
         },
         "away_team": {
-          "id": 21,
-          "name": "TB/CLE",
-          "abbreviation": "TB/CLE"
+          "id": 139,
+          "name": "Tampa Bay Rays",
+          "abbreviation": "TB"
         },
         "venue": "American Family Field",
+        "platforms": []
+      }
+    ],
+    "2026-10-27": [
+      {
+        "game_pk": 849804,
+        "game_date": "2026-10-27",
+        "game_time_utc": "2026-10-27T00:00:00Z",
+        "status": "Scheduled",
+        "home_team": {
+          "id": 139,
+          "name": "Tampa Bay Rays",
+          "abbreviation": "TB"
+        },
+        "away_team": {
+          "id": 158,
+          "name": "Milwaukee Brewers",
+          "abbreviation": "MIL"
+        },
+        "venue": "Tropicana Field",
         "platforms": []
       }
     ]
