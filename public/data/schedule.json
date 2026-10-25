@@ -1,33 +1,13 @@
 {
-  "generated_at": "2026-10-24",
+  "generated_at": "2026-10-25",
   "game_count": 6,
   "dates": {
-    "2026-10-24": [
-      {
-        "game_pk": 849805,
-        "game_date": "2026-10-24",
-        "game_time_utc": "2026-10-24T00:00:00Z",
-        "status": "Final",
-        "home_team": {
-          "id": 158,
-          "name": "Milwaukee Brewers",
-          "abbreviation": "MIL"
-        },
-        "away_team": {
-          "id": 139,
-          "name": "Tampa Bay Rays",
-          "abbreviation": "TB"
-        },
-        "venue": "American Family Field",
-        "platforms": []
-      }
-    ],
     "2026-10-25": [
       {
         "game_pk": 849802,
         "game_date": "2026-10-25",
         "game_time_utc": "2026-10-25T00:00:00Z",
-        "status": "Pre-Game",
+        "status": "In Progress",
         "home_team": {
           "id": 158,
           "name": "Milwaukee Brewers",
@@ -107,6 +87,26 @@
         "game_pk": 849801,
         "game_date": "2026-10-31",
         "game_time_utc": "2026-10-31T00:00:00Z",
+        "status": "Scheduled",
+        "home_team": {
+          "id": 158,
+          "name": "Milwaukee Brewers",
+          "abbreviation": "MIL"
+        },
+        "away_team": {
+          "id": 139,
+          "name": "Tampa Bay Rays",
+          "abbreviation": "TB"
+        },
+        "venue": "American Family Field",
+        "platforms": []
+      }
+    ],
+    "2026-11-01": [
+      {
+        "game_pk": 849800,
+        "game_date": "2026-11-01",
+        "game_time_utc": "2026-11-01T00:00:00Z",
         "status": "Scheduled",
         "home_team": {
           "id": 158,
