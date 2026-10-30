@@ -1,26 +1,5 @@
 {
-  "generated_at": "2026-10-29",
-  "game_count": 1,
-  "dates": {
-    "2026-10-29": [
-      {
-        "game_pk": 849799,
-        "game_date": "2026-10-29",
-        "game_time_utc": "2026-10-29T00:00:00Z",
-        "status": "Final",
-        "home_team": {
-          "id": 139,
-          "name": "Tampa Bay Rays",
-          "abbreviation": "TB"
-        },
-        "away_team": {
-          "id": 158,
-          "name": "Milwaukee Brewers",
-          "abbreviation": "MIL"
-        },
-        "venue": "Tropicana Field",
-        "platforms": []
-      }
-    ]
-  }
+  "generated_at": "2026-10-30",
+  "game_count": 0,
+  "dates": {}
 }
