@@ -14,7 +14,7 @@ export const metadata: Metadata = {
 };
 
 const SPORTS_NAV = [
-  { href: "/",       label: "MLB",  emoji: "⚾" },
+  { href: "/mlb",    label: "MLB",  emoji: "⚾" },
   { href: "/nfl",    label: "NFL",  emoji: "🏈" },
   { href: "/nba",    label: "NBA",  emoji: "🏀" },
   { href: "/nhl",    label: "NHL",  emoji: "🏒" },
