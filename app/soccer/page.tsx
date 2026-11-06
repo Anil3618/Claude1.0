@@ -9,7 +9,7 @@ export const metadata: Metadata = {
   description: "Every MLS game on TV or streaming — Apple TV+ MLS Season Pass, ESPN and more in one place.",
 };
 
-export const revalidate = 21600;
+export const revalidate = 3600;
 
 async function getSchedule(): Promise<ScheduleData | null> {
   try {

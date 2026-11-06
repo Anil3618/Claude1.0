@@ -9,7 +9,7 @@ export const metadata: Metadata = {
   description: "Every NBA game on TV or streaming tonight — ESPN, ABC, TNT, NBA TV and more in one place.",
 };
 
-export const revalidate = 21600;
+export const revalidate = 3600;
 
 async function getSchedule(): Promise<ScheduleData | null> {
   try {

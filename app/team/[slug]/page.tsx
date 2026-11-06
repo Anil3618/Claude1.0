@@ -68,4 +68,4 @@ export default async function TeamPage({
   );
 }
 
-export const revalidate = 21600;
+export const revalidate = 3600;

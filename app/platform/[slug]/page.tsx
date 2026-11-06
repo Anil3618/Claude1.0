@@ -91,4 +91,4 @@ export async function generateStaticParams() {
   return Object.keys(SLUG_TO_LABEL).map((slug) => ({ slug }));
 }
 
-export const revalidate = 21600;
+export const revalidate = 3600;

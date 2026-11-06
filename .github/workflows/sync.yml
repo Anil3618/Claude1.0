@@ -2,8 +2,8 @@ name: Sync Sports Schedules
 
 on:
   schedule:
-    # Every 6 hours: midnight, 6am, noon, 6pm UTC
-    - cron: "0 0,6,12,18 * * *"
+    # Every hour
+    - cron: "0 * * * *"
   workflow_dispatch:  # Allow manual trigger from GitHub Actions UI
 
 permissions:
