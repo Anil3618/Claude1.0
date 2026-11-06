@@ -1,0 +1,405 @@
+{
+  "generated_at": "2026-11-06",
+  "sport": "nfl",
+  "label": "NFL",
+  "game_count": 16,
+  "dates": {
+    "2026-11-05": [
+      {
+        "game_pk": 401873037,
+        "game_date": "2026-11-06",
+        "game_time_utc": "2026-11-06T01:15Z",
+        "status": "Final",
+        "home_team": {
+          "id": 33,
+          "name": "Baltimore Ravens",
+          "abbreviation": "BAL"
+        },
+        "away_team": {
+          "id": 30,
+          "name": "Jacksonville Jaguars",
+          "abbreviation": "JAX"
+        },
+        "venue": "M&T Bank Stadium",
+        "platforms": [
+          {
+            "label": "Prime Video",
+            "color": "#00A8E0",
+            "url": "https://www.amazon.com/primevideo"
+          }
+        ],
+        "home_score": 10,
+        "away_score": 33,
+        "sport": "nfl"
+      }
+    ],
+    "2026-11-08": [
+      {
+        "game_pk": 401873038,
+        "game_date": "2026-11-08",
+        "game_time_utc": "2026-11-08T14:30Z",
+        "status": "Scheduled",
+        "home_team": {
+          "id": 1,
+          "name": "Atlanta Falcons",
+          "abbreviation": "ATL"
+        },
+        "away_team": {
+          "id": 4,
+          "name": "Cincinnati Bengals",
+          "abbreviation": "CIN"
+        },
+        "venue": "Santiago Bernab\u00e9u",
+        "platforms": [],
+        "home_score": null,
+        "away_score": null,
+        "sport": "nfl"
+      },
+      {
+        "game_pk": 401873040,
+        "game_date": "2026-11-08",
+        "game_time_utc": "2026-11-08T18:00Z",
+        "status": "Scheduled",
+        "home_team": {
+          "id": 11,
+          "name": "Indianapolis Colts",
+          "abbreviation": "IND"
+        },
+        "away_team": {
+          "id": 6,
+          "name": "Dallas Cowboys",
+          "abbreviation": "DAL"
+        },
+        "venue": "Lucas Oil Stadium",
+        "platforms": [],
+        "home_score": null,
+        "away_score": null,
+        "sport": "nfl"
+      },
+      {
+        "game_pk": 401873045,
+        "game_date": "2026-11-08",
+        "game_time_utc": "2026-11-08T18:00Z",
+        "status": "Scheduled",
+        "home_team": {
+          "id": 12,
+          "name": "Kansas City Chiefs",
+          "abbreviation": "KC"
+        },
+        "away_team": {
+          "id": 20,
+          "name": "New York Jets",
+          "abbreviation": "NYJ"
+        },
+        "venue": "Arrowhead Stadium",
+        "platforms": [
+          {
+            "label": "CBS",
+            "color": "#0033A0",
+            "url": "https://www.cbs.com/"
+          }
+        ],
+        "home_score": null,
+        "away_score": null,
+        "sport": "nfl"
+      },
+      {
+        "game_pk": 401873042,
+        "game_date": "2026-11-08",
+        "game_time_utc": "2026-11-08T18:00Z",
+        "status": "Scheduled",
+        "home_team": {
+          "id": 15,
+          "name": "Miami Dolphins",
+          "abbreviation": "MIA"
+        },
+        "away_team": {
+          "id": 8,
+          "name": "Detroit Lions",
+          "abbreviation": "DET"
+        },
+        "venue": "Hard Rock Stadium",
+        "platforms": [],
+        "home_score": null,
+        "away_score": null,
+        "sport": "nfl"
+      },
+      {
+        "game_pk": 401873039,
+        "game_date": "2026-11-08",
+        "game_time_utc": "2026-11-08T18:00Z",
+        "status": "Scheduled",
+        "home_team": {
+          "id": 18,
+          "name": "New Orleans Saints",
+          "abbreviation": "NO"
+        },
+        "away_team": {
+          "id": 5,
+          "name": "Cleveland Browns",
+          "abbreviation": "CLE"
+        },
+        "venue": "Caesars Superdome",
+        "platforms": [
+          {
+            "label": "CBS",
+            "color": "#0033A0",
+            "url": "https://www.cbs.com/"
+          }
+        ],
+        "home_score": null,
+        "away_score": null,
+        "sport": "nfl"
+      },
+      {
+        "game_pk": 401873044,
+        "game_date": "2026-11-08",
+        "game_time_utc": "2026-11-08T18:00Z",
+        "status": "Scheduled",
+        "home_team": {
+          "id": 21,
+          "name": "Philadelphia Eagles",
+          "abbreviation": "PHI"
+        },
+        "away_team": {
+          "id": 19,
+          "name": "New York Giants",
+          "abbreviation": "NYG"
+        },
+        "venue": "Lincoln Financial Field",
+        "platforms": [],
+        "home_score": null,
+        "away_score": null,
+        "sport": "nfl"
+      },
+      {
+        "game_pk": 401873043,
+        "game_date": "2026-11-08",
+        "game_time_utc": "2026-11-08T18:00Z",
+        "status": "Scheduled",
+        "home_team": {
+          "id": 28,
+          "name": "Washington Commanders",
+          "abbreviation": "WSH"
+        },
+        "away_team": {
+          "id": 14,
+          "name": "Los Angeles Rams",
+          "abbreviation": "LAR"
+        },
+        "venue": "Northwest Stadium",
+        "platforms": [],
+        "home_score": null,
+        "away_score": null,
+        "sport": "nfl"
+      },
+      {
+        "game_pk": 401873041,
+        "game_date": "2026-11-08",
+        "game_time_utc": "2026-11-08T18:00Z",
+        "status": "Scheduled",
+        "home_team": {
+          "id": 29,
+          "name": "Carolina Panthers",
+          "abbreviation": "CAR"
+        },
+        "away_team": {
+          "id": 7,
+          "name": "Denver Broncos",
+          "abbreviation": "DEN"
+        },
+        "venue": "Bank of America Stadium",
+        "platforms": [
+          {
+            "label": "CBS",
+            "color": "#0033A0",
+            "url": "https://www.cbs.com/"
+          }
+        ],
+        "home_score": null,
+        "away_score": null,
+        "sport": "nfl"
+      },
+      {
+        "game_pk": 401873046,
+        "game_date": "2026-11-08",
+        "game_time_utc": "2026-11-08T21:05Z",
+        "status": "Scheduled",
+        "home_team": {
+          "id": 24,
+          "name": "Los Angeles Chargers",
+          "abbreviation": "LAC"
+        },
+        "away_team": {
+          "id": 34,
+          "name": "Houston Texans",
+          "abbreviation": "HOU"
+        },
+        "venue": "SoFi Stadium",
+        "platforms": [
+          {
+            "label": "CBS",
+            "color": "#0033A0",
+            "url": "https://www.cbs.com/"
+          }
+        ],
+        "home_score": null,
+        "away_score": null,
+        "sport": "nfl"
+      },
+      {
+        "game_pk": 401873049,
+        "game_date": "2026-11-08",
+        "game_time_utc": "2026-11-08T21:25Z",
+        "status": "Scheduled",
+        "home_team": {
+          "id": 17,
+          "name": "New England Patriots",
+          "abbreviation": "NE"
+        },
+        "away_team": {
+          "id": 9,
+          "name": "Green Bay Packers",
+          "abbreviation": "GB"
+        },
+        "venue": "Gillette Stadium",
+        "platforms": [],
+        "home_score": null,
+        "away_score": null,
+        "sport": "nfl"
+      },
+      {
+        "game_pk": 401873047,
+        "game_date": "2026-11-08",
+        "game_time_utc": "2026-11-08T21:25Z",
+        "status": "Scheduled",
+        "home_team": {
+          "id": 25,
+          "name": "San Francisco 49ers",
+          "abbreviation": "SF"
+        },
+        "away_team": {
+          "id": 13,
+          "name": "Las Vegas Raiders",
+          "abbreviation": "LV"
+        },
+        "venue": "Levi's Stadium",
+        "platforms": [],
+        "home_score": null,
+        "away_score": null,
+        "sport": "nfl"
+      },
+      {
+        "game_pk": 401873048,
+        "game_date": "2026-11-08",
+        "game_time_utc": "2026-11-08T21:25Z",
+        "status": "Scheduled",
+        "home_team": {
+          "id": 26,
+          "name": "Seattle Seahawks",
+          "abbreviation": "SEA"
+        },
+        "away_team": {
+          "id": 22,
+          "name": "Arizona Cardinals",
+          "abbreviation": "ARI"
+        },
+        "venue": "Lumen Field",
+        "platforms": [],
+        "home_score": null,
+        "away_score": null,
+        "sport": "nfl"
+      },
+      {
+        "game_pk": 401873050,
+        "game_date": "2026-11-09",
+        "game_time_utc": "2026-11-09T01:20Z",
+        "status": "Scheduled",
+        "home_team": {
+          "id": 3,
+          "name": "Chicago Bears",
+          "abbreviation": "CHI"
+        },
+        "away_team": {
+          "id": 27,
+          "name": "Tampa Bay Buccaneers",
+          "abbreviation": "TB"
+        },
+        "venue": "Soldier Field",
+        "platforms": [
+          {
+            "label": "NBC",
+            "color": "#0B2265",
+            "url": "https://www.nbc.com/"
+          }
+        ],
+        "home_score": null,
+        "away_score": null,
+        "sport": "nfl"
+      }
+    ],
+    "2026-11-09": [
+      {
+        "game_pk": 401873051,
+        "game_date": "2026-11-10",
+        "game_time_utc": "2026-11-10T01:15Z",
+        "status": "Scheduled",
+        "home_team": {
+          "id": 16,
+          "name": "Minnesota Vikings",
+          "abbreviation": "MIN"
+        },
+        "away_team": {
+          "id": 2,
+          "name": "Buffalo Bills",
+          "abbreviation": "BUF"
+        },
+        "venue": "U.S. Bank Stadium",
+        "platforms": [
+          {
+            "label": "ESPN",
+            "color": "#CC0000",
+            "url": "https://www.espn.com/watch/"
+          },
+          {
+            "label": "ABC",
+            "color": "#006DB7",
+            "url": "https://abc.com/"
+          }
+        ],
+        "home_score": null,
+        "away_score": null,
+        "sport": "nfl"
+      }
+    ],
+    "2026-11-12": [
+      {
+        "game_pk": 401873052,
+        "game_date": "2026-11-13",
+        "game_time_utc": "2026-11-13T01:15Z",
+        "status": "Scheduled",
+        "home_team": {
+          "id": 19,
+          "name": "New York Giants",
+          "abbreviation": "NYG"
+        },
+        "away_team": {
+          "id": 28,
+          "name": "Washington Commanders",
+          "abbreviation": "WSH"
+        },
+        "venue": "MetLife Stadium",
+        "platforms": [
+          {
+            "label": "Prime Video",
+            "color": "#00A8E0",
+            "url": "https://www.amazon.com/primevideo"
+          }
+        ],
+        "home_score": null,
+        "away_score": null,
+        "sport": "nfl"
+      }
+    ]
+  }
+}

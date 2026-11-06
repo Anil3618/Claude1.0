@@ -19,6 +19,9 @@ export interface Game {
   away_team: Team;
   venue: string;
   platforms: Platform[];
+  home_score?: number;     // set for final/in-progress non-MLB games
+  away_score?: number;
+  sport?: string;          // "nba" | "nhl" | "soccer" | "wnba" | undefined (MLB)
 }
 
 export interface ScheduleData {

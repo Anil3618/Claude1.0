@@ -1,4 +1,4 @@
-name: Sync MLB Schedule
+name: Sync Sports Schedules
 
 on:
   schedule:
@@ -7,7 +7,7 @@ on:
   workflow_dispatch:  # Allow manual trigger from GitHub Actions UI
 
 permissions:
-  contents: write   # Required to commit and push schedule.json
+  contents: write   # Required to commit and push schedule files
 
 jobs:
   sync:
@@ -28,16 +28,18 @@ jobs:
       - name: Install dependencies
         run: pip install -r scripts/requirements.txt
 
-      - name: Run schedule sync
+      - name: Sync MLB schedule
         run: python scripts/sync_schedule.py
 
-      - name: Commit updated schedule.json
+      - name: Sync NBA, NFL, NHL, WNBA, MLS schedules
+        run: python scripts/sync_sports.py
+
+      - name: Commit updated schedules
         run: |
           git config user.name  "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add public/data/schedule.json
-          # Only commit if there are actual changes
-          git diff --cached --quiet || git commit -m "chore: sync MLB schedule $(date -u '+%Y-%m-%d %H:%M UTC')"
+          git add public/data/
+          git diff --cached --quiet || git commit -m "chore: sync schedules $(date -u '+%Y-%m-%d %H:%M UTC')"
 
       - name: Push changes
         run: git push origin HEAD
