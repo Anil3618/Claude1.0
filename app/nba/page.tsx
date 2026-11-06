@@ -3,13 +3,25 @@ import path from "path";
 import { SportScheduleView } from "@/components/SportScheduleView";
 import type { ScheduleData } from "@/lib/types";
 import type { Metadata } from "next";
-
-export const metadata: Metadata = {
-  title: "NBA Games on TV Tonight | Where to Watch",
-  description: "Every NBA game on TV or streaming tonight — ESPN, ABC, TNT, NBA TV and more in one place.",
-};
+import { sportsEventsLd, breadcrumbLd, todayLabel } from "@/lib/seo";
 
 export const revalidate = 3600;
+
+export async function generateMetadata(): Promise<Metadata> {
+  const date = todayLabel();
+  return {
+    title: `NBA Games on TV Tonight — ${date}`,
+    description: `Every NBA basketball game on TV or streaming on ${date}. Tip-off times and channels — ESPN, ABC, TNT, NBA TV and regional sports networks.`,
+    openGraph: {
+      title: `NBA Games on TV Tonight — ${date}`,
+      description: "Every NBA game. Every platform. Tip-off times and channels.",
+      type: "website",
+      url: "https://gamesballs.org/nba",
+    },
+    twitter: { card: "summary_large_image", title: `NBA on TV Tonight — ${date}` },
+    alternates: { canonical: "https://gamesballs.org/nba" },
+  };
+}
 
 async function getSchedule(): Promise<ScheduleData | null> {
   try {
@@ -28,8 +40,13 @@ export default async function NBAPage() {
     return <p className="text-gray-500 py-20 text-center">Schedule loading…</p>;
   }
 
+  const todayGames = schedule.dates[today] ?? [];
+
   return (
     <>
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(sportsEventsLd(todayGames, "nba")) }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbLd("NBA", "/nba")) }} />
+
       <section className="mb-8">
         <h1 className="text-3xl font-bold mb-1">NBA on TV Tonight</h1>
         <p className="text-gray-400 text-sm">

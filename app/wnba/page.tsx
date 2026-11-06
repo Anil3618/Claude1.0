@@ -3,13 +3,25 @@ import path from "path";
 import { SportScheduleView } from "@/components/SportScheduleView";
 import type { ScheduleData } from "@/lib/types";
 import type { Metadata } from "next";
-
-export const metadata: Metadata = {
-  title: "WNBA Games on TV Tonight | Where to Watch",
-  description: "Every WNBA game on TV or streaming tonight — ESPN, ABC, Ion and more in one place.",
-};
+import { breadcrumbLd, sportsEventsLd, todayLabel } from "@/lib/seo";
 
 export const revalidate = 3600;
+
+export async function generateMetadata(): Promise<Metadata> {
+  const date = todayLabel();
+  return {
+    title: `WNBA Games on TV Tonight — ${date}`,
+    description: `Every WNBA basketball game on TV or streaming on ${date}. Tip-off times and channels — ESPN, ABC, ION and more.`,
+    openGraph: {
+      title: `WNBA Games on TV Tonight — ${date}`,
+      description: "Every WNBA game. Every platform. One place.",
+      type: "website",
+      url: "https://gamesballs.org/wnba",
+    },
+    twitter: { card: "summary_large_image", title: `WNBA on TV Tonight — ${date}` },
+    alternates: { canonical: "https://gamesballs.org/wnba" },
+  };
+}
 
 async function getSchedule(): Promise<ScheduleData | null> {
   try {
@@ -27,6 +39,7 @@ export default async function WNBAPage() {
   if (!schedule || schedule.game_count === 0) {
     return (
       <>
+        <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbLd("WNBA", "/wnba")) }} />
         <section className="mb-8">
           <h1 className="text-3xl font-bold mb-1">WNBA on TV</h1>
           <p className="text-gray-400 text-sm">Every WNBA game. Every platform. One place.</p>
@@ -38,8 +51,13 @@ export default async function WNBAPage() {
     );
   }
 
+  const todayGames = schedule.dates[today] ?? [];
+
   return (
     <>
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(sportsEventsLd(todayGames, "wnba")) }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbLd("WNBA", "/wnba")) }} />
+
       <section className="mb-8">
         <h1 className="text-3xl font-bold mb-1">WNBA on TV Tonight</h1>
         <p className="text-gray-400 text-sm">
