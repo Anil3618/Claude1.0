@@ -9,7 +9,7 @@
         "game_pk": 401909287,
         "game_date": "2026-11-07",
         "game_time_utc": "2026-11-07T00:00Z",
-        "status": "In Progress",
+        "status": "Final",
         "home_team": {
           "id": 1,
           "name": "Atlanta Hawks",
@@ -22,15 +22,15 @@
         },
         "venue": "State Farm Arena",
         "platforms": [],
-        "home_score": 28,
-        "away_score": 30,
+        "home_score": 139,
+        "away_score": 132,
         "sport": "nba"
       },
       {
         "game_pk": 401909288,
         "game_date": "2026-11-07",
         "game_time_utc": "2026-11-07T00:00Z",
-        "status": "In Progress",
+        "status": "Final",
         "home_team": {
           "id": 30,
           "name": "Charlotte Hornets",
@@ -43,15 +43,15 @@
         },
         "venue": "Spectrum Center",
         "platforms": [],
-        "home_score": 18,
-        "away_score": 29,
+        "home_score": 80,
+        "away_score": 119,
         "sport": "nba"
       },
       {
         "game_pk": 401909289,
         "game_date": "2026-11-07",
         "game_time_utc": "2026-11-07T00:30Z",
-        "status": "Scheduled",
+        "status": "Final",
         "home_team": {
           "id": 5,
           "name": "Cleveland Cavaliers",
@@ -70,15 +70,15 @@
             "url": "https://www.amazon.com/primevideo"
           }
         ],
-        "home_score": null,
-        "away_score": null,
+        "home_score": 119,
+        "away_score": 95,
         "sport": "nba"
       },
       {
         "game_pk": 401909290,
         "game_date": "2026-11-07",
         "game_time_utc": "2026-11-07T01:00Z",
-        "status": "Scheduled",
+        "status": "Final",
         "home_team": {
           "id": 6,
           "name": "Dallas Mavericks",
@@ -91,15 +91,15 @@
         },
         "venue": "American Airlines Center",
         "platforms": [],
-        "home_score": null,
-        "away_score": null,
+        "home_score": 112,
+        "away_score": 100,
         "sport": "nba"
       },
       {
         "game_pk": 401909291,
         "game_date": "2026-11-07",
         "game_time_utc": "2026-11-07T01:00Z",
-        "status": "Scheduled",
+        "status": "Final",
         "home_team": {
           "id": 29,
           "name": "Memphis Grizzlies",
@@ -112,15 +112,15 @@
         },
         "venue": "FedExForum",
         "platforms": [],
-        "home_score": null,
-        "away_score": null,
+        "home_score": 97,
+        "away_score": 128,
         "sport": "nba"
       },
       {
         "game_pk": 401909292,
         "game_date": "2026-11-07",
         "game_time_utc": "2026-11-07T01:00Z",
-        "status": "Scheduled",
+        "status": "Final",
         "home_team": {
           "id": 15,
           "name": "Milwaukee Bucks",
@@ -133,15 +133,15 @@
         },
         "venue": "Fiserv Forum",
         "platforms": [],
-        "home_score": null,
-        "away_score": null,
+        "home_score": 107,
+        "away_score": 121,
         "sport": "nba"
       },
       {
         "game_pk": 401909293,
         "game_date": "2026-11-07",
         "game_time_utc": "2026-11-07T01:00Z",
-        "status": "Scheduled",
+        "status": "Final",
         "home_team": {
           "id": 3,
           "name": "New Orleans Pelicans",
@@ -154,15 +154,15 @@
         },
         "venue": "Smoothie King Center",
         "platforms": [],
-        "home_score": null,
-        "away_score": null,
+        "home_score": 109,
+        "away_score": 115,
         "sport": "nba"
       },
       {
         "game_pk": 401909294,
         "game_date": "2026-11-07",
         "game_time_utc": "2026-11-07T03:00Z",
-        "status": "Scheduled",
+        "status": "Final",
         "home_team": {
           "id": 13,
           "name": "Los Angeles Lakers",
@@ -181,15 +181,15 @@
             "url": "https://www.amazon.com/primevideo"
           }
         ],
-        "home_score": null,
-        "away_score": null,
+        "home_score": 124,
+        "away_score": 118,
         "sport": "nba"
       },
       {
         "game_pk": 401909295,
         "game_date": "2026-11-07",
         "game_time_utc": "2026-11-07T03:00Z",
-        "status": "Scheduled",
+        "status": "Final",
         "home_team": {
           "id": 23,
           "name": "Sacramento Kings",
@@ -202,8 +202,8 @@
         },
         "venue": "Golden 1 Center",
         "platforms": [],
-        "home_score": null,
-        "away_score": null,
+        "home_score": 109,
+        "away_score": 124,
         "sport": "nba"
       }
     ],
