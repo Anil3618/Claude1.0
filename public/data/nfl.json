@@ -1,38 +1,9 @@
 {
-  "generated_at": "2026-11-06",
+  "generated_at": "2026-11-07",
   "sport": "nfl",
   "label": "NFL",
-  "game_count": 16,
+  "game_count": 15,
   "dates": {
-    "2026-11-05": [
-      {
-        "game_pk": 401873037,
-        "game_date": "2026-11-06",
-        "game_time_utc": "2026-11-06T01:15Z",
-        "status": "Final",
-        "home_team": {
-          "id": 33,
-          "name": "Baltimore Ravens",
-          "abbreviation": "BAL"
-        },
-        "away_team": {
-          "id": 30,
-          "name": "Jacksonville Jaguars",
-          "abbreviation": "JAX"
-        },
-        "venue": "M&T Bank Stadium",
-        "platforms": [
-          {
-            "label": "Prime Video",
-            "color": "#00A8E0",
-            "url": "https://www.amazon.com/primevideo"
-          }
-        ],
-        "home_score": 10,
-        "away_score": 33,
-        "sport": "nfl"
-      }
-    ],
     "2026-11-08": [
       {
         "game_pk": 401873038,
