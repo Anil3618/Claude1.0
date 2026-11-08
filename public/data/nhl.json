@@ -2,7 +2,7 @@
   "generated_at": "2026-11-08",
   "sport": "nhl",
   "label": "NHL",
-  "game_count": 61,
+  "game_count": 58,
   "dates": {
     "2026-11-07": [
       {
@@ -458,89 +458,6 @@
           "abbreviation": "PIT"
         },
         "venue": "Honda Center",
-        "platforms": [
-          {
-            "label": "ESPN+",
-            "color": "#CC0000",
-            "url": "https://plus.espn.com/"
-          }
-        ],
-        "home_score": null,
-        "away_score": null,
-        "sport": "nhl"
-      }
-    ],
-    "2026-11-09": [
-      {
-        "game_pk": 401892680,
-        "game_date": "2026-11-10",
-        "game_time_utc": "2026-11-10T01:00Z",
-        "status": "Scheduled",
-        "home_team": {
-          "id": 6,
-          "name": "Edmonton Oilers",
-          "abbreviation": "EDM"
-        },
-        "away_team": {
-          "id": 13,
-          "name": "New York Rangers",
-          "abbreviation": "NYR"
-        },
-        "venue": "Rogers Place",
-        "platforms": [
-          {
-            "label": "ESPN+",
-            "color": "#CC0000",
-            "url": "https://plus.espn.com/"
-          }
-        ],
-        "home_score": null,
-        "away_score": null,
-        "sport": "nhl"
-      },
-      {
-        "game_pk": 401892681,
-        "game_date": "2026-11-10",
-        "game_time_utc": "2026-11-10T02:30Z",
-        "status": "Scheduled",
-        "home_team": {
-          "id": 22,
-          "name": "Vancouver Canucks",
-          "abbreviation": "VAN"
-        },
-        "away_team": {
-          "id": 15,
-          "name": "Philadelphia Flyers",
-          "abbreviation": "PHI"
-        },
-        "venue": "Rogers Arena",
-        "platforms": [
-          {
-            "label": "ESPN+",
-            "color": "#CC0000",
-            "url": "https://plus.espn.com/"
-          }
-        ],
-        "home_score": null,
-        "away_score": null,
-        "sport": "nhl"
-      },
-      {
-        "game_pk": 401892682,
-        "game_date": "2026-11-10",
-        "game_time_utc": "2026-11-10T03:00Z",
-        "status": "Scheduled",
-        "home_team": {
-          "id": 18,
-          "name": "San Jose Sharks",
-          "abbreviation": "SJ"
-        },
-        "away_team": {
-          "id": 12,
-          "name": "New York Islanders",
-          "abbreviation": "NYI"
-        },
-        "venue": "SAP Center at San Jose",
         "platforms": [
           {
             "label": "ESPN+",
