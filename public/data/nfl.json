@@ -6,31 +6,10 @@
   "dates": {
     "2026-11-08": [
       {
-        "game_pk": 401873038,
-        "game_date": "2026-11-08",
-        "game_time_utc": "2026-11-08T14:30Z",
-        "status": "In Progress",
-        "home_team": {
-          "id": 1,
-          "name": "Atlanta Falcons",
-          "abbreviation": "ATL"
-        },
-        "away_team": {
-          "id": 4,
-          "name": "Cincinnati Bengals",
-          "abbreviation": "CIN"
-        },
-        "venue": "Santiago Bernab\u00e9u",
-        "platforms": [],
-        "home_score": 10,
-        "away_score": 21,
-        "sport": "nfl"
-      },
-      {
         "game_pk": 401873040,
         "game_date": "2026-11-08",
         "game_time_utc": "2026-11-08T18:00Z",
-        "status": "Scheduled",
+        "status": "In Progress",
         "home_team": {
           "id": 11,
           "name": "Indianapolis Colts",
@@ -43,15 +22,15 @@
         },
         "venue": "Lucas Oil Stadium",
         "platforms": [],
-        "home_score": null,
-        "away_score": null,
+        "home_score": 7,
+        "away_score": 17,
         "sport": "nfl"
       },
       {
         "game_pk": 401873045,
         "game_date": "2026-11-08",
         "game_time_utc": "2026-11-08T18:00Z",
-        "status": "Scheduled",
+        "status": "In Progress",
         "home_team": {
           "id": 12,
           "name": "Kansas City Chiefs",
@@ -70,15 +49,15 @@
             "url": "https://www.cbs.com/"
           }
         ],
-        "home_score": null,
-        "away_score": null,
+        "home_score": 21,
+        "away_score": 12,
         "sport": "nfl"
       },
       {
         "game_pk": 401873042,
         "game_date": "2026-11-08",
         "game_time_utc": "2026-11-08T18:00Z",
-        "status": "Scheduled",
+        "status": "In Progress",
         "home_team": {
           "id": 15,
           "name": "Miami Dolphins",
@@ -90,16 +69,22 @@
           "abbreviation": "DET"
         },
         "venue": "Hard Rock Stadium",
-        "platforms": [],
-        "home_score": null,
-        "away_score": null,
+        "platforms": [
+          {
+            "label": "CBS",
+            "color": "#0033A0",
+            "url": "https://www.cbs.com/"
+          }
+        ],
+        "home_score": 6,
+        "away_score": 16,
         "sport": "nfl"
       },
       {
         "game_pk": 401873039,
         "game_date": "2026-11-08",
         "game_time_utc": "2026-11-08T18:00Z",
-        "status": "Scheduled",
+        "status": "In Progress",
         "home_team": {
           "id": 18,
           "name": "New Orleans Saints",
@@ -118,15 +103,15 @@
             "url": "https://www.cbs.com/"
           }
         ],
-        "home_score": null,
-        "away_score": null,
+        "home_score": 6,
+        "away_score": 6,
         "sport": "nfl"
       },
       {
         "game_pk": 401873044,
         "game_date": "2026-11-08",
         "game_time_utc": "2026-11-08T18:00Z",
-        "status": "Scheduled",
+        "status": "In Progress",
         "home_team": {
           "id": 21,
           "name": "Philadelphia Eagles",
@@ -139,15 +124,15 @@
         },
         "venue": "Lincoln Financial Field",
         "platforms": [],
-        "home_score": null,
-        "away_score": null,
+        "home_score": 8,
+        "away_score": 6,
         "sport": "nfl"
       },
       {
         "game_pk": 401873043,
         "game_date": "2026-11-08",
         "game_time_utc": "2026-11-08T18:00Z",
-        "status": "Scheduled",
+        "status": "In Progress",
         "home_team": {
           "id": 28,
           "name": "Washington Commanders",
@@ -160,15 +145,15 @@
         },
         "venue": "Northwest Stadium",
         "platforms": [],
-        "home_score": null,
-        "away_score": null,
+        "home_score": 10,
+        "away_score": 13,
         "sport": "nfl"
       },
       {
         "game_pk": 401873041,
         "game_date": "2026-11-08",
         "game_time_utc": "2026-11-08T18:00Z",
-        "status": "Scheduled",
+        "status": "In Progress",
         "home_team": {
           "id": 29,
           "name": "Carolina Panthers",
@@ -187,8 +172,29 @@
             "url": "https://www.cbs.com/"
           }
         ],
-        "home_score": null,
-        "away_score": null,
+        "home_score": 14,
+        "away_score": 13,
+        "sport": "nfl"
+      },
+      {
+        "game_pk": 401873038,
+        "game_date": "2026-11-08",
+        "game_time_utc": "2026-11-08T14:30Z",
+        "status": "Final",
+        "home_team": {
+          "id": 1,
+          "name": "Atlanta Falcons",
+          "abbreviation": "ATL"
+        },
+        "away_team": {
+          "id": 4,
+          "name": "Cincinnati Bengals",
+          "abbreviation": "CIN"
+        },
+        "venue": "Santiago Bernab\u00e9u",
+        "platforms": [],
+        "home_score": 17,
+        "away_score": 34,
         "sport": "nfl"
       },
       {
