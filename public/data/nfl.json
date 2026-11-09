@@ -6,54 +6,6 @@
   "dates": {
     "2026-11-08": [
       {
-        "game_pk": 401873046,
-        "game_date": "2026-11-08",
-        "game_time_utc": "2026-11-08T21:05Z",
-        "status": "In Progress",
-        "home_team": {
-          "id": 24,
-          "name": "Los Angeles Chargers",
-          "abbreviation": "LAC"
-        },
-        "away_team": {
-          "id": 34,
-          "name": "Houston Texans",
-          "abbreviation": "HOU"
-        },
-        "venue": "SoFi Stadium",
-        "platforms": [
-          {
-            "label": "CBS",
-            "color": "#0033A0",
-            "url": "https://www.cbs.com/"
-          }
-        ],
-        "home_score": 22,
-        "away_score": 44,
-        "sport": "nfl"
-      },
-      {
-        "game_pk": 401873049,
-        "game_date": "2026-11-08",
-        "game_time_utc": "2026-11-08T21:25Z",
-        "status": "In Progress",
-        "home_team": {
-          "id": 17,
-          "name": "New England Patriots",
-          "abbreviation": "NE"
-        },
-        "away_team": {
-          "id": 9,
-          "name": "Green Bay Packers",
-          "abbreviation": "GB"
-        },
-        "venue": "Gillette Stadium",
-        "platforms": [],
-        "home_score": 21,
-        "away_score": 45,
-        "sport": "nfl"
-      },
-      {
         "game_pk": 401873038,
         "game_date": "2026-11-08",
         "game_time_utc": "2026-11-08T14:30Z",
@@ -246,6 +198,54 @@
         "sport": "nfl"
       },
       {
+        "game_pk": 401873046,
+        "game_date": "2026-11-08",
+        "game_time_utc": "2026-11-08T21:05Z",
+        "status": "Final",
+        "home_team": {
+          "id": 24,
+          "name": "Los Angeles Chargers",
+          "abbreviation": "LAC"
+        },
+        "away_team": {
+          "id": 34,
+          "name": "Houston Texans",
+          "abbreviation": "HOU"
+        },
+        "venue": "SoFi Stadium",
+        "platforms": [
+          {
+            "label": "CBS",
+            "color": "#0033A0",
+            "url": "https://www.cbs.com/"
+          }
+        ],
+        "home_score": 22,
+        "away_score": 44,
+        "sport": "nfl"
+      },
+      {
+        "game_pk": 401873049,
+        "game_date": "2026-11-08",
+        "game_time_utc": "2026-11-08T21:25Z",
+        "status": "Final",
+        "home_team": {
+          "id": 17,
+          "name": "New England Patriots",
+          "abbreviation": "NE"
+        },
+        "away_team": {
+          "id": 9,
+          "name": "Green Bay Packers",
+          "abbreviation": "GB"
+        },
+        "venue": "Gillette Stadium",
+        "platforms": [],
+        "home_score": 27,
+        "away_score": 45,
+        "sport": "nfl"
+      },
+      {
         "game_pk": 401873047,
         "game_date": "2026-11-08",
         "game_time_utc": "2026-11-08T21:25Z",
@@ -291,7 +291,7 @@
         "game_pk": 401873050,
         "game_date": "2026-11-09",
         "game_time_utc": "2026-11-09T01:20Z",
-        "status": "Scheduled",
+        "status": "Final",
         "home_team": {
           "id": 3,
           "name": "Chicago Bears",
@@ -310,8 +310,8 @@
             "url": "https://www.nbc.com/"
           }
         ],
-        "home_score": null,
-        "away_score": null,
+        "home_score": 27,
+        "away_score": 24,
         "sport": "nfl"
       }
     ],
