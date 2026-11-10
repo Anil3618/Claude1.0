@@ -9,7 +9,7 @@
         "game_pk": 401873051,
         "game_date": "2026-11-10",
         "game_time_utc": "2026-11-10T01:15Z",
-        "status": "In Progress",
+        "status": "Final",
         "home_team": {
           "id": 16,
           "name": "Minnesota Vikings",
@@ -33,8 +33,8 @@
             "url": "https://abc.com/"
           }
         ],
-        "home_score": 0,
-        "away_score": 3,
+        "home_score": 6,
+        "away_score": 23,
         "sport": "nfl"
       }
     ],

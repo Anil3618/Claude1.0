@@ -9,7 +9,7 @@
         "game_pk": 401892680,
         "game_date": "2026-11-10",
         "game_time_utc": "2026-11-10T01:00Z",
-        "status": "End of Period",
+        "status": "Final",
         "home_team": {
           "id": 6,
           "name": "Edmonton Oilers",
@@ -28,15 +28,15 @@
             "url": "https://plus.espn.com/"
           }
         ],
-        "home_score": null,
-        "away_score": null,
+        "home_score": 3,
+        "away_score": 1,
         "sport": "nhl"
       },
       {
         "game_pk": 401892681,
         "game_date": "2026-11-10",
         "game_time_utc": "2026-11-10T02:30Z",
-        "status": "Scheduled",
+        "status": "Final",
         "home_team": {
           "id": 22,
           "name": "Vancouver Canucks",
@@ -55,15 +55,15 @@
             "url": "https://plus.espn.com/"
           }
         ],
-        "home_score": null,
-        "away_score": null,
+        "home_score": 1,
+        "away_score": 3,
         "sport": "nhl"
       },
       {
         "game_pk": 401892682,
         "game_date": "2026-11-10",
         "game_time_utc": "2026-11-10T03:00Z",
-        "status": "Scheduled",
+        "status": "Final",
         "home_team": {
           "id": 18,
           "name": "San Jose Sharks",
@@ -82,8 +82,8 @@
             "url": "https://plus.espn.com/"
           }
         ],
-        "home_score": null,
-        "away_score": null,
+        "home_score": 3,
+        "away_score": 2,
         "sport": "nhl"
       }
     ],
