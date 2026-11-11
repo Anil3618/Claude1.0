@@ -9,7 +9,7 @@
         "game_pk": 401909960,
         "game_date": "2026-11-11",
         "game_time_utc": "2026-11-11T00:30Z",
-        "status": "In Progress",
+        "status": "Final",
         "home_team": {
           "id": 18,
           "name": "New York Knicks",
@@ -22,15 +22,15 @@
         },
         "venue": "Madison Square Garden",
         "platforms": [],
-        "home_score": 94,
-        "away_score": 76,
+        "home_score": 117,
+        "away_score": 85,
         "sport": "nba"
       },
       {
         "game_pk": 401909961,
         "game_date": "2026-11-11",
         "game_time_utc": "2026-11-11T01:00Z",
-        "status": "In Progress",
+        "status": "Final",
         "home_team": {
           "id": 20,
           "name": "Philadelphia 76ers",
@@ -49,15 +49,15 @@
             "url": "https://www.nbc.com/"
           }
         ],
-        "home_score": 54,
-        "away_score": 62,
+        "home_score": 101,
+        "away_score": 123,
         "sport": "nba"
       },
       {
         "game_pk": 401909962,
         "game_date": "2026-11-11",
         "game_time_utc": "2026-11-11T02:00Z",
-        "status": "In Progress",
+        "status": "Final",
         "home_team": {
           "id": 21,
           "name": "Phoenix Suns",
@@ -70,15 +70,15 @@
         },
         "venue": "Mortgage Matchup Center",
         "platforms": [],
-        "home_score": 19,
-        "away_score": 18,
+        "home_score": 133,
+        "away_score": 110,
         "sport": "nba"
       },
       {
         "game_pk": 401909963,
         "game_date": "2026-11-11",
         "game_time_utc": "2026-11-11T02:00Z",
-        "status": "In Progress",
+        "status": "Final",
         "home_team": {
           "id": 26,
           "name": "Utah Jazz",
@@ -91,15 +91,15 @@
         },
         "venue": "Delta Center",
         "platforms": [],
-        "home_score": 17,
-        "away_score": 22,
+        "home_score": 109,
+        "away_score": 115,
         "sport": "nba"
       },
       {
         "game_pk": 401909964,
         "game_date": "2026-11-11",
         "game_time_utc": "2026-11-11T03:00Z",
-        "status": "Scheduled",
+        "status": "Final",
         "home_team": {
           "id": 23,
           "name": "Sacramento Kings",
@@ -112,15 +112,15 @@
         },
         "venue": "Golden 1 Center",
         "platforms": [],
-        "home_score": null,
-        "away_score": null,
+        "home_score": 100,
+        "away_score": 107,
         "sport": "nba"
       },
       {
         "game_pk": 401909965,
         "game_date": "2026-11-11",
         "game_time_utc": "2026-11-11T04:00Z",
-        "status": "Scheduled",
+        "status": "Final",
         "home_team": {
           "id": 22,
           "name": "Portland Trail Blazers",
@@ -139,8 +139,8 @@
             "url": "https://www.nbc.com/"
           }
         ],
-        "home_score": null,
-        "away_score": null,
+        "home_score": 123,
+        "away_score": 103,
         "sport": "nba"
       }
     ],
