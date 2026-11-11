@@ -1,43 +1,9 @@
 {
-  "generated_at": "2026-11-10",
+  "generated_at": "2026-11-11",
   "sport": "nfl",
   "label": "NFL",
-  "game_count": 15,
+  "game_count": 14,
   "dates": {
-    "2026-11-09": [
-      {
-        "game_pk": 401873051,
-        "game_date": "2026-11-10",
-        "game_time_utc": "2026-11-10T01:15Z",
-        "status": "Final",
-        "home_team": {
-          "id": 16,
-          "name": "Minnesota Vikings",
-          "abbreviation": "MIN"
-        },
-        "away_team": {
-          "id": 2,
-          "name": "Buffalo Bills",
-          "abbreviation": "BUF"
-        },
-        "venue": "U.S. Bank Stadium",
-        "platforms": [
-          {
-            "label": "ESPN",
-            "color": "#CC0000",
-            "url": "https://www.espn.com/watch/"
-          },
-          {
-            "label": "ABC",
-            "color": "#006DB7",
-            "url": "https://abc.com/"
-          }
-        ],
-        "home_score": 6,
-        "away_score": 23,
-        "sport": "nfl"
-      }
-    ],
     "2026-11-12": [
       {
         "game_pk": 401873052,
