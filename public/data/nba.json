@@ -9,7 +9,7 @@
         "game_pk": 401909966,
         "game_date": "2026-11-12",
         "game_time_utc": "2026-11-12T00:00Z",
-        "status": "Halftime",
+        "status": "Final",
         "home_team": {
           "id": 11,
           "name": "Indiana Pacers",
@@ -22,15 +22,15 @@
         },
         "venue": "Gainbridge Fieldhouse",
         "platforms": [],
-        "home_score": null,
-        "away_score": null,
+        "home_score": 114,
+        "away_score": 101,
         "sport": "nba"
       },
       {
         "game_pk": 401909967,
         "game_date": "2026-11-12",
         "game_time_utc": "2026-11-12T00:00Z",
-        "status": "Halftime",
+        "status": "Final",
         "home_team": {
           "id": 18,
           "name": "New York Knicks",
@@ -49,15 +49,15 @@
             "url": "https://www.espn.com/watch/"
           }
         ],
-        "home_score": null,
-        "away_score": null,
+        "home_score": 107,
+        "away_score": 115,
         "sport": "nba"
       },
       {
         "game_pk": 401909968,
         "game_date": "2026-11-12",
         "game_time_utc": "2026-11-12T00:00Z",
-        "status": "In Progress",
+        "status": "Final",
         "home_team": {
           "id": 28,
           "name": "Toronto Raptors",
@@ -70,15 +70,15 @@
         },
         "venue": "Scotiabank Arena",
         "platforms": [],
-        "home_score": 59,
-        "away_score": 48,
+        "home_score": 93,
+        "away_score": 98,
         "sport": "nba"
       },
       {
         "game_pk": 401909969,
         "game_date": "2026-11-12",
         "game_time_utc": "2026-11-12T01:00Z",
-        "status": "In Progress",
+        "status": "Final",
         "home_team": {
           "id": 4,
           "name": "Chicago Bulls",
@@ -91,15 +91,15 @@
         },
         "venue": "United Center",
         "platforms": [],
-        "home_score": 12,
-        "away_score": 11,
+        "home_score": 119,
+        "away_score": 124,
         "sport": "nba"
       },
       {
         "game_pk": 401909970,
         "game_date": "2026-11-12",
         "game_time_utc": "2026-11-12T01:00Z",
-        "status": "In Progress",
+        "status": "Final",
         "home_team": {
           "id": 29,
           "name": "Memphis Grizzlies",
@@ -112,15 +112,15 @@
         },
         "venue": "FedExForum",
         "platforms": [],
-        "home_score": 5,
-        "away_score": 8,
+        "home_score": 118,
+        "away_score": 123,
         "sport": "nba"
       },
       {
         "game_pk": 401909971,
         "game_date": "2026-11-12",
         "game_time_utc": "2026-11-12T01:00Z",
-        "status": "In Progress",
+        "status": "Final",
         "home_team": {
           "id": 15,
           "name": "Milwaukee Bucks",
@@ -133,15 +133,15 @@
         },
         "venue": "Fiserv Forum",
         "platforms": [],
-        "home_score": 7,
-        "away_score": 2,
+        "home_score": 112,
+        "away_score": 123,
         "sport": "nba"
       },
       {
         "game_pk": 401909972,
         "game_date": "2026-11-12",
         "game_time_utc": "2026-11-12T01:00Z",
-        "status": "In Progress",
+        "status": "Final",
         "home_team": {
           "id": 3,
           "name": "New Orleans Pelicans",
@@ -154,15 +154,15 @@
         },
         "venue": "Smoothie King Center",
         "platforms": [],
-        "home_score": 5,
-        "away_score": 5,
+        "home_score": 111,
+        "away_score": 145,
         "sport": "nba"
       },
       {
         "game_pk": 401909973,
         "game_date": "2026-11-12",
         "game_time_utc": "2026-11-12T02:00Z",
-        "status": "Scheduled",
+        "status": "Final",
         "home_team": {
           "id": 26,
           "name": "Utah Jazz",
@@ -175,15 +175,15 @@
         },
         "venue": "Delta Center",
         "platforms": [],
-        "home_score": null,
-        "away_score": null,
+        "home_score": 108,
+        "away_score": 123,
         "sport": "nba"
       },
       {
         "game_pk": 401909974,
         "game_date": "2026-11-12",
         "game_time_utc": "2026-11-12T02:30Z",
-        "status": "Scheduled",
+        "status": "Final",
         "home_team": {
           "id": 10,
           "name": "Houston Rockets",
@@ -202,15 +202,15 @@
             "url": "https://www.espn.com/watch/"
           }
         ],
-        "home_score": null,
-        "away_score": null,
+        "home_score": 115,
+        "away_score": 108,
         "sport": "nba"
       },
       {
         "game_pk": 401909975,
         "game_date": "2026-11-12",
         "game_time_utc": "2026-11-12T03:00Z",
-        "status": "Scheduled",
+        "status": "Final",
         "home_team": {
           "id": 22,
           "name": "Portland Trail Blazers",
@@ -223,8 +223,8 @@
         },
         "venue": "Moda Center",
         "platforms": [],
-        "home_score": null,
-        "away_score": null,
+        "home_score": 118,
+        "away_score": 108,
         "sport": "nba"
       }
     ],
