@@ -1,206 +1,15 @@
 {
-  "generated_at": "2026-11-11",
+  "generated_at": "2026-11-12",
   "sport": "nhl",
   "label": "NHL",
-  "game_count": 58,
+  "game_count": 54,
   "dates": {
-    "2026-11-10": [
-      {
-        "game_pk": 401892683,
-        "game_date": "2026-11-11",
-        "game_time_utc": "2026-11-11T00:00Z",
-        "status": "Final",
-        "home_team": {
-          "id": 21,
-          "name": "Toronto Maple Leafs",
-          "abbreviation": "TOR"
-        },
-        "away_team": {
-          "id": 17,
-          "name": "Colorado Avalanche",
-          "abbreviation": "COL"
-        },
-        "venue": "Scotiabank Arena",
-        "platforms": [
-          {
-            "label": "ESPN+",
-            "color": "#CC0000",
-            "url": "https://plus.espn.com/"
-          }
-        ],
-        "home_score": 3,
-        "away_score": 6,
-        "sport": "nhl"
-      },
-      {
-        "game_pk": 401892684,
-        "game_date": "2026-11-11",
-        "game_time_utc": "2026-11-11T00:00Z",
-        "status": "Final",
-        "home_team": {
-          "id": 10,
-          "name": "Montreal Canadiens",
-          "abbreviation": "MTL"
-        },
-        "away_team": {
-          "id": 30,
-          "name": "Minnesota Wild",
-          "abbreviation": "MIN"
-        },
-        "venue": "Bell Centre",
-        "platforms": [
-          {
-            "label": "ESPN+",
-            "color": "#CC0000",
-            "url": "https://plus.espn.com/"
-          }
-        ],
-        "home_score": 1,
-        "away_score": 2,
-        "sport": "nhl"
-      },
-      {
-        "game_pk": 401892685,
-        "game_date": "2026-11-11",
-        "game_time_utc": "2026-11-11T00:00Z",
-        "status": "Final",
-        "home_team": {
-          "id": 14,
-          "name": "Ottawa Senators",
-          "abbreviation": "OTT"
-        },
-        "away_team": {
-          "id": 23,
-          "name": "Washington Capitals",
-          "abbreviation": "WSH"
-        },
-        "venue": "Canadian Tire Centre",
-        "platforms": [
-          {
-            "label": "ESPN+",
-            "color": "#CC0000",
-            "url": "https://plus.espn.com/"
-          }
-        ],
-        "home_score": 2,
-        "away_score": 3,
-        "sport": "nhl"
-      },
-      {
-        "game_pk": 401892688,
-        "game_date": "2026-11-11",
-        "game_time_utc": "2026-11-11T00:00Z",
-        "status": "Final",
-        "home_team": {
-          "id": 28,
-          "name": "Winnipeg Jets",
-          "abbreviation": "WPG"
-        },
-        "away_team": {
-          "id": 11,
-          "name": "New Jersey Devils",
-          "abbreviation": "NJ"
-        },
-        "venue": "Canada Life Centre",
-        "platforms": [
-          {
-            "label": "ESPN+",
-            "color": "#CC0000",
-            "url": "https://plus.espn.com/"
-          }
-        ],
-        "home_score": 4,
-        "away_score": 2,
-        "sport": "nhl"
-      },
-      {
-        "game_pk": 401892686,
-        "game_date": "2026-11-11",
-        "game_time_utc": "2026-11-11T00:30Z",
-        "status": "Final",
-        "home_team": {
-          "id": 29,
-          "name": "Columbus Blue Jackets",
-          "abbreviation": "CBJ"
-        },
-        "away_team": {
-          "id": 26,
-          "name": "Florida Panthers",
-          "abbreviation": "FLA"
-        },
-        "venue": "Nationwide Arena",
-        "platforms": [
-          {
-            "label": "ESPN+",
-            "color": "#CC0000",
-            "url": "https://plus.espn.com/"
-          }
-        ],
-        "home_score": 1,
-        "away_score": 4,
-        "sport": "nhl"
-      },
-      {
-        "game_pk": 401892687,
-        "game_date": "2026-11-11",
-        "game_time_utc": "2026-11-11T01:00Z",
-        "status": "Final",
-        "home_team": {
-          "id": 19,
-          "name": "St. Louis Blues",
-          "abbreviation": "STL"
-        },
-        "away_team": {
-          "id": 5,
-          "name": "Detroit Red Wings",
-          "abbreviation": "DET"
-        },
-        "venue": "Enterprise Center",
-        "platforms": [
-          {
-            "label": "TNT",
-            "color": "#FF8200",
-            "url": "https://www.tntdrama.com/watchtnt"
-          }
-        ],
-        "home_score": 3,
-        "away_score": 2,
-        "sport": "nhl"
-      },
-      {
-        "game_pk": 401892689,
-        "game_date": "2026-11-11",
-        "game_time_utc": "2026-11-11T03:00Z",
-        "status": "Final",
-        "home_team": {
-          "id": 8,
-          "name": "Los Angeles Kings",
-          "abbreviation": "LA"
-        },
-        "away_team": {
-          "id": 27,
-          "name": "Nashville Predators",
-          "abbreviation": "NSH"
-        },
-        "venue": "crypto.com Arena",
-        "platforms": [
-          {
-            "label": "ESPN+",
-            "color": "#CC0000",
-            "url": "https://plus.espn.com/"
-          }
-        ],
-        "home_score": 0,
-        "away_score": 3,
-        "sport": "nhl"
-      }
-    ],
     "2026-11-11": [
       {
         "game_pk": 401892690,
         "game_date": "2026-11-12",
         "game_time_utc": "2026-11-12T00:00Z",
-        "status": "Scheduled",
+        "status": "In Progress",
         "home_team": {
           "id": 2,
           "name": "Buffalo Sabres",
@@ -224,15 +33,15 @@
             "url": "https://www.trutv.com/"
           }
         ],
-        "home_score": null,
-        "away_score": null,
+        "home_score": 0,
+        "away_score": 3,
         "sport": "nhl"
       },
       {
         "game_pk": 401892691,
         "game_date": "2026-11-12",
         "game_time_utc": "2026-11-12T00:30Z",
-        "status": "Scheduled",
+        "status": "In Progress",
         "home_team": {
           "id": 3,
           "name": "Calgary Flames",
@@ -251,8 +60,8 @@
             "url": "https://plus.espn.com/"
           }
         ],
-        "home_score": null,
-        "away_score": null,
+        "home_score": 0,
+        "away_score": 0,
         "sport": "nhl"
       },
       {
@@ -1575,6 +1384,89 @@
             "label": "ESPN+",
             "color": "#CC0000",
             "url": "https://plus.espn.com/"
+          }
+        ],
+        "home_score": null,
+        "away_score": null,
+        "sport": "nhl"
+      }
+    ],
+    "2026-11-18": [
+      {
+        "game_pk": 401892739,
+        "game_date": "2026-11-19",
+        "game_time_utc": "2026-11-19T00:30Z",
+        "status": "Scheduled",
+        "home_team": {
+          "id": 5,
+          "name": "Detroit Red Wings",
+          "abbreviation": "DET"
+        },
+        "away_team": {
+          "id": 1,
+          "name": "Boston Bruins",
+          "abbreviation": "BOS"
+        },
+        "venue": "Little Caesars Arena",
+        "platforms": [
+          {
+            "label": "TNT",
+            "color": "#FF8200",
+            "url": "https://www.tntdrama.com/watchtnt"
+          }
+        ],
+        "home_score": null,
+        "away_score": null,
+        "sport": "nhl"
+      },
+      {
+        "game_pk": 401892740,
+        "game_date": "2026-11-19",
+        "game_time_utc": "2026-11-19T00:30Z",
+        "status": "Scheduled",
+        "home_team": {
+          "id": 11,
+          "name": "New Jersey Devils",
+          "abbreviation": "NJ"
+        },
+        "away_team": {
+          "id": 10,
+          "name": "Montreal Canadiens",
+          "abbreviation": "MTL"
+        },
+        "venue": "Prudential Center",
+        "platforms": [
+          {
+            "label": "ESPN+",
+            "color": "#CC0000",
+            "url": "https://plus.espn.com/"
+          }
+        ],
+        "home_score": null,
+        "away_score": null,
+        "sport": "nhl"
+      },
+      {
+        "game_pk": 401892741,
+        "game_date": "2026-11-19",
+        "game_time_utc": "2026-11-19T03:00Z",
+        "status": "Scheduled",
+        "home_team": {
+          "id": 129764,
+          "name": "Utah Mammoth",
+          "abbreviation": "UTA"
+        },
+        "away_team": {
+          "id": 17,
+          "name": "Colorado Avalanche",
+          "abbreviation": "COL"
+        },
+        "venue": "Delta Center",
+        "platforms": [
+          {
+            "label": "TNT",
+            "color": "#FF8200",
+            "url": "https://www.tntdrama.com/watchtnt"
           }
         ],
         "home_score": null,
