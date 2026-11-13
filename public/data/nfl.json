@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-11-12",
+  "generated_at": "2026-11-13",
   "sport": "nfl",
   "label": "NFL",
-  "game_count": 14,
+  "game_count": 15,
   "dates": {
     "2026-11-12": [
       {
         "game_pk": 401873052,
         "game_date": "2026-11-13",
         "game_time_utc": "2026-11-13T01:15Z",
-        "status": "Scheduled",
+        "status": "Final",
         "home_team": {
           "id": 19,
           "name": "New York Giants",
@@ -28,8 +28,8 @@
             "url": "https://www.amazon.com/primevideo"
           }
         ],
-        "home_score": null,
-        "away_score": null,
+        "home_score": 21,
+        "away_score": 24,
         "sport": "nfl"
       }
     ],
@@ -345,6 +345,35 @@
             "label": "ESPN",
             "color": "#CC0000",
             "url": "https://www.espn.com/watch/"
+          }
+        ],
+        "home_score": null,
+        "away_score": null,
+        "sport": "nfl"
+      }
+    ],
+    "2026-11-19": [
+      {
+        "game_pk": 401873066,
+        "game_date": "2026-11-20",
+        "game_time_utc": "2026-11-20T01:15Z",
+        "status": "Scheduled",
+        "home_team": {
+          "id": 34,
+          "name": "Houston Texans",
+          "abbreviation": "HOU"
+        },
+        "away_team": {
+          "id": 11,
+          "name": "Indianapolis Colts",
+          "abbreviation": "IND"
+        },
+        "venue": "Reliant Stadium",
+        "platforms": [
+          {
+            "label": "Prime Video",
+            "color": "#00A8E0",
+            "url": "https://www.amazon.com/primevideo"
           }
         ],
         "home_score": null,

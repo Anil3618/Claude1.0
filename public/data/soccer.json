@@ -1,7 +1,64 @@
 {
-  "generated_at": "2026-11-12",
+  "generated_at": "2026-11-13",
   "sport": "soccer",
   "label": "MLS",
-  "game_count": 0,
-  "dates": {}
+  "game_count": 2,
+  "dates": {
+    "2026-11-19": [
+      {
+        "game_pk": 401933535,
+        "game_date": "2026-11-20",
+        "game_time_utc": "2026-11-20T00:30Z",
+        "status": "Scheduled",
+        "home_team": {
+          "id": 12011,
+          "name": "Orlando City SC",
+          "abbreviation": "ORL"
+        },
+        "away_team": {
+          "id": 18267,
+          "name": "FC Cincinnati",
+          "abbreviation": "CIN"
+        },
+        "venue": "Inter&Co Stadium",
+        "platforms": [
+          {
+            "label": "Apple TV+",
+            "color": "#555555",
+            "url": "https://tv.apple.com/"
+          }
+        ],
+        "home_score": null,
+        "away_score": null,
+        "sport": "soccer"
+      },
+      {
+        "game_pk": 401933555,
+        "game_date": "2026-11-20",
+        "game_time_utc": "2026-11-20T03:00Z",
+        "status": "Scheduled",
+        "home_team": {
+          "id": 9726,
+          "name": "Seattle Sounders FC",
+          "abbreviation": "SEA"
+        },
+        "away_team": {
+          "id": 4771,
+          "name": "Real Salt Lake",
+          "abbreviation": "RSL"
+        },
+        "venue": "Lumen Field",
+        "platforms": [
+          {
+            "label": "Apple TV+",
+            "color": "#555555",
+            "url": "https://tv.apple.com/"
+          }
+        ],
+        "home_score": null,
+        "away_score": null,
+        "sport": "soccer"
+      }
+    ]
+  }
 }
