@@ -246,7 +246,7 @@
         "game_pk": 401892704,
         "game_date": "2026-11-13",
         "game_time_utc": "2026-11-13T02:00Z",
-        "status": "In Progress",
+        "status": "Final",
         "home_team": {
           "id": 129764,
           "name": "Utah Mammoth",
@@ -266,14 +266,14 @@
           }
         ],
         "home_score": 0,
-        "away_score": 0,
+        "away_score": 1,
         "sport": "nhl"
       },
       {
         "game_pk": 401892705,
         "game_date": "2026-11-13",
         "game_time_utc": "2026-11-13T03:00Z",
-        "status": "In Progress",
+        "status": "Final",
         "home_team": {
           "id": 8,
           "name": "Los Angeles Kings",
@@ -293,7 +293,7 @@
           }
         ],
         "home_score": 2,
-        "away_score": 3,
+        "away_score": 5,
         "sport": "nhl"
       }
     ],
