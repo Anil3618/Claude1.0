@@ -9,7 +9,7 @@
         "game_pk": 401892706,
         "game_date": "2026-11-14",
         "game_time_utc": "2026-11-14T02:00Z",
-        "status": "Scheduled",
+        "status": "Final",
         "home_team": {
           "id": 22,
           "name": "Vancouver Canucks",
@@ -28,15 +28,15 @@
             "url": "https://plus.espn.com/"
           }
         ],
-        "home_score": null,
-        "away_score": null,
+        "home_score": 1,
+        "away_score": 5,
         "sport": "nhl"
       },
       {
         "game_pk": 401892707,
         "game_date": "2026-11-14",
         "game_time_utc": "2026-11-14T03:00Z",
-        "status": "Scheduled",
+        "status": "Final",
         "home_team": {
           "id": 37,
           "name": "Vegas Golden Knights",
@@ -55,8 +55,8 @@
             "url": "https://plus.espn.com/"
           }
         ],
-        "home_score": null,
-        "away_score": null,
+        "home_score": 2,
+        "away_score": 3,
         "sport": "nhl"
       }
     ],

@@ -9,7 +9,7 @@
         "game_pk": 401909296,
         "game_date": "2026-11-14",
         "game_time_utc": "2026-11-14T00:00Z",
-        "status": "In Progress",
+        "status": "Final",
         "home_team": {
           "id": 11,
           "name": "Indiana Pacers",
@@ -28,15 +28,15 @@
             "url": "https://www.amazon.com/primevideo"
           }
         ],
-        "home_score": 51,
-        "away_score": 41,
+        "home_score": 106,
+        "away_score": 104,
         "sport": "nba"
       },
       {
         "game_pk": 401909297,
         "game_date": "2026-11-14",
         "game_time_utc": "2026-11-14T00:00Z",
-        "status": "Halftime",
+        "status": "Final",
         "home_team": {
           "id": 19,
           "name": "Orlando Magic",
@@ -49,15 +49,15 @@
         },
         "venue": "Kia Center",
         "platforms": [],
-        "home_score": null,
-        "away_score": null,
+        "home_score": 107,
+        "away_score": 99,
         "sport": "nba"
       },
       {
         "game_pk": 401909298,
         "game_date": "2026-11-14",
         "game_time_utc": "2026-11-14T01:00Z",
-        "status": "Scheduled",
+        "status": "Final",
         "home_team": {
           "id": 14,
           "name": "Miami Heat",
@@ -70,15 +70,15 @@
         },
         "venue": "Kaseya Center",
         "platforms": [],
-        "home_score": null,
-        "away_score": null,
+        "home_score": 133,
+        "away_score": 121,
         "sport": "nba"
       },
       {
         "game_pk": 401909299,
         "game_date": "2026-11-14",
         "game_time_utc": "2026-11-14T01:00Z",
-        "status": "In Progress",
+        "status": "Final",
         "home_team": {
           "id": 4,
           "name": "Chicago Bulls",
@@ -91,15 +91,15 @@
         },
         "venue": "United Center",
         "platforms": [],
-        "home_score": 0,
-        "away_score": 0,
+        "home_score": 125,
+        "away_score": 117,
         "sport": "nba"
       },
       {
         "game_pk": 401909300,
         "game_date": "2026-11-14",
         "game_time_utc": "2026-11-14T01:00Z",
-        "status": "In Progress",
+        "status": "Final",
         "home_team": {
           "id": 3,
           "name": "New Orleans Pelicans",
@@ -112,15 +112,15 @@
         },
         "venue": "Smoothie King Center",
         "platforms": [],
-        "home_score": 0,
-        "away_score": 0,
+        "home_score": 111,
+        "away_score": 142,
         "sport": "nba"
       },
       {
         "game_pk": 401909301,
         "game_date": "2026-11-14",
         "game_time_utc": "2026-11-14T01:30Z",
-        "status": "Scheduled",
+        "status": "Final",
         "home_team": {
           "id": 10,
           "name": "Houston Rockets",
@@ -133,15 +133,15 @@
         },
         "venue": "Toyota Center (Houston)",
         "platforms": [],
-        "home_score": null,
-        "away_score": null,
+        "home_score": 125,
+        "away_score": 118,
         "sport": "nba"
       },
       {
         "game_pk": 401909302,
         "game_date": "2026-11-14",
         "game_time_utc": "2026-11-14T02:30Z",
-        "status": "Scheduled",
+        "status": "Final",
         "home_team": {
           "id": 24,
           "name": "San Antonio Spurs",
@@ -160,15 +160,15 @@
             "url": "https://www.amazon.com/primevideo"
           }
         ],
-        "home_score": null,
-        "away_score": null,
+        "home_score": 123,
+        "away_score": 85,
         "sport": "nba"
       },
       {
         "game_pk": 401909303,
         "game_date": "2026-11-14",
         "game_time_utc": "2026-11-14T03:00Z",
-        "status": "Scheduled",
+        "status": "Final",
         "home_team": {
           "id": 23,
           "name": "Sacramento Kings",
@@ -181,15 +181,15 @@
         },
         "venue": "Golden 1 Center",
         "platforms": [],
-        "home_score": null,
-        "away_score": null,
+        "home_score": 107,
+        "away_score": 120,
         "sport": "nba"
       },
       {
         "game_pk": 401909304,
         "game_date": "2026-11-14",
         "game_time_utc": "2026-11-14T03:30Z",
-        "status": "Scheduled",
+        "status": "Final",
         "home_team": {
           "id": 12,
           "name": "LA Clippers",
@@ -202,8 +202,8 @@
         },
         "venue": "Intuit Dome",
         "platforms": [],
-        "home_score": null,
-        "away_score": null,
+        "home_score": 113,
+        "away_score": 112,
         "sport": "nba"
       }
     ],
