@@ -1,38 +1,9 @@
 {
-  "generated_at": "2026-11-13",
+  "generated_at": "2026-11-14",
   "sport": "nfl",
   "label": "NFL",
-  "game_count": 15,
+  "game_count": 14,
   "dates": {
-    "2026-11-12": [
-      {
-        "game_pk": 401873052,
-        "game_date": "2026-11-13",
-        "game_time_utc": "2026-11-13T01:15Z",
-        "status": "Final",
-        "home_team": {
-          "id": 19,
-          "name": "New York Giants",
-          "abbreviation": "NYG"
-        },
-        "away_team": {
-          "id": 28,
-          "name": "Washington Commanders",
-          "abbreviation": "WSH"
-        },
-        "venue": "MetLife Stadium",
-        "platforms": [
-          {
-            "label": "Prime Video",
-            "color": "#00A8E0",
-            "url": "https://www.amazon.com/primevideo"
-          }
-        ],
-        "home_score": 21,
-        "away_score": 24,
-        "sport": "nfl"
-      }
-    ],
     "2026-11-15": [
       {
         "game_pk": 401873053,

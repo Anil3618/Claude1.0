@@ -1,107 +1,15 @@
 {
-  "generated_at": "2026-11-13",
+  "generated_at": "2026-11-14",
   "sport": "nba",
   "label": "NBA",
-  "game_count": 56,
+  "game_count": 61,
   "dates": {
-    "2026-11-12": [
-      {
-        "game_pk": 401909976,
-        "game_date": "2026-11-13",
-        "game_time_utc": "2026-11-13T00:00Z",
-        "status": "Final",
-        "home_team": {
-          "id": 20,
-          "name": "Philadelphia 76ers",
-          "abbreviation": "PHI"
-        },
-        "away_team": {
-          "id": 28,
-          "name": "Toronto Raptors",
-          "abbreviation": "TOR"
-        },
-        "venue": "Xfinity Mobile Arena",
-        "platforms": [],
-        "home_score": 123,
-        "away_score": 112,
-        "sport": "nba"
-      },
-      {
-        "game_pk": 401909977,
-        "game_date": "2026-11-13",
-        "game_time_utc": "2026-11-13T00:00Z",
-        "status": "Final",
-        "home_team": {
-          "id": 27,
-          "name": "Washington Wizards",
-          "abbreviation": "WSH"
-        },
-        "away_team": {
-          "id": 8,
-          "name": "Detroit Pistons",
-          "abbreviation": "DET"
-        },
-        "venue": "Capital One Arena",
-        "platforms": [],
-        "home_score": 140,
-        "away_score": 144,
-        "sport": "nba"
-      },
-      {
-        "game_pk": 401909978,
-        "game_date": "2026-11-13",
-        "game_time_utc": "2026-11-13T01:00Z",
-        "status": "Final",
-        "home_team": {
-          "id": 16,
-          "name": "Minnesota Timberwolves",
-          "abbreviation": "MIN"
-        },
-        "away_team": {
-          "id": 6,
-          "name": "Dallas Mavericks",
-          "abbreviation": "DAL"
-        },
-        "venue": "Target Center",
-        "platforms": [
-          {
-            "label": "NBA TV",
-            "color": "#1D428A",
-            "url": "https://www.nba.com/watch"
-          }
-        ],
-        "home_score": 133,
-        "away_score": 94,
-        "sport": "nba"
-      },
-      {
-        "game_pk": 401909979,
-        "game_date": "2026-11-13",
-        "game_time_utc": "2026-11-13T02:00Z",
-        "status": "Final",
-        "home_team": {
-          "id": 21,
-          "name": "Phoenix Suns",
-          "abbreviation": "PHX"
-        },
-        "away_team": {
-          "id": 30,
-          "name": "Charlotte Hornets",
-          "abbreviation": "CHA"
-        },
-        "venue": "Mortgage Matchup Center",
-        "platforms": [],
-        "home_score": 101,
-        "away_score": 96,
-        "sport": "nba"
-      }
-    ],
     "2026-11-13": [
       {
         "game_pk": 401909296,
         "game_date": "2026-11-14",
         "game_time_utc": "2026-11-14T00:00Z",
-        "status": "Scheduled",
+        "status": "In Progress",
         "home_team": {
           "id": 11,
           "name": "Indiana Pacers",
@@ -120,15 +28,15 @@
             "url": "https://www.amazon.com/primevideo"
           }
         ],
-        "home_score": null,
-        "away_score": null,
+        "home_score": 51,
+        "away_score": 41,
         "sport": "nba"
       },
       {
         "game_pk": 401909297,
         "game_date": "2026-11-14",
         "game_time_utc": "2026-11-14T00:00Z",
-        "status": "Scheduled",
+        "status": "Halftime",
         "home_team": {
           "id": 19,
           "name": "Orlando Magic",
@@ -170,7 +78,7 @@
         "game_pk": 401909299,
         "game_date": "2026-11-14",
         "game_time_utc": "2026-11-14T01:00Z",
-        "status": "Scheduled",
+        "status": "In Progress",
         "home_team": {
           "id": 4,
           "name": "Chicago Bulls",
@@ -183,15 +91,15 @@
         },
         "venue": "United Center",
         "platforms": [],
-        "home_score": null,
-        "away_score": null,
+        "home_score": 0,
+        "away_score": 0,
         "sport": "nba"
       },
       {
         "game_pk": 401909300,
         "game_date": "2026-11-14",
         "game_time_utc": "2026-11-14T01:00Z",
-        "status": "Scheduled",
+        "status": "In Progress",
         "home_team": {
           "id": 3,
           "name": "New Orleans Pelicans",
@@ -204,8 +112,8 @@
         },
         "venue": "Smoothie King Center",
         "platforms": [],
-        "home_score": null,
-        "away_score": null,
+        "home_score": 0,
+        "away_score": 0,
         "sport": "nba"
       },
       {
@@ -1244,6 +1152,209 @@
           "abbreviation": "LAC"
         },
         "venue": "Frost Bank Center",
+        "platforms": [],
+        "home_score": null,
+        "away_score": null,
+        "sport": "nba"
+      }
+    ],
+    "2026-11-20": [
+      {
+        "game_pk": 401909305,
+        "game_date": "2026-11-21",
+        "game_time_utc": "2026-11-21T00:00Z",
+        "status": "Scheduled",
+        "home_team": {
+          "id": 1,
+          "name": "Atlanta Hawks",
+          "abbreviation": "ATL"
+        },
+        "away_team": {
+          "id": 30,
+          "name": "Charlotte Hornets",
+          "abbreviation": "CHA"
+        },
+        "venue": "State Farm Arena",
+        "platforms": [],
+        "home_score": null,
+        "away_score": null,
+        "sport": "nba"
+      },
+      {
+        "game_pk": 401909306,
+        "game_date": "2026-11-21",
+        "game_time_utc": "2026-11-21T00:30Z",
+        "status": "Scheduled",
+        "home_team": {
+          "id": 17,
+          "name": "Brooklyn Nets",
+          "abbreviation": "BKN"
+        },
+        "away_team": {
+          "id": 19,
+          "name": "Orlando Magic",
+          "abbreviation": "ORL"
+        },
+        "venue": "Barclays Center",
+        "platforms": [],
+        "home_score": null,
+        "away_score": null,
+        "sport": "nba"
+      },
+      {
+        "game_pk": 401909307,
+        "game_date": "2026-11-21",
+        "game_time_utc": "2026-11-21T00:30Z",
+        "status": "Scheduled",
+        "home_team": {
+          "id": 5,
+          "name": "Cleveland Cavaliers",
+          "abbreviation": "CLE"
+        },
+        "away_team": {
+          "id": 11,
+          "name": "Indiana Pacers",
+          "abbreviation": "IND"
+        },
+        "venue": "Rocket Arena",
+        "platforms": [],
+        "home_score": null,
+        "away_score": null,
+        "sport": "nba"
+      },
+      {
+        "game_pk": 401909308,
+        "game_date": "2026-11-21",
+        "game_time_utc": "2026-11-21T00:30Z",
+        "status": "Scheduled",
+        "home_team": {
+          "id": 8,
+          "name": "Detroit Pistons",
+          "abbreviation": "DET"
+        },
+        "away_team": {
+          "id": 28,
+          "name": "Toronto Raptors",
+          "abbreviation": "TOR"
+        },
+        "venue": "Little Caesars Arena",
+        "platforms": [
+          {
+            "label": "Prime Video",
+            "color": "#00A8E0",
+            "url": "https://www.amazon.com/primevideo"
+          }
+        ],
+        "home_score": null,
+        "away_score": null,
+        "sport": "nba"
+      },
+      {
+        "game_pk": 401909309,
+        "game_date": "2026-11-21",
+        "game_time_utc": "2026-11-21T01:00Z",
+        "status": "Scheduled",
+        "home_team": {
+          "id": 4,
+          "name": "Chicago Bulls",
+          "abbreviation": "CHI"
+        },
+        "away_team": {
+          "id": 27,
+          "name": "Washington Wizards",
+          "abbreviation": "WSH"
+        },
+        "venue": "United Center",
+        "platforms": [],
+        "home_score": null,
+        "away_score": null,
+        "sport": "nba"
+      },
+      {
+        "game_pk": 401909310,
+        "game_date": "2026-11-21",
+        "game_time_utc": "2026-11-21T01:00Z",
+        "status": "Scheduled",
+        "home_team": {
+          "id": 25,
+          "name": "Oklahoma City Thunder",
+          "abbreviation": "OKC"
+        },
+        "away_team": {
+          "id": 3,
+          "name": "New Orleans Pelicans",
+          "abbreviation": "NO"
+        },
+        "venue": "Paycom Center",
+        "platforms": [],
+        "home_score": null,
+        "away_score": null,
+        "sport": "nba"
+      },
+      {
+        "game_pk": 401909311,
+        "game_date": "2026-11-21",
+        "game_time_utc": "2026-11-21T02:30Z",
+        "status": "Scheduled",
+        "home_team": {
+          "id": 26,
+          "name": "Utah Jazz",
+          "abbreviation": "UTAH"
+        },
+        "away_team": {
+          "id": 21,
+          "name": "Phoenix Suns",
+          "abbreviation": "PHX"
+        },
+        "venue": "Delta Center",
+        "platforms": [],
+        "home_score": null,
+        "away_score": null,
+        "sport": "nba"
+      },
+      {
+        "game_pk": 401909312,
+        "game_date": "2026-11-21",
+        "game_time_utc": "2026-11-21T03:00Z",
+        "status": "Scheduled",
+        "home_team": {
+          "id": 7,
+          "name": "Denver Nuggets",
+          "abbreviation": "DEN"
+        },
+        "away_team": {
+          "id": 10,
+          "name": "Houston Rockets",
+          "abbreviation": "HOU"
+        },
+        "venue": "Ball Arena",
+        "platforms": [
+          {
+            "label": "Prime Video",
+            "color": "#00A8E0",
+            "url": "https://www.amazon.com/primevideo"
+          }
+        ],
+        "home_score": null,
+        "away_score": null,
+        "sport": "nba"
+      },
+      {
+        "game_pk": 401909313,
+        "game_date": "2026-11-21",
+        "game_time_utc": "2026-11-21T03:00Z",
+        "status": "Scheduled",
+        "home_team": {
+          "id": 13,
+          "name": "Los Angeles Lakers",
+          "abbreviation": "LAL"
+        },
+        "away_team": {
+          "id": 23,
+          "name": "Sacramento Kings",
+          "abbreviation": "SAC"
+        },
+        "venue": "crypto.com Arena",
         "platforms": [],
         "home_score": null,
         "away_score": null,
