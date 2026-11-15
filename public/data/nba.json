@@ -9,7 +9,7 @@
         "game_pk": 401909980,
         "game_date": "2026-11-15",
         "game_time_utc": "2026-11-15T00:00Z",
-        "status": "In Progress",
+        "status": "Final",
         "home_team": {
           "id": 3,
           "name": "New Orleans Pelicans",
@@ -22,15 +22,15 @@
         },
         "venue": "Smoothie King Center",
         "platforms": [],
-        "home_score": 23,
-        "away_score": 27,
+        "home_score": 108,
+        "away_score": 116,
         "sport": "nba"
       },
       {
         "game_pk": 401909981,
         "game_date": "2026-11-15",
         "game_time_utc": "2026-11-15T00:30Z",
-        "status": "Scheduled",
+        "status": "Final",
         "home_team": {
           "id": 5,
           "name": "Cleveland Cavaliers",
@@ -43,15 +43,15 @@
         },
         "venue": "Rocket Arena",
         "platforms": [],
-        "home_score": null,
-        "away_score": null,
+        "home_score": 127,
+        "away_score": 117,
         "sport": "nba"
       },
       {
         "game_pk": 401909982,
         "game_date": "2026-11-15",
         "game_time_utc": "2026-11-15T01:00Z",
-        "status": "Scheduled",
+        "status": "Final",
         "home_team": {
           "id": 14,
           "name": "Miami Heat",
@@ -70,15 +70,15 @@
             "url": "https://www.nba.com/watch"
           }
         ],
-        "home_score": null,
-        "away_score": null,
+        "home_score": 137,
+        "away_score": 117,
         "sport": "nba"
       },
       {
         "game_pk": 401909983,
         "game_date": "2026-11-15",
         "game_time_utc": "2026-11-15T01:00Z",
-        "status": "Scheduled",
+        "status": "Final",
         "home_team": {
           "id": 29,
           "name": "Memphis Grizzlies",
@@ -91,15 +91,15 @@
         },
         "venue": "FedExForum",
         "platforms": [],
-        "home_score": null,
-        "away_score": null,
+        "home_score": 129,
+        "away_score": 110,
         "sport": "nba"
       },
       {
         "game_pk": 401909984,
         "game_date": "2026-11-15",
         "game_time_utc": "2026-11-15T01:00Z",
-        "status": "Scheduled",
+        "status": "Final",
         "home_team": {
           "id": 16,
           "name": "Minnesota Timberwolves",
@@ -112,8 +112,8 @@
         },
         "venue": "Target Center",
         "platforms": [],
-        "home_score": null,
-        "away_score": null,
+        "home_score": 106,
+        "away_score": 117,
         "sport": "nba"
       }
     ],
