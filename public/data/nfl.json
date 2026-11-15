@@ -6,31 +6,10 @@
   "dates": {
     "2026-11-15": [
       {
-        "game_pk": 401873053,
-        "game_date": "2026-11-15",
-        "game_time_utc": "2026-11-15T14:30Z",
-        "status": "In Progress",
-        "home_team": {
-          "id": 8,
-          "name": "Detroit Lions",
-          "abbreviation": "DET"
-        },
-        "away_team": {
-          "id": 17,
-          "name": "New England Patriots",
-          "abbreviation": "NE"
-        },
-        "venue": "FC Bayern Munich Stadium",
-        "platforms": [],
-        "home_score": 7,
-        "away_score": 3,
-        "sport": "nfl"
-      },
-      {
         "game_pk": 401873058,
         "game_date": "2026-11-15",
         "game_time_utc": "2026-11-15T18:00Z",
-        "status": "Scheduled",
+        "status": "In Progress",
         "home_team": {
           "id": 1,
           "name": "Atlanta Falcons",
@@ -49,15 +28,15 @@
             "url": "https://www.cbs.com/"
           }
         ],
-        "home_score": null,
-        "away_score": null,
+        "home_score": 10,
+        "away_score": 28,
         "sport": "nfl"
       },
       {
         "game_pk": 401873056,
         "game_date": "2026-11-15",
         "game_time_utc": "2026-11-15T18:00Z",
-        "status": "Scheduled",
+        "status": "In Progress",
         "home_team": {
           "id": 5,
           "name": "Cleveland Browns",
@@ -70,15 +49,15 @@
         },
         "venue": "Huntington Bank Field",
         "platforms": [],
-        "home_score": null,
-        "away_score": null,
+        "home_score": 20,
+        "away_score": 24,
         "sport": "nfl"
       },
       {
         "game_pk": 401873060,
         "game_date": "2026-11-15",
         "game_time_utc": "2026-11-15T18:00Z",
-        "status": "Scheduled",
+        "status": "In Progress",
         "home_team": {
           "id": 9,
           "name": "Green Bay Packers",
@@ -91,15 +70,15 @@
         },
         "venue": "Lambeau Field",
         "platforms": [],
-        "home_score": null,
-        "away_score": null,
+        "home_score": 10,
+        "away_score": 27,
         "sport": "nfl"
       },
       {
         "game_pk": 401873057,
         "game_date": "2026-11-15",
         "game_time_utc": "2026-11-15T18:00Z",
-        "status": "Scheduled",
+        "status": "In Progress",
         "home_team": {
           "id": 10,
           "name": "Tennessee Titans",
@@ -112,15 +91,15 @@
         },
         "venue": "Nissan Stadium",
         "platforms": [],
-        "home_score": null,
-        "away_score": null,
+        "home_score": 16,
+        "away_score": 30,
         "sport": "nfl"
       },
       {
         "game_pk": 401873059,
         "game_date": "2026-11-15",
         "game_time_utc": "2026-11-15T18:00Z",
-        "status": "Scheduled",
+        "status": "In Progress",
         "home_team": {
           "id": 11,
           "name": "Indianapolis Colts",
@@ -139,15 +118,15 @@
             "url": "https://www.cbs.com/"
           }
         ],
-        "home_score": null,
-        "away_score": null,
+        "home_score": 24,
+        "away_score": 22,
         "sport": "nfl"
       },
       {
         "game_pk": 401873055,
         "game_date": "2026-11-15",
         "game_time_utc": "2026-11-15T18:00Z",
-        "status": "Scheduled",
+        "status": "In Progress",
         "home_team": {
           "id": 18,
           "name": "New Orleans Saints",
@@ -160,15 +139,15 @@
         },
         "venue": "Caesars Superdome",
         "platforms": [],
-        "home_score": null,
-        "away_score": null,
+        "home_score": 7,
+        "away_score": 10,
         "sport": "nfl"
       },
       {
         "game_pk": 401873054,
         "game_date": "2026-11-15",
         "game_time_utc": "2026-11-15T18:00Z",
-        "status": "Scheduled",
+        "status": "In Progress",
         "home_team": {
           "id": 20,
           "name": "New York Jets",
@@ -187,8 +166,29 @@
             "url": "https://www.cbs.com/"
           }
         ],
-        "home_score": null,
-        "away_score": null,
+        "home_score": 12,
+        "away_score": 24,
+        "sport": "nfl"
+      },
+      {
+        "game_pk": 401873053,
+        "game_date": "2026-11-15",
+        "game_time_utc": "2026-11-15T14:30Z",
+        "status": "Final",
+        "home_team": {
+          "id": 8,
+          "name": "Detroit Lions",
+          "abbreviation": "DET"
+        },
+        "away_team": {
+          "id": 17,
+          "name": "New England Patriots",
+          "abbreviation": "NE"
+        },
+        "venue": "FC Bayern Munich Stadium",
+        "platforms": [],
+        "home_score": 35,
+        "away_score": 10,
         "sport": "nfl"
       },
       {
