@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-14",
+  "generated_at": "2026-11-15",
   "sport": "soccer",
   "label": "MLS",
-  "game_count": 2,
+  "game_count": 5,
   "dates": {
     "2026-11-19": [
       {
@@ -48,6 +48,89 @@
           "abbreviation": "RSL"
         },
         "venue": "Lumen Field",
+        "platforms": [
+          {
+            "label": "Apple TV+",
+            "color": "#555555",
+            "url": "https://tv.apple.com/"
+          }
+        ],
+        "home_score": null,
+        "away_score": null,
+        "sport": "soccer"
+      }
+    ],
+    "2026-11-21": [
+      {
+        "game_pk": 401933733,
+        "game_date": "2026-11-21",
+        "game_time_utc": "2026-11-21T19:00Z",
+        "status": "Scheduled",
+        "home_team": {
+          "id": 189,
+          "name": "New England Revolution",
+          "abbreviation": "NE"
+        },
+        "away_team": {
+          "id": 10739,
+          "name": "Philadelphia Union",
+          "abbreviation": "PHI"
+        },
+        "venue": "Gillette Stadium",
+        "platforms": [
+          {
+            "label": "Apple TV+",
+            "color": "#555555",
+            "url": "https://tv.apple.com/"
+          }
+        ],
+        "home_score": null,
+        "away_score": null,
+        "sport": "soccer"
+      },
+      {
+        "game_pk": 401933732,
+        "game_date": "2026-11-21",
+        "game_time_utc": "2026-11-21T21:00Z",
+        "status": "Scheduled",
+        "home_team": {
+          "id": 185,
+          "name": "FC Dallas",
+          "abbreviation": "DAL"
+        },
+        "away_team": {
+          "id": 9723,
+          "name": "Portland Timbers",
+          "abbreviation": "POR"
+        },
+        "venue": "Toyota Stadium",
+        "platforms": [
+          {
+            "label": "Apple TV+",
+            "color": "#555555",
+            "url": "https://tv.apple.com/"
+          }
+        ],
+        "home_score": null,
+        "away_score": null,
+        "sport": "soccer"
+      },
+      {
+        "game_pk": 401933739,
+        "game_date": "2026-11-21",
+        "game_time_utc": "2026-11-21T23:00Z",
+        "status": "Scheduled",
+        "home_team": {
+          "id": 20232,
+          "name": "Inter Miami CF",
+          "abbreviation": "MIA"
+        },
+        "away_team": {
+          "id": 183,
+          "name": "Columbus Crew",
+          "abbreviation": "CLB"
+        },
+        "venue": "Nu Stadium",
         "platforms": [
           {
             "label": "Apple TV+",
