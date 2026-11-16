@@ -9,7 +9,7 @@
         "game_pk": 401892721,
         "game_date": "2026-11-16",
         "game_time_utc": "2026-11-16T00:30Z",
-        "status": "Scheduled",
+        "status": "Final",
         "home_team": {
           "id": 15,
           "name": "Philadelphia Flyers",
@@ -28,15 +28,15 @@
             "url": "https://plus.espn.com/"
           }
         ],
-        "home_score": null,
-        "away_score": null,
+        "home_score": 2,
+        "away_score": 5,
         "sport": "nhl"
       },
       {
         "game_pk": 401892722,
         "game_date": "2026-11-16",
         "game_time_utc": "2026-11-16T01:00Z",
-        "status": "Scheduled",
+        "status": "Final",
         "home_team": {
           "id": 9,
           "name": "Dallas Stars",
@@ -49,15 +49,15 @@
         },
         "venue": "American Airlines Center",
         "platforms": [],
-        "home_score": null,
-        "away_score": null,
+        "home_score": 2,
+        "away_score": 1,
         "sport": "nhl"
       },
       {
         "game_pk": 401892723,
         "game_date": "2026-11-16",
         "game_time_utc": "2026-11-16T01:00Z",
-        "status": "Scheduled",
+        "status": "Final",
         "home_team": {
           "id": 25,
           "name": "Anaheim Ducks",
@@ -76,15 +76,15 @@
             "url": "https://plus.espn.com/"
           }
         ],
-        "home_score": null,
-        "away_score": null,
+        "home_score": 6,
+        "away_score": 1,
         "sport": "nhl"
       },
       {
         "game_pk": 401892724,
         "game_date": "2026-11-16",
         "game_time_utc": "2026-11-16T02:00Z",
-        "status": "Scheduled",
+        "status": "Final",
         "home_team": {
           "id": 37,
           "name": "Vegas Golden Knights",
@@ -103,15 +103,15 @@
             "url": "https://plus.espn.com/"
           }
         ],
-        "home_score": null,
-        "away_score": null,
+        "home_score": 3,
+        "away_score": 6,
         "sport": "nhl"
       },
       {
         "game_pk": 401892725,
         "game_date": "2026-11-16",
         "game_time_utc": "2026-11-16T02:00Z",
-        "status": "Scheduled",
+        "status": "Final",
         "home_team": {
           "id": 18,
           "name": "San Jose Sharks",
@@ -130,8 +130,8 @@
             "url": "https://plus.espn.com/"
           }
         ],
-        "home_score": null,
-        "away_score": null,
+        "home_score": 4,
+        "away_score": 2,
         "sport": "nhl"
       }
     ],

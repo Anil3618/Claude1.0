@@ -6,27 +6,6 @@
   "dates": {
     "2026-11-15": [
       {
-        "game_pk": 401873063,
-        "game_date": "2026-11-15",
-        "game_time_utc": "2026-11-15T21:25Z",
-        "status": "In Progress",
-        "home_team": {
-          "id": 6,
-          "name": "Dallas Cowboys",
-          "abbreviation": "DAL"
-        },
-        "away_team": {
-          "id": 25,
-          "name": "San Francisco 49ers",
-          "abbreviation": "SF"
-        },
-        "venue": "AT&T Stadium",
-        "platforms": [],
-        "home_score": 38,
-        "away_score": 46,
-        "sport": "nfl"
-      },
-      {
         "game_pk": 401873053,
         "game_date": "2026-11-15",
         "game_time_utc": "2026-11-15T14:30Z",
@@ -267,10 +246,31 @@
         "sport": "nfl"
       },
       {
+        "game_pk": 401873063,
+        "game_date": "2026-11-15",
+        "game_time_utc": "2026-11-15T21:25Z",
+        "status": "Final",
+        "home_team": {
+          "id": 6,
+          "name": "Dallas Cowboys",
+          "abbreviation": "DAL"
+        },
+        "away_team": {
+          "id": 25,
+          "name": "San Francisco 49ers",
+          "abbreviation": "SF"
+        },
+        "venue": "AT&T Stadium",
+        "platforms": [],
+        "home_score": 40,
+        "away_score": 46,
+        "sport": "nfl"
+      },
+      {
         "game_pk": 401873064,
         "game_date": "2026-11-16",
         "game_time_utc": "2026-11-16T01:20Z",
-        "status": "Scheduled",
+        "status": "Final",
         "home_team": {
           "id": 4,
           "name": "Cincinnati Bengals",
@@ -289,8 +289,8 @@
             "url": "https://www.nbc.com/"
           }
         ],
-        "home_score": null,
-        "away_score": null,
+        "home_score": 38,
+        "away_score": 18,
         "sport": "nfl"
       }
     ],

@@ -93,7 +93,7 @@
         "game_pk": 401909989,
         "game_date": "2026-11-15",
         "game_time_utc": "2026-11-15T23:00Z",
-        "status": "In Progress",
+        "status": "Final",
         "home_team": {
           "id": 2,
           "name": "Boston Celtics",
@@ -106,15 +106,15 @@
         },
         "venue": "TD Garden",
         "platforms": [],
-        "home_score": 100,
-        "away_score": 63,
+        "home_score": 131,
+        "away_score": 94,
         "sport": "nba"
       },
       {
         "game_pk": 401909990,
         "game_date": "2026-11-15",
         "game_time_utc": "2026-11-15T23:00Z",
-        "status": "In Progress",
+        "status": "Final",
         "home_team": {
           "id": 28,
           "name": "Toronto Raptors",
@@ -127,15 +127,15 @@
         },
         "venue": "Scotiabank Arena",
         "platforms": [],
-        "home_score": 52,
-        "away_score": 51,
+        "home_score": 108,
+        "away_score": 112,
         "sport": "nba"
       },
       {
         "game_pk": 401909991,
         "game_date": "2026-11-16",
         "game_time_utc": "2026-11-16T00:00Z",
-        "status": "End of Period",
+        "status": "Final",
         "home_team": {
           "id": 27,
           "name": "Washington Wizards",
@@ -148,15 +148,15 @@
         },
         "venue": "Capital One Arena",
         "platforms": [],
-        "home_score": null,
-        "away_score": null,
+        "home_score": 119,
+        "away_score": 147,
         "sport": "nba"
       },
       {
         "game_pk": 401909992,
         "game_date": "2026-11-16",
         "game_time_utc": "2026-11-16T01:00Z",
-        "status": "Scheduled",
+        "status": "Final",
         "home_team": {
           "id": 15,
           "name": "Milwaukee Bucks",
@@ -169,15 +169,15 @@
         },
         "venue": "Fiserv Forum",
         "platforms": [],
-        "home_score": null,
-        "away_score": null,
+        "home_score": 106,
+        "away_score": 113,
         "sport": "nba"
       },
       {
         "game_pk": 401909993,
         "game_date": "2026-11-16",
         "game_time_utc": "2026-11-16T02:00Z",
-        "status": "Scheduled",
+        "status": "Final",
         "home_team": {
           "id": 23,
           "name": "Sacramento Kings",
@@ -190,8 +190,8 @@
         },
         "venue": "Golden 1 Center",
         "platforms": [],
-        "home_score": null,
-        "away_score": null,
+        "home_score": 103,
+        "away_score": 125,
         "sport": "nba"
       }
     ],
