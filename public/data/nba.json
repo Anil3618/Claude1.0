@@ -9,7 +9,7 @@
         "game_pk": 401909994,
         "game_date": "2026-11-17",
         "game_time_utc": "2026-11-17T00:00Z",
-        "status": "In Progress",
+        "status": "Final",
         "home_team": {
           "id": 2,
           "name": "Boston Celtics",
@@ -22,15 +22,15 @@
         },
         "venue": "TD Garden",
         "platforms": [],
-        "home_score": 46,
-        "away_score": 51,
+        "home_score": 105,
+        "away_score": 115,
         "sport": "nba"
       },
       {
         "game_pk": 401909995,
         "game_date": "2026-11-17",
         "game_time_utc": "2026-11-17T00:00Z",
-        "status": "In Progress",
+        "status": "Final",
         "home_team": {
           "id": 5,
           "name": "Cleveland Cavaliers",
@@ -43,15 +43,15 @@
         },
         "venue": "Rocket Arena",
         "platforms": [],
-        "home_score": 66,
-        "away_score": 51,
+        "home_score": 126,
+        "away_score": 115,
         "sport": "nba"
       },
       {
         "game_pk": 401909996,
         "game_date": "2026-11-17",
         "game_time_utc": "2026-11-17T00:00Z",
-        "status": "Halftime",
+        "status": "Final",
         "home_team": {
           "id": 27,
           "name": "Washington Wizards",
@@ -64,15 +64,15 @@
         },
         "venue": "Capital One Arena",
         "platforms": [],
-        "home_score": null,
-        "away_score": null,
+        "home_score": 120,
+        "away_score": 136,
         "sport": "nba"
       },
       {
         "game_pk": 401909997,
         "game_date": "2026-11-17",
         "game_time_utc": "2026-11-17T00:30Z",
-        "status": "In Progress",
+        "status": "Final",
         "home_team": {
           "id": 17,
           "name": "Brooklyn Nets",
@@ -85,15 +85,15 @@
         },
         "venue": "Barclays Center",
         "platforms": [],
-        "home_score": 38,
-        "away_score": 58,
+        "home_score": 123,
+        "away_score": 135,
         "sport": "nba"
       },
       {
         "game_pk": 401909998,
         "game_date": "2026-11-17",
         "game_time_utc": "2026-11-17T00:30Z",
-        "status": "In Progress",
+        "status": "Final",
         "home_team": {
           "id": 14,
           "name": "Miami Heat",
@@ -106,15 +106,15 @@
         },
         "venue": "Kaseya Center",
         "platforms": [],
-        "home_score": 40,
-        "away_score": 29,
+        "home_score": 128,
+        "away_score": 110,
         "sport": "nba"
       },
       {
         "game_pk": 401909999,
         "game_date": "2026-11-17",
         "game_time_utc": "2026-11-17T01:00Z",
-        "status": "In Progress",
+        "status": "Final",
         "home_team": {
           "id": 16,
           "name": "Minnesota Timberwolves",
@@ -127,15 +127,15 @@
         },
         "venue": "Target Center",
         "platforms": [],
-        "home_score": 8,
-        "away_score": 16,
+        "home_score": 106,
+        "away_score": 98,
         "sport": "nba"
       },
       {
         "game_pk": 401910000,
         "game_date": "2026-11-17",
         "game_time_utc": "2026-11-17T01:00Z",
-        "status": "In Progress",
+        "status": "Final",
         "home_team": {
           "id": 3,
           "name": "New Orleans Pelicans",
@@ -148,15 +148,15 @@
         },
         "venue": "Smoothie King Center",
         "platforms": [],
-        "home_score": 18,
-        "away_score": 2,
+        "home_score": 115,
+        "away_score": 94,
         "sport": "nba"
       },
       {
         "game_pk": 401910001,
         "game_date": "2026-11-17",
         "game_time_utc": "2026-11-17T02:00Z",
-        "status": "Scheduled",
+        "status": "Final",
         "home_team": {
           "id": 7,
           "name": "Denver Nuggets",
@@ -169,8 +169,8 @@
         },
         "venue": "Ball Arena",
         "platforms": [],
-        "home_score": null,
-        "away_score": null,
+        "home_score": 105,
+        "away_score": 117,
         "sport": "nba"
       }
     ],
