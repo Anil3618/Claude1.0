@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-16",
+  "generated_at": "2026-11-17",
   "sport": "soccer",
   "label": "MLS",
-  "game_count": 8,
+  "game_count": 9,
   "dates": {
     "2026-11-19": [
       {
@@ -225,6 +225,40 @@
         },
         "venue": "BC Place",
         "platforms": [
+          {
+            "label": "Apple TV+",
+            "color": "#555555",
+            "url": "https://tv.apple.com/"
+          }
+        ],
+        "home_score": null,
+        "away_score": null,
+        "sport": "soccer"
+      }
+    ],
+    "2026-11-23": [
+      {
+        "game_pk": 401933728,
+        "game_date": "2026-11-24",
+        "game_time_utc": "2026-11-24T01:00Z",
+        "status": "Scheduled",
+        "home_team": {
+          "id": 21812,
+          "name": "St. Louis CITY SC",
+          "abbreviation": "STL"
+        },
+        "away_team": {
+          "id": 18966,
+          "name": "LAFC",
+          "abbreviation": "LAFC"
+        },
+        "venue": "Energizer Park",
+        "platforms": [
+          {
+            "label": "FS1",
+            "color": "#003087",
+            "url": "https://www.foxsports.com/"
+          },
           {
             "label": "Apple TV+",
             "color": "#555555",
