@@ -9,7 +9,7 @@
         "game_pk": 401910002,
         "game_date": "2026-11-18",
         "game_time_utc": "2026-11-18T00:30Z",
-        "status": "In Progress",
+        "status": "Final",
         "home_team": {
           "id": 28,
           "name": "Toronto Raptors",
@@ -22,15 +22,15 @@
         },
         "venue": "Scotiabank Arena",
         "platforms": [],
-        "home_score": 68,
-        "away_score": 62,
+        "home_score": 102,
+        "away_score": 111,
         "sport": "nba"
       },
       {
         "game_pk": 401910003,
         "game_date": "2026-11-18",
         "game_time_utc": "2026-11-18T01:00Z",
-        "status": "In Progress",
+        "status": "Final",
         "home_team": {
           "id": 16,
           "name": "Minnesota Timberwolves",
@@ -43,15 +43,15 @@
         },
         "venue": "Target Center",
         "platforms": [],
-        "home_score": 46,
-        "away_score": 38,
+        "home_score": 106,
+        "away_score": 105,
         "sport": "nba"
       },
       {
         "game_pk": 401910004,
         "game_date": "2026-11-18",
         "game_time_utc": "2026-11-18T01:00Z",
-        "status": "In Progress",
+        "status": "Final",
         "home_team": {
           "id": 24,
           "name": "San Antonio Spurs",
@@ -70,15 +70,15 @@
             "url": "https://www.nbc.com/"
           }
         ],
-        "home_score": 44,
-        "away_score": 34,
+        "home_score": 93,
+        "away_score": 105,
         "sport": "nba"
       },
       {
         "game_pk": 401910006,
         "game_date": "2026-11-18",
         "game_time_utc": "2026-11-18T03:30Z",
-        "status": "Scheduled",
+        "status": "Final",
         "home_team": {
           "id": 12,
           "name": "LA Clippers",
@@ -91,15 +91,15 @@
         },
         "venue": "Intuit Dome",
         "platforms": [],
-        "home_score": null,
-        "away_score": null,
+        "home_score": 107,
+        "away_score": 132,
         "sport": "nba"
       },
       {
         "game_pk": 401910005,
         "game_date": "2026-11-18",
         "game_time_utc": "2026-11-18T04:00Z",
-        "status": "Scheduled",
+        "status": "Final",
         "home_team": {
           "id": 13,
           "name": "Los Angeles Lakers",
@@ -118,8 +118,8 @@
             "url": "https://www.nbc.com/"
           }
         ],
-        "home_score": null,
-        "away_score": null,
+        "home_score": 118,
+        "away_score": 114,
         "sport": "nba"
       }
     ],
