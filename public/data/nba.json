@@ -1,185 +1,15 @@
 {
-  "generated_at": "2026-11-17",
+  "generated_at": "2026-11-18",
   "sport": "nba",
   "label": "NBA",
-  "game_count": 61,
+  "game_count": 56,
   "dates": {
-    "2026-11-16": [
-      {
-        "game_pk": 401909994,
-        "game_date": "2026-11-17",
-        "game_time_utc": "2026-11-17T00:00Z",
-        "status": "Final",
-        "home_team": {
-          "id": 2,
-          "name": "Boston Celtics",
-          "abbreviation": "BOS"
-        },
-        "away_team": {
-          "id": 19,
-          "name": "Orlando Magic",
-          "abbreviation": "ORL"
-        },
-        "venue": "TD Garden",
-        "platforms": [],
-        "home_score": 105,
-        "away_score": 115,
-        "sport": "nba"
-      },
-      {
-        "game_pk": 401909995,
-        "game_date": "2026-11-17",
-        "game_time_utc": "2026-11-17T00:00Z",
-        "status": "Final",
-        "home_team": {
-          "id": 5,
-          "name": "Cleveland Cavaliers",
-          "abbreviation": "CLE"
-        },
-        "away_team": {
-          "id": 4,
-          "name": "Chicago Bulls",
-          "abbreviation": "CHI"
-        },
-        "venue": "Rocket Arena",
-        "platforms": [],
-        "home_score": 126,
-        "away_score": 115,
-        "sport": "nba"
-      },
-      {
-        "game_pk": 401909996,
-        "game_date": "2026-11-17",
-        "game_time_utc": "2026-11-17T00:00Z",
-        "status": "Final",
-        "home_team": {
-          "id": 27,
-          "name": "Washington Wizards",
-          "abbreviation": "WSH"
-        },
-        "away_team": {
-          "id": 29,
-          "name": "Memphis Grizzlies",
-          "abbreviation": "MEM"
-        },
-        "venue": "Capital One Arena",
-        "platforms": [],
-        "home_score": 120,
-        "away_score": 136,
-        "sport": "nba"
-      },
-      {
-        "game_pk": 401909997,
-        "game_date": "2026-11-17",
-        "game_time_utc": "2026-11-17T00:30Z",
-        "status": "Final",
-        "home_team": {
-          "id": 17,
-          "name": "Brooklyn Nets",
-          "abbreviation": "BKN"
-        },
-        "away_team": {
-          "id": 20,
-          "name": "Philadelphia 76ers",
-          "abbreviation": "PHI"
-        },
-        "venue": "Barclays Center",
-        "platforms": [],
-        "home_score": 123,
-        "away_score": 135,
-        "sport": "nba"
-      },
-      {
-        "game_pk": 401909998,
-        "game_date": "2026-11-17",
-        "game_time_utc": "2026-11-17T00:30Z",
-        "status": "Final",
-        "home_team": {
-          "id": 14,
-          "name": "Miami Heat",
-          "abbreviation": "MIA"
-        },
-        "away_team": {
-          "id": 10,
-          "name": "Houston Rockets",
-          "abbreviation": "HOU"
-        },
-        "venue": "Kaseya Center",
-        "platforms": [],
-        "home_score": 128,
-        "away_score": 110,
-        "sport": "nba"
-      },
-      {
-        "game_pk": 401909999,
-        "game_date": "2026-11-17",
-        "game_time_utc": "2026-11-17T01:00Z",
-        "status": "Final",
-        "home_team": {
-          "id": 16,
-          "name": "Minnesota Timberwolves",
-          "abbreviation": "MIN"
-        },
-        "away_team": {
-          "id": 22,
-          "name": "Portland Trail Blazers",
-          "abbreviation": "POR"
-        },
-        "venue": "Target Center",
-        "platforms": [],
-        "home_score": 106,
-        "away_score": 98,
-        "sport": "nba"
-      },
-      {
-        "game_pk": 401910000,
-        "game_date": "2026-11-17",
-        "game_time_utc": "2026-11-17T01:00Z",
-        "status": "Final",
-        "home_team": {
-          "id": 3,
-          "name": "New Orleans Pelicans",
-          "abbreviation": "NO"
-        },
-        "away_team": {
-          "id": 9,
-          "name": "Golden State Warriors",
-          "abbreviation": "GS"
-        },
-        "venue": "Smoothie King Center",
-        "platforms": [],
-        "home_score": 115,
-        "away_score": 94,
-        "sport": "nba"
-      },
-      {
-        "game_pk": 401910001,
-        "game_date": "2026-11-17",
-        "game_time_utc": "2026-11-17T02:00Z",
-        "status": "Final",
-        "home_team": {
-          "id": 7,
-          "name": "Denver Nuggets",
-          "abbreviation": "DEN"
-        },
-        "away_team": {
-          "id": 21,
-          "name": "Phoenix Suns",
-          "abbreviation": "PHX"
-        },
-        "venue": "Ball Arena",
-        "platforms": [],
-        "home_score": 105,
-        "away_score": 117,
-        "sport": "nba"
-      }
-    ],
     "2026-11-17": [
       {
         "game_pk": 401910002,
         "game_date": "2026-11-18",
         "game_time_utc": "2026-11-18T00:30Z",
-        "status": "Scheduled",
+        "status": "In Progress",
         "home_team": {
           "id": 28,
           "name": "Toronto Raptors",
@@ -192,15 +22,15 @@
         },
         "venue": "Scotiabank Arena",
         "platforms": [],
-        "home_score": null,
-        "away_score": null,
+        "home_score": 68,
+        "away_score": 62,
         "sport": "nba"
       },
       {
         "game_pk": 401910003,
         "game_date": "2026-11-18",
         "game_time_utc": "2026-11-18T01:00Z",
-        "status": "Scheduled",
+        "status": "In Progress",
         "home_team": {
           "id": 16,
           "name": "Minnesota Timberwolves",
@@ -213,15 +43,15 @@
         },
         "venue": "Target Center",
         "platforms": [],
-        "home_score": null,
-        "away_score": null,
+        "home_score": 46,
+        "away_score": 38,
         "sport": "nba"
       },
       {
         "game_pk": 401910004,
         "game_date": "2026-11-18",
         "game_time_utc": "2026-11-18T01:00Z",
-        "status": "Scheduled",
+        "status": "In Progress",
         "home_team": {
           "id": 24,
           "name": "San Antonio Spurs",
@@ -240,8 +70,8 @@
             "url": "https://www.nbc.com/"
           }
         ],
-        "home_score": null,
-        "away_score": null,
+        "home_score": 44,
+        "away_score": 34,
         "sport": "nba"
       },
       {
@@ -1356,6 +1186,88 @@
         },
         "venue": "Golden 1 Center",
         "platforms": [],
+        "home_score": null,
+        "away_score": null,
+        "sport": "nba"
+      }
+    ],
+    "2026-11-24": [
+      {
+        "game_pk": 401909314,
+        "game_date": "2026-11-25",
+        "game_time_utc": "2026-11-25T00:00Z",
+        "status": "Scheduled",
+        "home_team": {
+          "id": 19,
+          "name": "Orlando Magic",
+          "abbreviation": "ORL"
+        },
+        "away_team": {
+          "id": 8,
+          "name": "Detroit Pistons",
+          "abbreviation": "DET"
+        },
+        "venue": "Kia Center",
+        "platforms": [],
+        "home_score": null,
+        "away_score": null,
+        "sport": "nba"
+      },
+      {
+        "game_pk": 401909315,
+        "game_date": "2026-11-25",
+        "game_time_utc": "2026-11-25T01:00Z",
+        "status": "Scheduled",
+        "home_team": {
+          "id": 27,
+          "name": "Washington Wizards",
+          "abbreviation": "WSH"
+        },
+        "away_team": {
+          "id": 2,
+          "name": "Boston Celtics",
+          "abbreviation": "BOS"
+        },
+        "venue": "Capital One Arena",
+        "platforms": [
+          {
+            "label": "NBC",
+            "color": "#0B2265",
+            "url": "https://www.nbc.com/"
+          }
+        ],
+        "home_score": null,
+        "away_score": null,
+        "sport": "nba"
+      },
+      {
+        "game_pk": 401909316,
+        "game_date": "2026-11-25",
+        "game_time_utc": "2026-11-25T03:00Z",
+        "status": "Scheduled",
+        "home_team": {
+          "id": 7,
+          "name": "Denver Nuggets",
+          "abbreviation": "DEN"
+        },
+        "away_team": {
+          "id": 6,
+          "name": "Dallas Mavericks",
+          "abbreviation": "DAL"
+        },
+        "venue": "Ball Arena",
+        "platforms": [
+          {
+            "label": "Peacock",
+            "color": "#000000",
+            "url": "https://www.peacocktv.com/"
+          },
+          {
+            "label": "NBC",
+            "color": "#0B2265",
+            "url": "https://www.nbc.com/"
+          }
+        ],
         "home_score": null,
         "away_score": null,
         "sport": "nba"
