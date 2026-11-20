@@ -873,11 +873,6 @@
         "venue": "Ball Arena",
         "platforms": [
           {
-            "label": "Peacock",
-            "color": "#000000",
-            "url": "https://www.peacocktv.com/"
-          },
-          {
             "label": "NBC",
             "color": "#0B2265",
             "url": "https://www.nbc.com/"
