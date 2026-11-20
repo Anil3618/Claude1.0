@@ -9,7 +9,7 @@
         "game_pk": 401933535,
         "game_date": "2026-11-20",
         "game_time_utc": "2026-11-20T00:30Z",
-        "status": "Scheduled",
+        "status": "Full Time",
         "home_team": {
           "id": 12011,
           "name": "Orlando City SC",
@@ -28,15 +28,15 @@
             "url": "https://tv.apple.com/"
           }
         ],
-        "home_score": null,
-        "away_score": null,
+        "home_score": 1,
+        "away_score": 3,
         "sport": "soccer"
       },
       {
         "game_pk": 401933555,
         "game_date": "2026-11-20",
         "game_time_utc": "2026-11-20T03:00Z",
-        "status": "Scheduled",
+        "status": "Final Score - After Penalties",
         "home_team": {
           "id": 9726,
           "name": "Seattle Sounders FC",
@@ -55,8 +55,8 @@
             "url": "https://tv.apple.com/"
           }
         ],
-        "home_score": null,
-        "away_score": null,
+        "home_score": 1,
+        "away_score": 1,
         "sport": "soccer"
       }
     ],
@@ -155,9 +155,9 @@
           "abbreviation": "NSH"
         },
         "away_team": {
-          "id": 131554,
-          "name": "TBD Away",
-          "abbreviation": "TBD Away"
+          "id": 18267,
+          "name": "FC Cincinnati",
+          "abbreviation": "CIN"
         },
         "venue": "GEODIS Park",
         "platforms": [
@@ -219,9 +219,9 @@
           "abbreviation": "VAN"
         },
         "away_team": {
-          "id": 131554,
-          "name": "TBD Away",
-          "abbreviation": "TBD Away"
+          "id": 4771,
+          "name": "Real Salt Lake",
+          "abbreviation": "RSL"
         },
         "venue": "BC Place",
         "platforms": [

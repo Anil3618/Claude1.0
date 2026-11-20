@@ -9,7 +9,7 @@
         "game_pk": 401892742,
         "game_date": "2026-11-20",
         "game_time_utc": "2026-11-20T00:00Z",
-        "status": "In Progress",
+        "status": "Final",
         "home_team": {
           "id": 21,
           "name": "Toronto Maple Leafs",
@@ -28,15 +28,15 @@
             "url": "https://plus.espn.com/"
           }
         ],
-        "home_score": 0,
-        "away_score": 0,
+        "home_score": 3,
+        "away_score": 4,
         "sport": "nhl"
       },
       {
         "game_pk": 401892743,
         "game_date": "2026-11-20",
         "game_time_utc": "2026-11-20T00:00Z",
-        "status": "In Progress",
+        "status": "Final",
         "home_team": {
           "id": 14,
           "name": "Ottawa Senators",
@@ -55,15 +55,15 @@
             "url": "https://plus.espn.com/"
           }
         ],
-        "home_score": 0,
-        "away_score": 0,
+        "home_score": 5,
+        "away_score": 6,
         "sport": "nhl"
       },
       {
         "game_pk": 401892745,
         "game_date": "2026-11-20",
         "game_time_utc": "2026-11-20T00:00Z",
-        "status": "In Progress",
+        "status": "Final",
         "home_team": {
           "id": 16,
           "name": "Pittsburgh Penguins",
@@ -82,15 +82,15 @@
             "url": "https://plus.espn.com/"
           }
         ],
-        "home_score": 0,
-        "away_score": 0,
+        "home_score": 2,
+        "away_score": 5,
         "sport": "nhl"
       },
       {
         "game_pk": 401892746,
         "game_date": "2026-11-20",
         "game_time_utc": "2026-11-20T00:00Z",
-        "status": "Scheduled",
+        "status": "Final",
         "home_team": {
           "id": 23,
           "name": "Washington Capitals",
@@ -109,15 +109,15 @@
             "url": "https://plus.espn.com/"
           }
         ],
-        "home_score": null,
-        "away_score": null,
+        "home_score": 3,
+        "away_score": 6,
         "sport": "nhl"
       },
       {
         "game_pk": 401892747,
         "game_date": "2026-11-20",
         "game_time_utc": "2026-11-20T00:00Z",
-        "status": "In Progress",
+        "status": "Final",
         "home_team": {
           "id": 7,
           "name": "Carolina Hurricanes",
@@ -136,15 +136,15 @@
             "url": "https://plus.espn.com/"
           }
         ],
-        "home_score": 0,
-        "away_score": 0,
+        "home_score": 1,
+        "away_score": 2,
         "sport": "nhl"
       },
       {
         "game_pk": 401892749,
         "game_date": "2026-11-20",
         "game_time_utc": "2026-11-20T00:00Z",
-        "status": "In Progress",
+        "status": "Final",
         "home_team": {
           "id": 28,
           "name": "Winnipeg Jets",
@@ -163,15 +163,15 @@
             "url": "https://plus.espn.com/"
           }
         ],
-        "home_score": 0,
-        "away_score": 0,
+        "home_score": 4,
+        "away_score": 3,
         "sport": "nhl"
       },
       {
         "game_pk": 401892744,
         "game_date": "2026-11-20",
         "game_time_utc": "2026-11-20T00:30Z",
-        "status": "Scheduled",
+        "status": "Final",
         "home_team": {
           "id": 20,
           "name": "Tampa Bay Lightning",
@@ -190,15 +190,15 @@
             "url": "https://plus.espn.com/"
           }
         ],
-        "home_score": null,
-        "away_score": null,
+        "home_score": 3,
+        "away_score": 1,
         "sport": "nhl"
       },
       {
         "game_pk": 401892748,
         "game_date": "2026-11-20",
         "game_time_utc": "2026-11-20T01:00Z",
-        "status": "Scheduled",
+        "status": "Final",
         "home_team": {
           "id": 4,
           "name": "Chicago Blackhawks",
@@ -217,15 +217,15 @@
             "url": "https://plus.espn.com/"
           }
         ],
-        "home_score": null,
-        "away_score": null,
+        "home_score": 2,
+        "away_score": 4,
         "sport": "nhl"
       },
       {
         "game_pk": 401892750,
         "game_date": "2026-11-20",
         "game_time_utc": "2026-11-20T01:00Z",
-        "status": "Scheduled",
+        "status": "Final",
         "home_team": {
           "id": 3,
           "name": "Calgary Flames",
@@ -244,15 +244,15 @@
             "url": "https://plus.espn.com/"
           }
         ],
-        "home_score": null,
-        "away_score": null,
+        "home_score": 1,
+        "away_score": 4,
         "sport": "nhl"
       },
       {
         "game_pk": 401892751,
         "game_date": "2026-11-20",
         "game_time_utc": "2026-11-20T02:00Z",
-        "status": "Scheduled",
+        "status": "Final",
         "home_team": {
           "id": 17,
           "name": "Colorado Avalanche",
@@ -271,15 +271,15 @@
             "url": "https://plus.espn.com/"
           }
         ],
-        "home_score": null,
-        "away_score": null,
+        "home_score": 4,
+        "away_score": 0,
         "sport": "nhl"
       },
       {
         "game_pk": 401892752,
         "game_date": "2026-11-20",
         "game_time_utc": "2026-11-20T02:40Z",
-        "status": "Scheduled",
+        "status": "Final",
         "home_team": {
           "id": 124292,
           "name": "Seattle Kraken",
@@ -298,15 +298,15 @@
             "url": "https://plus.espn.com/"
           }
         ],
-        "home_score": null,
-        "away_score": null,
+        "home_score": 5,
+        "away_score": 1,
         "sport": "nhl"
       },
       {
         "game_pk": 401892753,
         "game_date": "2026-11-20",
         "game_time_utc": "2026-11-20T03:00Z",
-        "status": "Scheduled",
+        "status": "Final",
         "home_team": {
           "id": 37,
           "name": "Vegas Golden Knights",
@@ -325,8 +325,8 @@
             "url": "https://plus.espn.com/"
           }
         ],
-        "home_score": null,
-        "away_score": null,
+        "home_score": 3,
+        "away_score": 4,
         "sport": "nhl"
       }
     ],

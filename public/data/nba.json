@@ -9,7 +9,7 @@
         "game_pk": 401910019,
         "game_date": "2026-11-20",
         "game_time_utc": "2026-11-20T01:00Z",
-        "status": "Scheduled",
+        "status": "Final",
         "home_team": {
           "id": 29,
           "name": "Memphis Grizzlies",
@@ -22,15 +22,15 @@
         },
         "venue": "FedExForum",
         "platforms": [],
-        "home_score": null,
-        "away_score": null,
+        "home_score": 126,
+        "away_score": 98,
         "sport": "nba"
       },
       {
         "game_pk": 401910020,
         "game_date": "2026-11-20",
         "game_time_utc": "2026-11-20T01:00Z",
-        "status": "Scheduled",
+        "status": "Final",
         "home_team": {
           "id": 15,
           "name": "Milwaukee Bucks",
@@ -43,15 +43,15 @@
         },
         "venue": "Fiserv Forum",
         "platforms": [],
-        "home_score": null,
-        "away_score": null,
+        "home_score": 114,
+        "away_score": 124,
         "sport": "nba"
       },
       {
         "game_pk": 401910021,
         "game_date": "2026-11-20",
         "game_time_utc": "2026-11-20T01:00Z",
-        "status": "Scheduled",
+        "status": "Final",
         "home_team": {
           "id": 16,
           "name": "Minnesota Timberwolves",
@@ -70,15 +70,15 @@
             "url": "https://www.nba.com/watch"
           }
         ],
-        "home_score": null,
-        "away_score": null,
+        "home_score": 99,
+        "away_score": 102,
         "sport": "nba"
       },
       {
         "game_pk": 401910022,
         "game_date": "2026-11-20",
         "game_time_utc": "2026-11-20T01:00Z",
-        "status": "Scheduled",
+        "status": "Final",
         "home_team": {
           "id": 24,
           "name": "San Antonio Spurs",
@@ -91,8 +91,8 @@
         },
         "venue": "Frost Bank Center",
         "platforms": [],
-        "home_score": null,
-        "away_score": null,
+        "home_score": 124,
+        "away_score": 112,
         "sport": "nba"
       }
     ],
