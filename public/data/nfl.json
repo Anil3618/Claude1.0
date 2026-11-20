@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-19",
+  "generated_at": "2026-11-20",
   "sport": "nfl",
   "label": "NFL",
-  "game_count": 14,
+  "game_count": 17,
   "dates": {
     "2026-11-19": [
       {
@@ -349,6 +349,83 @@
         },
         "venue": "SoFi Stadium",
         "platforms": [],
+        "home_score": null,
+        "away_score": null,
+        "sport": "nfl"
+      }
+    ],
+    "2026-11-26": [
+      {
+        "game_pk": 401873081,
+        "game_date": "2026-11-26",
+        "game_time_utc": "2026-11-26T18:00Z",
+        "status": "Scheduled",
+        "home_team": {
+          "id": 8,
+          "name": "Detroit Lions",
+          "abbreviation": "DET"
+        },
+        "away_team": {
+          "id": 3,
+          "name": "Chicago Bears",
+          "abbreviation": "CHI"
+        },
+        "venue": "Ford Field",
+        "platforms": [
+          {
+            "label": "CBS",
+            "color": "#0033A0",
+            "url": "https://www.cbs.com/"
+          }
+        ],
+        "home_score": null,
+        "away_score": null,
+        "sport": "nfl"
+      },
+      {
+        "game_pk": 401873080,
+        "game_date": "2026-11-26",
+        "game_time_utc": "2026-11-26T21:30Z",
+        "status": "Scheduled",
+        "home_team": {
+          "id": 6,
+          "name": "Dallas Cowboys",
+          "abbreviation": "DAL"
+        },
+        "away_team": {
+          "id": 21,
+          "name": "Philadelphia Eagles",
+          "abbreviation": "PHI"
+        },
+        "venue": "AT&T Stadium",
+        "platforms": [],
+        "home_score": null,
+        "away_score": null,
+        "sport": "nfl"
+      },
+      {
+        "game_pk": 401873082,
+        "game_date": "2026-11-27",
+        "game_time_utc": "2026-11-27T01:20Z",
+        "status": "Scheduled",
+        "home_team": {
+          "id": 2,
+          "name": "Buffalo Bills",
+          "abbreviation": "BUF"
+        },
+        "away_team": {
+          "id": 12,
+          "name": "Kansas City Chiefs",
+          "abbreviation": "KC"
+        },
+        "venue": "Highmark Stadium",
+        "platforms": [
+          {
+            "label": "NBC",
+            "color": "#0B2265",
+            "url": "https://www.nbc.com/"
+          }
+        ],
         "home_score": null,
         "away_score": null,
         "sport": "nfl"
