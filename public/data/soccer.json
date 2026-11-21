@@ -9,7 +9,7 @@
         "game_pk": 401933733,
         "game_date": "2026-11-21",
         "game_time_utc": "2026-11-21T19:00Z",
-        "status": "Scheduled",
+        "status": "Full Time",
         "home_team": {
           "id": 189,
           "name": "New England Revolution",
@@ -28,15 +28,15 @@
             "url": "https://tv.apple.com/"
           }
         ],
-        "home_score": null,
-        "away_score": null,
+        "home_score": 2,
+        "away_score": 0,
         "sport": "soccer"
       },
       {
         "game_pk": 401933732,
         "game_date": "2026-11-21",
         "game_time_utc": "2026-11-21T21:00Z",
-        "status": "Scheduled",
+        "status": "Full Time",
         "home_team": {
           "id": 185,
           "name": "FC Dallas",
@@ -55,15 +55,15 @@
             "url": "https://tv.apple.com/"
           }
         ],
-        "home_score": null,
-        "away_score": null,
+        "home_score": 3,
+        "away_score": 0,
         "sport": "soccer"
       },
       {
         "game_pk": 401933739,
         "game_date": "2026-11-21",
         "game_time_utc": "2026-11-21T23:00Z",
-        "status": "Scheduled",
+        "status": "First Half",
         "home_team": {
           "id": 20232,
           "name": "Inter Miami CF",
