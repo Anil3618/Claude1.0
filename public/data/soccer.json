@@ -1,65 +1,9 @@
 {
-  "generated_at": "2026-11-20",
+  "generated_at": "2026-11-21",
   "sport": "soccer",
   "label": "MLS",
   "game_count": 10,
   "dates": {
-    "2026-11-19": [
-      {
-        "game_pk": 401933535,
-        "game_date": "2026-11-20",
-        "game_time_utc": "2026-11-20T00:30Z",
-        "status": "Full Time",
-        "home_team": {
-          "id": 12011,
-          "name": "Orlando City SC",
-          "abbreviation": "ORL"
-        },
-        "away_team": {
-          "id": 18267,
-          "name": "FC Cincinnati",
-          "abbreviation": "CIN"
-        },
-        "venue": "Inter&Co Stadium",
-        "platforms": [
-          {
-            "label": "Apple TV+",
-            "color": "#555555",
-            "url": "https://tv.apple.com/"
-          }
-        ],
-        "home_score": 1,
-        "away_score": 3,
-        "sport": "soccer"
-      },
-      {
-        "game_pk": 401933555,
-        "game_date": "2026-11-20",
-        "game_time_utc": "2026-11-20T03:00Z",
-        "status": "Final Score - After Penalties",
-        "home_team": {
-          "id": 9726,
-          "name": "Seattle Sounders FC",
-          "abbreviation": "SEA"
-        },
-        "away_team": {
-          "id": 4771,
-          "name": "Real Salt Lake",
-          "abbreviation": "RSL"
-        },
-        "venue": "Lumen Field",
-        "platforms": [
-          {
-            "label": "Apple TV+",
-            "color": "#555555",
-            "url": "https://tv.apple.com/"
-          }
-        ],
-        "home_score": 1,
-        "away_score": 1,
-        "sport": "soccer"
-      }
-    ],
     "2026-11-21": [
       {
         "game_pk": 401933733,
@@ -287,6 +231,72 @@
           "abbreviation": "HOU"
         },
         "venue": "PayPal Park",
+        "platforms": [
+          {
+            "label": "FS1",
+            "color": "#003087",
+            "url": "https://www.foxsports.com/"
+          },
+          {
+            "label": "Apple TV+",
+            "color": "#555555",
+            "url": "https://tv.apple.com/"
+          }
+        ],
+        "home_score": null,
+        "away_score": null,
+        "sport": "soccer"
+      }
+    ],
+    "2026-11-27": [
+      {
+        "game_pk": 401933727,
+        "game_date": "2026-11-28",
+        "game_time_utc": "2026-11-28T01:00Z",
+        "status": "Scheduled",
+        "home_team": {
+          "id": 183,
+          "name": "Columbus Crew",
+          "abbreviation": "CLB"
+        },
+        "away_team": {
+          "id": 20232,
+          "name": "Inter Miami CF",
+          "abbreviation": "MIA"
+        },
+        "venue": "ScottsMiracle-Gro Field",
+        "platforms": [
+          {
+            "label": "FS1",
+            "color": "#003087",
+            "url": "https://www.foxsports.com/"
+          },
+          {
+            "label": "Apple TV+",
+            "color": "#555555",
+            "url": "https://tv.apple.com/"
+          }
+        ],
+        "home_score": null,
+        "away_score": null,
+        "sport": "soccer"
+      },
+      {
+        "game_pk": 401933725,
+        "game_date": "2026-11-28",
+        "game_time_utc": "2026-11-28T03:00Z",
+        "status": "Scheduled",
+        "home_team": {
+          "id": 4771,
+          "name": "Real Salt Lake",
+          "abbreviation": "RSL"
+        },
+        "away_team": {
+          "id": 9727,
+          "name": "Vancouver Whitecaps",
+          "abbreviation": "VAN"
+        },
+        "venue": "America First Field",
         "platforms": [
           {
             "label": "FS1",

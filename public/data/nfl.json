@@ -1,38 +1,9 @@
 {
-  "generated_at": "2026-11-20",
+  "generated_at": "2026-11-21",
   "sport": "nfl",
   "label": "NFL",
   "game_count": 17,
   "dates": {
-    "2026-11-19": [
-      {
-        "game_pk": 401873066,
-        "game_date": "2026-11-20",
-        "game_time_utc": "2026-11-20T01:15Z",
-        "status": "Final",
-        "home_team": {
-          "id": 34,
-          "name": "Houston Texans",
-          "abbreviation": "HOU"
-        },
-        "away_team": {
-          "id": 11,
-          "name": "Indianapolis Colts",
-          "abbreviation": "IND"
-        },
-        "venue": "Reliant Stadium",
-        "platforms": [
-          {
-            "label": "Prime Video",
-            "color": "#00A8E0",
-            "url": "https://www.amazon.com/primevideo"
-          }
-        ],
-        "home_score": 26,
-        "away_score": 3,
-        "sport": "nfl"
-      }
-    ],
     "2026-11-22": [
       {
         "game_pk": 401873070,
@@ -424,6 +395,35 @@
             "label": "NBC",
             "color": "#0B2265",
             "url": "https://www.nbc.com/"
+          }
+        ],
+        "home_score": null,
+        "away_score": null,
+        "sport": "nfl"
+      }
+    ],
+    "2026-11-27": [
+      {
+        "game_pk": 401873083,
+        "game_date": "2026-11-27",
+        "game_time_utc": "2026-11-27T20:00Z",
+        "status": "Scheduled",
+        "home_team": {
+          "id": 23,
+          "name": "Pittsburgh Steelers",
+          "abbreviation": "PIT"
+        },
+        "away_team": {
+          "id": 7,
+          "name": "Denver Broncos",
+          "abbreviation": "DEN"
+        },
+        "venue": "Acrisure Stadium",
+        "platforms": [
+          {
+            "label": "Prime Video",
+            "color": "#00A8E0",
+            "url": "https://www.amazon.com/primevideo"
           }
         ],
         "home_score": null,
