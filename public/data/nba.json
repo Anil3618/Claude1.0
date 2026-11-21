@@ -141,7 +141,7 @@
         "game_pk": 401909311,
         "game_date": "2026-11-21",
         "game_time_utc": "2026-11-21T02:30Z",
-        "status": "Halftime",
+        "status": "Final",
         "home_team": {
           "id": 26,
           "name": "Utah Jazz",
@@ -154,15 +154,15 @@
         },
         "venue": "Delta Center",
         "platforms": [],
-        "home_score": null,
-        "away_score": null,
+        "home_score": 101,
+        "away_score": 111,
         "sport": "nba"
       },
       {
         "game_pk": 401909312,
         "game_date": "2026-11-21",
         "game_time_utc": "2026-11-21T03:00Z",
-        "status": "In Progress",
+        "status": "Final",
         "home_team": {
           "id": 7,
           "name": "Denver Nuggets",
@@ -181,15 +181,15 @@
             "url": "https://www.amazon.com/primevideo"
           }
         ],
-        "home_score": 33,
-        "away_score": 36,
+        "home_score": 133,
+        "away_score": 124,
         "sport": "nba"
       },
       {
         "game_pk": 401909313,
         "game_date": "2026-11-21",
         "game_time_utc": "2026-11-21T03:00Z",
-        "status": "In Progress",
+        "status": "Final",
         "home_team": {
           "id": 13,
           "name": "Los Angeles Lakers",
@@ -202,8 +202,8 @@
         },
         "venue": "crypto.com Arena",
         "platforms": [],
-        "home_score": 28,
-        "away_score": 28,
+        "home_score": 106,
+        "away_score": 104,
         "sport": "nba"
       }
     ],
