@@ -212,7 +212,7 @@
         "game_pk": 401910023,
         "game_date": "2026-11-21",
         "game_time_utc": "2026-11-21T18:00Z",
-        "status": "Scheduled",
+        "status": "In Progress",
         "home_team": {
           "id": 20,
           "name": "Philadelphia 76ers",
@@ -225,8 +225,8 @@
         },
         "venue": "Xfinity Mobile Arena",
         "platforms": [],
-        "home_score": null,
-        "away_score": null,
+        "home_score": 50,
+        "away_score": 54,
         "sport": "nba"
       },
       {
