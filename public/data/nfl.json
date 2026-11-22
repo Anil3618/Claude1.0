@@ -9,7 +9,7 @@
         "game_pk": 401873070,
         "game_date": "2026-11-22",
         "game_time_utc": "2026-11-22T18:00Z",
-        "status": "Scheduled",
+        "status": "In Progress",
         "home_team": {
           "id": 2,
           "name": "Buffalo Bills",
@@ -28,15 +28,15 @@
             "url": "https://www.cbs.com/"
           }
         ],
-        "home_score": null,
-        "away_score": null,
+        "home_score": 20,
+        "away_score": 9,
         "sport": "nfl"
       },
       {
         "game_pk": 401873071,
         "game_date": "2026-11-22",
         "game_time_utc": "2026-11-22T18:00Z",
-        "status": "Scheduled",
+        "status": "In Progress",
         "home_team": {
           "id": 3,
           "name": "Chicago Bears",
@@ -49,15 +49,15 @@
         },
         "venue": "Soldier Field",
         "platforms": [],
-        "home_score": null,
-        "away_score": null,
+        "home_score": 19,
+        "away_score": 10,
         "sport": "nfl"
       },
       {
         "game_pk": 401873073,
         "game_date": "2026-11-22",
         "game_time_utc": "2026-11-22T18:00Z",
-        "status": "Scheduled",
+        "status": "In Progress",
         "home_team": {
           "id": 6,
           "name": "Dallas Cowboys",
@@ -70,15 +70,15 @@
         },
         "venue": "AT&T Stadium",
         "platforms": [],
-        "home_score": null,
-        "away_score": null,
+        "home_score": 41,
+        "away_score": 23,
         "sport": "nfl"
       },
       {
         "game_pk": 401873072,
         "game_date": "2026-11-22",
         "game_time_utc": "2026-11-22T18:00Z",
-        "status": "Scheduled",
+        "status": "In Progress",
         "home_team": {
           "id": 8,
           "name": "Detroit Lions",
@@ -91,15 +91,15 @@
         },
         "venue": "Ford Field",
         "platforms": [],
-        "home_score": null,
-        "away_score": null,
+        "home_score": 17,
+        "away_score": 14,
         "sport": "nfl"
       },
       {
         "game_pk": 401873067,
         "game_date": "2026-11-22",
         "game_time_utc": "2026-11-22T18:00Z",
-        "status": "Scheduled",
+        "status": "In Progress",
         "home_team": {
           "id": 12,
           "name": "Kansas City Chiefs",
@@ -118,15 +118,15 @@
             "url": "https://www.cbs.com/"
           }
         ],
-        "home_score": null,
-        "away_score": null,
+        "home_score": 34,
+        "away_score": 7,
         "sport": "nfl"
       },
       {
         "game_pk": 401873076,
         "game_date": "2026-11-22",
         "game_time_utc": "2026-11-22T18:00Z",
-        "status": "Scheduled",
+        "status": "In Progress",
         "home_team": {
           "id": 21,
           "name": "Philadelphia Eagles",
@@ -145,15 +145,15 @@
             "url": "https://www.cbs.com/"
           }
         ],
-        "home_score": null,
-        "away_score": null,
+        "home_score": 16,
+        "away_score": 9,
         "sport": "nfl"
       },
       {
         "game_pk": 401873068,
         "game_date": "2026-11-22",
         "game_time_utc": "2026-11-22T18:00Z",
-        "status": "Scheduled",
+        "status": "In Progress",
         "home_team": {
           "id": 29,
           "name": "Carolina Panthers",
@@ -166,8 +166,8 @@
         },
         "venue": "Bank of America Stadium",
         "platforms": [],
-        "home_score": null,
-        "away_score": null,
+        "home_score": 29,
+        "away_score": 26,
         "sport": "nfl"
       },
       {
