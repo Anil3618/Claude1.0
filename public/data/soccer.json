@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-21",
+  "generated_at": "2026-11-22",
   "sport": "soccer",
   "label": "MLS",
-  "game_count": 10,
+  "game_count": 16,
   "dates": {
     "2026-11-21": [
       {
@@ -63,7 +63,7 @@
         "game_pk": 401933739,
         "game_date": "2026-11-21",
         "game_time_utc": "2026-11-21T23:00Z",
-        "status": "First Half",
+        "status": "Full Time",
         "home_team": {
           "id": 20232,
           "name": "Inter Miami CF",
@@ -82,8 +82,8 @@
             "url": "https://tv.apple.com/"
           }
         ],
-        "home_score": null,
-        "away_score": null,
+        "home_score": 0,
+        "away_score": 3,
         "sport": "soccer"
       }
     ],
@@ -297,6 +297,175 @@
           "abbreviation": "VAN"
         },
         "venue": "America First Field",
+        "platforms": [
+          {
+            "label": "FS1",
+            "color": "#003087",
+            "url": "https://www.foxsports.com/"
+          },
+          {
+            "label": "Apple TV+",
+            "color": "#555555",
+            "url": "https://tv.apple.com/"
+          }
+        ],
+        "home_score": null,
+        "away_score": null,
+        "sport": "soccer"
+      }
+    ],
+    "2026-11-28": [
+      {
+        "game_pk": 401933737,
+        "game_date": "2026-11-28",
+        "game_time_utc": "2026-11-28T17:30Z",
+        "status": "Scheduled",
+        "home_team": {
+          "id": 21300,
+          "name": "Charlotte FC",
+          "abbreviation": "CLT"
+        },
+        "away_team": {
+          "id": 182,
+          "name": "Chicago Fire FC",
+          "abbreviation": "CHI"
+        },
+        "venue": "Bank of America Stadium",
+        "platforms": [
+          {
+            "label": "Apple TV+",
+            "color": "#555555",
+            "url": "https://tv.apple.com/"
+          }
+        ],
+        "home_score": null,
+        "away_score": null,
+        "sport": "soccer"
+      },
+      {
+        "game_pk": 401933724,
+        "game_date": "2026-11-28",
+        "game_time_utc": "2026-11-28T19:30Z",
+        "status": "Scheduled",
+        "home_team": {
+          "id": 6077,
+          "name": "Houston Dynamo FC",
+          "abbreviation": "HOU"
+        },
+        "away_team": {
+          "id": 191,
+          "name": "San Jose Earthquakes",
+          "abbreviation": "SJ"
+        },
+        "venue": "Shell Energy Stadium",
+        "platforms": [
+          {
+            "label": "Apple TV+",
+            "color": "#555555",
+            "url": "https://tv.apple.com/"
+          }
+        ],
+        "home_score": null,
+        "away_score": null,
+        "sport": "soccer"
+      },
+      {
+        "game_pk": 401933723,
+        "game_date": "2026-11-28",
+        "game_time_utc": "2026-11-28T21:30Z",
+        "status": "Scheduled",
+        "home_team": {
+          "id": 10739,
+          "name": "Philadelphia Union",
+          "abbreviation": "PHI"
+        },
+        "away_team": {
+          "id": 189,
+          "name": "New England Revolution",
+          "abbreviation": "NE"
+        },
+        "venue": "Subaru Park",
+        "platforms": [
+          {
+            "label": "Apple TV+",
+            "color": "#555555",
+            "url": "https://tv.apple.com/"
+          }
+        ],
+        "home_score": null,
+        "away_score": null,
+        "sport": "soccer"
+      },
+      {
+        "game_pk": 401933722,
+        "game_date": "2026-11-28",
+        "game_time_utc": "2026-11-28T23:30Z",
+        "status": "Scheduled",
+        "home_team": {
+          "id": 18267,
+          "name": "FC Cincinnati",
+          "abbreviation": "CIN"
+        },
+        "away_team": {
+          "id": 18986,
+          "name": "Nashville SC",
+          "abbreviation": "NSH"
+        },
+        "venue": "TQL Stadium",
+        "platforms": [
+          {
+            "label": "Apple TV+",
+            "color": "#555555",
+            "url": "https://tv.apple.com/"
+          }
+        ],
+        "home_score": null,
+        "away_score": null,
+        "sport": "soccer"
+      },
+      {
+        "game_pk": 401933726,
+        "game_date": "2026-11-29",
+        "game_time_utc": "2026-11-29T01:30Z",
+        "status": "Scheduled",
+        "home_team": {
+          "id": 18966,
+          "name": "LAFC",
+          "abbreviation": "LAFC"
+        },
+        "away_team": {
+          "id": 21812,
+          "name": "St. Louis CITY SC",
+          "abbreviation": "STL"
+        },
+        "venue": "BMO Stadium",
+        "platforms": [
+          {
+            "label": "Apple TV+",
+            "color": "#555555",
+            "url": "https://tv.apple.com/"
+          }
+        ],
+        "home_score": null,
+        "away_score": null,
+        "sport": "soccer"
+      },
+      {
+        "game_pk": 401933721,
+        "game_date": "2026-11-29",
+        "game_time_utc": "2026-11-29T03:30Z",
+        "status": "Scheduled",
+        "home_team": {
+          "id": 9723,
+          "name": "Portland Timbers",
+          "abbreviation": "POR"
+        },
+        "away_team": {
+          "id": 185,
+          "name": "FC Dallas",
+          "abbreviation": "DAL"
+        },
+        "venue": "Providence Park",
         "platforms": [
           {
             "label": "FS1",
