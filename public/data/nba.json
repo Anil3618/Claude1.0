@@ -30,7 +30,7 @@
         "game_pk": 401910030,
         "game_date": "2026-11-22",
         "game_time_utc": "2026-11-22T23:00Z",
-        "status": "In Progress",
+        "status": "Final",
         "home_team": {
           "id": 14,
           "name": "Miami Heat",
@@ -44,14 +44,14 @@
         "venue": "Kaseya Center",
         "platforms": [],
         "home_score": 123,
-        "away_score": 110,
+        "away_score": 113,
         "sport": "nba"
       },
       {
         "game_pk": 401910031,
         "game_date": "2026-11-23",
         "game_time_utc": "2026-11-23T00:00Z",
-        "status": "Halftime",
+        "status": "Final",
         "home_team": {
           "id": 27,
           "name": "Washington Wizards",
@@ -64,15 +64,15 @@
         },
         "venue": "Capital One Arena",
         "platforms": [],
-        "home_score": null,
-        "away_score": null,
+        "home_score": 116,
+        "away_score": 96,
         "sport": "nba"
       },
       {
         "game_pk": 401910032,
         "game_date": "2026-11-23",
         "game_time_utc": "2026-11-23T00:00Z",
-        "status": "In Progress",
+        "status": "Final",
         "home_team": {
           "id": 4,
           "name": "Chicago Bulls",
@@ -85,15 +85,15 @@
         },
         "venue": "United Center",
         "platforms": [],
-        "home_score": 70,
-        "away_score": 72,
+        "home_score": 145,
+        "away_score": 151,
         "sport": "nba"
       },
       {
         "game_pk": 401910033,
         "game_date": "2026-11-23",
         "game_time_utc": "2026-11-23T00:00Z",
-        "status": "In Progress",
+        "status": "Final",
         "home_team": {
           "id": 26,
           "name": "Utah Jazz",
@@ -106,15 +106,15 @@
         },
         "venue": "Delta Center",
         "platforms": [],
-        "home_score": 57,
-        "away_score": 64,
+        "home_score": 114,
+        "away_score": 116,
         "sport": "nba"
       },
       {
         "game_pk": 401910034,
         "game_date": "2026-11-23",
         "game_time_utc": "2026-11-23T01:00Z",
-        "status": "In Progress",
+        "status": "Final",
         "home_team": {
           "id": 18,
           "name": "New York Knicks",
@@ -127,15 +127,15 @@
         },
         "venue": "Madison Square Garden",
         "platforms": [],
-        "home_score": 13,
-        "away_score": 9,
+        "home_score": 113,
+        "away_score": 106,
         "sport": "nba"
       },
       {
         "game_pk": 401910035,
         "game_date": "2026-11-23",
         "game_time_utc": "2026-11-23T01:30Z",
-        "status": "Scheduled",
+        "status": "Final",
         "home_team": {
           "id": 9,
           "name": "Golden State Warriors",
@@ -148,8 +148,8 @@
         },
         "venue": "Chase Center",
         "platforms": [],
-        "home_score": null,
-        "away_score": null,
+        "home_score": 88,
+        "away_score": 87,
         "sport": "nba"
       }
     ],

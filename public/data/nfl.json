@@ -249,7 +249,7 @@
         "game_pk": 401873077,
         "game_date": "2026-11-23",
         "game_time_utc": "2026-11-23T01:20Z",
-        "status": "Scheduled",
+        "status": "Final",
         "home_team": {
           "id": 25,
           "name": "San Francisco 49ers",
@@ -268,8 +268,8 @@
             "url": "https://www.nbc.com/"
           }
         ],
-        "home_score": null,
-        "away_score": null,
+        "home_score": 35,
+        "away_score": 10,
         "sport": "nfl"
       }
     ],
