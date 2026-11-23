@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-11-22",
+  "generated_at": "2026-11-23",
   "sport": "nfl",
   "label": "NFL",
-  "game_count": 17,
+  "game_count": 27,
   "dates": {
     "2026-11-22": [
       {
         "game_pk": 401873070,
         "game_date": "2026-11-22",
         "game_time_utc": "2026-11-22T18:00Z",
-        "status": "In Progress",
+        "status": "Final",
         "home_team": {
           "id": 2,
           "name": "Buffalo Bills",
@@ -28,7 +28,7 @@
             "url": "https://www.cbs.com/"
           }
         ],
-        "home_score": 20,
+        "home_score": 26,
         "away_score": 9,
         "sport": "nfl"
       },
@@ -36,7 +36,7 @@
         "game_pk": 401873071,
         "game_date": "2026-11-22",
         "game_time_utc": "2026-11-22T18:00Z",
-        "status": "In Progress",
+        "status": "Final",
         "home_team": {
           "id": 3,
           "name": "Chicago Bears",
@@ -49,15 +49,15 @@
         },
         "venue": "Soldier Field",
         "platforms": [],
-        "home_score": 19,
-        "away_score": 10,
+        "home_score": 21,
+        "away_score": 13,
         "sport": "nfl"
       },
       {
         "game_pk": 401873073,
         "game_date": "2026-11-22",
         "game_time_utc": "2026-11-22T18:00Z",
-        "status": "In Progress",
+        "status": "Final",
         "home_team": {
           "id": 6,
           "name": "Dallas Cowboys",
@@ -70,15 +70,15 @@
         },
         "venue": "AT&T Stadium",
         "platforms": [],
-        "home_score": 41,
-        "away_score": 23,
+        "home_score": 51,
+        "away_score": 30,
         "sport": "nfl"
       },
       {
         "game_pk": 401873072,
         "game_date": "2026-11-22",
         "game_time_utc": "2026-11-22T18:00Z",
-        "status": "In Progress",
+        "status": "Final",
         "home_team": {
           "id": 8,
           "name": "Detroit Lions",
@@ -91,15 +91,15 @@
         },
         "venue": "Ford Field",
         "platforms": [],
-        "home_score": 17,
-        "away_score": 14,
+        "home_score": 31,
+        "away_score": 21,
         "sport": "nfl"
       },
       {
         "game_pk": 401873067,
         "game_date": "2026-11-22",
         "game_time_utc": "2026-11-22T18:00Z",
-        "status": "In Progress",
+        "status": "Final",
         "home_team": {
           "id": 12,
           "name": "Kansas City Chiefs",
@@ -126,7 +126,7 @@
         "game_pk": 401873076,
         "game_date": "2026-11-22",
         "game_time_utc": "2026-11-22T18:00Z",
-        "status": "In Progress",
+        "status": "Final",
         "home_team": {
           "id": 21,
           "name": "Philadelphia Eagles",
@@ -145,15 +145,15 @@
             "url": "https://www.cbs.com/"
           }
         ],
-        "home_score": 16,
-        "away_score": 9,
+        "home_score": 19,
+        "away_score": 16,
         "sport": "nfl"
       },
       {
         "game_pk": 401873068,
         "game_date": "2026-11-22",
         "game_time_utc": "2026-11-22T18:00Z",
-        "status": "In Progress",
+        "status": "Final",
         "home_team": {
           "id": 29,
           "name": "Carolina Panthers",
@@ -166,15 +166,15 @@
         },
         "venue": "Bank of America Stadium",
         "platforms": [],
-        "home_score": 29,
-        "away_score": 26,
+        "home_score": 35,
+        "away_score": 33,
         "sport": "nfl"
       },
       {
         "game_pk": 401873074,
         "game_date": "2026-11-22",
         "game_time_utc": "2026-11-22T21:05Z",
-        "status": "Scheduled",
+        "status": "Final",
         "home_team": {
           "id": 24,
           "name": "Los Angeles Chargers",
@@ -187,15 +187,15 @@
         },
         "venue": "SoFi Stadium",
         "platforms": [],
-        "home_score": null,
-        "away_score": null,
+        "home_score": 24,
+        "away_score": 27,
         "sport": "nfl"
       },
       {
         "game_pk": 401873075,
         "game_date": "2026-11-22",
         "game_time_utc": "2026-11-22T21:25Z",
-        "status": "Scheduled",
+        "status": "Final",
         "home_team": {
           "id": 7,
           "name": "Denver Broncos",
@@ -214,15 +214,15 @@
             "url": "https://www.cbs.com/"
           }
         ],
-        "home_score": null,
-        "away_score": null,
+        "home_score": 38,
+        "away_score": 24,
         "sport": "nfl"
       },
       {
         "game_pk": 401873069,
         "game_date": "2026-11-22",
         "game_time_utc": "2026-11-22T21:25Z",
-        "status": "Scheduled",
+        "status": "Final",
         "home_team": {
           "id": 19,
           "name": "New York Giants",
@@ -241,8 +241,8 @@
             "url": "https://www.cbs.com/"
           }
         ],
-        "home_score": null,
-        "away_score": null,
+        "home_score": 23,
+        "away_score": 18,
         "sport": "nfl"
       },
       {
@@ -424,6 +424,248 @@
             "label": "Prime Video",
             "color": "#00A8E0",
             "url": "https://www.amazon.com/primevideo"
+          }
+        ],
+        "home_score": null,
+        "away_score": null,
+        "sport": "nfl"
+      }
+    ],
+    "2026-11-29": [
+      {
+        "game_pk": 401873087,
+        "game_date": "2026-11-29",
+        "game_time_utc": "2026-11-29T18:00Z",
+        "status": "Scheduled",
+        "home_team": {
+          "id": 4,
+          "name": "Cincinnati Bengals",
+          "abbreviation": "CIN"
+        },
+        "away_team": {
+          "id": 18,
+          "name": "New Orleans Saints",
+          "abbreviation": "NO"
+        },
+        "venue": "Paycor Stadium",
+        "platforms": [
+          {
+            "label": "CBS",
+            "color": "#0033A0",
+            "url": "https://www.cbs.com/"
+          }
+        ],
+        "home_score": null,
+        "away_score": null,
+        "sport": "nfl"
+      },
+      {
+        "game_pk": 401873088,
+        "game_date": "2026-11-29",
+        "game_time_utc": "2026-11-29T18:00Z",
+        "status": "Scheduled",
+        "home_team": {
+          "id": 11,
+          "name": "Indianapolis Colts",
+          "abbreviation": "IND"
+        },
+        "away_team": {
+          "id": 19,
+          "name": "New York Giants",
+          "abbreviation": "NYG"
+        },
+        "venue": "Lucas Oil Stadium",
+        "platforms": [],
+        "home_score": null,
+        "away_score": null,
+        "sport": "nfl"
+      },
+      {
+        "game_pk": 401873089,
+        "game_date": "2026-11-29",
+        "game_time_utc": "2026-11-29T18:00Z",
+        "status": "Scheduled",
+        "home_team": {
+          "id": 15,
+          "name": "Miami Dolphins",
+          "abbreviation": "MIA"
+        },
+        "away_team": {
+          "id": 20,
+          "name": "New York Jets",
+          "abbreviation": "NYJ"
+        },
+        "venue": "Hard Rock Stadium",
+        "platforms": [
+          {
+            "label": "CBS",
+            "color": "#0033A0",
+            "url": "https://www.cbs.com/"
+          }
+        ],
+        "home_score": null,
+        "away_score": null,
+        "sport": "nfl"
+      },
+      {
+        "game_pk": 401873084,
+        "game_date": "2026-11-29",
+        "game_time_utc": "2026-11-29T18:00Z",
+        "status": "Scheduled",
+        "home_team": {
+          "id": 16,
+          "name": "Minnesota Vikings",
+          "abbreviation": "MIN"
+        },
+        "away_team": {
+          "id": 1,
+          "name": "Atlanta Falcons",
+          "abbreviation": "ATL"
+        },
+        "venue": "U.S. Bank Stadium",
+        "platforms": [],
+        "home_score": null,
+        "away_score": null,
+        "sport": "nfl"
+      },
+      {
+        "game_pk": 401873090,
+        "game_date": "2026-11-29",
+        "game_time_utc": "2026-11-29T18:00Z",
+        "status": "Scheduled",
+        "home_team": {
+          "id": 30,
+          "name": "Jacksonville Jaguars",
+          "abbreviation": "JAX"
+        },
+        "away_team": {
+          "id": 10,
+          "name": "Tennessee Titans",
+          "abbreviation": "TEN"
+        },
+        "venue": "EverBank Stadium",
+        "platforms": [],
+        "home_score": null,
+        "away_score": null,
+        "sport": "nfl"
+      },
+      {
+        "game_pk": 401873085,
+        "game_date": "2026-11-29",
+        "game_time_utc": "2026-11-29T18:00Z",
+        "status": "Scheduled",
+        "home_team": {
+          "id": 34,
+          "name": "Houston Texans",
+          "abbreviation": "HOU"
+        },
+        "away_team": {
+          "id": 33,
+          "name": "Baltimore Ravens",
+          "abbreviation": "BAL"
+        },
+        "venue": "Reliant Stadium",
+        "platforms": [
+          {
+            "label": "CBS",
+            "color": "#0033A0",
+            "url": "https://www.cbs.com/"
+          }
+        ],
+        "home_score": null,
+        "away_score": null,
+        "sport": "nfl"
+      },
+      {
+        "game_pk": 401873093,
+        "game_date": "2026-11-29",
+        "game_time_utc": "2026-11-29T21:05Z",
+        "status": "Scheduled",
+        "home_team": {
+          "id": 24,
+          "name": "Los Angeles Chargers",
+          "abbreviation": "LAC"
+        },
+        "away_team": {
+          "id": 17,
+          "name": "New England Patriots",
+          "abbreviation": "NE"
+        },
+        "venue": "SoFi Stadium",
+        "platforms": [
+          {
+            "label": "CBS",
+            "color": "#0033A0",
+            "url": "https://www.cbs.com/"
+          }
+        ],
+        "home_score": null,
+        "away_score": null,
+        "sport": "nfl"
+      },
+      {
+        "game_pk": 401873092,
+        "game_date": "2026-11-29",
+        "game_time_utc": "2026-11-29T21:25Z",
+        "status": "Scheduled",
+        "home_team": {
+          "id": 22,
+          "name": "Arizona Cardinals",
+          "abbreviation": "ARI"
+        },
+        "away_team": {
+          "id": 28,
+          "name": "Washington Commanders",
+          "abbreviation": "WSH"
+        },
+        "venue": "State Farm Stadium",
+        "platforms": [],
+        "home_score": null,
+        "away_score": null,
+        "sport": "nfl"
+      },
+      {
+        "game_pk": 401873091,
+        "game_date": "2026-11-29",
+        "game_time_utc": "2026-11-29T21:25Z",
+        "status": "Scheduled",
+        "home_team": {
+          "id": 25,
+          "name": "San Francisco 49ers",
+          "abbreviation": "SF"
+        },
+        "away_team": {
+          "id": 26,
+          "name": "Seattle Seahawks",
+          "abbreviation": "SEA"
+        },
+        "venue": "Levi's Stadium",
+        "platforms": [],
+        "home_score": null,
+        "away_score": null,
+        "sport": "nfl"
+      },
+      {
+        "game_pk": 401873086,
+        "game_date": "2026-11-30",
+        "game_time_utc": "2026-11-30T01:20Z",
+        "status": "Scheduled",
+        "home_team": {
+          "id": 5,
+          "name": "Cleveland Browns",
+          "abbreviation": "CLE"
+        },
+        "away_team": {
+          "id": 13,
+          "name": "Las Vegas Raiders",
+          "abbreviation": "LV"
+        },
+        "venue": "Huntington Bank Field",
+        "platforms": [
+          {
+            "label": "NBC",
+            "color": "#0B2265",
+            "url": "https://www.nbc.com/"
           }
         ],
         "home_score": null,
