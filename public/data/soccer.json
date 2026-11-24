@@ -1,108 +1,15 @@
 {
-  "generated_at": "2026-11-23",
+  "generated_at": "2026-11-24",
   "sport": "soccer",
   "label": "MLS",
-  "game_count": 13,
+  "game_count": 10,
   "dates": {
-    "2026-11-22": [
-      {
-        "game_pk": 401933731,
-        "game_date": "2026-11-22",
-        "game_time_utc": "2026-11-22T21:00Z",
-        "status": "Full Time",
-        "home_team": {
-          "id": 18986,
-          "name": "Nashville SC",
-          "abbreviation": "NSH"
-        },
-        "away_team": {
-          "id": 18267,
-          "name": "FC Cincinnati",
-          "abbreviation": "CIN"
-        },
-        "venue": "GEODIS Park",
-        "platforms": [
-          {
-            "label": "FS1",
-            "color": "#003087",
-            "url": "https://www.foxsports.com/"
-          },
-          {
-            "label": "Apple TV+",
-            "color": "#555555",
-            "url": "https://tv.apple.com/"
-          }
-        ],
-        "home_score": 0,
-        "away_score": 1,
-        "sport": "soccer"
-      },
-      {
-        "game_pk": 401933730,
-        "game_date": "2026-11-22",
-        "game_time_utc": "2026-11-22T23:30Z",
-        "status": "Full Time",
-        "home_team": {
-          "id": 182,
-          "name": "Chicago Fire FC",
-          "abbreviation": "CHI"
-        },
-        "away_team": {
-          "id": 21300,
-          "name": "Charlotte FC",
-          "abbreviation": "CLT"
-        },
-        "venue": "SeatGeek Stadium",
-        "platforms": [
-          {
-            "label": "FS1",
-            "color": "#003087",
-            "url": "https://www.foxsports.com/"
-          },
-          {
-            "label": "Apple TV+",
-            "color": "#555555",
-            "url": "https://tv.apple.com/"
-          }
-        ],
-        "home_score": 1,
-        "away_score": 2,
-        "sport": "soccer"
-      },
-      {
-        "game_pk": 401933729,
-        "game_date": "2026-11-23",
-        "game_time_utc": "2026-11-23T01:30Z",
-        "status": "Full Time",
-        "home_team": {
-          "id": 9727,
-          "name": "Vancouver Whitecaps",
-          "abbreviation": "VAN"
-        },
-        "away_team": {
-          "id": 4771,
-          "name": "Real Salt Lake",
-          "abbreviation": "RSL"
-        },
-        "venue": "BC Place",
-        "platforms": [
-          {
-            "label": "Apple TV+",
-            "color": "#555555",
-            "url": "https://tv.apple.com/"
-          }
-        ],
-        "home_score": 2,
-        "away_score": 0,
-        "sport": "soccer"
-      }
-    ],
     "2026-11-23": [
       {
         "game_pk": 401933728,
         "game_date": "2026-11-24",
-        "game_time_utc": "2026-11-24T01:00Z",
-        "status": "Scheduled",
+        "game_time_utc": "2026-11-24T01:15Z",
+        "status": "Full Time",
         "home_team": {
           "id": 21812,
           "name": "St. Louis CITY SC",
@@ -126,8 +33,8 @@
             "url": "https://tv.apple.com/"
           }
         ],
-        "home_score": null,
-        "away_score": null,
+        "home_score": 3,
+        "away_score": 2,
         "sport": "soccer"
       }
     ],
