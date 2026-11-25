@@ -1,43 +1,9 @@
 {
-  "generated_at": "2026-11-24",
+  "generated_at": "2026-11-25",
   "sport": "soccer",
   "label": "MLS",
-  "game_count": 10,
+  "game_count": 9,
   "dates": {
-    "2026-11-23": [
-      {
-        "game_pk": 401933728,
-        "game_date": "2026-11-24",
-        "game_time_utc": "2026-11-24T01:15Z",
-        "status": "Full Time",
-        "home_team": {
-          "id": 21812,
-          "name": "St. Louis CITY SC",
-          "abbreviation": "STL"
-        },
-        "away_team": {
-          "id": 18966,
-          "name": "LAFC",
-          "abbreviation": "LAFC"
-        },
-        "venue": "Energizer Park",
-        "platforms": [
-          {
-            "label": "FS1",
-            "color": "#003087",
-            "url": "https://www.foxsports.com/"
-          },
-          {
-            "label": "Apple TV+",
-            "color": "#555555",
-            "url": "https://tv.apple.com/"
-          }
-        ],
-        "home_score": 3,
-        "away_score": 2,
-        "sport": "soccer"
-      }
-    ],
     "2026-11-24": [
       {
         "game_pk": 401933738,
@@ -122,6 +88,11 @@
         },
         "venue": "America First Field",
         "platforms": [
+          {
+            "label": "Fox",
+            "color": "#003087",
+            "url": "https://www.fox.com/"
+          },
           {
             "label": "FS1",
             "color": "#003087",
