@@ -9,7 +9,7 @@
         "game_pk": 401933738,
         "game_date": "2026-11-25",
         "game_time_utc": "2026-11-25T03:00Z",
-        "status": "Scheduled",
+        "status": "Full Time",
         "home_team": {
           "id": 191,
           "name": "San Jose Earthquakes",
@@ -33,8 +33,8 @@
             "url": "https://tv.apple.com/"
           }
         ],
-        "home_score": null,
-        "away_score": null,
+        "home_score": 2,
+        "away_score": 1,
         "sport": "soccer"
       }
     ],

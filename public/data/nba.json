@@ -30,7 +30,7 @@
         "game_pk": 401909315,
         "game_date": "2026-11-25",
         "game_time_utc": "2026-11-25T01:00Z",
-        "status": "In Progress",
+        "status": "Final",
         "home_team": {
           "id": 27,
           "name": "Washington Wizards",
@@ -49,15 +49,15 @@
             "url": "https://www.nbc.com/"
           }
         ],
-        "home_score": 87,
-        "away_score": 104,
+        "home_score": 116,
+        "away_score": 131,
         "sport": "nba"
       },
       {
         "game_pk": 401909316,
         "game_date": "2026-11-25",
         "game_time_utc": "2026-11-25T03:00Z",
-        "status": "Scheduled",
+        "status": "Final",
         "home_team": {
           "id": 7,
           "name": "Denver Nuggets",
@@ -76,8 +76,8 @@
             "url": "https://www.nbc.com/"
           }
         ],
-        "home_score": null,
-        "away_score": null,
+        "home_score": 101,
+        "away_score": 120,
         "sport": "nba"
       }
     ],
