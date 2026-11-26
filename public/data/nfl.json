@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-25",
+  "generated_at": "2026-11-26",
   "sport": "nfl",
   "label": "NFL",
   "game_count": 16,
@@ -9,7 +9,7 @@
         "game_pk": 401873079,
         "game_date": "2026-11-26",
         "game_time_utc": "2026-11-26T01:00Z",
-        "status": "Scheduled",
+        "status": "In Progress",
         "home_team": {
           "id": 14,
           "name": "Los Angeles Rams",
@@ -22,8 +22,8 @@
         },
         "venue": "SoFi Stadium",
         "platforms": [],
-        "home_score": null,
-        "away_score": null,
+        "home_score": 20,
+        "away_score": 13,
         "sport": "nfl"
       }
     ],
