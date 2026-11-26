@@ -29,10 +29,31 @@
     ],
     "2026-11-26": [
       {
+        "game_pk": 401873080,
+        "game_date": "2026-11-26",
+        "game_time_utc": "2026-11-26T21:30Z",
+        "status": "In Progress",
+        "home_team": {
+          "id": 6,
+          "name": "Dallas Cowboys",
+          "abbreviation": "DAL"
+        },
+        "away_team": {
+          "id": 21,
+          "name": "Philadelphia Eagles",
+          "abbreviation": "PHI"
+        },
+        "venue": "AT&T Stadium",
+        "platforms": [],
+        "home_score": 14,
+        "away_score": 0,
+        "sport": "nfl"
+      },
+      {
         "game_pk": 401873081,
         "game_date": "2026-11-26",
         "game_time_utc": "2026-11-26T18:00Z",
-        "status": "Scheduled",
+        "status": "Final",
         "home_team": {
           "id": 8,
           "name": "Detroit Lions",
@@ -51,29 +72,8 @@
             "url": "https://www.cbs.com/"
           }
         ],
-        "home_score": null,
-        "away_score": null,
-        "sport": "nfl"
-      },
-      {
-        "game_pk": 401873080,
-        "game_date": "2026-11-26",
-        "game_time_utc": "2026-11-26T21:30Z",
-        "status": "Scheduled",
-        "home_team": {
-          "id": 6,
-          "name": "Dallas Cowboys",
-          "abbreviation": "DAL"
-        },
-        "away_team": {
-          "id": 21,
-          "name": "Philadelphia Eagles",
-          "abbreviation": "PHI"
-        },
-        "venue": "AT&T Stadium",
-        "platforms": [],
-        "home_score": null,
-        "away_score": null,
+        "home_score": 35,
+        "away_score": 39,
         "sport": "nfl"
       },
       {
