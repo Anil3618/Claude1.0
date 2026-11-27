@@ -1,54 +1,10 @@
 {
-  "generated_at": "2026-11-26",
+  "generated_at": "2026-11-27",
   "sport": "nfl",
   "label": "NFL",
   "game_count": 16,
   "dates": {
-    "2026-11-25": [
-      {
-        "game_pk": 401873079,
-        "game_date": "2026-11-26",
-        "game_time_utc": "2026-11-26T01:00Z",
-        "status": "Final",
-        "home_team": {
-          "id": 14,
-          "name": "Los Angeles Rams",
-          "abbreviation": "LAR"
-        },
-        "away_team": {
-          "id": 9,
-          "name": "Green Bay Packers",
-          "abbreviation": "GB"
-        },
-        "venue": "SoFi Stadium",
-        "platforms": [],
-        "home_score": 26,
-        "away_score": 13,
-        "sport": "nfl"
-      }
-    ],
     "2026-11-26": [
-      {
-        "game_pk": 401873080,
-        "game_date": "2026-11-26",
-        "game_time_utc": "2026-11-26T21:30Z",
-        "status": "In Progress",
-        "home_team": {
-          "id": 6,
-          "name": "Dallas Cowboys",
-          "abbreviation": "DAL"
-        },
-        "away_team": {
-          "id": 21,
-          "name": "Philadelphia Eagles",
-          "abbreviation": "PHI"
-        },
-        "venue": "AT&T Stadium",
-        "platforms": [],
-        "home_score": 14,
-        "away_score": 0,
-        "sport": "nfl"
-      },
       {
         "game_pk": 401873081,
         "game_date": "2026-11-26",
@@ -77,10 +33,31 @@
         "sport": "nfl"
       },
       {
+        "game_pk": 401873080,
+        "game_date": "2026-11-26",
+        "game_time_utc": "2026-11-26T21:30Z",
+        "status": "Final",
+        "home_team": {
+          "id": 6,
+          "name": "Dallas Cowboys",
+          "abbreviation": "DAL"
+        },
+        "away_team": {
+          "id": 21,
+          "name": "Philadelphia Eagles",
+          "abbreviation": "PHI"
+        },
+        "venue": "AT&T Stadium",
+        "platforms": [],
+        "home_score": 38,
+        "away_score": 39,
+        "sport": "nfl"
+      },
+      {
         "game_pk": 401873082,
         "game_date": "2026-11-27",
         "game_time_utc": "2026-11-27T01:20Z",
-        "status": "Scheduled",
+        "status": "Final",
         "home_team": {
           "id": 2,
           "name": "Buffalo Bills",
@@ -99,8 +76,8 @@
             "url": "https://www.nbc.com/"
           }
         ],
-        "home_score": null,
-        "away_score": null,
+        "home_score": 13,
+        "away_score": 10,
         "sport": "nfl"
       }
     ],
@@ -397,6 +374,35 @@
             "label": "ESPN",
             "color": "#CC0000",
             "url": "https://www.espn.com/watch/"
+          }
+        ],
+        "home_score": null,
+        "away_score": null,
+        "sport": "nfl"
+      }
+    ],
+    "2026-12-03": [
+      {
+        "game_pk": 401873096,
+        "game_date": "2026-12-04",
+        "game_time_utc": "2026-12-04T01:15Z",
+        "status": "Scheduled",
+        "home_team": {
+          "id": 14,
+          "name": "Los Angeles Rams",
+          "abbreviation": "LAR"
+        },
+        "away_team": {
+          "id": 12,
+          "name": "Kansas City Chiefs",
+          "abbreviation": "KC"
+        },
+        "venue": "SoFi Stadium",
+        "platforms": [
+          {
+            "label": "Prime Video",
+            "color": "#00A8E0",
+            "url": "https://www.amazon.com/primevideo"
           }
         ],
         "home_score": null,
