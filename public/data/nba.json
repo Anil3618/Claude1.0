@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-11-27",
+  "generated_at": "2026-11-28",
   "sport": "nba",
   "label": "NBA",
-  "game_count": 55,
+  "game_count": 57,
   "dates": {
     "2026-11-27": [
       {
         "game_pk": 401909326,
         "game_date": "2026-11-28",
         "game_time_utc": "2026-11-28T00:00Z",
-        "status": "Scheduled",
+        "status": "Final",
         "home_team": {
           "id": 18,
           "name": "New York Knicks",
@@ -28,15 +28,15 @@
             "url": "https://www.amazon.com/primevideo"
           }
         ],
-        "home_score": null,
-        "away_score": null,
+        "home_score": 105,
+        "away_score": 108,
         "sport": "nba"
       },
       {
         "game_pk": 401909327,
         "game_date": "2026-11-28",
         "game_time_utc": "2026-11-28T00:30Z",
-        "status": "Scheduled",
+        "status": "Final",
         "home_team": {
           "id": 8,
           "name": "Detroit Pistons",
@@ -49,15 +49,15 @@
         },
         "venue": "Little Caesars Arena",
         "platforms": [],
-        "home_score": null,
-        "away_score": null,
+        "home_score": 113,
+        "away_score": 98,
         "sport": "nba"
       },
       {
         "game_pk": 401909328,
         "game_date": "2026-11-28",
         "game_time_utc": "2026-11-28T00:30Z",
-        "status": "Scheduled",
+        "status": "Final",
         "home_team": {
           "id": 11,
           "name": "Indiana Pacers",
@@ -70,15 +70,15 @@
         },
         "venue": "Gainbridge Fieldhouse",
         "platforms": [],
-        "home_score": null,
-        "away_score": null,
+        "home_score": 87,
+        "away_score": 111,
         "sport": "nba"
       },
       {
         "game_pk": 401909329,
         "game_date": "2026-11-28",
         "game_time_utc": "2026-11-28T00:30Z",
-        "status": "Scheduled",
+        "status": "Final",
         "home_team": {
           "id": 28,
           "name": "Toronto Raptors",
@@ -91,15 +91,15 @@
         },
         "venue": "Scotiabank Arena",
         "platforms": [],
-        "home_score": null,
-        "away_score": null,
+        "home_score": 124,
+        "away_score": 100,
         "sport": "nba"
       },
       {
         "game_pk": 401909330,
         "game_date": "2026-11-28",
         "game_time_utc": "2026-11-28T01:00Z",
-        "status": "Scheduled",
+        "status": "Final",
         "home_team": {
           "id": 2,
           "name": "Boston Celtics",
@@ -112,15 +112,15 @@
         },
         "venue": "TD Garden",
         "platforms": [],
-        "home_score": null,
-        "away_score": null,
+        "home_score": 86,
+        "away_score": 87,
         "sport": "nba"
       },
       {
         "game_pk": 401909331,
         "game_date": "2026-11-28",
         "game_time_utc": "2026-11-28T01:30Z",
-        "status": "Scheduled",
+        "status": "Final",
         "home_team": {
           "id": 16,
           "name": "Minnesota Timberwolves",
@@ -133,15 +133,15 @@
         },
         "venue": "Target Center",
         "platforms": [],
-        "home_score": null,
-        "away_score": null,
+        "home_score": 109,
+        "away_score": 114,
         "sport": "nba"
       },
       {
         "game_pk": 401909332,
         "game_date": "2026-11-28",
         "game_time_utc": "2026-11-28T02:00Z",
-        "status": "Scheduled",
+        "status": "Final",
         "home_team": {
           "id": 21,
           "name": "Phoenix Suns",
@@ -154,15 +154,15 @@
         },
         "venue": "Mortgage Matchup Center",
         "platforms": [],
-        "home_score": null,
-        "away_score": null,
+        "home_score": 109,
+        "away_score": 113,
         "sport": "nba"
       },
       {
         "game_pk": 401909333,
         "game_date": "2026-11-28",
         "game_time_utc": "2026-11-28T02:30Z",
-        "status": "Scheduled",
+        "status": "Final",
         "home_team": {
           "id": 24,
           "name": "San Antonio Spurs",
@@ -181,15 +181,15 @@
             "url": "https://www.amazon.com/primevideo"
           }
         ],
-        "home_score": null,
-        "away_score": null,
+        "home_score": 99,
+        "away_score": 96,
         "sport": "nba"
       },
       {
         "game_pk": 401909334,
         "game_date": "2026-11-28",
         "game_time_utc": "2026-11-28T02:30Z",
-        "status": "Scheduled",
+        "status": "Final",
         "home_team": {
           "id": 26,
           "name": "Utah Jazz",
@@ -202,15 +202,15 @@
         },
         "venue": "Delta Center",
         "platforms": [],
-        "home_score": null,
-        "away_score": null,
+        "home_score": 107,
+        "away_score": 120,
         "sport": "nba"
       },
       {
         "game_pk": 401909335,
         "game_date": "2026-11-28",
         "game_time_utc": "2026-11-28T02:30Z",
-        "status": "Scheduled",
+        "status": "Final",
         "home_team": {
           "id": 12,
           "name": "LA Clippers",
@@ -223,15 +223,15 @@
         },
         "venue": "Intuit Dome",
         "platforms": [],
-        "home_score": null,
-        "away_score": null,
+        "home_score": 104,
+        "away_score": 105,
         "sport": "nba"
       },
       {
         "game_pk": 401909336,
         "game_date": "2026-11-28",
         "game_time_utc": "2026-11-28T02:30Z",
-        "status": "Scheduled",
+        "status": "Final",
         "home_team": {
           "id": 22,
           "name": "Portland Trail Blazers",
@@ -244,8 +244,8 @@
         },
         "venue": "Moda Center",
         "platforms": [],
-        "home_score": null,
-        "away_score": null,
+        "home_score": 116,
+        "away_score": 94,
         "sport": "nba"
       }
     ],
@@ -1066,6 +1066,48 @@
         "sport": "nba"
       },
       {
+        "game_pk": 401910085,
+        "game_date": "2026-12-03",
+        "game_time_utc": "2026-12-03T01:00Z",
+        "status": "Scheduled",
+        "home_team": {
+          "id": 1,
+          "name": "Atlanta Hawks",
+          "abbreviation": "ATL"
+        },
+        "away_team": {
+          "id": 11,
+          "name": "Indiana Pacers",
+          "abbreviation": "IND"
+        },
+        "venue": "State Farm Arena",
+        "platforms": [],
+        "home_score": null,
+        "away_score": null,
+        "sport": "nba"
+      },
+      {
+        "game_pk": 401910088,
+        "game_date": "2026-12-03",
+        "game_time_utc": "2026-12-03T01:00Z",
+        "status": "Scheduled",
+        "home_team": {
+          "id": 24,
+          "name": "San Antonio Spurs",
+          "abbreviation": "SA"
+        },
+        "away_team": {
+          "id": 28,
+          "name": "Toronto Raptors",
+          "abbreviation": "TOR"
+        },
+        "venue": "Frost Bank Center",
+        "platforms": [],
+        "home_score": null,
+        "away_score": null,
+        "sport": "nba"
+      },
+      {
         "game_pk": 401910083,
         "game_date": "2026-12-03",
         "game_time_utc": "2026-12-03T02:00Z",
@@ -1116,27 +1158,6 @@
     ],
     "2026-12-03": [
       {
-        "game_pk": 401910085,
-        "game_date": "2026-12-04",
-        "game_time_utc": "2026-12-04T00:00Z",
-        "status": "Scheduled",
-        "home_team": {
-          "id": 1,
-          "name": "Atlanta Hawks",
-          "abbreviation": "ATL"
-        },
-        "away_team": {
-          "id": 11,
-          "name": "Indiana Pacers",
-          "abbreviation": "IND"
-        },
-        "venue": "State Farm Arena",
-        "platforms": [],
-        "home_score": null,
-        "away_score": null,
-        "sport": "nba"
-      },
-      {
         "game_pk": 401910086,
         "game_date": "2026-12-04",
         "game_time_utc": "2026-12-04T00:30Z",
@@ -1185,27 +1206,6 @@
         "sport": "nba"
       },
       {
-        "game_pk": 401910088,
-        "game_date": "2026-12-04",
-        "game_time_utc": "2026-12-04T01:00Z",
-        "status": "Scheduled",
-        "home_team": {
-          "id": 24,
-          "name": "San Antonio Spurs",
-          "abbreviation": "SA"
-        },
-        "away_team": {
-          "id": 28,
-          "name": "Toronto Raptors",
-          "abbreviation": "TOR"
-        },
-        "venue": "Frost Bank Center",
-        "platforms": [],
-        "home_score": null,
-        "away_score": null,
-        "sport": "nba"
-      },
-      {
         "game_pk": 401910089,
         "game_date": "2026-12-04",
         "game_time_utc": "2026-12-04T03:00Z",
@@ -1222,6 +1222,62 @@
         },
         "venue": "Moda Center",
         "platforms": [],
+        "home_score": null,
+        "away_score": null,
+        "sport": "nba"
+      }
+    ],
+    "2026-12-04": [
+      {
+        "game_pk": 401909450,
+        "game_date": "2026-12-05",
+        "game_time_utc": "2026-12-05T00:00Z",
+        "status": "Scheduled",
+        "home_team": {
+          "id": 1,
+          "name": "Atlanta Hawks",
+          "abbreviation": "ATL"
+        },
+        "away_team": {
+          "id": 20,
+          "name": "Philadelphia 76ers",
+          "abbreviation": "PHI"
+        },
+        "venue": "State Farm Arena",
+        "platforms": [
+          {
+            "label": "Prime Video",
+            "color": "#00A8E0",
+            "url": "https://www.amazon.com/primevideo"
+          }
+        ],
+        "home_score": null,
+        "away_score": null,
+        "sport": "nba"
+      },
+      {
+        "game_pk": 401909451,
+        "game_date": "2026-12-05",
+        "game_time_utc": "2026-12-05T02:30Z",
+        "status": "Scheduled",
+        "home_team": {
+          "id": 6,
+          "name": "Dallas Mavericks",
+          "abbreviation": "DAL"
+        },
+        "away_team": {
+          "id": 24,
+          "name": "San Antonio Spurs",
+          "abbreviation": "SA"
+        },
+        "venue": "American Airlines Center",
+        "platforms": [
+          {
+            "label": "Prime Video",
+            "color": "#00A8E0",
+            "url": "https://www.amazon.com/primevideo"
+          }
+        ],
         "home_score": null,
         "away_score": null,
         "sport": "nba"

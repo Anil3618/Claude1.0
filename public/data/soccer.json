@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-27",
+  "generated_at": "2026-11-28",
   "sport": "soccer",
   "label": "MLS",
   "game_count": 16,
@@ -9,7 +9,7 @@
         "game_pk": 401933727,
         "game_date": "2026-11-28",
         "game_time_utc": "2026-11-28T01:00Z",
-        "status": "Scheduled",
+        "status": "Full Time",
         "home_team": {
           "id": 183,
           "name": "Columbus Crew",
@@ -33,15 +33,15 @@
             "url": "https://tv.apple.com/"
           }
         ],
-        "home_score": null,
-        "away_score": null,
+        "home_score": 1,
+        "away_score": 0,
         "sport": "soccer"
       },
       {
         "game_pk": 401933725,
         "game_date": "2026-11-28",
         "game_time_utc": "2026-11-28T03:00Z",
-        "status": "Scheduled",
+        "status": "Full Time",
         "home_team": {
           "id": 4771,
           "name": "Real Salt Lake",
@@ -65,8 +65,8 @@
             "url": "https://tv.apple.com/"
           }
         ],
-        "home_score": null,
-        "away_score": null,
+        "home_score": 0,
+        "away_score": 1,
         "sport": "soccer"
       }
     ],
@@ -271,7 +271,7 @@
         "game_pk": 401933720,
         "game_date": "2026-12-03",
         "game_time_utc": "2026-12-03T00:30Z",
-        "status": "Scheduled",
+        "status": "Canceled",
         "home_team": {
           "id": 20232,
           "name": "Inter Miami CF",
@@ -406,7 +406,7 @@
         "game_pk": 401933717,
         "game_date": "2026-12-03",
         "game_time_utc": "2026-12-03T02:00Z",
-        "status": "Scheduled",
+        "status": "Canceled",
         "home_team": {
           "id": 9727,
           "name": "Vancouver Whitecaps",
